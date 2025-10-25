@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130692400403
+                                                            Branch - 3069 Mabalacat Great Mall( )
+                                                            Prepared by - LEONARDO B. GARCIA on 12/24/2024
+                                                            Issued by - ________________________________
+                                                                         LEONOR S. BULANADI
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009222   15  Ladys C Bcon Sprd 220mL     24 01/01/25 F        122.60  1839.00
+                                              234112      
+ 1010200   17  Ladys C Tuna Sprd 220mL     24 01/29/25 E        122.60  2084.20
+                                              1240563     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,923.20
+                                                       Rundate 12/24/2024  14:43:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

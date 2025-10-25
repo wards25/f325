@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103562400034
+                                                            Branch - 356 Pasig City Meralco Comm'l Strip(PASIG MERALCO COMM'L STRIP )
+                                                            Prepared by - JOHN DONATO on 01/05/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MELIRINE DELA ROSA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24          D         28.00    28.00
+                                              .           
+ 1104077    5  Del M Mr Milk GrApl 100mLx6 16 02/14/24 E         46.32   231.60
+                                              .           
+ 1104078    4  Del M Mr Milk Mango 100mLx6 16 02/26/24 E         46.32   185.28
+                                              .           
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240          D          7.01     7.01
+                                              .           
+ 3723550    1  Mighty Mom DLiqLem500mLB1T1 12          D         92.65    92.65
+                                              .           
+ 3723576    1  Naturelab FragBMistLLem100mL 6          D        111.75   111.75
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          656.29
+                                                       Rundate 01/05/2024  17:03:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

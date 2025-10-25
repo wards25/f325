@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104732401235
+                                                            Branch - 473 Muntinlupa City Poblacion Nat'l Hway(MUNTINLUPA CITY POBLACION NATL HIGHWAY)
+                                                            Prepared by - haira on 07/24/2024
+                                                            Issued by - ________________________________
+                                                                         BALTAZAR M. AQUINO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24 04/01/26 D         28.00    28.00
+                                              L4117YYJVL34
+ 1103591    1  Del M Pine Jce Fiber 220mL  24 02/01/26 D         30.80    30.80
+                                              L4156YYJFL93
+ 3723286    3  Ding Dong Sup Mxd Nuts 100g 60 01/03/25 D         20.16    60.48
+                                              a5a3a       
+ 4510195    1  Nachitos TortillaChipBbq410g10 12/07/24 E        108.80   108.80
+                                              a11         
+ 4510204    5  Barrio F PBut Crmy&Nutty227g12 08/16/24 E         88.92   444.60
+                                              230817007   
+ 4510206    8  Barrio F PBut Crmy&Swt 227g 12 08/15/24 E         88.92   711.36
+                                              230816006   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,384.04
+                                                       Rundate 07/24/2024  15:20:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711972500127
+                                                            Branch - 1197 Bulacan Pulilan Poblacion(PULILAN POBLACION )
+                                                            Prepared by - BRENDALYN R. DEL ROSARIO on 05/13/2025
+                                                            Issued by - ________________________________
+                                                                         MS LORNA L. AGUSTIN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025099   34  Nestle KKrunch 35g          72 05/18/25 E         16.36   556.24
+                                              41390630B1  
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         13.32    13.32
+                                              1           
+ 4530026    1  Nescafe Original SF TPck23g100          D         13.21    13.21
+                                              1           
+ 4530041   25  Nestle Trix Bfast Cer 20g  120 05/10/25 E         13.64   341.00
+                                              41660631CE  
+ 4530043    7  Nestle Trix Bfast Cer 160g  18 05/10/25 E        111.82   782.74
+                                              41660631    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,706.51
+                                                       Rundate 05/13/2025  14:42:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

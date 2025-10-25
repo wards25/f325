@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120492400238
+                                                            Branch - 2049 NEG OCC VICS C ACLN(2049 VICTORIAS ASCALON BRANCH )
+                                                            Prepared by - 8TELLA MICA DOHAYLO on 03/19/2024
+                                                            Issued by - ________________________________
+                                                                         JOHN CARLO V ESPIRITU
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    8  Ding Dong Sup Mxd Nuts 100g 60 07/04/24 D         20.16   161.28
+                                              A4 A2A      
+ 3723374    2  Ding Dong Snck Mx Chip&C95g 60 06/11/24 D         20.16    40.32
+                                              B8 A2B      
+ 3723389    6  Energen Mlk&Cer Dr Vnla 40g240 07/10/24 D          7.01    42.06
+                                              28TC        
+ 3723390    5  Energen Mlk&Cer Dr Choc 40g240 09/18/24 D          7.01    35.05
+                                              20628       
+ 4136008    2  Kopiko Cappuccino Coff 25g 240 11/17/24 D          6.16    12.32
+                                              37TGR1705020
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 09/22/24 D          6.83     6.83
+                                              1706TG220304
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          297.86
+                                                       Rundate 03/19/2024  17:50:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

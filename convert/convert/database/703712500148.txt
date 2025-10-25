@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703712500148
+                                                            Branch - 371 PC LBRTY COMML COMPLX( 117169-117170)
+                                                            Prepared by - PAUL MODANCIA on 05/06/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MAE T.GALVEZ-BALAWANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1149115    6  WhiteKing HotCake&WafMix400g24 05/10/25 E         53.53   321.18
+                                              .           
+ 3615299    2  San Mig Coff 3N1 Orig 20g  240          D          6.19    12.38
+                                              .           
+ 3723626    3  Kopiko Brown TwnPckCoff 53g120          D         11.26    33.78
+                                              .           
+ 3856660    8  Locally Calamnsi Jce Dr240mL24 05/16/25 E         25.08   200.64
+                                              .           
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24          D         22.13    22.13
+                                              .           
+ 4510153    1  Rite'n Lite Lych+Rse Dr250mL24          D         22.13    22.13
+                                              .           
+ 4510206    4  Barrio F PBut Crmy&Swt 227g 12 05/10/25 E         88.92   355.68
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          967.92
+                                                       Rundate 05/06/2025  10:58:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092400891
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 08/22/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12 12/20/24 D         96.26    96.26
+                                              0           
+ 3748416    1  Bear Br Strlzedw/Gnsg 200mL 32 12/20/24 D         25.23    25.23
+                                              0           
+ 3760009    1  Nido NutriSnaxBnna-Crot110mL60 11/30/24 D         17.76    17.76
+                                              0           
+ 4025052    3  Nestle Coffeemate 150g      60 08/31/25 D         44.78   134.34
+                                              0           
+ 4025097    1  Nestle Chuckie Cal-N 110mL  60 11/30/24 D         13.46    13.46
+                                              0           
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 04/30/25 D         11.80    11.80
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          298.85
+                                                       Rundate 08/22/2024  13:46:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

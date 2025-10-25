@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701832500213
+                                                            Branch - 183 DAS AGUI HWY(DASMA AGUINALDO HWAY DIST 30)
+                                                            Prepared by - Ms. Cristel Joy D. A¤onuevo on 04/12/2025
+                                                            Issued by - ________________________________
+                                                                         Ms.Geraldine M. Villas
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039293    1  Breeze Pdr Det ActvBlch 66g144          D         12.64    12.64
+                                              .           
+ 3870131    1  Dove Sh BK Strgt&Slky 10mL 288          D          5.68     5.68
+                                              .           
+ 3870364    1  Dove Cond 1Min BKStrSlk10mL288          D          6.22     6.22
+                                              .           
+ 3870382    1  Creamsilk CondLong&Lusc170mL24          D        128.33   128.33
+                                              .           
+ 3980082    4  Dove Deo Stk Ultmte Wh 40g  12 04/30/25 E        212.91   851.64
+                                              .           
+ 3980322    1  Rexona Wmen Deo-L PdrDry3mL360          D          6.47     6.47
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,010.98
+                                                       Rundate 04/12/2025  14:56:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

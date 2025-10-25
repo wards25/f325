@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101462401204
+                                                            Branch - 146 Manila Gagalangin Juan Luna(2668 JUAN LUNA ST. GAGALANGIN TONDO,MANILA)
+                                                            Prepared by - IRENE V. MERCULIO on 07/26/2024
+                                                            Issued by - ________________________________
+                                                                         MR. RONALDO C.GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 07/12/24 E         91.92    91.92
+                                              JA0         
+ 3465865    2  Magnol Choc Mlk Dr 1L       12 05/22/24 E         98.84   197.68
+                                              G101A       
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24          D         20.25    20.25
+                                              NOLOT       
+ 3856636   14  Datu Puti Soy Sce Pet 385mL 24 08/13/24 E         19.95   279.30
+                                              1022226     
+ 4096032    1  Del M Tidbits Pine 227g     24 12/01/25 D         32.66    32.66
+                                              HESP        
+ 4100002    1  Kettle Korn Cheese 120g     30 12/07/24 D         36.25    36.25
+                                              M1          
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 11/16/24 D         36.25    36.25
+                                              M3          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          694.31
+                                                       Rundate 07/26/2024  14:43:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

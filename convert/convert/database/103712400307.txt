@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103712400307
+                                                            Branch - 371 PC LBRTY COMML COMPLX(371 PASAY LIBERTY 805536)
+                                                            Prepared by - PAUL MODANCIA on 03/25/2024
+                                                            Issued by - ________________________________
+                                                                         MR. JEFFREY D. CASTRO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    1  Lipton Tea Yel Label 50     12          D        206.33   206.33
+                                              .           
+ 3207792    1  Lipton Yel Label Tea 25'    24          D        113.56   113.56
+                                              .           
+ 3623286    3  Pfanner Ap Cider Vngar 1L   12 04/05/24 E        161.10   483.30
+                                              .           
+ 3856631    3  Datu Puti Wh Vin 350mL      24 03/28/24 E         15.44    46.32
+                                              .           
+ 4180020    3  Mega Tuna Flks In Oil 155g  50 03/23/24 E         35.10   105.30
+                                              .           
+ 4510068    1  Axion DLiq Kal 250mL 50% 2nd20          D         98.79    98.79
+                                              .           
+ 4510111    5  Mega Sard In TS Chili 155g  10          D         21.83   109.15
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,162.75
+                                                       Rundate 03/25/2024  12:52:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

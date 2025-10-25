@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701782500287
+                                                            Branch - 178 Manila Malate San Andres(660 San Andres St. Malate Mla )
+                                                            Prepared by - Gleza M. Flores on 05/07/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Marsha Y. Tampes
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.92     2.92
+                                              .           
+ 1167538   11  Nestle Coffeemate 5g       960          D          1.89    20.79
+                                              .           
+ 3760009    1  Nido NutriSnaxBnna-Crot110mL60          D         17.76    17.76
+                                              .           
+ 4025099    1  Nestle KKrunch 35g          72          D         16.36    16.36
+                                              .           
+ 4025114    1  Nescafe Gold Blend 50g      12          D        146.02   146.02
+                                              .           
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200          D         13.32    26.64
+                                              .           
+ 4530028    2  Nestle Chuckie STB 110mL 6s 10          D         77.57   155.14
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          385.63
+                                                       Rundate 05/07/2025  16:02:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

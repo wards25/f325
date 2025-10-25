@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104902400540
+                                                            Branch - 490 Manila Sta. Mesa P. Sanchez( )
+                                                            Prepared by - Jonnabell Lazaro on 08/15/2024
+                                                            Issued by - ________________________________
+                                                                         Cherrie Del Mundo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24 05/01/26 D         28.70    28.70
+                                              L4123YYJVL54
+ 1103591    1  Del M Pine Jce Fiber 220mL  24 01/01/26 D         31.13    31.13
+                                              L4130YYJFL62
+ 1104115    3  Del M Vinamilk Ygrt Sb 110mL48 09/19/24 E         11.07    33.21
+                                              201123      
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12 03/01/26 D         44.25    44.25
+                                              0301240017  
+ 4103101    7  Del M SpagFilStylPrtyPckSP42 8 10/18/24 E        133.46   934.22
+                                              32911N      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,071.51
+                                                       Rundate 08/15/2024  13:43:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

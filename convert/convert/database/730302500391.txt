@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730302500391
+                                                            Branch - 3030 LU NAGLN ORZ(Ortiz,Naguilian, La Union )
+                                                            Prepared by - RENCY E. OCASION on 07/10/2025
+                                                            Issued by - ________________________________
+                                                                         MARLO J. GAONA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530051    8  Nescafe Ice Blk Can 220mL   24 07/25/25 E         34.62   276.96
+                                              *           
+ 4530053    7  Nescafe Mocha Can 220mL     24 07/24/25 E         34.62   242.34
+                                              *           
+ 4530055    8  Bonina Maternal Mlk Vnla350g18 10/31/25 E        303.74  2429.92
+                                              *           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,949.22
+                                                       Rundate 07/10/2025  15:27:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

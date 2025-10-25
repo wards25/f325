@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730322500250
+                                                            Branch - 3032 ISAB RXS XTRO MALL(RIZAL,ROXAS,ISABELA )
+                                                            Prepared by - MARY ANN P HERMOSA on 10/10/2025
+                                                            Issued by - ________________________________
+                                                                         JEANIFER B.SUMAIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3382351    2  Novellino Sprklng Red 750mL 12 06/30/24 F        200.00   400.00
+                                              62224048    
+ 3413866    6  Nagaraya Crkr Nut Gar 80g   60 09/14/25 F         20.54   123.24
+                                              24893       
+ 3413869    4  Nagaraya Crkr Nut Gar 160g  48 09/14/25 F         41.27   165.08
+                                              24893       
+ 4100002    9  Kettle Korn Cheese 120g     30 10/23/25 E         42.93   386.37
+                                              M3          
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 10/02/25 F         42.93    42.93
+                                              MLM3        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,117.62
+                                                       Rundate 10/10/2025  10:53:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

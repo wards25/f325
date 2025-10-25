@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012500835
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 08/30/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12          D        106.43   106.43
+                                              xxx         
+ 4025177    1  Nescafe Original 20g       520          D          7.37     7.37
+                                              xxx         
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          113.80
+                                                       Rundate 08/30/2025  07:48:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720332500235
+                                                            Branch - 2033 Davao City Bucana(RLG. Bldg. Candelaria St. )
+                                                            Prepared by - G.D. JAO on 08/25/2025
+                                                            Issued by - ________________________________
+                                                                         EVA BESA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025099    1  Nestle KKrunch 35g          72 11/30/25 D         16.36    16.36
+                                              000         
+ 4530041    1  Nestle Trix Bfast Cer 20g  120 01/30/26 D         13.64    13.64
+                                              000         
+ 4530059   97  Milo Activ-Go PdrZeroSgr26g140 08/31/25 E         14.68  1423.96
+                                              000         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,453.96
+                                                       Rundate 08/25/2025  19:21:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

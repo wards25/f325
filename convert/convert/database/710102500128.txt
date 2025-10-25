@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710102500128
+                                                            Branch - 1010 Valenzuela City Karuhatan Gen. T. De Leon(1010 VAL.KARUHATAN GTDL )
+                                                            Prepared by - MS.DOLLY O. TUGAY DISTRICT 7 on 05/07/2025
+                                                            Issued by - ________________________________
+                                                                         MS.CHRISTINE C. BUNAO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          I         11.26    11.26
+                                              1           
+ 3723685    2  Rebisco Hansel Crackers 32g 10          I          5.97    11.94
+                                              c28         
+ 3723705    2  Kopiko Blck 3n1 Coff28g TP 120          I         11.26    22.52
+                                              0052        
+ 3856636    3  Datu Puti Soy Sce Pet 385mL 24          I         19.95    59.85
+                                              711         
+ 3856662    9  Locally Tamarind Jce Dr240mL24          I         20.88   187.92
+                                              23l19551527 
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240          I          6.80     6.80
+                                              1353        
+ 4510150    3  Entrasol PltnmAdPdrVnlCan800g3 07/20/25 E       1280.00  3840.00
+                                              h1          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,140.29
+                                                       Rundate 05/07/2025  12:54:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     I-Loose Tablet Items (Factory Defect)

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111092400469
+                                                            Branch - 1109 VALENZUELA TOWN CENTER( )
+                                                            Prepared by - ZAIDE S. MOLINA on 04/06/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MARIAN L. GABRIEL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103177    1  Del M Four Sson Swtnd 220mL 24 06/01/25 D         28.00    28.00
+                                              SB1YY       
+ 1147308    7  Sunkist Frt Dr Or 235mL     24 04/13/24 E         19.03   133.21
+                                              F1VITO      
+ 3856627    5  Datu Puti Patis 350mL       24 05/03/24 E         23.04   115.20
+                                              CBO         
+ 3856629    7  Datu Puti Soy Sce 340mL     24 04/22/24 E         17.10   119.70
+                                              CBO         
+ 3856633    5  Mang Tomas Lchon Sce 325g   24 05/07/24 E         33.25   166.25
+                                              23HIIM060   
+ 3856643   10  UFC Sweet Chili Sce 340g    24 04/11/24 E         35.86   358.60
+                                              CBD         
+ 4103090    5  Del M Spag Sce Swt Style900g12 05/22/24 E         91.93   459.65
+                                              3022INP10   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,380.61
+                                                       Rundate 04/06/2024  17:23:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706422500173
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN A. ANGULO on 07/08/2025
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3780422    1  Diabetasol Swtnr 75g         3 02/12/25 F        159.20   159.20
+                                              23S12J12F2  
+ 3780427    1  Diabetasol Cappuccino 600g   3 04/18/25 F        883.20   883.20
+                                              0           
+ 3856643    1  UFC Sweet Chili Sce 340g    24 07/25/25 E         37.76    37.76
+                                              0           
+ 3856650    5  Mang Tomas Hot&Spcy 325g    24 07/15/25 E         34.20   171.00
+                                              0           
+ 4110019   25  Choco Mucho Wh Choc 30g     10 07/17/25 E          9.30   232.50
+                                              A8M         
+ 4110036   23  VitaCubes Frt Jelly Cdy 50g 10 07/11/25 E         18.00   414.00
+                                              BJ3         
+ 4510220    1  Diabetasol Crmy Almnd 180g   3 06/13/25 F        328.00   328.00
+                                              23W1301IU   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,225.66
+                                                       Rundate 07/08/2025  10:01:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120232400189
+                                                            Branch - 2023 Davao Mintal(Nat'l Hway Mintal, Davao City Y)
+                                                            Prepared by - g.g. delarmente on 02/21/2024
+                                                            Issued by - ________________________________
+                                                                         MS. Juvynia M. Mejes
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    1  Royal Spaghetti 900g        18 07/05/24 D         97.00    97.00
+                                              000         
+ 1102996    1  Del M Elbow Macaroni 400g   25 12/07/24 D         69.02    69.02
+                                              000         
+ 3900003    1  Diabetasol Choc 360g         3 02/15/24 E        609.20   609.20
+                                              000         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          775.22
+                                                       Rundate 02/21/2024  18:31:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

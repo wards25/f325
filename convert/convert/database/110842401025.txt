@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110842401025
+                                                            Branch - 1084 RZL CTA Q PZ PROM(QPLAZA PROMENADE CAINTA RZL )
+                                                            Prepared by - Jinky D6 on 10/11/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MINA ROSE B. AMBROSIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048746    1  Suncoast Lgt Wat 650mL      24          D         18.00    18.00
+                                              L11         
+ 3207792    9  Lipton Yel Label Tea 25'    24 11/08/24 E        124.34  1119.06
+                                              .           
+ 3465890    1  Magnol Full Crm Mlk 1L      12          D         91.47    91.47
+                                              40320G101A  
+ 3723390   92  Energen Mlk&Cer Dr Choc 40g240 10/31/24 E          7.01   644.92
+                                              0451TGR     
+ 3723671    2  Solbac Surf Disinf Spr 500mL 6 11/01/24 E        250.40   500.80
+                                              05111121    
+ 4095038   21  Seoul Wh K Cr Inst WhTneUp3g20 12/01/24 E         16.00   336.00
+                                              KM1         
+ 4110019    2  Choco Mucho Wh Choc 30g     10 10/21/24 E          9.30    18.60
+                                              B2M         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,728.85
+                                                       Rundate 10/11/2024  15:00:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

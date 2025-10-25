@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730712500008
+                                                            Branch - 3071 Pangasinan Binalonan Town Center( )
+                                                            Prepared by - ANA MARIE O. FERNANDEZ on 01/07/2025
+                                                            Issued by - ________________________________
+                                                                         BERLEEN B. ROXAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3382351   10  Novellino Sprklng Red 750mL 12 12/24/24 F        200.00  2000.00
+                                              L22711413   
+ 3723398    2  Entrasol Pltnm Ad PdrChoc600g3 01/08/25 E        906.80  1813.60
+                                              23105005GU  
+ 3723402    3  Entrasol Pltnm Ad PdrVnla600g3 01/12/25 E        906.80  2720.40
+                                              23S1204020  
+ 4136008   28  Kopiko Cappuccino Coff 25g 240 01/14/25 E          7.40   207.20
+                                              2050TGR     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,741.20
+                                                       Rundate 01/07/2025  15:23:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

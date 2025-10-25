@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705422500036
+                                                            Branch - 542 San Jose Cooper(SAN JOSE COOPER OCCIDENTAL MINDORO)
+                                                            Prepared by - MARYGIE M. TAPANG on 01/30/2025
+                                                            Issued by - ________________________________
+                                                                         LEAN C. DIMAPILIS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    6  Selecta Forti Mlk LowFat 1L 12 01/09/25 F         91.92   551.52
+                                              01B5DA0     
+ 3723586    2  Royal Spag R&T Swt1.6kgSP49 10 01/26/25 F        121.94   243.88
+                                              28039260923 
+ 3723590    3  Royal Cheesy R&T 1.6kg SP49 10 01/16/25 F        121.94   365.82
+                                              505B        
+ 3723648    1  Selecta Dolce LFat Choc 1L  12 01/05/25 F         85.96    85.96
+                                              49E5DP1     
+ 3723670    3  Solbac Disinf Spr LavMist300g6 06/30/24 F        199.36   598.08
+                                              36060121    
+ 3723671    3  Solbac Surf Disinf Spr 500mL 6 01/31/25 E        250.40   751.20
+                                              04012822    
+ 4100011    3  Kettle Korn Astd 120gx2SP10 16 01/25/25 F         62.43   187.29
+                                              MLM3        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,783.75
+                                                       Rundate 01/30/2025  11:45:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

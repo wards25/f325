@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104482400094
+                                                            Branch - 448 Baler Quezon(BALER AURORA)
+                                                            Prepared by - EVANGELYN G. VERA on 04/20/2024
+                                                            Issued by - ________________________________
+                                                                         MA. CLAUDENE S. GOMEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104083    4  Del M Pine JceACE220mLx6SP10 4 02/01/24 F        158.66   634.64
+                                              x           
+ 3723284    1  Fudgee Barr Choc Blst       10 06/24/24 D          8.01     8.01
+                                              x           
+ 3723285    1  Fudgee Barr Mlky Crze       10 01/28/24 F          8.10     8.10
+                                              x           
+ 3723372    3  Golden Cup Oil Liniment 7mL 12 02/09/24 F         77.25   231.75
+                                              GO64-0063   
+ 3723626    2  Kopiko Brown TwnPckCoff 53g120 05/16/24 D         10.63    21.26
+                                              x           
+ 3723648    9  Selecta Dolce LFat Choc 1L  12 05/06/24 E         85.96   773.64
+                                              x           
+ 4136024    1  Kopiko Blanca Coff 30g     240 06/23/24 D          6.80     6.80
+                                              x           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,684.20
+                                                       Rundate 04/20/2024  11:25:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

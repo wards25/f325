@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107382400217
+                                                            Branch - 738 Davao City Sasa(AGUSAN ROAD CO. DO¥A PILAR ST SASA DAVAO CITY)
+                                                            Prepared by - marlon b. larasan on 03/10/2024
+                                                            Issued by - ________________________________
+                                                                         LEAH V COSTAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    3  Royal Spaghetti 900g        18 08/22/24 D         97.00   291.00
+                                              C0822       
+ 1147300    5  Sunkist Frt Dr Ap 235mL     24 03/28/24 E         19.03    95.15
+                                              NO LOT      
+ 1148938   11  Selecta Forti MlkLowFat245mL24 03/07/24 E         34.23   376.53
+                                              RE0         
+ 3623297    4  Pfanner Plum/Prune Jce 1L    8 02/20/24 E        125.10   500.40
+                                              00924       
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              NO LOT      
+ 3780447   14  Fitbar Fruits 22g           12 03/09/24 E         27.00   378.00
+                                              NO LOT      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,652.30
+                                                       Rundate 03/10/2024  19:55:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

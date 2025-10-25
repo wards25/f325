@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703752500381
+                                                            Branch - 375 CALUMPIT ST. PETER COMMERCIAL CENTER(CALUMPIT )
+                                                            Prepared by - Dolly T. Tanallon on 09/02/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Vanessa T. Rodriguez
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3348440    8  Spam Lchmeat Tocino 340g    12 09/09/25 E        251.42  2011.36
+                                              0090927     
+ 3465890    6  Magnol Full Crm Mlk 1L      12 09/16/25 E         92.39   554.34
+                                              50119650201a
+ 3723687    1  RC Cola 1.5L                 6 09/02/25 E         47.25    47.25
+                                              nl          
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 09/04/25 E         80.88    80.88
+                                              4708ae0     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,693.83
+                                                       Rundate 09/02/2025  17:04:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

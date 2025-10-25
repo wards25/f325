@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102132400012
+                                                            Branch - 213 Bacoor City Aniban(ANIBAN BACOOR CITY CAVITE )
+                                                            Prepared by - ADRIAN J. NOPRE BAA-29 on 01/08/2024
+                                                            Issued by - ________________________________
+                                                                         MS. ARNILA F. ALEGRE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103591    1  Del M Pine Jce Fiber 220mL  24 04/01/25 D         30.80    30.80
+                                              L3235YYJFL62
+ 1104083    3  Del M Pine JceACE220mLx6SP10 4 02/08/24 E        158.66   475.98
+                                              L3059YYJVNL7
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          506.78
+                                                       Rundate 01/08/2024  13:47:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

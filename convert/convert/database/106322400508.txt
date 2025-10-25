@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106322400508
+                                                            Branch - 632 Tayug Quezon( )
+                                                            Prepared by - METCH V. SUNICO on 07/22/2024
+                                                            Issued by - ________________________________
+                                                                         LIZA B DOLLENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3623292    2  Musli Oat Bisc Hzlnut 60g   24 10/31/24 D         31.50    63.00
+                                              1527        
+ 3723282    2  Cupp Keyk Choc Mcha         10 09/16/24 D          6.80    13.60
+                                              1414        
+ 3723284    9  Fudgee Barr Choc Blst       10          D          8.01    72.09
+                                              8787        
+ 3723286   11  Ding Dong Sup Mxd Nuts 100g 60 09/25/24 D         20.16   221.76
+                                              A7B         
+ 3723374    7  Ding Dong Snck Mx Chip&C95g 60 08/26/24 D         20.16   141.12
+                                              B2A5A       
+ 3723375    3  Happy Pnut W/RealGarChip100g24 08/22/24 D         30.60    91.80
+                                              A7B         
+ 3723393    9  Keratin Plus Hr Trtmnt 20g 288 08/30/24 E          6.00    54.00
+                                              21886       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          657.37
+                                                       Rundate 07/22/2024  13:32:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

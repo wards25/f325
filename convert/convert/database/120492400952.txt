@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120492400952
+                                                            Branch - 2049 NEG OCC VICS C ACLN(2049 VICTORIAS ASCALON BRANCH )
+                                                            Prepared by - PATRICIA INES A. VILLANUEVA on 12/29/2024
+                                                            Issued by - ________________________________
+                                                                         JOHN CARLO V ESPIRITU
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016288    1  555 Tuna Flakes VegOil 155g 50 03/17/27 D         29.68    29.68
+                                              cfosh       
+ 1016294    4  555 Tuna Flakes Hot&Sp 155g 50 03/24/26 D         30.18   120.72
+                                              mk          
+ 1210485    1  Argentina CBeef 100g        48 06/27/26 D         25.24    25.24
+                                              ac6         
+ 3048425    1  555 Mackerel TS 155g       100 04/01/25 D         27.98    27.98
+                                              7b0l0       
+ 3048435   10  555 Sardine Frd W/Tau 155g 100 03/13/25 D         31.83   318.30
+                                              cfstad      
+ 3793337    1  Argentina CChckn Spcy 150g  48 06/13/26 D         32.86    32.86
+                                              akh         
+ 3793349    1  555 Tuna Spcy Paksiw 155g   50 05/27/25 D         26.68    26.68
+                                              5th         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          581.46
+                                                       Rundate 12/29/2024  20:12:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

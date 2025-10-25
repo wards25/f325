@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730492500108
+                                                            Branch - 3049 N. ECIJA TALAVERA WALTERMART(TALAVERA WALTERMART TALAVERA NUEVA ECIJA)
+                                                            Prepared by - MELVIN R. BUIZON on 04/22/2025
+                                                            Issued by - ________________________________
+                                                                         JOANNE KAROL H. VILLAJUAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413870    7  Nagaraya Crkr Nut Orig 160g 48 09/13/25 D         41.27   288.89
+                                              24892D      
+ 4100002    9  Kettle Korn Cheese 120g     30 06/05/25 D         39.74   357.66
+                                              MLMD        
+ 4100011    5  Kettle Korn Astd 120gx2SP10 16 04/28/25 E         62.43   312.15
+                                              MLM1        
+ 4136010    3  Kopiko Blck 3-N-1 Coff 30g 240 10/02/25 D          6.80    20.40
+                                              0204040007  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          979.10
+                                                       Rundate 04/22/2025  12:46:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

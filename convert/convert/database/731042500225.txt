@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 731042500225
+                                                            Branch - 3104 Naga City Concepcion Grande(NAGA CONCEPCION GRANDE )
+                                                            Prepared by - JACKILYN A. RUMBO on 10/11/2025
+                                                            Issued by - ________________________________
+                                                                         NELSON S. SALAMERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465855    1  Magnol Pure Frsh Mlk 1L     12 10/24/25 F         96.08    96.08
+                                              .           
+ 3465859    3  Magnol Low Fat Mlk 1L       12 10/14/25 F        100.69   302.07
+                                              .           
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 07/07/25 F         22.28    22.28
+                                              .           
+ 3723742   10  Malkist Crkr Bbq 28g       120 07/17/25 F          5.36    53.60
+                                              .           
+ 3723744    8  Malkist Crkr Swt Glzd 28g  120 07/22/25 F          5.36    42.88
+                                              .           
+ 3856638    1  Datu Puti Wh Vngar Pet 385mL24 09/17/25 F         17.34    17.34
+                                              .           
+ 3973055    2  Selecta Farm Frsh Mlk 1L    12 10/08/25 F         93.30   186.60
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          720.85
+                                                       Rundate 10/11/2025  16:00:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

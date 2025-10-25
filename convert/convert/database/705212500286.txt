@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705212500286
+                                                            Branch - 521 Sto. Tomas Maharlika Hway(STO TOMAS )
+                                                            Prepared by - C.D. ABELLERA on 09/04/2025
+                                                            Issued by - ________________________________
+                                                                         MRS.MARIA BUENA M. MARALIT
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60 08/31/25 F         17.76    17.76
+                                              42480189cd  
+ 4530000   17  Starbucks Latte DShtEsp220mL24 08/02/25 F         76.00  1292.00
+                                              42169449h3  
+ 4530059    1  Milo Activ-Go PdrZeroSgr26g140 01/31/26 D         14.68    14.68
+                                              a           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,324.44
+                                                       Rundate 09/04/2025  10:14:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

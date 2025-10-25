@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700622500346
+                                                            Branch - 62 San Pedro - Mabini(San Pedro Mabini @D22)
+                                                            Prepared by - Loriza Lazaro on 09/06/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Maria Elizabeth S. Gana
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    1  Surf FabCond Bl FrshSac25mL360          D          5.19     5.19
+                                              .           
+ 3870319    1  Creamsilk Cond TKR UStr170mL24          D        180.22   180.22
+                                              .           
+ 3870364   12  Dove Cond 1Min BKStrSlk10mL288          D          6.37    76.44
+                                              .           
+ 3980322    1  Rexona Wmen Deo-L PdrDry3mL360          D          6.47     6.47
+                                              .           
+ 6200089    1  Surf Pdr Chrry Blssm65gB6G1 40          D         36.75    36.75
+                                              .           
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288          D          5.88     5.88
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          310.95
+                                                       Rundate 09/06/2025  14:49:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

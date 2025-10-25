@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101442400669
+                                                            Branch - 144 Cainta A. Bonifacio(69 A. BONI AVE., CTA, RZL )
+                                                            Prepared by - marlon enriquez on 08/05/2024
+                                                            Issued by - ________________________________
+                                                                         MR.CESAR DE GUZMAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104062    1  Del M Pine JceVitACE Tetra1L12          D         89.49    89.49
+                                              .           
+ 1165711   20  Magnol Chzee Sprd Pln 235g  24 08/28/24 E         84.05  1681.00
+                                              .           
+ 3723509    6  Oramed 0.1% 120mL           12 07/09/24 E        127.50   765.00
+                                              .           
+ 3856633    6  Mang Tomas Lchon Sce 325g   24          D         33.25   199.50
+                                              .           
+ 4110023    1  Rebisco Crackers 35g        10          D          5.87     5.87
+                                              .           
+ 4113068    4  Magnol All-Pur Crm Orig250mL24 08/29/24 D         58.81   235.24
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,976.10
+                                                       Rundate 08/05/2024  19:59:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

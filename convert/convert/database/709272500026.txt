@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709272500026
+                                                            Branch - 927 Gen. Santos City Acharon(GENSAN-ACHARON BOULEVARD GEN. SANTOS CITY)
+                                                            Prepared by - AIAN KRIS D. TOLEDO on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         MILANIE D. HERRADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009518   12  Royal Spaghetti 400g        35 11/12/24 E         58.67   704.04
+                                              25A         
+ 3723385    2  Rite'n Lite Lem Dr 250mL    24 01/09/25 E         20.25    40.50
+                                              SBT03622151 
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 10/06/24 E         20.25    20.25
+                                              SBT03621010 
+ 3856660    3  Locally Calamnsi Jce Dr240mL24 01/07/25 E         25.08    75.24
+                                              23JI5551952L
+ 3856663   16  Locally Gybano Jce Dr 240mL 24 01/10/25 E         25.08   401.28
+                                              2J18552030L 
+ 3900047    7  Fitbar Tiramisu Delight 22g 12 01/26/25 E         27.00   189.00
+                                              24N26141    
+ 4510151    2  Rite'n Lite Ccmber Dr250mL  24 01/05/25 D         20.25    40.50
+                                              SBT03621846 
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,470.81
+                                                       Rundate 01/14/2025  11:49:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

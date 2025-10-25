@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730032500301
+                                                            Branch - 3003 Tuguegarao City Buntun(TUGUEGARAO CITY BUNTUN )
+                                                            Prepared by - JOEL A IGNACIO on 09/24/2025
+                                                            Issued by - ________________________________
+                                                                         YOLANDITA BONROSTRO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465861    6  Magnol Choc Mlk Dr 110mL    36 06/11/25 D         12.37    74.22
+                                              0           
+ 3723343    1  Cal Cheese Chse Wfer 48g    60          D         13.01    13.01
+                                              0           
+ 3723683    1  Fudgee Barr Macapuno 41g    10          D          8.33     8.33
+                                              0           
+ 4100002    1  Kettle Korn Cheese 120g     30 10/23/25 D         42.93    42.93
+                                              0           
+ 4136008    1  Kopiko Cappuccino Coff 25g 240 10/24/25 E          7.40     7.40
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          145.89
+                                                       Rundate 09/24/2025  10:38:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

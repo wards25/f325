@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730482500062
+                                                            Branch - 3048 BATANGAS SAN PASCUAL POBLACION( )
+                                                            Prepared by - MICHAEL N. MALIGAYA on 05/15/2025
+                                                            Issued by - ________________________________
+                                                                         RONNIE C. BALMES
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    5  Nestle Frsh Mlk 250mL       24 05/24/25 E         36.23   181.15
+                                              2328802003  
+ 3760009   19  Nido NutriSnaxBnna-Crot110mL60 05/31/25 E         17.76   337.44
+                                              41610489GD  
+ 4014031    3  Nestle Chuckie Cal-N 180mL  32 05/31/25 E         21.73    65.19
+                                              41980189FD  
+ 4025096    4  Milo Activ-Go RTD 110mL     60 05/31/25 E         14.61    58.44
+                                              41940189LD  
+ 4025097    9  Nestle Chuckie Cal-N 110mL  60 05/31/25 E         13.46   121.14
+                                              419764383B  
+ 4530019    3  Nestle Chuckie Cal180mLx4P90 9 05/31/25 E         84.11   252.33
+                                              41830189FD  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,015.69
+                                                       Rundate 05/15/2025  14:01:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

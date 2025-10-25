@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707192500218
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 09/16/2025
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562    1  Ladys C Mynaise 220mL       24 07/08/25 F        112.05   112.05
+                                              0           
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144 01/15/28 D          7.55     7.55
+                                              0           
+ 3039297    1  Breeze Liq Det 64g         108 01/30/27 D         12.50    12.50
+                                              0           
+ 3050004    5  Surf Pdr Rose Frsh 57g     288 06/18/28 D          6.13    30.65
+                                              0           
+ 3050005    3  Surf Pdr SFrsh 57g         288 11/28/27 D          6.13    18.39
+                                              0           
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288 09/12/27 D          6.13     6.13
+                                              0           
+ 3050088    6  Domex Floor Clnr Anti-Bac 1L12 12/24/27 D        129.36   776.16
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          963.43
+                                                       Rundate 09/18/2025  16:20:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712002500099
+                                                            Branch - 1200 Bulacan Waltermart Malolos(BULACAN WALTERMART MALOLOS CITY MALOLOS BULACAN)
+                                                            Prepared by - MHAYE J. VICTORIA on 04/26/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MYRA F. ESPINOZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 11/30/25 D         13.32    13.32
+                                              43230602N12 
+ 4530000    6  Starbucks Latte DShtEsp220mL24 04/26/25 E         76.00   456.00
+                                              40819449    
+ 4530001   11  Starbucks Mocha DshtEsp220mL24 04/26/25 E         76.00   836.00
+                                              40819449AC  
+ 4530061    1  Nan Al 110 Lacto Free 400g   6 11/30/25 D       1046.73  1046.73
+                                              41300346AE  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,352.05
+                                                       Rundate 04/26/2025  16:23:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

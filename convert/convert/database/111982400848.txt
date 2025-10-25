@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111982400848
+                                                            Branch - 1198 BULACAN SAN JOSE DEL MONTE CITY EB TOWN CENTER( )
+                                                            Prepared by - amy/me-an/iris on 10/30/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Liezl B. Lucas
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723572    1  Naturelab AlcSprKoolNGo 50mL12 06/18/26 D         44.25    44.25
+                                              tph1d16     
+ 3723580    1  Naturelab FragBMistTrop100mL 6          D        111.75   111.75
+                                              db          
+ 3723590    5  Royal Cheesy R&T 1.6kg SP49 10 10/27/24 E        121.94   609.70
+                                              506a        
+ 3723648    1  Selecta Dolce LFat Choc 1L  12 12/07/24 D         85.96    85.96
+                                              2705t1      
+ 3723685    1  Rebisco Hansel Crackers 32g 10 03/11/25 D          5.97     5.97
+                                              c32a2       
+ 3856663    1  Locally Gybano Jce Dr 240mL 24 10/28/25 D         25.08    25.08
+                                              cbd         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          882.71
+                                                       Rundate 10/30/2024  13:38:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

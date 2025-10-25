@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104142400242
+                                                            Branch - 414 Mamburao JP Rizal(OCM Mamburao JP Rizal )
+                                                            Prepared by - Romel B. Briones on 08/18/2024
+                                                            Issued by - ________________________________
+                                                                         Shermene S. Jawerga
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    9  Del M Fit N RghtBurnApl330mL24 09/17/24 E         31.13   280.17
+                                              X           
+ 3723562    2  Musli OatCrnchyBbry&Rbry375g14 09/15/24 E        160.65   321.30
+                                              U2300137    
+ 3856629   20  Datu Puti Soy Sce 340mL     24 09/29/24 E         17.10   342.00
+                                              23J05M090308
+ 3856631   14  Datu Puti Wh Vin 350mL      24 09/13/24 E         15.91   222.74
+                                              23I19M100410
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,166.21
+                                                       Rundate 08/18/2024  16:46:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

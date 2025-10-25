@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707192500036
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723317   16  Beng-Beng ChocCrmlWfer26.5g120 10/09/24 F          8.09   129.44
+                                              0           
+ 3723400    2  Entrasol Pltnm Ad PdrVnla200g3 12/12/24 F        352.60   705.20
+                                              0           
+ 3723402    3  Entrasol Pltnm Ad PdrVnla600g3 02/16/25 F        906.80  2720.40
+                                              0           
+ 3723584    3  Fiesta Fil SpagTpd1.6kgSP30 10 12/11/24 F        109.48   328.44
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,883.48
+                                                       Rundate 02/26/2025  15:21:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

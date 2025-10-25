@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121702400208
+                                                            Branch - 2170 Zamboanga Sto. Nino San Jose( )
+                                                            Prepared by - dan jhon hardy obice on 03/16/2024
+                                                            Issued by - ________________________________
+                                                                         Ms.Lourdes C. Abelita
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103167    1  Del M Or Jce Swtnd 220mL    24 06/01/24 D         28.00    28.00
+                                              f           
+ 1104083    4  Del M Pine JceACE220mLx6SP10 4 02/01/24 F        158.66   634.64
+                                              h           
+ 3606230   12  Jimms 5in1 Coffee Mix 21g   12 03/12/24 F         10.63   127.56
+                                              f           
+ 3623284    1  Northland Bluebrry Jce 1.89L 8 03/15/24 F        386.10   386.10
+                                              f           
+ 3856631    1  Datu Puti Wh Vin 350mL      24 01/01/24 F         15.44    15.44
+                                              g           
+ 4510155    3  Rite'n Lite Peach Dr 250mL  24 10/31/24 D         20.25    60.75
+                                              g           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,252.49
+                                                       Rundate 03/16/2024  10:38:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

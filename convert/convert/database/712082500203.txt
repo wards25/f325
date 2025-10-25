@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712082500203
+                                                            Branch - 1208 Mnla StaCruz Frbs D(330418 )
+                                                            Prepared by - Dally on 07/08/2025
+                                                            Issued by - ________________________________
+                                                                         MS.REA B. TUGADE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12          D        106.43   106.43
+                                              .           
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              .           
+ 3748444    1  Nestea Ap ITea 20g         144          D         18.57    18.57
+                                              .           
+ 4025037   20  Nescafe 3n1 CrmyLatte20g   240          D          8.20   164.00
+                                              .           
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100          D         13.21    13.21
+                                              .           
+ 4530026    1  Nescafe Original SF TPck23g100          D         13.21    13.21
+                                              .           
+ 4530043    1  Nestle Trix Bfast Cer 160g  18          D        111.82   111.82
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          429.13
+                                                       Rundate 07/08/2025  12:41:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

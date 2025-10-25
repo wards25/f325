@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106092400443
+                                                            Branch - 609 Candon City Nat'l Hway(CANDON CITY NAT'L HWAY )
+                                                            Prepared by - SHIERA MARIX LIMAYO on 12/12/2024
+                                                            Issued by - ________________________________
+                                                                         REBECCA M. GOROSPE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167452    1  Nestle Chuckie Cal-N 250mL  24 10/30/24 F         28.08    28.08
+                                              334364382A  
+ 4025127    8  Cerelac Nutripuffs B&O 50g  12 11/30/24 F        106.54   852.32
+                                              33039531RA  
+ 4025128    4  Cerelac Nutripuffs B&S 50g  12 12/30/24 F        106.54   426.16
+                                              33129531YB  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,306.56
+                                                       Rundate 12/12/2024  16:33:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130092400262
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S.SARGUET on 10/08/2024
+                                                            Issued by - ________________________________
+                                                                         JOEL P.ALMINANZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    3  Lipton Tea Yel Label 50     12 06/29/24 E        225.69   677.07
+                                              15:18       
+ 3207792    2  Lipton Yel Label Tea 25'    24 10/14/24 E        124.34   248.68
+                                              21:03       
+ 3413865    3  Nagaraya Crkr Nut Orig 80g  60 10/04/25 D         20.54    61.62
+                                              24748       
+ 3413874   28  Nagaraya SwtMni PretSgrC30g100 09/11/24 E          7.61   213.08
+                                              23023       
+ 3723588   11  Fiesta SpagheTpd Swt SP18   12 11/30/24 E         68.37   752.07
+                                              56B1        
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10 11/30/24 E        117.39   117.39
+                                              56B1        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,069.91
+                                                       Rundate 10/08/2024  09:48:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

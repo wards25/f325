@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106922400409
+                                                            Branch - 692 MRDQUE BOAC GOV D REYES(MURALLON, BOAC, MARINDUQUE )
+                                                            Prepared by - Anna Rose S. Manhit on 10/19/2024
+                                                            Issued by - ________________________________
+                                                                         MS. SHERMILYN M. HERBOSA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615299    2  San Mig Coff 3N1 Orig 20g  240 01/19/26 D          5.76    11.52
+                                              015         
+ 3973046    2  Selecta Forti Mlk LFat1Lx2SP 6 10/06/24 F        156.12   312.24
+                                              59N6JA1     
+ 4095041    1  Seoul Wh K Soap DbleWhtng90g12 10/30/24 E         64.00    64.00
+                                              RQ2T1777    
+ 4100010   11  Kettle KornCheese120gx2SP10 16 01/15/25 D         62.43   686.73
+                                              MLM1        
+ 4110024    1  Rebisco Sbrry Sandw 34g     10 02/22/25 D          5.87     5.87
+                                              A3M1        
+ 4136022    1  Kopiko L.A. Coffee 25g     240 01/28/25 D          7.40     7.40
+                                              0722TGR     
+ 4136024    3  Kopiko Blanca Coff 30g     240 07/31/25 D          7.78    23.34
+                                              1237TGR     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,111.10
+                                                       Rundate 10/19/2024  17:25:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

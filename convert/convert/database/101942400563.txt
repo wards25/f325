@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101942400563
+                                                            Branch - 194 Manila Ermita Robinsons Place(ROBINSONS PLACE ERMITA MANILA )
+                                                            Prepared by - PET/DRED on 08/10/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CLARISSA C.HILARIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606230    5  Jimms 5in1 Coffee Mix 21g   12 03/14/26 D         10.63    53.15
+                                              4008L3      
+ 3723285    3  Fudgee Barr Mlky Crze       10 09/12/24 D          8.10    24.30
+                                              VB73        
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 11/07/25 D         11.22    11.22
+                                              10001       
+ 4110018    1  Choco Mucho Mlk Choc 30g    10 01/01/26 D          9.30     9.30
+                                              B           
+ 4110022    6  Rebisco Hansel MchaSandw 32g10 10/12/24 D          5.87    35.22
+                                              C1784       
+ 4110024    3  Rebisco Sbrry Sandw 34g     10 12/17/24 D          5.87    17.61
+                                              B1B1        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          150.80
+                                                       Rundate 08/10/2024  16:18:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

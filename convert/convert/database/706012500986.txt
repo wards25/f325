@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012500986
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D. GUMIDAM on 09/28/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12          D         97.19    97.19
+                                              xxx         
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60          D         17.76    17.76
+                                              xxx         
+ 4530045    4  Nestle Frsh Mlk 1000mLx2SP15 7          D        197.10   788.40
+                                              xxx         
+ 4530077    2  Nestle Low Fat Milk 1L      12          D        109.54   219.08
+                                              xxx         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,122.43
+                                                       Rundate 09/28/2025  09:28:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

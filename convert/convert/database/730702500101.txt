@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730702500101
+                                                            Branch - 3070 Palawan El Nido Shops@lio(Bldg F. Shops@Lio )
+                                                            Prepared by - RENE S. DADULE on 09/16/2025
+                                                            Issued by - ________________________________
+                                                                         RALPH RAIMOND V. ORIEL
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016352   18  Fresca Tuna Afrtda 175g     48 02/28/28 D         24.48   440.64
+                                              2121        
+ 1016358    4  Fresca Tuna Mchdo 175g      48 03/31/28 D         24.48    97.92
+                                              0213        
+ 1035680    1  Ligo Sard In TS 155g       100 09/30/27 D         22.82    22.82
+                                              903         
+ 1210404    1  Argentina CBeef 175g        48 05/30/28 D         38.81    38.81
+                                              AKBI27      
+ 3048405    2  555 Sardines TS Hot 155g   100 06/30/28 D         22.14    44.28
+                                              I0822       
+ 3793320    1  Birch Tree Forti Mlk Pdr300g24 08/31/26 D         88.32    88.32
+                                              5Y043D      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          732.79
+                                                       Rundate 09/17/2025  16:49:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

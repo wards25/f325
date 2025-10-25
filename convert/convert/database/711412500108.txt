@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711412500108
+                                                            Branch - 1141 Kalookan City Deparo(1141 KALOOKAN CITY DEPARO )
+                                                            Prepared by - LENA D5 on 03/24/2025
+                                                            Issued by - ________________________________
+                                                                         MR. ARIEL B. NOLASCO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60 02/28/25 F         17.76    17.76
+                                              40810189    
+ 4530039   14  Milo Bfst Cer Ch&MBalls 20g120 04/13/25 E         13.64   190.96
+                                              41040631ED  
+ 4530041   12  Nestle Trix Bfast Cer 20g  120 05/10/25 E         13.64   163.68
+                                              41660631CE  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          372.40
+                                                       Rundate 03/24/2025  11:16:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

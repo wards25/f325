@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701402500845
+                                                            Branch - 140 Pasig City San Joaquin(Pasig San Joaquin PASIG CITY)
+                                                            Prepared by - MIKEE M. PEREZ on 09/24/2025
+                                                            Issued by - ________________________________
+                                                                         MR.OLIVER LACERNA-BM
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 6200059    2  Surf Pdr Chrry Blssm 1100g  12          D        102.90   205.80
+                                              0           
+ 6200097    3  Creamsilk TrtCrKRbndStr18mL288          D          5.88    17.64
+                                              0           
+ 6200099    1  Vitakeratin Brzln Strgt22mL288          D          4.95     4.95
+                                              0           
+ 6200216    1  Surf Pdr Kal 57g           288          D          6.13     6.13
+                                              0           
+ 6200249    3  Surf Pdr Sun Frsh 65g B6G1  40          D         36.75   110.25
+                                              0           
+ 6200294    2  Creamsilk Cond S-Strght22mL288          D          8.43    16.86
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          361.63
+                                                       Rundate 09/24/2025  18:19:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

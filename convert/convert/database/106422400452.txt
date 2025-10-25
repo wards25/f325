@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106422400452
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN ANGULO/EVITA B. BUENO on 10/15/2024
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723389    6  Energen Mlk&Cer Dr Vnla 40g240          D          7.01    42.06
+                                              0           
+ 3748506    2  Gerber 1st Banana 80g        6 11/15/24 E         75.55   151.10
+                                              0           
+ 3748508    1  Gerber 1st Carrot 80g        6 11/15/24 E         75.55    75.55
+                                              0           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              0           
+ 4510226   10  Happy Pnut Bbq 100g         24 10/10/24 F         30.60   306.00
+                                              A2A10A      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          582.49
+                                                       Rundate 10/15/2024  14:30:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

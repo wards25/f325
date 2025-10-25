@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103292401075
+                                                            Branch - 329 Makati City Salcedo Vil. Leviste(MAKATI LEVISTE )
+                                                            Prepared by - ALVIN B. BASSIG on 08/19/2024
+                                                            Issued by - ________________________________
+                                                                         ILEN  HUGO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3793318    2  Birch Tree Forti AdltBst33g160          D         12.81    25.62
+                                              22821       
+ 3793335    1  Argentina CChckn 150g       48          D         32.86    32.86
+                                              22821       
+ 3793337    2  Argentina CChckn Spcy 150g  48          D         32.86    65.72
+                                              22821       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          124.20
+                                                       Rundate 08/19/2024  17:46:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

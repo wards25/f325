@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707142500320
+                                                            Branch - 714 IPI NTL HWY(IPIL NATIONAL HIGHWAY ZAMBO SIBUGAY)
+                                                            Prepared by - MARICAR L. CALE on 06/08/2025
+                                                            Issued by - ________________________________
+                                                                         JUVELYN P. LALAMONAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60          D         30.48    30.48
+                                              123         
+ 4025037   18  Nescafe 3n1 CrmyLatte27.5g 240          D          8.20   147.60
+                                              123         
+ 4025052   16  Nestle Coffeemate 150g      60 06/30/25 E         44.78   716.48
+                                              123         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          894.56
+                                                       Rundate 06/08/2025  21:52:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

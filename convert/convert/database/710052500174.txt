@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710052500174
+                                                            Branch - 1005 Makati City JP Rizal Ext. Puregold(1005 MAKATI CITY JP RIZAL EXT. PUREGOLD)
+                                                            Prepared by - VHINZ VIPINOSA on 06/05/2025
+                                                            Issued by - ________________________________
+                                                                         MR.CHRISTIAN BERNARDO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615297  143  Essenso 3n1CoffMicrogrnd25g192 07/03/25 E         17.62  2519.66
+                                              LIP9140131  
+ 3723617    1  Barrio F Std Shrmp P Swt250g12 06/03/25 E        101.75   101.75
+                                              2212030048  
+ 3723681    5  Locally Ripe Mngo JceDr240mL24 05/30/25 E         22.80   114.00
+                                              24E18691125 
+ 3723705    1  Kopiko Blck 3n1 Coff28g TP 120 05/29/26 D         11.26    11.26
+                                              291121560   
+ 3723711    2  Malkist Crkr Bbq 28gx10     12 06/04/25 E         53.55   107.10
+                                              105601C     
+ 3723713    4  Malkist Crkr Swt Glzd28gx10 12 06/18/25 E         53.55   214.20
+                                              160604J4    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,067.97
+                                                       Rundate 06/05/2025  15:03:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

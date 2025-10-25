@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101592402343
+                                                            Branch - 159 Valenzuela City Paso de Blas(PASO DE BLAS(COR DE SOTTO VALENZUELA)
+                                                            Prepared by - MHACK MU¥EZ on 09/30/2024
+                                                            Issued by - ________________________________
+                                                                         CRISTINA B DEL MUNDO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723613    1  Barrio F Std Shrmp P Reg250g12          D         89.78    89.78
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              .           
+ 4100011    1  Kettle Korn Astd 120gx2SP10 16          D         62.43    62.43
+                                              .           
+ 4103101    2  Del M SpagFilStylPrtyPckSP42 8          D        133.46   266.92
+                                              .           
+ 4510204    1  Barrio F PBut Crmy&Nutty227g12 10/25/24 E         88.92    88.92
+                                              .           
+ 4510206    2  Barrio F PBut Crmy&Swt 227g 12 10/24/24 E         88.92   177.84
+                                              .           
+ 4510210    5  Barrio F PBut Extra T&N 170g12 10/27/24 E         71.82   359.10
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,056.47
+                                                       Rundate 09/30/2024  15:30:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

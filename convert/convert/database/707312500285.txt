@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707312500285
+                                                            Branch - 731 Liloan Natl Hway(POBLACION LILOAN CEBU )
+                                                            Prepared by - MA.ELLEN B.PALATAN on 10/11/2025
+                                                            Issued by - ________________________________
+                                                                         LENDYL K. CARLOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12          D        102.06   102.06
+                                              B           
+ 1167470    1  Nestle Frsh Mlk 1000mL      12          D        106.43   106.43
+                                              V           
+ 3748436   11  Nestea Lem ITea 19g        144          D         18.57   204.27
+                                              B           
+ 3748444    1  Nestea Ap ITea 20g         144          D         18.57    18.57
+                                              B           
+ 4025219    3  Nescafe 3n1 Orig TwinPck40g200          D         13.32    39.96
+                                              B           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          471.29
+                                                       Rundate 10/11/2025  14:21:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

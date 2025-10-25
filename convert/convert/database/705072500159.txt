@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705072500159
+                                                            Branch - 507 Urdaneta City McArthur Hway(SAN VICENTE EAST URDANETA PANG )
+                                                            Prepared by - JERRY MAY A. OJERIO on 07/07/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 25g        144 09/30/25 D         18.57    18.57
+                                              9557        
+ 3760009   47  Nido NutriSnaxBnna-Crot110mL60 05/31/25 F         17.76   834.72
+                                              3212        
+ 4066024   14  Kitkat 2F 17gx6 FPck        48 05/09/25 F         89.77  1256.78
+                                              2898        
+ 4530002    6  Kitkat Santa 29g            50 07/31/25 E         38.18   229.08
+                                              42060316    
+ 4530019    2  Nestle Chuckie Cal180mLx4P90 9 07/31/25 E         84.11   168.22
+                                              5841        
+ 4530020   10  Nestle Chuckie CN250mLx4P110 8 06/30/25 F        102.80  1028.00
+                                              5360        
+ 4530041   21  Nestle Trix Bfast Cer 20g  120 05/10/25 F         13.64   286.44
+                                              3625        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,821.81
+                                                       Rundate 07/07/2025  15:38:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

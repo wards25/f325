@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106982400007
+                                                            Branch - 698 PANG VILLASIS MCAR HWY(VILLASIS MCARTHUR HIWAY )
+                                                            Prepared by - PAUL JHON Q. ABALOS on 01/09/2024
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103169    2  Del M Pine Jce Swtnd 220mL  24 06/01/25 D         28.00    56.00
+                                              L3166SPPRL74
+ 1103591    3  Del M Pine Jce Fiber 220mL  24 02/01/25 D         30.80    92.40
+                                              3178YYJFL61 
+ 1104030    2  Del M Pine-Or Jce Tetra 1L  12 01/24/24 E         87.31   174.62
+                                              L302412     
+ 1104031    1  Del M Pine Jce BoneSmrt220mL24 05/01/24 D         29.40    29.40
+                                              L3143YYJB2L 
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 01/11/24 E         91.92    91.92
+                                              39G6MP0     
+ 3207787    1  Lipton Tea Yel Label 50     12 01/19/24 E        206.33   206.33
+                                              USE         
+ 3723657    2  Kwik Cockroach Killer 300mL  6 02/28/24 E        134.04   268.08
+                                              051646      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          918.75
+                                                       Rundate 01/09/2024  16:43:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

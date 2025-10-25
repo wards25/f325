@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706742500122
+                                                            Branch - 674 Santiago City Maharlika Recto( )
+                                                            Prepared by - AMELIA GRANDE/MYLINE OMANHAN on 03/15/2025
+                                                            Issued by - ________________________________
+                                                                         JESUSITO C. HERNAEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010116    6  Ladys C Ham Sprd 80mL       72 04/14/25 E         34.85   209.10
+                                              241651      
+ 1010117    2  Ladys C Tuna Sprd 80mL      72 01/05/26 D         34.85    69.70
+                                              250253      
+ 1010275    1  Ladys C Chck Sprd DPck220mL 24 10/01/25 D         95.30    95.30
+                                              244941      
+ 5800326    2  Ladys C RMayo DPck 470mL     6 08/21/25 D        185.40   370.80
+                                              244353      
+ 5800328    6  Ladys C Sandw Sprd 80mL     36 03/30/25 E         31.55   189.30
+                                              241441      
+ 6200024    1  Surf Liq Rose Fresh 64mL   288          D          6.42     6.42
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          940.62
+                                                       Rundate 03/15/2025  15:26:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

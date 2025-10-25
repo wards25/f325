@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106492400334
+                                                            Branch - 649 APR RZL(Aparri rizal )
+                                                            Prepared by - GERALDINE DALUDDUNG on 08/17/2024
+                                                            Issued by - ________________________________
+                                                                         SWIETENIA MAE C. AGNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103156   33  Del M Swt Blend Kchup 320g  24 08/23/24 E         41.72  1376.76
+                                              0           
+ 1103962   13  Del M Fit N RghtBurn4sn330mL24 09/21/24 E         31.13   404.69
+                                              0           
+ 3856633   17  Mang Tomas Lchon Sce 325g   24 10/06/24 E         33.25   565.25
+                                              0           
+ 3856639    3  Datu Puti Wh Vngar Pet 1L   12 05/27/24 F         39.19   117.57
+                                              0           
+ 3972988   24  WhiteKing Champorado Mix113g30 08/02/24 F         30.49   731.76
+                                              0           
+ 4110023   90  Rebisco Crackers 35g        10 09/10/24 E          5.87   528.30
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,724.33
+                                                       Rundate 08/17/2024  10:46:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

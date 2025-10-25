@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130042400422
+                                                            Branch - 3004 Tumauini Poblacion(TUMAUINI POBLACION 3004)
+                                                            Prepared by - SHARON B. PALACAY on 11/27/2024
+                                                            Issued by - ________________________________
+                                                                         ALDRIN A. BARRUGA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413871    3  Nagaraya Crkr Nut Adbo 160g 48 04/05/25 D         41.27   123.81
+                                              24743c      
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240 01/13/25 D          7.01     7.01
+                                              1103t       
+ 3723565   40  Ginhawa Red-G Syr Sac 15mL 180 06/01/24 F          8.80   352.00
+                                              cf005       
+ 3723626    3  Kopiko Brown TwnPckCoff 53g120 12/25/25 D         11.26    33.78
+                                              1809t       
+ 3723644    3  Energen Champion Choc TP30g120 07/02/25 D         14.24    42.72
+                                              2335t       
+ 4100002    1  Kettle Korn Cheese 120g     30 01/02/25 D         36.25    36.25
+                                              mlm4        
+ 4110023   30  Rebisco Crackers 35g        10 12/03/24 E          5.87   176.10
+                                              co9b3       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          771.67
+                                                       Rundate 11/27/2024  12:57:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

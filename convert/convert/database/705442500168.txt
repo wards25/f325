@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705442500168
+                                                            Branch - 544 Cabanatuan City NE Pacific Mall( )
+                                                            Prepared by - KENNETH JASPER RUIZ on 06/14/2025
+                                                            Issued by - ________________________________
+                                                                         MARY ANN P. ERMITA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282    5  Cupp Keyk Choc Mcha         10 07/07/25 E          6.80    34.00
+                                              VA14 24     
+ 3723284   12  Fudgee Barr Chocolate       10 07/24/25 E          8.25    99.00
+                                              VA11 02     
+ 3723285   25  Fudgee Barr Milk Custard    10 06/14/25 F          8.25   206.25
+                                              BGB111 10   
+ 3723532    1  UFC Mushroom Pcs & Stems400g24 05/24/25 F         48.93    48.93
+                                              3502/01011  
+ 3723668    1  Solbac Disinf Spr Ctrs&G300g 6 10/31/23 F        199.36   199.36
+                                              93102120    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          587.54
+                                                       Rundate 06/14/2025  13:43:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

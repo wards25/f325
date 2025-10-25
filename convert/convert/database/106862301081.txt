@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106862301081
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos )
+                                                            Prepared by - Perfecto Menes on 11/05/2023
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Hufana
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103936    2  Del M Todays Mix Frt 3033g   6 11/01/23 E        242.20   484.40
+                                              .           
+
+
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          484.40
+                                                       Rundate 11/05/2023  13:40:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

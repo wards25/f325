@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707192500029
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016223    1  Century Flakes Brine 180g   48 01/15/25 F         49.96    49.96
+                                              0           
+ 1210406    3  Argentina Meat Loaf 250g    48 10/27/24 F         30.95    92.85
+                                              0           
+ 3048405    2  555 Sardines TS Hot 155g   100 08/31/25 D         23.09    46.18
+                                              0           
+ 3793335    2  Argentina CChckn 150g       48 10/02/24 F         32.86    65.72
+                                              0           
+ 4131045    1  Birch Tree Forti Mlk Pdr925g12 08/31/25 D        229.69   229.69
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          484.40
+                                                       Rundate 02/26/2025  14:34:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

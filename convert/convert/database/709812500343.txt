@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709812500343
+                                                            Branch - 981 Isulan Nat'l Hway(981 MDC ISULAN NAT'L HI-WAY )
+                                                            Prepared by - MARK JMAES INIGO on 08/31/2025
+                                                            Issued by - ________________________________
+                                                                         ROXANNE S. LIDA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165712    3  Magnol Chzee Sprd Pln 480g  12 08/13/25 F        154.28   462.84
+                                              96          
+ 1165713   10  Magnol Chzee Sprd Pmto 120g 24 08/25/25 F         48.02   480.20
+                                              boi         
+ 1165714    5  Magnol Chzee Sprd Pmto 235g 24 08/08/25 F         83.13   415.65
+                                              41          
+ 1165715    7  Magnol Chzee Sprd Pmto 480g 12 08/25/25 F        157.96  1105.72
+                                              bo1         
+ 3465890    2  Magnol Full Crm Mlk 1L      12          D         92.39   184.78
+                                              74          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,649.19
+                                                       Rundate 08/31/2025  18:01:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

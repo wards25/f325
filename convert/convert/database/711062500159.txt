@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711062500159
+                                                            Branch - 1106 STA ROSA WALTERMART BEL AIR(WM BEL-AIR SRO )
+                                                            Prepared by - Mr. Michael Marticio on 06/26/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Rosemarie P. Adao
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    2  Nestle Frsh Mlk 1000mL      12 11/01/25 D        106.43   212.86
+                                              125646      
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 03/31/26 E         13.32    13.32
+                                              26456       
+ 4530003   18  Kitkat Santa 29gx3          44 07/31/25 D        122.73  2209.14
+                                              42060316    
+ 4530026    1  Nescafe Original SF TPck23g100 06/30/25 D         13.21    13.21
+                                              154         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,448.53
+                                                       Rundate 06/26/2025  09:47:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707022500265
+                                                            Branch - 702 CBO ORC(COR.GOV.GUTIRREZ AVE.& SINSUAT COT. CITY)
+                                                            Prepared by - J.BELARMINO/K.BUENO/K.PEGARRO on 07/26/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JORLYN T. UYTARANCO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 11/30/25 D        102.06   102.06
+                                              50050189YD  
+ 3748444    1  Nestea Ap ITea 20g         144 03/31/26 D         18.57    18.57
+                                              SBT50630604E
+ 4025037    2  Nescafe 3n1 CrmyLatte20g   240 03/31/26 D          8.20    16.40
+                                              5083895A1   
+ 4025177   16  Nescafe Original 20g       520 12/31/25 D          7.37   117.92
+                                              43398985A1  
+ 4025219    1  Nescafe 3n1 Orig TwinPck40g200 04/30/26 D         13.32    13.32
+                                              61030602R1  
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 03/31/26 D         13.21    13.21
+                                              50640601E   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          281.48
+                                                       Rundate 07/28/2025  13:53:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706252500108
+                                                            Branch - 625 San Fernando City La Union Quezon( )
+                                                            Prepared by - MENCHIE A. ARQUITOLA on 02/02/2025
+                                                            Issued by - ________________________________
+                                                                         GELIN P. CAYAGO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465890    4  Magnol Full Crm Mlk 1L      12 02/09/25 E         91.47   365.88
+                                              .           
+ 3695260   12  Magnol Panck+W/Mple Syr200g 48 02/21/25 E         32.77   393.24
+                                              .           
+ 3695262   23  Magnol Panck+W/Sbrry Syr200g48 02/19/25 E         32.77   753.71
+                                              .           
+ 3695264    1  Magnol Panck&Waffle Mix180g 48          D         25.93    25.93
+                                              .           
+ 3723286   48  Ding Dong Sup Mxd Nuts 100g 60 02/24/25 E         20.54   985.92
+                                              .           
+ 4110036   30  VitaCubes Frt Jelly Cdy 50g 10 02/14/25 E         18.00   540.00
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,064.68
+                                                       Rundate 02/02/2025  08:45:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

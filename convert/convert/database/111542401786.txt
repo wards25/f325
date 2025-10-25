@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111542401786
+                                                            Branch - 1154 Valenzuela City Gateway Complex(1154 VAL. CITY GATEWAY COMPLEX 318 GS PASO DE BLAS BGY P)
+                                                            Prepared by - MICHAEL C. LANOZO on 10/24/2024
+                                                            Issued by - ________________________________
+                                                                         MS.ANNA LIZA M. DEMITION
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010440    9  Knorr Cr Of Mushrm Soup 62g 60 11/27/24 E         50.95   458.55
+                                              234872      
+ 3870033    2  Creamsilk Cond HFallDef11mL288          D          5.93    11.86
+                                              .           
+ 6200249    1  Surf Pdr Sun Frsh 65g B6G1  40          D         36.75    36.75
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          507.16
+                                                       Rundate 10/24/2024  15:57:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

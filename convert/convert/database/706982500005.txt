@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706982500005
+                                                            Branch - 698 PANG VILLASIS MCAR HWY(VILLASIS MCARTHUR HIWAY )
+                                                            Prepared by - PAUL JHON ABALOS on 01/15/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 02/27/25 E         20.54    20.54
+                                              A7A6B       
+ 3780447    3  Fitbar Fruits 22g           12 01/29/25 E         27.00    81.00
+                                              24N291Y303  
+ 3900047    1  Fitbar Tiramisu Delight 22g 12 01/26/25 E         27.00    27.00
+                                              24N261T102  
+ 4095040    3  Seoul Wh K Soap DbleWhtng60g12 08/30/24 F         52.00   156.00
+                                              RQ2R1278    
+ 4095041    2  Seoul Wh K Soap DbleWhtng90g12 11/30/24 F         64.00   128.00
+                                              RQ2V1885    
+ 4095042    1  Seoul Wh K SoapDbleWhtng180g12 12/31/24 F        132.00   132.00
+                                              RQ2V2068    
+ 4110018    2  Choco Mucho Mlk Choc 30g    10 12/25/25 F          9.30    18.60
+                                              A4M         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          563.14
+                                                       Rundate 01/15/2025  14:19:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

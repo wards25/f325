@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707142500062
+                                                            Branch - 714 IPI NTL HWY(IPIL NATIONAL HIGHWAY ZAMBO SIBUGAY)
+                                                            Prepared by - Maricar L. Cale on 02/09/2025
+                                                            Issued by - ________________________________
+                                                                         JUVELYN P LALAMONAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010440    2  Knorr Cr Of Mushrm Soup 62g 60          D         50.95   101.90
+                                              123         
+ 3980167    4  Ponds Acne Clr PCondTner60mL36          D         58.41   233.64
+                                              123         
+ 3980256    1  Ponds Wh Bty PCond Tner 60mL36 01/31/25 E         70.56    70.56
+                                              123         
+ 5800030    3  Dove Bty Bar Sens135gx3SP29 16 02/25/25 E        198.94   596.82
+                                              123         
+ 5800171    1  Dove BWsh SSknP650mLx2 30%Off6          D        450.95   450.95
+                                              123         
+ 5800275    2  Eskinol Clssc Wh BheadP225mL12          D        114.42   228.84
+                                              123         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,682.71
+                                                       Rundate 02/09/2025  18:25:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

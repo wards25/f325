@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706762500034
+                                                            Branch - 676 Tarlac City C. Santos(676 TARLAC SANTOS )
+                                                            Prepared by - VHEE JANE C. ARELLANO on 02/06/2025
+                                                            Issued by - ________________________________
+                                                                         DAISY M. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009364   20  Ladys C Ham Sprd 220mL      24 01/09/25 F        122.60  2452.00
+                                              240312      
+ 3980700   14  Master FScrb OC Max 100g    24 01/28/25 F        155.87  2182.18
+                                              120822116   
+ 5800321   23  Ladys C Chck Sprd 220mL     12 01/05/25 F        122.60  2819.80
+                                              240233      
+ 5800323    5  Ladys C Mynaise 80mL        36 07/31/25 D         32.20   161.00
+                                              *           
+ 5800328   70  Ladys C Sandw Sprd 80mL     36 02/13/25 E         31.55  2208.50
+                                              240812      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        9,823.48
+                                                       Rundate 02/06/2025  10:05:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

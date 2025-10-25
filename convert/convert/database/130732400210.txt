@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130732400210
+                                                            Branch - 3073 Naga City Puregold Naga(Unit CU1-1,ALDP Mall,Diversion .riangulo, Naga City, C.S)
+                                                            Prepared by - JESEL T. CAPILLANO on 07/28/2024
+                                                            Issued by - ________________________________
+                                                                         MA.KHATEEJA G. NODORA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210404    2  Argentina CBeef 175g        48 09/29/24 E         33.57    67.14
+                                              X           
+ 1210486    4  Argentina CBeef Jr 150g     48 12/08/24 D         29.48   117.92
+                                              X           
+ 3793321    7  Birch Tree FC Milk Pdr 700g 12          D        309.20  2164.40
+                                              X           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,349.46
+                                                       Rundate 07/28/2024  14:25:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

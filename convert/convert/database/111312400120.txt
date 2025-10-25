@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111312400120
+                                                            Branch - 1131 Bulacan Sta. Maria Caypombo(BR.# & NAME :   1131-BUL.STA. MARIA CAYPOMBO)
+                                                            Prepared by - jho/julie/meg on 02/04/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Fely B Hermogenes
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102998    1  Del M Salad Macaroni 400g   25          D         69.02    69.02
+                                              .           
+ 1103985    5  Del M Pine Jce HeartS 220mL 24          D         30.80   154.00
+                                              .           
+ 3623305    1  Northland Crnbrry Jce 1.89L  8 02/01/24 E        386.10   386.10
+                                              .           
+ 3723590    1  Royal Cheesy R&T 1.6kg SP49 10          D        121.94   121.94
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              .           
+ 3780421    3  Diabetasol Choc 600g         3 02/14/24 E        883.20  2649.60
+                                              .           
+ 4103065    1  Del M Tmto Sce OrigStyl 250g48          D         25.43    25.43
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,417.31
+                                                       Rundate 02/04/2024  12:23:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

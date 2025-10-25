@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092401117
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 10/15/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010277    1  Ladys C Ham Sprd DPck 220mL 24 05/20/25 D         95.30    95.30
+                                              1           
+ 3039171    4  Domex GKill UlThckPkPwr500mL24 11/02/25 D         98.00   392.00
+                                              1           
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288 08/20/25 D          6.13     6.13
+                                              1           
+ 3870313    1  Creamsilk CondS-Strght180mL 24 01/31/26 D        128.33   128.33
+                                              1           
+ 3980548    1  Dove Bty Bar Wh 135g        48 01/31/26 D         67.52    67.52
+                                              1           
+ 3980661   21  Lifebuoy Soap T10AntiBac110g96 08/24/27 D         38.17   801.57
+                                              a           
+ 6200007    1  Dove Sh Rstre Nrshng Cr170mL24 09/20/26 D        157.29   157.29
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,648.14
+                                                       Rundate 10/15/2024  10:20:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

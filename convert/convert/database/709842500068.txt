@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709842500068
+                                                            Branch - 984 PAGD PAJARES(PAJARES AVE., PAGADIAN CITY )
+                                                            Prepared by - JONNA MAE L. DALENA on 02/25/2025
+                                                            Issued by - ________________________________
+                                                                         MR. REH T. SAGUN
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016305    2  555 Tuna Spcy Cldrta 155g   50          D         26.68    53.36
+                                              .           
+ 1016370    3  Century Chili Crnd Tuna 180g4           D         38.01   114.03
+                                              .           
+ 1035680    1  Ligo Sard In TS 155g       100          D         23.79    23.79
+                                              .           
+ 1148508    4  Blue Bay Tuna H&S 155g      50          D         29.99   119.96
+                                              .           
+ 1148510    6  Blue Bay Tuna Afritada 155g 50          D         27.39   164.34
+                                              .           
+ 1210406    1  Argentina Meat Loaf 250g    48          D         30.95    30.95
+                                              .           
+ 1210409    2  Argentina Bf Loaf 170g      48          D         22.86    45.72
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          552.15
+                                                       Rundate 02/25/2025  15:09:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

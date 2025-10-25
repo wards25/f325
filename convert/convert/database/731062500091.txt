@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 731062500091
+                                                            Branch - 3106 Batangas San Pascual Waltermart(SAN ANTONIO,SAN PASCUAL BATANGAS CITY)
+                                                            Prepared by - JANETTE F. FORTU on 08/06/2025
+                                                            Issued by - ________________________________
+                                                                         MILDRED G. MENDOZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167452   11  Nestle Chuckie Cal-N 250mL  24 08/31/25 E         28.08   308.88
+                                              .           
+ 1167456    3  Nestle Chuckie Cal-N 1000mL 12 07/31/25 F        102.06   306.18
+                                              .           
+ 1167467    5  Nestle Frsh Mlk 250mL       24 08/07/25 E         36.23   181.15
+                                              .           
+ 3748409   12  Milo w/Actigen-E RTD 180mL  32 08/31/25 E         23.09   277.08
+                                              .           
+ 3760009   52  Nido NutriSnaxBnna-Crot110mL60 08/31/25 E         17.76   923.52
+                                              .           
+ 3760011   50  Nido NutriSnaxSbry-Crot110mL60 08/31/25 E         17.76   888.00
+                                              .           
+ 4014031    8  Nestle Chuckie Cal-N 180mL  32 08/31/25 E         21.73   173.84
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,058.65
+                                                       Rundate 08/06/2025  14:54:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

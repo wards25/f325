@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730002500073
+                                                            Branch - 3000 Mariveles Poblacion(BATAAN MARIVELES )
+                                                            Prepared by - BERLYN A. TINIO on 06/27/2025
+                                                            Issued by - ________________________________
+                                                                         MARIANNE T. SALAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760009   13  Nido NutriSnaxBnna-Crot110mL60 05/31/25 F         17.76   230.88
+                                              00          
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60 12/31/25 D         17.76    17.76
+                                              00          
+ 4025032    5  Nestle Coffeemate 400g      24 06/30/25 F        109.57   547.85
+                                              4067643841  
+ 4025099   41  Nestle KKrunch 35g          72 03/01/25 F         16.36   670.76
+                                              40610630B1  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,467.25
+                                                       Rundate 06/27/2025  14:29:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

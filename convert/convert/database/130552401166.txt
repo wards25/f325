@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130552401166
+                                                            Branch - 3055 Ilocos Sur Narvacan Poblacion(Sta Lucia, Narvacan, I.S. )
+                                                            Prepared by - JLPAISTE/ECCABBAT on 09/03/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCO S. BALAQUE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456   20  Nestle Chuckie Cal-N 1000mL 12 08/31/24 E        102.06  2041.20
+                                              .           
+ 3748444    1  Nestea Ap ITea 20g         144          D         18.57    18.57
+                                              .           
+ 3760011    3  Nido NutriSnaxSbry-Crot110mL60          D         17.76    53.28
+                                              .           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              .           
+ 4530041    2  Nestle Trix Bfast Cer 20g  120          D         13.64    27.28
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,147.70
+                                                       Rundate 09/07/2024  09:16:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

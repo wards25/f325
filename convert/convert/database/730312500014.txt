@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730312500014
+                                                            Branch - 3031 PAL QZN NTL HWY(NARRA PALAWAN )
+                                                            Prepared by - MS. JOSIE L. GAMALA on 02/06/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RENY F. BUNGAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3973046    4  Selecta Forti Mlk LFat1Lx2SP 6 12/01/24 E        156.12   624.48
+                                              1           
+ 4113058    9  Magnol All-Pur Crm Orig110mL36 02/21/25 E         33.01   297.09
+                                              1           
+ 4510071    1  Axion Dwshng Paste Lem350gPP24 03/03/26 D         59.86    59.86
+                                              1           
+ 4510106    1  Axion DLiq GreaseStrLem850mL12 03/03/26 D        166.47   166.47
+                                              1           
+ 4510107    3  Mega Sard In TS 155g        10 04/26/27 D         21.60    64.80
+                                              1           
+ 4510109    3  Mega Sard Nat Oil 155g      10 11/02/24 E         22.73    68.19
+                                              1           
+ 4510111    1  Mega Sard In TS Chili 155g  10 05/15/27 D         21.83    21.83
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,302.72
+                                                       Rundate 02/07/2025  14:04:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

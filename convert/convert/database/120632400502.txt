@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120632400502
+                                                            Branch - 2063 Barobo Poblacion(POBLACION BAROBO SURIGAO DEL S UR)
+                                                            Prepared by - BRIANNE L. JUATON on 08/21/2024
+                                                            Issued by - ________________________________
+                                                                         FLORLYN D. LAMPAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 01/24/25 D        100.18   100.18
+                                              23269824    
+ 3748503    1  Nestle KKrunch SPck 80g     24 06/03/25 D         47.08    47.08
+                                              41550631    
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 04/30/25 D         11.80    11.80
+                                              41090602s1  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          159.06
+                                                       Rundate 08/21/2024  16:45:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

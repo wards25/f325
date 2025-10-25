@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111152400187
+                                                            Branch - 1115 KALOOKAN CITY VICAS(KALOOKAN CITY VICAS PEOPLE' PL ACE BLDG SIKATUNA)
+                                                            Prepared by - Jane Montalban-Acu¤a on 02/27/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MA. CORAZON DE JESUS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3623291   12  Musli Oat Bisc Choc 60g     24 03/08/24 E         31.50   378.00
+                                              h2310134    
+ 3723284    1  Fudgee Barr Choc Blst       10 03/24/24 E          7.65     7.65
+                                              ca95        
+ 3723285    3  Fudgee Barr Mlky Crze       10 03/22/24 E          7.65    22.95
+                                              va73        
+ 4103081    1  Del M Tmto Kchup OrigPch320g36 02/14/24 F         28.07    28.07
+                                              3045tfq05   
+ 4110018    6  Choco Mucho Mlk Choc 30g    10 03/29/24 E          9.30    55.80
+                                              a12m        
+ 4110019    3  Choco Mucho Wh Choc 30g     10 03/30/24 E          9.30    27.90
+                                              a2m         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          520.37
+                                                       Rundate 02/27/2024  14:02:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

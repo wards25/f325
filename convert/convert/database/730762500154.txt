@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730762500154
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103584    3  Del M Pine Or 46oz          12 02/01/25 F         98.00   294.00
+                                              .           
+ 1104045    1  Del M Pine Jce Sbrry Tetra1L12 07/10/25 D         89.04    89.04
+                                              .           
+ 1104111   12  Del M Vinamilk IQSmrtSb110mL48 03/27/25 E         12.82   153.84
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          536.88
+                                                       Rundate 02/24/2025  15:57:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

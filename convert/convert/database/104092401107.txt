@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092401107
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 10/14/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009518    1  Royal Spaghetti 400g        35 11/11/24 D         58.67    58.67
+                                              25A         
+ 3413872    2  Nagaraya Crkr Nut Hot&Sp160g48 05/01/25 D         41.27    82.54
+                                              24767       
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20 12/09/25 D         12.33    12.33
+                                              B662M       
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 03/25/25 D         20.16    20.16
+                                              C8A         
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 02/20/25 D         20.16    20.16
+                                              A3B         
+ 4100010    6  Kettle KornCheese120gx2SP10 16 12/31/24 D         62.43   374.58
+                                              W3          
+ 4103051    2  Del M Spag Pasta Mrienda175g40 10/07/25 D         29.87    59.74
+                                              328ODZ      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          628.18
+                                                       Rundate 10/14/2024  14:00:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

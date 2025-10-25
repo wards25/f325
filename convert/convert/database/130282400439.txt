@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130282400439
+                                                            Branch - 3028 Macabebe Poblacion(3028 MACABEBE POBLACION )
+                                                            Prepared by - APRIL JOY PAULE on 10/05/2024
+                                                            Issued by - ________________________________
+                                                                         MRS.Ginky D. Aguilar
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148938    8  Selecta Forti MlkLowFat245mL24 10/06/24 E         34.23   273.84
+                                              D3DA0       
+ 1148939    7  Selecta Forti Mlk LowFat 1L 12 10/16/24 E         91.92   643.44
+                                              48F6MB0     
+ 4110019    4  Choco Mucho Wh Choc 30g     10 10/27/24 E          9.30    37.20
+                                              A2M         
+ 4180020   28  Mega Tuna Flks In Oil 155g  50 09/08/24 F         36.90  1033.20
+                                              GSB2809     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,987.68
+                                                       Rundate 10/05/2024  15:09:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

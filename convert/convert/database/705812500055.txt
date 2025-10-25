@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705812500055
+                                                            Branch - 581 ULTIMRT SPBL(M. Paulino st., San Pablo City Laguna 4000)
+                                                            Prepared by - Roxanne P. Francisco on 03/10/2025
+                                                            Issued by - ________________________________
+                                                                         Maria Arlene D. Manito
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465880   10  Magnol Frsh Mlk 250mL  24      03/07/25 F         33.27   332.70
+                                              X           
+ 3723389   56  Energen Mlk&Cer Dr Vnla 40g240 03/14/25 E          7.01   392.56
+                                              X           
+ 3723646    4  Selecta Dolce LFat Choc245mL24 03/20/25 E         27.14   108.56
+                                              X           
+ 3723648   10  Selecta Dolce LFat Choc 1L  12 03/15/25 E         85.96   859.60
+                                              X           
+ 3723685    1  Rebisco Hansel Crackers 32g 10 02/12/25 F          5.97     5.97
+                                              X           
+ 4100002    1  Kettle Korn Cheese 120g     30 12/02/24 F         39.74    39.74
+                                              X           
+ 4110019    1  Choco Mucho Wh Choc 30g     10 11/18/24 F          9.30     9.30
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,748.43
+                                                       Rundate 03/10/2025  13:37:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

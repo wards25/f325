@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720602500044
+                                                            Branch - 2060 Davao City Bacaca(DAVAO CITY BACACA )
+                                                            Prepared by - MARY DANE M. VERANO on 02/04/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MARIA CHRISTINA R. BENSOY
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210407    1  Argentina Meat Loaf 170g    48 06/22/24 D         22.38    22.38
+                                              6BL01       
+ 1210484    1  Argentina Fsta Ssge 175g    48 12/02/23 D         27.14    27.14
+                                              6BL63       
+ 1210486    1  Argentina CBeef Jr 150g     48 06/08/24 D         32.38    32.38
+                                              LCB06       
+ 3048400    1  555 Sardines TS 155g       100 09/15/27 D         22.80    22.80
+                                              06184       
+ 3048405    1  555 Sardines TS Hot 155g   100 09/04/26 D         23.09    23.09
+                                              5YN37       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          127.79
+                                                       Rundate 02/05/2025  17:38:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

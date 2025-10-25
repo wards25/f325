@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120902400685
+                                                            Branch - 2090 Sultan Kudarat Isulan Kalawag(2090 ISULAN KALAWAG BRANCH )
+                                                            Prepared by - DORIS IMEEJ.MALDEPE¥A on 09/19/2024
+                                                            Issued by - ________________________________
+                                                                         MS.CRISTINA P.CATUNAO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723396    3  Entrasol Pltnm Ad PdrChoc200g3 01/05/25 H        352.60  1057.80
+                                              23u0506gu   
+ 3723398    6  Entrasol Pltnm Ad PdrChoc600g3 12/05/24 H        906.80  5440.80
+                                              23t0501gu   
+ 3723400    3  Entrasol Pltnm Ad PdrVnla200g3 11/24/24 H        352.60  1057.80
+                                              23s22402gu  
+ 3723402    1  Entrasol Pltnm Ad PdrVnla600g3 12/12/24 H        906.80   906.80
+                                              23t1801gu   
+ 3780490   17  Fitbar Choc 22gx5           24 11/27/24 H        130.95  2226.15
+                                              23y27y03    
+ 3780491    5  Fitbar Fruits 22gx5         24 11/20/24 H        130.95   654.75
+                                              153715      
+ 3900047    7  Fitbar Tiramisu Delight 22g 12 02/15/24 H         27.00   189.00
+                                              24p15y3     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       11,533.10
+                                                       Rundate 09/19/2024  19:56:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  H-Recalled by Supplier

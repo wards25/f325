@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111182401228
+                                                            Branch - 1118 BULACAN PLARIDEL TABANG(BULACAN PLARIDEL TABANG DISTRICT 10)
+                                                            Prepared by - Beth chavez on 11/29/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MARICEL L. MARQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144 02/01/26 D          7.55     7.55
+                                              xx          
+ 3050012    2  Surf Pdr PrplBlom Fabcon50g288 02/01/26 D          6.13    12.26
+                                              xx          
+ 3050074    1  Surf Pdr Antibac ActvCln60g288 01/01/26 D          6.13     6.13
+                                              xx          
+ 3870066    3  Creamsilk Cond TKR UR&S10mL288 03/01/26 D          6.66    19.98
+                                              xx          
+ 6200230    2  Surf FabCond Bl FrshSac40mL360 01/01/26 D          7.30    14.60
+                                              cxx         
+ 6200231    2  Surf Pdr Tawas 57g         288 01/01/26 D          6.13    12.26
+                                              xx          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           72.78
+                                                       Rundate 11/28/2024  17:45:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

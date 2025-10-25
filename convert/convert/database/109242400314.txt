@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109242400314
+                                                            Branch - 924 Davao City Sales(GOV. SALES ST. DAVAO CITY )
+                                                            Prepared by - FATIMA BARTOLOME on 10/22/2024
+                                                            Issued by - ________________________________
+                                                                         JOANNE MICHELLE ASTILLO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3980036    3  Axe Dry Deo Ron DarkTemp 40mL6 11/01/24 E        119.81   359.43
+                                              291122      
+ 3980112    3  Eskinol Clssc Wh Bhead P135mL6 11/15/24 E         70.02   210.06
+                                              261122112   
+ 5800283    1  Eskinol Spotl Wh Cal 225mL  12 11/07/24 E        114.42   114.42
+                                              181122112   
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          683.91
+                                                       Rundate 10/22/2024  12:40:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

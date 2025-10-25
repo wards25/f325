@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705242500267
+                                                            Branch - 524 OR MIN PMLYN NAUTCL HWY(Marfrancisco,Pin. Or. Mdo. )
+                                                            Prepared by - Evangeline L. Custodio on 07/03/2025
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723566    1  Musli OatCrnchySbry&Almd375g14 07/30/25 E        160.65   160.65
+                                              L240740     
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 07/01/25 F         80.88    80.88
+                                              B5RA0       
+ 4160034    2  Bubble Man DLiq Kal 880mLx2 10 07/15/25 E        116.82   233.64
+                                              0           
+ 4160035   12  Bubble Man DLiq Lem 270mLx2 10 07/25/25 E         46.26   555.12
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,030.29
+                                                       Rundate 07/03/2025  17:26:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711222500183
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - Maris Teodosio on 03/22/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288 05/06/27 D          6.13     6.13
+                                              2324        
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              080524      
+ 3870131    1  Dove Sh BK Strgt&Slky 10mL 288          D          5.68     5.68
+                                              no lot      
+ 3980716   15  Rexona Wmen RonFrshSkura45mL24 04/30/25 E        120.00  1800.00
+                                              150423      
+ 6200024    1  Surf Liq Rose Fresh 64mL   288          D          6.42     6.42
+                                              2039        
+ 6200091    1  Surf Pdr Rose Frsh 65g B6G1 40          D         36.75    36.75
+                                              no lot      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,861.11
+                                                       Rundate 03/22/2025  14:00:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

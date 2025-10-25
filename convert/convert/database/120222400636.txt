@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120222400636
+                                                            Branch - 2022 Linamon Poblacion(LINAMON LANAO DEL NORTE )
+                                                            Prepared by - Jeana L. Solatorio on 11/03/2024
+                                                            Issued by - ________________________________
+                                                                         RUFINO B. BARCENAS JR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    1  Selecta Moo Choc 245mL      24          D         28.36    28.36
+                                              xxx         
+ 3254310   24  UFC Bnana Csup Reg 320g     24 11/18/24 E         23.40   561.60
+                                              xxx         
+ 3856633    1  Mang Tomas Lchon Sce 325g   24 11/20/24 E         33.25    33.25
+                                              xxx         
+ 3856643   10  UFC Sweet Chili Sce 340g    24 10/18/24 E         37.76   377.60
+                                              xxx         
+ 3856650   11  Mang Tomas Hot&Spcy 325g    24 11/20/24 E         34.20   376.20
+                                              xxx         
+ 4510107    1  Mega Sard In TS 155g        10          D         21.60    21.60
+                                              xxx         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,398.61
+                                                       Rundate 11/03/2024  12:56:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

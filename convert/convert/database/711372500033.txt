@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711372500033
+                                                            Branch - 1137 MANILA SAMPALOC ESPANA BLVD(2202ESPANA BLVD MLA )
+                                                            Prepared by - MYLIN P. HINOGUIN on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         CATHY M. KABILING
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870131    8  Dove Sh BK Strgt&Slky 10mL 288          D          5.59    44.72
+                                              nolot       
+ 3870305    1  Tresemme Cond KeratinSm330mL12          D        280.13   280.13
+                                              nolot       
+ 5800328   13  Ladys C Sandw Sprd 80mL     36 01/21/25 E         31.55   410.15
+                                              240463      
+ 6200017    3  Sunsilk Sh Sakura&Rbrry170mL24 01/29/25 E        135.24   405.72
+                                              1308221     
+ 6200021    3  Tresemme Cond KeratinSm170mL24          D        157.73   473.19
+                                              nolot       
+ 6200099    2  Vitakeratin Brzln Strgt24mL288          D          4.95     9.90
+                                              nolot       
+ 6200166    2  Sunsilk Sh Strgt 180mL      24 01/31/25 E        115.93   231.86
+                                              1508221     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,855.67
+                                                       Rundate 01/13/2025  15:06:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

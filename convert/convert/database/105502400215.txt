@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105502400215
+                                                            Branch - 550 Virac Centermall( )
+                                                            Prepared by - JESSICA A. GONZALES on 07/09/2024
+                                                            Issued by - ________________________________
+                                                                         JOANNE ROSE R. TAPIT
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016260    1  Century TunaFlk Hot&Spcy155g50 03/01/26 D         32.53    32.53
+                                              CHMKCD20033 
+ 1016288    1  555 Tuna Flakes VegOil 155g 50 08/14/25 D         29.68    29.68
+                                              SKIPJACKFAO7
+ 1016352    1  Fresca Tuna Afrtda 175g     48 03/03/26 D         24.48    24.48
+                                              CAFFSE03181 
+ 1016359    2  Century Tuna W/ Cal 155g    50 11/07/25 D         32.17    64.34
+                                              TWKCD1726C  
+ 1016372    1  Century Tuna Mayo Sprd 85g  48 01/11/26 D         25.35    25.35
+                                              SKIPJACKFA07
+ 1148510    4  Blue Bay Tuna Afritada 155g 50 09/16/25 D         28.35   113.40
+                                              AAFSD0906B  
+ 1210406    2  Argentina Meat Loaf 250g    48 06/16/26 D         30.95    61.90
+                                              AMM06       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          351.68
+                                                       Rundate 07/09/2024  18:21:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

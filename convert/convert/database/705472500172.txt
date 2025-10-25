@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705472500172
+                                                            Branch - 547 Gapan City JA Santos Ave.(STO. NI¥O, GAPAN CITY )
+                                                            Prepared by - CRISTEL F. IMBAG on 07/29/2025
+                                                            Issued by - ________________________________
+                                                                         MELANIE S. FERNANDO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048400    1  555 Sardines TS 155g       100 05/13/27 D         21.85    21.85
+                                              592         
+ 3048405    1  555 Sardines TS Hot 155g   100 05/22/26 D         22.14    22.14
+                                              135         
+ 3793347   19  Birch Tree FortiChocoPdr29g160 07/31/25 E          8.17   155.23
+                                              B33B023CA   
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          199.22
+                                                       Rundate 07/29/2025  15:51:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

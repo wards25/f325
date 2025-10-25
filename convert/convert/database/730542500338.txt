@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730542500338
+                                                            Branch - 3054 NUEVA ECIJA JAEN POBLACION(POBLACION JAEN N.E. )
+                                                            Prepared by - DIANA S. PAMILOZA on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         ADRIAN B. MAGNO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530000   18  Starbucks Latte DShtEsp220mL24 08/02/25 F         76.00  1368.00
+                                              42169449A3  
+ 4530020   15  Nestle Chuckie CN250mLx4P110 8 08/31/25 E        102.80  1542.00
+                                              429664382A  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,910.00
+                                                       Rundate 08/13/2025  10:34:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711522500015
+                                                            Branch - 1152 PASIG CITY AYALA MALLS FELIZ(PASIG AYALA MALLS FELIZ D18)
+                                                            Prepared by - llhynne on 01/10/2025
+                                                            Issued by - ________________________________
+                                                                         MR. NOLY R. DAGTA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050004    1  Surf Pdr Rose Frsh 57g     288 01/31/27 D          6.13     6.13
+                                              228         
+ 3870043   20  Creamsilk Cond S-Strght11mL288 04/24/27 D          5.93   118.60
+                                              4118        
+ 3980345    3  Rexona Wmen Ron Whtng 45mL   6 05/31/25 E        120.00   360.00
+                                              130523      
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288 08/31/26 D          5.88     5.88
+                                              325         
+ 6200168    1  Rexona Wmen Ron AntiStain45mL6 05/31/25 E        120.00   120.00
+                                              21052311    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          610.61
+                                                       Rundate 01/10/2025  14:08:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

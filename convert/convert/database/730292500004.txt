@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730292500004
+                                                            Branch - 3029 Rosario Public Market(ROSARIO,BATANGAS )
+                                                            Prepared by - LIEZL T. COLOMA on 01/29/2025
+                                                            Issued by - ________________________________
+                                                                         MA. AZENITH C. HUFALAR
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760009   49  Nido NutriSnaxBnna-Crot110mL60 02/28/25 E         17.76   870.24
+                                              40800189LD  
+ 4025037  229  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20  1877.80
+                                              40090602MI  
+ 4025056  161  Nescafe Crmy Wh 25.5g      240 02/28/25 E          8.20  1320.20
+                                              40448985AI31
+ 4025237   20  Nescafe Crmy Wh Twin Pck51g200 02/28/25 E         12.37   247.40
+                                              40380597E1L1
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,315.64
+                                                       Rundate 01/29/2025  13:07:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

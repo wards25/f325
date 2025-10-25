@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101842400840
+                                                            Branch - 184 Taguig City Gen. Luna(TAGUIG GEN LUNA )
+                                                            Prepared by - KENNETH T. SEVILLA D20 on 09/18/2024
+                                                            Issued by - ________________________________
+                                                                         MS. RUCHELLE G. ARGAMOSA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148938    1  Selecta Forti MlkLowFat245mL24          D         34.23    34.23
+                                              .           
+ 1165682   21  Magnol Daily Quezo 160g     48 10/15/24 E         33.27   698.67
+                                              40518bba12  
+ 3465906    1  Magnol Chzee Sqze Chdr 115g 24          D         40.21    40.21
+                                              .           
+ 3723644    2  Energen Champion Choc TP30g120          D         14.24    28.48
+                                              .           
+ 3723687    1  RC Cola 1.5L                 6          D         47.25    47.25
+                                              .           
+ 4136010    2  Kopiko Blck 3-N-1 Coff 30g 240          D          6.80    13.60
+                                              .           
+ 4510226    1  Happy Pnut Bbq 100g         24          D         30.60    30.60
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          893.04
+                                                       Rundate 09/18/2024  16:10:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110002401164
+                                                            Branch - 1000 Quezon City MDC 100(1000-QC MDC 100 )
+                                                            Prepared by - mitch Lapuz on 10/09/2024
+                                                            Issued by - ________________________________
+                                                                         Ms.Jennifer Pio De Roda
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615296    1  San Mig Coff 3n1 Crema 25g 240 03/27/26 D          6.89     6.89
+                                              1B6         
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 05/08/25 D          7.01     7.01
+                                              0335TGP     
+ 3723400    2  Entrasol Pltnm Ad PdrVnla200g3 11/19/24 E        352.60   705.20
+                                              238190      
+ 3723593    1  Tiger Balm Red Jar 19g      12 01/31/27 D         72.00    72.00
+                                              M230097     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          791.10
+                                                       Rundate 10/09/2024  17:04:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121222400745
+                                                            Branch - 2122 Negros Oriental Siaton Poblacion(EV BLDG,POB 2 SIATON, NEG OR )
+                                                            Prepared by - MS.NOEME N.SAAVEDRA on 11/28/2024
+                                                            Issued by - ________________________________
+                                                                         MS. ZENITH V BARRAQUIAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760013    1  Nescafe Clssc Sulit Pck 10g 80 11/25/25 D          9.52     9.52
+                                              NO LOT      
+ 4025037   79  Nescafe 3n1 CrmyLatte27.5g 240 11/30/24 E          8.20   647.80
+                                              33080602M   
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 04/30/25 D         12.37    24.74
+                                              41080602RI32
+ 4025239   43  Nestle CarnationCndnsda388mL48 11/27/24 E         64.49  2773.07
+                                              339115507A  
+ 4530041    1  Nestle Trix Bfast Cer 20g  120 05/10/25 D         13.64    13.64
+                                              41660631CE2 
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,468.77
+                                                       Rundate 11/28/2024  09:25:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

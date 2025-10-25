@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720592500163
+                                                            Branch - 2059 CBU MDE C MGUIKY(MAGUIKAY MANDAUE CITY CEBU )
+                                                            Prepared by - MARIBETH A. ARMILLA on 10/04/2025
+                                                            Issued by - ________________________________
+                                                                         JOLLIBEE A. BERECIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    2  Selecta Moo Choc 245mL      24 09/05/25 F         28.36    56.72
+                                              4KMP        
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 09/04/25 F         78.95    78.95
+                                              25D8AED     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          135.67
+                                                       Rundate 10/04/2025  18:22:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

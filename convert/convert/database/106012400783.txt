@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106012400783
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 07/16/2024
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104029    1  Del M Pine Jce Swtnd Tetra1L12 12/12/24 D         87.31    87.31
+                                              sb1c        
+ 1104115    1  Del M Vinamilk Ygrt Sb 110mL48 11/01/24 D         11.07    11.07
+                                              m2208       
+ 3723343    2  Cal Cheese Chse Wfer 48g    60 09/25/24 D         10.64    21.28
+                                              2609030101  
+ 3856661   24  Locally Dalandan Jce Dr240mL24 08/29/24 E         22.80   547.20
+                                              23f06s51832 
+ 3856662    3  Locally Tamarind Jce Dr240mL24 06/13/24 E         20.88    62.64
+                                              23c21s51507 
+ 3856664   21  Locally Pmlo Jce Dr 240mL   24 08/30/24 E         20.88   438.48
+                                              23f07s41219 
+ 4510195    1  Nachitos TortillaChipBbq410g10 09/05/24 D        108.80   108.80
+                                              a11         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,276.78
+                                                       Rundate 07/16/2024  13:09:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701942500097
+                                                            Branch - 194 Manila Ermita Robinsons Place(ROBINSONS PLACE ERMITA MANILA )
+                                                            Prepared by - KRISTIA MARIE F. ABALOS on 10/08/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CLARISSA C.HILARIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465867    1  Magnol Choc Mlk Dr 250mL    24 05/20/26 D         26.77    26.77
+                                              12345       
+ 3723285    6  Fudgee Barr MlkCustrdVnla41g10 12/03/25 D          8.25    49.50
+                                              112         
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 02/28/26 D         22.28    22.28
+                                              A2B         
+ 3723683    3  Fudgee Barr Macapuno 41g    10 10/20/25 D          8.33    24.99
+                                              12365       
+ 3973030    2  Selecta FortiMlkStrlzed200mL24 05/03/26 D         22.16    44.32
+                                              358         
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 11/20/25 D          6.04     6.04
+                                              12345       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          173.90
+                                                       Rundate 10/08/2025  15:12:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

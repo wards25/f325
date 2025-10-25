@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103452401250
+                                                            Branch - 345 Quezon City Trinoma Mall Level M1( )
+                                                            Prepared by - Mariz on 07/25/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jannel M. Fegi
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048746    1  Suncoast Lgt Wat 650mL      24          D         18.00    18.00
+                                              .           
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60          D         20.16    20.16
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              .           
+ 3780491    3  Fitbar Fruits 22gx5         24          D        130.95   392.85
+                                              .           
+ 4103063    1  Del M Tmto Sce OrigStyl 115g48          D         17.69    17.69
+                                              .           
+ 4180011    1  Mega Sard In TS Chili 425g  24          D         51.08    51.08
+                                              .           
+ 4510111    1  Mega Sard In TS Chili 155g  10          D         21.83    21.83
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          532.83
+                                                       Rundate 07/25/2024  16:58:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

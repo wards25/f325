@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720642500002
+                                                            Branch - 2064 ZAMB DS MLV MLOY-ON MABINI(MABINI ST. BRGY,MALOLOY-ON MOL AVE ZDS)
+                                                            Prepared by - Consuelo S. Darunday on 01/03/2025
+                                                            Issued by - ________________________________
+                                                                         Arlyn C. Gatoc
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025032   12  Nestle Coffeemate 400g      24 12/31/25 D        109.57  1314.84
+                                              4256613341  
+ 4530045    1  Nestle Frsh Mlk 1000mLx2SP15 7 08/07/25 D        197.10   197.10
+                                              23293960    
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,511.94
+                                                       Rundate 01/03/2025  20:23:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

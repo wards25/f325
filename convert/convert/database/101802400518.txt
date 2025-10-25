@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101802400518
+                                                            Branch - 180 Meycauayan City Malhacan(MEYCAUAYAN MALHACAN )
+                                                            Prepared by - JUDY/CHE/NELDA/NHEDY/ENZO on 07/04/2024
+                                                            Issued by - ________________________________
+                                                                         MS. SOL P. MISTICA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016298    1  555 Tuna Flakes Mchado 155g 50 01/30/27 D         26.68    26.68
+                                              DV55HE      
+ 3048425    2  555 Mackerel TS 155g       100 10/30/24 D         27.98    55.96
+                                              1002        
+ 3793347    1  Birch Tree FortiChocoPdr29g160 05/30/24 D          8.17     8.17
+                                              3Y331N      
+ 3793349    1  555 Tuna Spcy Paksiw 155g   50 02/01/26 D         26.68    26.68
+                                              148C        
+ 4131022    3  Birch Tree Adv Vnla 300g    12 08/31/24 E        323.19   969.57
+                                              2g238d      
+ 4131036    3  Birch Tree Adv Mocha 300g   12 08/31/24 E        323.19   969.57
+                                              2g239d      
+ 4131038    2  Birch Tree Adv Mocha 850g    6 08/30/24 E        890.19  1780.38
+                                              239db       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,837.01
+                                                       Rundate 07/04/2024  15:45:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

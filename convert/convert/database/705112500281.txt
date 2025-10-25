@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705112500281
+                                                            Branch - 511 OR MIN CPN C NEO CPN(NEO CALAPAN MALL ROXAS DRIVE,LUMANGBAYAN)
+                                                            Prepared by - APRILYN C. MALALUAN on 09/03/2025
+                                                            Issued by - ________________________________
+                                                                         JOEL P. ALMINANZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO LOGISTICS INC (79445  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 5800161    2  Baby Dove BbWshRM430mLx2R30% 6 07/06/25 F        342.71   685.42
+                                              10172       
+ 5800163    1  Baby Dove BbWshSM430mLx2R30% 6 07/09/25 F        410.08   410.08
+                                              10172       
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,095.50
+                                                       Rundate 09/03/2025  15:03:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

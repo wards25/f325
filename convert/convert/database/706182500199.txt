@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706182500199
+                                                            Branch - 618 Subic Nat'l  Hway(Baraca-Camachile Subic Zambales)
+                                                            Prepared by - JESSICA DANIELLE RODENAS on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         ROGELIO J. SALVADOR
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574    5  Kitkat 4F 35g               24 06/19/25 F         29.27   146.35
+                                              41719531BA  
+ 3760009    7  Nido NutriSnaxBnna-Crot110mL60 08/31/25 E         17.76   124.32
+                                              42500189LD  
+ 4025032    1  Nestle Coffeemate 400g      24 06/30/25 F        109.57   109.57
+                                              4067643841  
+ 4066029    1  Kitkat Chunky Mlk Choc 38g  24 08/22/25 D         41.15    41.15
+                                              42359531CT  
+ 4530000   14  Starbucks Latte DShtEsp220mL24 08/02/25 F         76.00  1064.00
+                                              42169449A3  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,485.39
+                                                       Rundate 08/13/2025  18:32:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

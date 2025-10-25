@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103492400115
+                                                            Branch - 349 Makati City Valero 2 Carpark(VALERO ST. MAKATI CITY )
+                                                            Prepared by - Leizel M. Ongjuco on 01/27/2024
+                                                            Issued by - ________________________________
+                                                                         MS CATHERINE F. PALLES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24 10/01/25 D         28.00    28.00
+                                              l3283yy     
+ 3723387    2  Rite'n Lite Or Dr 250mL     24 09/14/24 D         20.25    40.50
+                                              sbt03621100 
+ 3723582    1  Naturelab FragBMistWint100mL 6          D        111.75   111.75
+                                              .           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 02/23/25 D         10.63    10.63
+                                              gr2308bd4147
+ 3973031    5  Selecta Forti Mlk Strlzed 1L12 02/20/24 E         80.88   404.40
+                                              53agjbi     
+ 4100002    1  Kettle Korn Cheese 120g     30 07/10/24 D         36.25    36.25
+                                              .           
+ 4136010    3  Kopiko Blck 3-N-1 Coff 30g 240          D          6.83    20.49
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          652.02
+                                                       Rundate 01/27/2024  16:51:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

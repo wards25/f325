@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700552500319
+                                                            Branch - 55 EDSA Nepa Q. Mart(EDSA NEPA QMART DIST IV )
+                                                            Prepared by - CESSY on 06/10/2025
+                                                            Issued by - ________________________________
+                                                                         MR.DANIEL JAY M. MILLORA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039293    1  Breeze Pdr Det ActvBlch 66g144          D         12.64    12.64
+                                              .           
+ 3870023    5  Creamsilk Cond Dam Ctrl11mL288          D          5.93    29.65
+                                              .           
+ 3870033    1  Creamsilk Cond HFallDef11mL288          D          5.93     5.93
+                                              .           
+ 3870043    1  Creamsilk Cond S-Strght11mL288          D          5.93     5.93
+                                              .           
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              .           
+ 3870124    1  Dove Sh Rstre Nrshng Cr10mL288          D          5.15     5.15
+                                              .           
+ 3870227    1  Creamsilk CondTKR UCR 10mL 288          D          6.66     6.66
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           72.62
+                                                       Rundate 06/10/2025  14:55:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

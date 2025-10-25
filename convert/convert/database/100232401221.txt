@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100232401221
+                                                            Branch - 23 GHLS OFC(23 GREENHILLS OFFICENTER )
+                                                            Prepared by - WINDY DIST - 18 on 10/24/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MABEL S. CATUBAY
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016288    1  555 Tuna Flakes VegOil 155g 50          D         29.68    29.68
+                                              01062       
+ 1016292    1  555 Tuna Flakes Cldreta 155g50          D         26.68    26.68
+                                              08451       
+ 1016352    1  Fresca Tuna Afrtda 175g     48          D         24.48    24.48
+                                              19333       
+ 1210406    2  Argentina Meat Loaf 250g    48          D         30.95    61.90
+                                              AM1 07      
+ 3048425    1  555 Mackerel TS 155g       100          D         27.98    27.98
+                                              GMTSE       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          170.72
+                                                       Rundate 10/24/2024  15:11:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106862400792
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos )
+                                                            Prepared by - Perfecto Menes on 07/12/2024
+                                                            Issued by - ________________________________
+                                                                         Analiza L. Caluya
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961   16  Del M Fit N RghtBurnApl330mL24 08/09/24 E         30.80   492.80
+                                              .           
+ 1104030    5  Del M Pine-Or Jce Tetra 1L  12 08/24/24 E         87.31   436.55
+                                              .           
+ 3723386    3  Rite'n Lite Lem Lime Dr250mL24          D         20.25    60.75
+                                              .           
+ 3723387    1  Rite'n Lite Or Dr 250mL     24          D         20.25    20.25
+                                              .           
+ 3723625   11  Kopiko Blanca TwnPckCoff58g120          D         11.22   123.42
+                                              .           
+ 3856627    2  Datu Puti Patis 350mL       24 08/14/24 E         23.51    47.02
+                                              .           
+ 3856661   12  Locally Dalandan Jce Dr240mL24 08/29/24 E         22.80   273.60
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,454.39
+                                                       Rundate 07/13/2024  12:59:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

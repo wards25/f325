@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730772500078
+                                                            Branch - 3077 Pampanga Sta. Ana San Joaquin Jasa(MD3077 PAMPANGA STA.ANA SAN JO AQUIN JASA)
+                                                            Prepared by - JOANNE CARLA C. VELASQUEZ on 03/28/2025
+                                                            Issued by - ________________________________
+                                                                         NORMAN A. URBANO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530055    2  Bonina Maternal Mlk Vnla350g18 03/31/26 G        303.74   607.48
+                                              4079735171  
+ 4530065    3  Nestogen LowLactose0-12M400g12 06/30/25 E        397.38  1192.14
+                                              334715801   
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,799.62
+                                                       Rundate 03/28/2025  09:05:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted

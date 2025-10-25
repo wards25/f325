@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705342500139
+                                                            Branch - 534 Camiling Poblacion(QUEZON AVE.CAMILING TARLAC )
+                                                            Prepared by - MARES D. VALENZUELA on 05/14/2025
+                                                            Issued by - ________________________________
+                                                                         WELLA MAE U. EWAYAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 02/28/25 F         91.92    91.92
+                                              38D5DPO     
+ 3723282    1  Cupp Keyk Choc Mcha         10 05/01/25 F          6.80     6.80
+                                              VB74        
+ 3856636   17  Datu Puti Soy Sce Pet 385mL 24 05/01/25 F         19.95   339.15
+                                              CBD         
+ 4110019   12  Choco Mucho Wh Choc 30g     10 05/18/25 E          9.30   111.60
+                                              B9M         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          549.47
+                                                       Rundate 05/14/2025  16:00:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

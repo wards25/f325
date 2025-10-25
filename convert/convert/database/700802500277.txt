@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700802500277
+                                                            Branch - 80 Sta. Cruz P. Burgos(STA CRUZ P. BURGOS 80 )
+                                                            Prepared by - DORIE L. RESURRECCION on 08/29/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MAILEEN E. REYES
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016294    1  555 Tuna Flakes Hot&Sp 155g 50 10/14/26 D         30.18    30.18
+                                              04431       
+ 1016370    1  Century Chili Crnd Tuna 180g4  08/02/26 D         38.01    38.01
+                                              1325f       
+ 1035680    2  Ligo Sard In TS 155g       100 04/22/27 E         22.82    45.64
+                                              jd0442      
+ 1191019    1  Hunts Pork&Beans Can 175g   48 08/14/25 E         22.38    22.38
+                                              hpb17       
+ 1210457    2  Argentina Liver Sprd 85g    48 09/28/25 E         22.14    44.28
+                                              alsm01      
+ 3793349   11  555 Tuna Spcy Paksiw 155g   50 09/15/25 E         26.68   293.48
+                                              stpssh      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          473.97
+                                                       Rundate 08/30/2025  13:41:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

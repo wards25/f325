@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130762400788
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - JOVELYN L.TOLENTINO on 07/09/2024
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103985    1  Del M Pine Jce HeartS 220mL 24 10/01/25 D         30.80    30.80
+                                              .           
+ 1104030    4  Del M Pine-Or Jce Tetra 1L  12 08/24/24 E         87.31   349.24
+                                              .           
+ 1148913    3  Selecta Forti Mlk 245mL     24 08/18/24 E         34.23   102.69
+                                              .           
+ 3254310    8  UFC Bnana Csup Reg 320g     24 08/06/24 E         23.40   187.20
+                                              .           
+ 3623295    1  Musli Oat Bisc BlueBCranB60g24          D         31.50    31.50
+                                              .           
+ 3723282   10  Cupp Keyk Choc Mcha         10 10/14/24 D          6.80    68.00
+                                              .           
+ 3723283    6  Cupp Keyk Choc Topps        10 08/07/24 E          7.74    46.44
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          815.87
+                                                       Rundate 07/09/2024  15:26:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

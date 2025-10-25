@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012500083
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 01/20/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254315    8  UFC Bnana Csup Reg 530g     18 01/10/25 E         40.38   323.04
+                                              XXX         
+ 3723584    3  Fiesta Fil SpagTpd1.6kgSP30 10 02/25/25 E        109.48   328.44
+                                              XXX         
+ 3723587    1  Fiesta SpagheTpd 3ChseSP18  12 12/17/24 E         68.76    68.76
+                                              56E2        
+ 3723588    3  Fiesta SpagheTpd Swt SP18   12 02/01/25 E         68.37   205.11
+                                              56E1        
+ 4100002   24  Kettle Korn Cheese 120g     30 12/21/24 E         39.74   953.76
+                                              M3          
+ 4100011    8  Kettle Korn Astd 120gx2SP10 16 01/27/25 E         62.43   499.44
+                                              M3          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,378.55
+                                                       Rundate 01/21/2025  08:20:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130472400376
+                                                            Branch - 3047 BATANGAS STO. TOMAS FPIP(STA ANASTACIA STO TOMAS BATS )
+                                                            Prepared by - ANNA KATHLEEN M. MENDOZA on 08/17/2024
+                                                            Issued by - ________________________________
+                                                                         MARK LEE R. LIWAG
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167452    1  Nestle Chuckie Cal-N 250mL  24 02/28/25 D         28.08    28.08
+                                              410464382A  
+ 1167456    4  Nestle Chuckie Cal-N 1000mL 12 04/30/25 D        102.06   408.24
+                                              41760189YD  
+ 1167467    3  Nestle Frsh Mlk 250mL       24 02/19/25 D         34.74   104.22
+                                              2327446906  
+ 3748416    3  Bear Br Strlzedw/Gnsg 200mL 32 01/07/25 D         25.23    75.69
+                                              41030189TD  
+ 3760009   11  Nido NutriSnaxBnna-Crot110mL60 10/31/24 D         17.76   195.36
+                                              3390189GE   
+ 3760011   51  Nido NutriSnaxSbry-Crot110mL60 12/31/24 D         17.76   905.76
+                                              40180189GD  
+ 4014031    1  Nestle Chuckie Cal-N 180mL  32 02/28/25 D         21.73    21.73
+                                              41020189FD  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,739.08
+                                                       Rundate 08/17/2024  12:08:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

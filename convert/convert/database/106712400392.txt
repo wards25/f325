@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106712400392
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE MIRA on 12/03/2024
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584    5  Fiesta Fil SpagTpd1.6kgSP30 10 12/08/24 E        109.48   547.40
+                                              56C1        
+ 3723586   13  Royal Spag R&T Swt1.6kgSP49 10 01/26/25 E        121.94  1585.22
+                                              506B        
+ 3723587    5  Fiesta SpagheTpd 3ChseSP18  12 09/12/24 F         68.76   343.80
+                                              56B1        
+ 3723588   23  Fiesta SpagheTpd Swt SP18   12 01/04/25 E         68.37  1572.51
+                                              56E1        
+ 3723590   15  Royal Cheesy R&T 1.6kg SP49 10 12/09/24 E        121.94  1829.10
+                                              1449        
+ 4100005    6  Kettle Korn Sltd Crmel 120g 30 01/01/25 D         36.25   217.50
+                                              ML          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,095.53
+                                                       Rundate 12/03/2024  14:38:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

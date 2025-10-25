@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100712402211
+                                                            Branch - 71 Quezon City Quezon Ave. Sct. Borromeo( )
+                                                            Prepared by - leah & mye on 08/25/2024
+                                                            Issued by - ________________________________
+                                                                         MS ELVIE V LEAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24          D         28.70    28.70
+                                              X           
+ 1103591    4  Del M Pine Jce Fiber 220mL  24          D         31.13   124.52
+                                              x           
+ 1103952    1  Del M Todays Mix Frt 432g   24 09/01/24 E         57.87    57.87
+                                              L2271YYMFES1
+ 1103985    1  Del M Pine Jce HeartS 220mL 24          D         31.13    31.13
+                                              X           
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24          D         20.25    20.25
+                                              x           
+ 3723675    1  Le Minerale 600mL           24          D          9.45     9.45
+                                              X           
+ 4103059   24  Del M Tmto Sce FilStyl 250g 48 09/02/24 E         22.59   542.16
+                                              3153TFM03   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          814.08
+                                                       Rundate 08/25/2024  11:10:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

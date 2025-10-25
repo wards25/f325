@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701202500142
+                                                            Branch - 120 Quezon City Araneta Center Farmers Plaza(GF ARTC FARMERS PLAZA CUBAO QC )
+                                                            Prepared by - ANALIZA A. BANQUIRAY on 04/07/2025
+                                                            Issued by - ________________________________
+                                                                         MR. LARSEN M. GACAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144          D          7.55     7.55
+                                              N/A         
+ 3039293    1  Breeze Pdr Det ActvBlch 66g144          D         12.64    12.64
+                                              N/A         
+ 3039296    2  Surf Pdr Chrry Blssm 50g   288          D          6.13    12.26
+                                              N/A         
+ 3050004    3  Surf Pdr Rose Frsh 57g     288          D          6.13    18.39
+                                              N/A         
+ 3870388    4  Creamsilk Cond TKR UHFD340mL12 05/16/25 E        308.90  1235.60
+                                              28111222    
+ 6200089    1  Surf Pdr Chrry Blssm65gB6G1 40          D         36.75    36.75
+                                              -           
+ 6200216   18  Surf Pdr Kal 57g           288          D          6.13   110.34
+                                              N/A         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,433.53
+                                                       Rundate 04/07/2025  12:03:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

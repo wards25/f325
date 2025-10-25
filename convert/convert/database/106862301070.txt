@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106862301070
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos )
+                                                            Prepared by - Perfecto Menes on 10/29/2023
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Hufana
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103950   23  Del M Tmto Paste 150g       48 09/30/23 E         29.40   676.20
+                                              1           
+ 3723566    2  Musli OatCrnchySbry&Almd375g14          D        160.65   321.30
+                                              .           
+ 3856662    8  Locally Tamarind Jce Dr240mL24 09/30/23 E         20.88   167.04
+                                              1           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,164.54
+                                                       Rundate 10/29/2023  12:37:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

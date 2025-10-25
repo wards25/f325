@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111222402727
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - NERI PEREZ on 12/14/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050023    1  Baby Dove Bb Lot 200mL       6 12/03/24 E        274.84   274.84
+                                              32092       
+ 3870309    3  Creamsilk Cond TKR UCR 300mL12 01/20/25 E        354.37  1063.11
+                                              0408221     
+ 3870317    1  Creamsilk Cond TKR UR&S340mL12 08/18/24 E        308.90   308.90
+                                              1802222     
+ 5800356    1  Tresemme Cond Pro KerSm170mL24 02/16/27 D        192.42   192.42
+                                              41          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,839.27
+                                                       Rundate 12/14/2024  11:46:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730092500025
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S. SARGUET on 02/10/2025
+                                                            Issued by - ________________________________
+                                                                         JOEL P.ALMINANZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413870    1  Nagaraya Crkr Nut Orig 160g 48 07/08/25 D         41.27    41.27
+                                              24840A      
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 03/11/26 D         11.48    11.48
+                                              TGR         
+ 3856660    7  Locally Calamnsi Jce Dr240mL24 12/21/24 E         25.08   175.56
+                                              LYCCM       
+ 4100011    2  Kettle Korn Astd 120gx2SP10 16 03/19/25 E         62.43   124.86
+                                              ml          
+ 4110040   36  Frootees Ckie Sbrry 32g     10 03/30/25 E          5.83   209.88
+                                              R14B2       
+ 4113093    3  Magnol Real Mayonnaise 80mL 24 09/23/25 D         27.65    82.95
+                                              204         
+ 4510111    1  Mega Sard In TS Chili 155g  10 05/15/27 D         21.83    21.83
+                                              CSC         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          667.83
+                                                       Rundate 02/10/2025  15:23:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

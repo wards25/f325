@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707422500008
+                                                            Branch - 742 Panabo City Quezon(PANABO CITY QUEZON BRANCH )
+                                                            Prepared by - ATCHO MAY M. DUCO on 01/15/2025
+                                                            Issued by - ________________________________
+                                                                         CLEO  B. GODOY
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723398    1  Entrasol Pltnm Ad PdrChoc600g3 01/05/25 E        906.80   906.80
+                                              23JO500U    
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 11/30/25 D         11.26    11.26
+                                              1552        
+ 3856643    4  UFC Sweet Chili Sce 340g    24 01/03/25 E         37.76   151.04
+                                              UFCS        
+ 4136008   16  Kopiko Cappuccino Coff 25g 240 12/24/24 E          7.40   118.40
+                                              0471        
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,187.50
+                                                       Rundate 01/15/2025  12:42:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

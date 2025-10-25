@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107612400132
+                                                            Branch - 761 Lupon C.Tuballa(C.TUBALLA ST., LUPON DVO.OR. )
+                                                            Prepared by - louella g. gregorio on 03/15/2024
+                                                            Issued by - ________________________________
+                                                                         RAMIEL D. MATALANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915   10  Selecta Forti Mlk 1L        12 03/13/24 E         85.46   854.60
+                                              c5dt0       
+ 1148939   11  Selecta Forti Mlk LowFat 1L 12 03/07/24 E         91.92  1011.12
+                                              25d5bm0     
+ 3973055   12  Selecta Farm Frsh Mlk 1L    12 03/05/24 E         93.30  1119.60
+                                              44d6mp0     
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,985.32
+                                                       Rundate 03/15/2024  15:31:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

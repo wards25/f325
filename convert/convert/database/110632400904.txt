@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110632400904
+                                                            Branch - 1063 Marikina City Barangka(A BONIFACIO AVE. BARANGKA )
+                                                            Prepared by - INA on 10/07/2024
+                                                            Issued by - ________________________________
+                                                                         MS. LETH S. TUBERA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682    6  Magnol Daily Quezo 160g     48 11/10/24 E         33.27   199.62
+                                              406137      
+ 3723343    4  Cal Cheese Chse Wfer 48g    60 06/17/25 D         13.01    52.04
+                                              60301       
+ 4110036   12  VitaCubes Frt Jelly Cdy 50g 10 11/29/24 E         18.00   216.00
+                                              AJ3         
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 01/05/25 D          6.80     6.80
+                                              1848TGR     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          474.46
+                                                       Rundate 10/07/2024  16:22:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

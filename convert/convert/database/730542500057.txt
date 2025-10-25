@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730542500057
+                                                            Branch - 3054 NUEVA ECIJA JAEN POBLACION(POBLACION JAEN N.E. )
+                                                            Prepared by - DIANA S. PAMILOZA on 02/14/2025
+                                                            Issued by - ________________________________
+                                                                         ADRIAN B. MAGNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO LOGISTICS INC (79445  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050014   18  Domex GKil UlThck Clsc30mL 144 08/15/24 G          5.19    93.42
+                                              1116        
+
+
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           93.42
+                                                       Rundate 02/14/2025  16:40:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

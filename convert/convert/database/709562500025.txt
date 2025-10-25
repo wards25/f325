@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709562500025
+                                                            Branch - 956 ILG BADELLES(Badelles St. Ext., Mahayahay Iligan City)
+                                                            Prepared by - JULIENNE ANGELO C. AGNES on 08/04/2025
+                                                            Issued by - ________________________________
+                                                                         MARVIN GEORGE D. POLI JR.
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009333    2  Royal Elbow Macaroni 400g   30 09/28/26 D         60.97   121.94
+                                              D0924       
+ 1009532    1  Royal Spaghetti 900g        18 09/19/26 D         97.00    97.00
+                                              AO924       
+ 1148913   12  Selecta Forti Mlk 245mL     24 08/06/25 E         34.23   410.76
+                                              E4RLO       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          629.70
+                                                       Rundate 08/04/2025  20:20:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

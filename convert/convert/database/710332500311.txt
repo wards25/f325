@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710332500311
+                                                            Branch - 1033 QC RSEVLT SN ANTNIO(285808G )
+                                                            Prepared by - MA. LUISA STA ANA on 08/23/2025
+                                                            Issued by - ________________________________
+                                                                         BERMALYN MANABAT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615296    1  San Mig Coff 3n1 Crema 25g 240          D          7.14     7.14
+                                              1           
+ 3615299    1  San Mig Coff 3N1 Orig 20g  240          D          6.19     6.19
+                                              1           
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60          D         20.54    20.54
+                                              1           
+ 3723343    1  Cal Cheese Chse Wfer 48g    60          D         13.01    13.01
+                                              1           
+ 4136061    2  Kopiko Dble Cups Orig 33g  240          D          9.05    18.10
+                                              1           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           64.98
+                                                       Rundate 08/23/2025  14:50:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

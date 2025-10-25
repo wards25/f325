@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707312500243
+                                                            Branch - 731 Liloan Natl Hway(POBLACION LILOAN CEBU )
+                                                            Prepared by - MA.ELLEN B.PALATAN on 09/14/2025
+                                                            Issued by - ________________________________
+                                                                         LENDYL K. CARLOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010200    1  Ladys C Tuna Sprd 220mL     24 09/18/25 E        122.60   122.60
+                                              243911      
+ 3039132    1  Surf Bar SunFrsh 380g       36          D         26.95    26.95
+                                              f           
+ 3050002    1  Surf Bar ChryBlsm FabCon380g36          D         26.95    26.95
+                                              v           
+ 3050012    4  Surf Pdr PrplBlom Fabcon50g288          D          6.13    24.52
+                                              v           
+ 3050031    2  Breeze Pdr DetRseGldPerf64g144          D         12.64    25.28
+                                              b           
+ 3980147    1  Master FScrb Actv Whtng 50g 12          D         90.75    90.75
+                                              c           
+ 6200292    3  Creamsilk Cond HFallDef22mL288          D          8.43    25.29
+                                              b           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          342.34
+                                                       Rundate 09/14/2025  18:26:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

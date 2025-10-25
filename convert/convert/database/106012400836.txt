@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106012400836
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 08/02/2024
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12          D        102.06   102.06
+                                              XXX         
+ 3748416    1  Bear Br Strlzedw/Gnsg 200mL 32 12/10/24 D         25.23    25.23
+                                              40750189UD  
+ 4025097    6  Nestle Chuckie Cal-N 110mL  60 03/31/25 D         13.46    80.76
+                                              XXX         
+ 4530032    1  Nan Al 110 Lacto Free 400g   4 09/30/25 D        976.64   976.64
+                                              40840346AC  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,184.69
+                                                       Rundate 08/02/2024  16:27:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130152400093
+                                                            Branch - 3015 Cabiao JA Santos Ave.(MD 3015 CABIAO JASA )
+                                                            Prepared by - JERICH V. VIESCA on 04/19/2024
+                                                            Issued by - ________________________________
+                                                                         MAYLENE T. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413863   49  Nagaraya Crkr Nut Adbo 80g  60 06/25/24 E         18.34   898.66
+                                              23810       
+ 3413868    9  Nagaraya Crkr Nut Bbq 160g  48 07/19/24 E         36.85   331.65
+                                              23832       
+ 3413869   37  Nagaraya Crkr Nut Gar 160g  48 07/20/24 E         36.85  1363.45
+                                              23833A      
+ 3413872   23  Nagaraya Crkr Nut Hot&Sp160g48 07/23/24 E         36.85   847.55
+                                              23396       
+ 3900003    2  Diabetasol Choc 360g         3 04/26/24 E        609.20  1218.40
+                                              22          
+ 4095042    1  Seoul Wh K SoapDbleWhtng180g12 01/31/24 F        132.00   132.00
+                                              0040        
+ 4095043    2  Seoul Wh K SoapDbleWhtng270g12 03/31/24 F        164.00   328.00
+                                              0359        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,119.71
+                                                       Rundate 04/20/2024  13:22:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

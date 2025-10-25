@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130542400560
+                                                            Branch - 3054 NUEVA ECIJA JAEN POBLACION(POBLACION JAEN N.E. )
+                                                            Prepared by - DIANA S. PAMILOZA on 11/22/2024
+                                                            Issued by - ________________________________
+                                                                         GILBERT M. BRINIO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210409    8  Argentina Bf Loaf 170g      48 10/12/24 F         22.86   182.88
+                                              68274       
+ 3048405   10  555 Sardines TS Hot 155g   100 06/30/24 F         23.09   230.90
+                                              6168        
+ 3048425    1  555 Mackerel TS 155g       100 10/13/24 F         27.98    27.98
+                                              1047        
+ 3793318    1  Birch Tree Forti AdltBst33g160 10/31/25 D         11.93    11.93
+                                              08DX        
+ 3793337    1  Argentina CChckn Spcy 150g  48 12/07/23 F         32.86    32.86
+                                              AKH09       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          486.55
+                                                       Rundate 11/22/2024  09:58:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

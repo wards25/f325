@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130892400227
+                                                            Branch - 3089 Batangas City Waltermart(CALICANTO, BATANGAS CITY )
+                                                            Prepared by - LYKA A. LUZON on 08/30/2024
+                                                            Issued by - ________________________________
+                                                                         MARK ANTHONY M. MENDOZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104081    1  Del M Mr Milk Sbrry 80mLx6  16 09/20/24 E         47.22    47.22
+                                              32630401    
+ 3723283   16  Cupp Keyk Choc Topps        10 08/07/24 F          7.74   123.84
+                                              CA42G       
+ 3780522    1  Diabetasol Choc 600g PPck    3 07/14/24 F        883.20   883.20
+                                              22X1402GU   
+ 3973030    2  Selecta FortiMlkStrlzed200mL24 11/15/24 E         22.16    44.32
+                                              L4HI1       
+ 4110022   20  Rebisco Hansel MchaSandw 32g10 06/24/24 F          5.87   117.40
+                                              017B2       
+ 4110024   14  Rebisco Sbrry Sandw 34g     10 09/05/24 E          5.87    82.18
+                                              B2M1        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,298.16
+                                                       Rundate 08/30/2024  11:59:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

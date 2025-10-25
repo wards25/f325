@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130692400371
+                                                            Branch - 3069 Mabalacat Great Mall( )
+                                                            Prepared by - LEONARDO B. GARCIA on 11/21/2024
+                                                            Issued by - ________________________________
+                                                                         LEONOR S. BULANADI
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    3  Bear Br Strlzed RTD 1L      12 12/12/24 E         97.19   291.57
+                                              41370189YD  
+ 1167452    2  Nestle Chuckie Cal-N 250mL  24 08/31/24 E         28.08    56.16
+                                              328864382A  
+ 4014031    2  Nestle Chuckie Cal-N 180mL  32 09/30/24 E         21.73    43.46
+                                              33180189FD  
+ 4025097    5  Nestle Chuckie Cal-N 110mL  60 09/30/24 E         13.46    67.30
+                                              333364383A  
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 03/31/25 D         12.37    24.74
+                                              40630597E1B2
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          483.23
+                                                       Rundate 11/21/2024  15:27:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721942500163
+                                                            Branch - 2194 Iloilo Barotac Viejo Poblacion( )
+                                                            Prepared by - MAESHELL ESPADA on 06/28/2025
+                                                            Issued by - ________________________________
+                                                                         MS LADELLE  SADIWA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210404    1  Argentina CBeef 175g        48 05/28/25 E         38.33    38.33
+                                              101         
+ 1210486    1  Argentina CBeef Jr 150g     48 05/18/25 E         32.38    32.38
+                                              133         
+ 3048415    1  555 Sardines TS 425g        48 05/09/26 D         57.10    57.10
+                                              1           
+ 3793337    8  Argentina CChckn Spcy 150g  48 06/09/25 E         32.86   262.88
+                                              11          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          390.69
+                                                       Rundate 06/28/2025  16:09:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

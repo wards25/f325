@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104362400955
+                                                            Branch - 436 Bauang Nat'l Highway(CENTRAL EAST BAUANG LA UNION 2501)
+                                                            Prepared by - CLAREBELE C. DOMONDON on 10/19/2024
+                                                            Issued by - ________________________________
+                                                                         JEFFREY M. ORNIDO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1036003    2  Hello Kitty Tb              24          D         17.81    35.62
+                                              .           
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10          D        117.39   117.39
+                                              .           
+ 4110018   37  Choco Mucho Mlk Choc 30g    10 09/05/24 F          9.30   344.10
+                                              A3M         
+ 4110019   58  Choco Mucho Wh Choc 30g     10 08/26/24 F          9.30   539.40
+                                              A4M         
+ 4110040    5  Frootees Ckie Sbrry 32g     10 10/08/24 F          5.83    29.15
+                                              R15A3       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,065.66
+                                                       Rundate 10/19/2024  14:28:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107452400041
+                                                            Branch - 745 ZAM GUIWAN(MCLL HI-WAY,GUIWAN ZAMBO.CITY )
+                                                            Prepared by - MR.RAMIL P. TEJANO on 02/03/2024
+                                                            Issued by - ________________________________
+                                                                         MS.JENNEVIE B. TORRALBA(OIC)
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103177    1  Del M Four Sson Swtnd 220mL 24 04/01/25 D         28.00    28.00
+                                              SB1YY       
+ 1103985    1  Del M Pine Jce HeartS 220mL 24 05/01/25 D         30.80    30.80
+                                              L3330YYRJL74
+ 3723508   11  Oramed 0.1% 60mL            12 02/15/24 E         76.50   841.50
+                                              220203      
+ 3723509    6  Oramed 0.1% 120mL           12 02/05/24 E        127.50   765.00
+                                              220201      
+ 3856633    2  Mang Tomas Lchon Sce 325g   24 02/02/24 E         33.25    66.50
+                                              23E08M062253
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,731.80
+                                                       Rundate 02/03/2024  11:15:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730762500390
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 05/12/2025
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103962    2  Del M Fit N RghtBurn4sn330mL24 07/03/25 D         31.13    62.26
+                                              .           
+ 1104078    4  Del M Mr Milk Mango 80mLx6  16 05/29/25 E         48.11   192.44
+                                              .           
+ 1104079    6  Del M Mr Milk Plain 80mLx6  16 06/07/25 G         48.11   288.66
+                                              .           
+ 1104105    5  Del M Fit N Rght Sson330mL  24 06/06/25 E         27.54   137.70
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          681.06
+                                                       Rundate 05/12/2025  11:39:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

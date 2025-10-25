@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107062401844
+                                                            Branch - 706 Davao City Bajada(J.P. Laurel,Bajada, Davao City y)
+                                                            Prepared by - ALVIN ORILLA on 09/23/2024
+                                                            Issued by - ________________________________
+                                                                         MA.JANICE P. ALMIRANTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 04/25/25 D         11.48    11.48
+                                              X           
+ 3856631    4  Datu Puti Wh Vin 350mL      24 07/20/24 F         15.91    63.64
+                                              CBD         
+ 3856633   16  Mang Tomas Lchon Sce 325g   24 08/06/24 F         33.25   532.00
+                                              43929       
+ 4136006    1  Kopiko Brn Coff 27.5g      240          D          6.80     6.80
+                                              X           
+ 4136022    1  Kopiko L.A. Coffee 25g     240 02/28/25 D          7.40     7.40
+                                              X           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              X           
+ 4160035    5  Bubble Man DLiq Lem 270mLx2 10          D         46.26   231.30
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          860.40
+                                                       Rundate 09/23/2024  04:23:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

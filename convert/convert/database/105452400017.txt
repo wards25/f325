@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105452400017
+                                                            Branch - 545 Lemery Ilustre(ILUSTRE AVE., LEMERY, BATANGAS )
+                                                            Prepared by - RUFFA MAE M. LIWATIC on 01/17/2024
+                                                            Issued by - ________________________________
+                                                                         MR. WINDEL BALOG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 07/04/24 D         20.16    20.16
+                                              a3 a3b      
+ 3723389    2  Energen Mlk&Cer Dr Vnla 40g240 07/04/24 D          7.01    14.02
+                                              1244tgr04072
+ 3723626    3  Kopiko Brown TwnPckCoff 53g120 10/07/24 D         10.63    31.89
+                                              2336tgr07040
+ 4100002    3  Kettle Korn Cheese 120g     30 03/04/24 D         36.25   108.75
+                                              ml          
+ 4136006    1  Kopiko Brn Coff 27.5g      240 03/19/24 E          6.76     6.76
+                                              19059lg1909 
+ 4136010  139  Kopiko Blck 3-N-1 Coff 30g 240 01/27/24 E          6.83   949.37
+                                              0004TGR27070
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,130.95
+                                                       Rundate 01/17/2024  12:30:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

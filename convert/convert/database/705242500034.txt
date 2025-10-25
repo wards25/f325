@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705242500034
+                                                            Branch - 524 OR MIN PMLYN NAUTCL HWY(Marfrancisco,Pin. Or. Mdo. )
+                                                            Prepared by - Evangeline L. Custodio on 01/20/2025
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025177    1  Nescafe Original 26g       520 04/30/25 D          7.37     7.37
+                                              40978985A243
+ 4530000    2  Starbucks Latte DShtEsp220mL24 01/12/25 F         76.00   152.00
+                                              40139449RF  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          159.37
+                                                       Rundate 01/20/2025  18:10:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

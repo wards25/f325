@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104292400042
+                                                            Branch - 429 San Pablo City Puregold(COLAGO AVE SAN PABLO )
+                                                            Prepared by - ROXANNE P. FRANCISCO on 04/14/2024
+                                                            Issued by - ________________________________
+                                                                         MARIA ARLENE D. MANITO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207792   11  Lipton Yel Label Tea 25'    24 03/22/24 F        113.56  1249.16
+                                              10:21       
+ 3723284    1  Fudgee Barr Choc Blst       10 08/19/24 D          8.01     8.01
+                                              19:34       
+ 3723285    1  Fudgee Barr Mlky Crze       10 07/22/24 D          8.10     8.10
+                                              VB73        
+ 4110022    2  Rebisco Hansel MchaSandw 32g10 06/26/24 D          5.87    11.74
+                                              C17A4       
+ 4110040    4  Frootees Ckie Sbrry 32g     10 08/24/24 D          5.83    23.32
+                                              R20A4       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,300.33
+                                                       Rundate 04/14/2024  16:05:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104602400912
+                                                            Branch - 460 RZL ANT C MALL(460 CMA)
+                                                            Prepared by - ALDRIN DIST21 on 07/04/2024
+                                                            Issued by - ________________________________
+                                                                         JOVITA C. PARIS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24          D         28.00    28.00
+                                              na          
+ 1102987    1  Del M Pine Jce Crush 220mL  24          D         28.00    28.00
+                                              na          
+ 1103591    3  Del M Pine Jce Fiber 220mL  24          D         30.80    92.40
+                                              na          
+ 1103985    1  Del M Pine Jce HeartS 220mL 24          D         30.80    30.80
+                                              na          
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              na          
+ 3723644    2  Energen Champion Choc TP30g120          D         13.60    27.20
+                                              na          
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.57     7.57
+                                              na          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          225.19
+                                                       Rundate 07/04/2024  10:53:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

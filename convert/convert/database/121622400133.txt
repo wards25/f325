@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121622400133
+                                                            Branch - 2162 Capiz Roxas City Poblacion Roxas(N&E TAN BUILDING ROXAS AVENUE ROXAS CITY CAPIZ)
+                                                            Prepared by - CHARITA E. CORCINO on 02/18/2024
+                                                            Issued by - ________________________________
+                                                                         MANELIE V. OROCIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102998    4  Del M Salad Macaroni 400g   25 02/28/24 E         69.02   276.08
+                                              2043B13     
+ 3723612    1  Barrio F Std Shrmp P GB250g 12 02/20/24 E         93.20    93.20
+                                              2202170018GB
+ 3723613    2  Barrio F Std Shrmp P Reg250g12 03/17/24 E         84.65   169.30
+                                              2109170125  
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 03/25/25 D         11.22    11.22
+                                              2509041620  
+ 4103082    4  Del M Swt Blnd Kchup Pch320g36 02/28/24 E         28.07   112.28
+                                              2B08        
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 09/03/24 D          6.83     6.83
+                                              0303040131  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          668.91
+                                                       Rundate 02/18/2024  14:03:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

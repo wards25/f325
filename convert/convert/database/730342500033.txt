@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730342500033
+                                                            Branch - 3034 TARL TARL C MK C(TARLAC THE MARKET CITY )
+                                                            Prepared by - Ayrha D. Pascua on 04/11/2025
+                                                            Issued by - ________________________________
+                                                                         Margie M. Cerin
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413873   91  Nagaraya SwtMni PretChoc30g100 04/21/25 E          7.61   692.51
+                                              24012B      
+ 3723282   29  Cupp Keyk Choc Mcha         10 06/06/25 E          6.80   197.20
+                                              VA7221      
+ 3723283   13  Cupp Keyk Choc Topps        10 06/17/25 E          7.95   103.35
+                                              CB41G10     
+ 3723284   10  Fudgee Barr Chocolate       10 06/16/25 E          8.25    82.50
+                                              BGB10304    
+ 3723286    2  Ding Dong Sup Mxd Nuts 100g 60 02/27/25 F         20.54    41.08
+                                              A2 A6B      
+ 4110019   75  Choco Mucho Wh Choc 30g     10 05/18/25 E          9.30   697.50
+                                              BSM         
+ 4110040   24  Frootees Ckie Sbrry 32g     10 06/15/25 E          5.83   139.92
+                                              R16B1       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,954.06
+                                                       Rundate 04/11/2025  14:26:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100042400542
+                                                            Branch - 4 Kalookan City 9th Ave.(KAL. 9TH AVE DIST.7)
+                                                            Prepared by - RHEA M. DEL MUNDO on 04/09/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MARITES LANCANAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723528    1  UFC Young Corn Cuts 425g    24          D         49.88    49.88
+                                              .           
+ 3723625    2  Kopiko Blanca TwnPckCoff58g120          D         11.22    22.44
+                                              .           
+ 3856633    1  Mang Tomas Lchon Sce 325g   24          D         33.25    33.25
+                                              .           
+ 3856643    2  UFC Sweet Chili Sce 340g    24 04/30/24 E         35.86    71.72
+                                              .           
+ 3973055    2  Selecta Farm Frsh Mlk 1L    12          D         93.30   186.60
+                                              .           
+ 4510107    1  Mega Sard In TS 155g        10          D         21.60    21.60
+                                              .           
+ 4510151    2  Rite'n Lite Ccmber Dr250mL  24          D         20.25    40.50
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          425.99
+                                                       Rundate 04/09/2024  14:29:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

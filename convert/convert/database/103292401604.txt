@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103292401604
+                                                            Branch - 329 Makati City Salcedo Vil. Leviste(MAKATI LEVISTE )
+                                                            Prepared by - ANABEL MICIANO on 11/23/2024
+                                                            Issued by - ________________________________
+                                                                         ILEN  HUGO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              x           
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         12.37    12.37
+                                              x           
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200          D         12.37    24.74
+                                              x           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           39.00
+                                                       Rundate 11/23/2024  17:16:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

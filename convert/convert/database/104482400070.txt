@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104482400070
+                                                            Branch - 448 Baler Quezon(BALER AURORA)
+                                                            Prepared by - EVANGELYN G. VERA on 03/23/2024
+                                                            Issued by - ________________________________
+                                                                         MA. CLAUDENE S. GOMEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103963    4  Del M Fit N RghtBurnPne330mL24 03/20/24 F         30.80   123.20
+                                              0           
+ 1104095    1  Del M Fit N R DtoxAplCu330mL24 03/01/24 F         31.80    31.80
+                                              0           
+ 1104107    4  Del M Fit N Rght Pine 330mL 24 02/28/24 F         26.65   106.60
+                                              0           
+ 3254310    9  UFC Bnana Csup Reg 320g     24 04/02/24 E         23.40   210.60
+                                              0           
+ 3856633   10  Mang Tomas Lchon Sce 325g   24 02/17/24 F         33.25   332.50
+                                              0           
+ 3856643   16  UFC Sweet Chili Sce 340g    24 01/30/24 F         35.86   573.76
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,378.46
+                                                       Rundate 03/23/2024  10:17:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

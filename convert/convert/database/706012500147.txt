@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012500147
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 02/12/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723372    4  Golden Cup Oil Liniment 7mL 12 09/12/24 E         82.40   329.60
+                                              XXX         
+ 3723587    8  Fiesta SpagheTpd 3ChseSP18  12 01/14/25 E         68.76   550.08
+                                              XXX         
+ 3723588    7  Fiesta SpagheTpd Swt SP18   12 02/01/25 E         68.37   478.59
+                                              XXX         
+ 3723589    5  Fiesta Spag TpdSwt1.6kgSP20 10 02/15/25 E        117.39   586.95
+                                              XXX         
+ 3723590    1  Royal Cheesy R&T 1.6kg SP49 10 01/16/25 E        121.94   121.94
+                                              XXX         
+ 3723708    4  Golden Cup Oil Liniment 3mL  6 02/08/25 E         43.00   172.00
+                                              0065        
+ 4110023   10  Rebisco Crackers 35g        10          D          5.87    58.70
+                                              XXX         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,297.86
+                                                       Rundate 02/12/2025  19:21:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

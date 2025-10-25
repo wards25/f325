@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110712400757
+                                                            Branch - 1071 Alfonso Poblacion(CAVITE ALFONSO POB BRANCH )
+                                                            Prepared by - JUVELYN  SUBA on 10/19/2024
+                                                            Issued by - ________________________________
+                                                                         MS. LUDIVINA R. ROMEN
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210404    1  Argentina CBeef 175g        48 08/05/27 D         38.33    38.33
+                                              asb124      
+ 3793298    2  Angel Condensada 380g       48 08/31/24 E         50.48   100.96
+                                              c01816b4    
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          139.29
+                                                       Rundate 10/19/2024  15:42:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

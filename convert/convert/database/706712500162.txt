@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706712500162
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE P MIRA on 08/27/2025
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165709   13  Magnol Chzee Sprd Pln 120g  24 08/21/25 F         45.25   588.25
+                                              50123TCB09  
+ 1165713    7  Magnol Chzee Sprd Pmto 120g 24 08/26/25 F         48.02   336.14
+                                              50128TCB08  
+ 3413864    1  Nagaraya Crkr Nut Bbq 80g   60 11/30/25 D         20.54    20.54
+                                              25626G      
+ 3413868   15  Nagaraya Crkr Nut Bbq 160g  48 08/29/25 E         41.27   619.05
+                                              24880A      
+ 3695258   31  Magnol Panck+W/Choc Syr200g 48 09/26/25 E         32.77  1015.87
+                                              501291D059  
+ 3695266   11  Magnol Panck&Waffle Mix400g 24 08/04/25 F         51.44   565.84
+                                              412071D850  
+ 3723283    6  Cupp Keyk Choc Topps        10 07/17/25 F          7.95    47.70
+                                              CA426       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,193.39
+                                                       Rundate 08/27/2025  14:16:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

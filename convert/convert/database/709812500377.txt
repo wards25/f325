@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709812500377
+                                                            Branch - 981 Isulan Nat'l Hway(981 MDC ISULAN NAT'L HI-WAY )
+                                                            Prepared by - MARK JAMES INIGO on 09/14/2025
+                                                            Issued by - ________________________________
+                                                                         ROXANNE S. LIDA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009222    1  Ladys C Bcon Sprd 220mL     24          D        122.60   122.60
+                                              555         
+ 1009562    1  Ladys C Mynaise 220mL       24          D        112.05   112.05
+                                              14          
+ 1010116    1  Ladys C Ham Sprd 80mL       72          D         34.85    34.85
+                                              66          
+ 1010117    1  Ladys C Tuna Sprd 80mL      72          D         34.85    34.85
+                                              44          
+ 1010277    2  Ladys C Ham Sprd DPck 220mL 24          D         95.30   190.60
+                                              63          
+ 5800320    1  Ladys C Chck Sprd 80mL      36          D         34.85    34.85
+                                              55          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          529.80
+                                                       Rundate 09/14/2025  10:39:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

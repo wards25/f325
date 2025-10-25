@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100622400146
+                                                            Branch - 62 San Pedro - Mabini(62 San Pedro Mabini D27)
+                                                            Prepared by - JHA ARCIAGA on 01/27/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Rolan D. Rico
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1149115    2  WhiteKing HotCake&WafMix400g24 02/01/24 E         56.36   112.72
+                                              .           
+ 2000002    1  Golden Cup Oil Liniment 3mL 12          D         40.31    40.31
+                                              .           
+ 3207795    3  Lipton Gr Tea 1.5g 10       24          D         76.28   228.84
+                                              .           
+ 3723317    2  Beng-Beng ChocCrmlWfer26.5g120 02/23/24 E          6.92    13.84
+                                              .           
+ 3723374    6  Ding Dong Snck Mx Chip&C95g 60 02/29/24 E         20.16   120.96
+                                              .           
+ 3723375    1  Happy Pnut W/RealGarChip100g24 02/09/24 E         30.60    30.60
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          547.27
+                                                       Rundate 01/27/2024  15:50:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

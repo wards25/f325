@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700492500617
+                                                            Branch - 49 Manila Sta. Cruz Central Market(49- STA CRUZ CENTRAL MARKET YISTRICT 12)
+                                                            Prepared by - JOYCE on 10/03/2025
+                                                            Issued by - ________________________________
+                                                                         MARLYN AGUILA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              .           
+ 4530039   46  Milo Bfst Cer Ch&MBalls 20g120 10/18/25 E         13.64   627.44
+                                              .           
+ 4530041    4  Nestle Trix Bfast Cer 20g  120          D         13.64    54.56
+                                              .           
+ 4530051    6  Nescafe Ice Blk Can 220mL   24 10/04/25 E         34.62   207.72
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          891.61
+                                                       Rundate 10/03/2025  12:37:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

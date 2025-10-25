@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711222500013
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - NERI PEREZ on 01/04/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147300   18  Sunkist Frt Dr Ap 235mL     24 01/17/25 E         19.03   342.54
+                                              H1V1T0      
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 01/05/26 D         11.48    11.48
+                                              1311TGR     
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 02/08/26 D          6.80     6.80
+                                              0207TGN0    
+ 4510161    1  Seoul Wh K SoapByeAcBr&C120g12 02/28/25 E        132.00   132.00
+                                              RT3L0070    
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          492.82
+                                                       Rundate 01/04/2025  12:39:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

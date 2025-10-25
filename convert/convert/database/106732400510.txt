@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106732400510
+                                                            Branch - 673 Cabanatuan City H. Concepcion Sr.( y)
+                                                            Prepared by - JHOAN GAY B. SANTOS on 11/26/2024
+                                                            Issued by - ________________________________
+                                                                         ADRIAN B. MAGNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360   14  Selecta Moo Choc 245mL      24 10/10/24 F         28.36   397.04
+                                              1           
+ 3723398    6  Entrasol Pltnm Ad PdrChoc600g3 01/01/25 E        906.80  5440.80
+                                              1           
+ 3723402    2  Entrasol Pltnm Ad PdrVnla600g3 12/12/24 E        906.80  1813.60
+                                              1           
+ 3856629    9  Datu Puti Soy Sce 340mL     24 11/08/24 F         17.10   153.90
+                                              1           
+ 3856631    4  Datu Puti Wh Vin 350mL      24 11/25/24 F         15.91    63.64
+                                              1           
+ 3856633   21  Mang Tomas Lchon Sce 325g   24 11/19/24 F         33.25   698.25
+                                              1           
+ 3856638    5  Datu Puti Wh Vngar Pet 385mL24 11/02/24 F         17.34    86.70
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,653.93
+                                                       Rundate 11/26/2024  09:07:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111142400127
+                                                            Branch - 1114 QUEZON CITY UP TOWN CENTER(Q.C U.P TOWN CENTER )
+                                                            Prepared by - nORI DISTRICT 3 on 04/03/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MA.TERESA VERIDIANO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240          D          7.01     7.01
+                                              .           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         10.63    10.63
+                                              .           
+ 4110019   12  Choco Mucho Wh Choc 30g     10 03/24/24 F          9.30   111.60
+                                              .           
+ 4136006    1  Kopiko Brn Coff 27.5g      240          D          6.76     6.76
+                                              .           
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240          D          6.83     6.83
+                                              .           
+ 4136022    1  Kopiko L.A. Coffee 25g     240          D          6.16     6.16
+                                              .           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          6.80     6.80
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          155.79
+                                                       Rundate 04/03/2024  16:16:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

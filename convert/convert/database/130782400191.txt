@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130782400191
+                                                            Branch - 3078 Albay Bacacay Poblacion(Albay Bacacay Poblacion MD3078)
+                                                            Prepared by - Irene Dapulang on 11/20/2024
+                                                            Issued by - ________________________________
+                                                                         Emily Barbadillo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   20  Nestle Frsh Mlk 250mL       24 04/15/25 D         36.23   724.60
+                                              2328331510  
+ 1167931   19  Bear Br Strlzed RTD 200mL   32 04/30/25 D         26.42   501.98
+                                              41930189UD  
+ 4014031   17  Nestle Chuckie Cal-N 180mL  32 04/30/25 D         21.73   369.41
+                                              41620189FD  
+ 4025097   35  Nestle Chuckie Cal-N 110mL  60 04/30/25 D         13.46   471.10
+                                              417264383A  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,067.09
+                                                       Rundate 11/20/2024  14:01:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

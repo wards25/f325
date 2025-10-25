@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705322500114
+                                                            Branch - 532 San Fabian Public Market(SAN FABIAN PANGASINAN)
+                                                            Prepared by - J.MERTCAD.GABRIEL/R.TORALBA on 02/14/2025
+                                                            Issued by - ________________________________
+                                                                         HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    2  Nestea Lem ITea 25g        144 03/31/25 E         18.57    37.14
+                                              6324        
+ 3760011    6  Nido NutriSnaxSbry-Crot110mL60 06/30/25 D         17.76   106.56
+                                              98745       
+ 4025052    2  Nestle Coffeemate 150g      60          D         44.78    89.56
+                                              68542       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          233.26
+                                                       Rundate 02/14/2025  14:23:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

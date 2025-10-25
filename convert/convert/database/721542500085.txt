@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721542500085
+                                                            Branch - 2154 Davao De Oro Monkayo Poblacion(Matillosa St. Pob. Monkayo )
+                                                            Prepared by - EMMIE Y. BILBAO on 05/23/2025
+                                                            Issued by - ________________________________
+                                                                         BIENVENIDO C. LUZADIO JR.
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870033    1  Creamsilk Cond HFallDef11mL288          D          5.93     5.93
+                                              0312421146  
+ 3870043    1  Creamsilk Cond S-Strght11mL288          D          5.93     5.93
+                                              1511246111  
+ 3870066    1  Creamsilk Cond TKR UR&S10mL288          D          6.66     6.66
+                                              0611243111  
+ 6200176    3  Vitakeratin Color Shine24mL288          D          4.95    14.85
+                                              2609242115  
+ 6200254    1  Rexona Men DeoUltraPActvB45mL6 05/01/25 E        195.22   195.22
+                                              0705232     
+ 6200256    2  Rexona Men DeoUltraPCoolB45mL6 05/01/25 E        195.22   390.44
+                                              0705238     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          619.03
+                                                       Rundate 05/23/2025  10:58:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

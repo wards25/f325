@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721912500203
+                                                            Branch - 2191 Ilo ilo Calinog Poblacion Centro(1C,1D&1E,A&B Bldg.,Osmena St Pob Centro,Calinog Iloilo)
+                                                            Prepared by - MARIVIC P. UY on 06/17/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MA. IRENE GALENO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016298    1  555 Tuna Flakes Mchado 155g 50 06/02/25 F         26.68    26.68
+                                              0           
+ 3048435    1  555 Sardine Frd W/Tau 155g 100          D         31.83    31.83
+                                              0           
+ 3793349   17  555 Tuna Spcy Paksiw 155g   50 06/29/25 E         26.68   453.56
+                                              0           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          512.07
+                                                       Rundate 06/17/2025  16:46:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

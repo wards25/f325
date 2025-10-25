@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703022500058
+                                                            Branch - 302 Muntinlupa City Tunasan(NATIONAL RD.Tunasan Muntinlupa )
+                                                            Prepared by - SELLE D22 on 02/27/2025
+                                                            Issued by - ________________________________
+                                                                         Mr. Renato De Guzman
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606230    1  Jimms 5in1 Coffee Mix 21g   12 02/21/25 F         10.63    10.63
+                                              3005AL5     
+ 3615296    1  San Mig Coff 3n1 Crema 25g 240 09/01/26 D          6.89     6.89
+                                              225         
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 01/28/26 D        121.94   121.94
+                                              57F2        
+ 3723644    1  Energen Champion Choc TP30g120 08/28/25 D         14.24    14.24
+                                              1444TGR28080
+ 3723705    1  Kopiko Blck 3n1 Coff28g TP 120 01/24/26 D         11.26    11.26
+                                              1302TGR24070
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 02/09/26 D          6.80     6.80
+                                              134OTGR09080
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          171.76
+                                                       Rundate 02/27/2025  17:36:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

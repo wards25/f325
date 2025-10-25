@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121482400413
+                                                            Branch - 2148 Iloilo Pototan Poblacion(RSVP BUILDING F. PARCON STREET POTOTAN,ILOILO)
+                                                            Prepared by - marivic p. uy on 08/15/2024
+                                                            Issued by - ________________________________
+                                                                         Fema G. Susmiran
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103059   16  Del M Tidbits Pine 432g     24 08/01/24 F         58.10   929.60
+                                              0           
+ 1103593    1  Del M Pine Jce Fiber 1.36L  12 08/01/24 F        110.42   110.42
+                                              0           
+ 1104061    1  Del M Pine Jce Fiber Tetra1L12          D        105.30   105.30
+                                              0           
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24          D         20.25    20.25
+                                              0           
+ 3856633    2  Mang Tomas Lchon Sce 325g   24 08/14/24 E         33.25    66.50
+                                              0           
+ 4103080    1  Del M Spag PastaItaliana900g20          D        101.57   101.57
+                                              0           
+ 4510155    4  Rite'n Lite Peach Dr 250mL  24          D         20.25    81.00
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,414.64
+                                                       Rundate 08/15/2024  11:05:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

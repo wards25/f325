@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704702500199
+                                                            Branch - 470 Quezon City Project 4 JP Rizal( )
+                                                            Prepared by - LUCI REYES on 08/18/2025
+                                                            Issued by - ________________________________
+                                                                         MS GLADYS T. BERNARDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          3.02     3.02
+                                              NO LOT      
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              NO LOT      
+ 4025037    2  Nescafe 3n1 CrmyLatte20g   240          D          8.20    16.40
+                                              NO LOT      
+ 4025056    2  Nescafe Crmy Wh 20g        240 03/31/26 D          8.20    16.40
+                                              50908985A2  
+ 5200127    1  Bear Brand FortiPdrMC840g+IS14 12/31/25 E        285.71   285.71
+                                              43410189GA  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          323.42
+                                                       Rundate 08/19/2025  12:05:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

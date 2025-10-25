@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710282500266
+                                                            Branch - 1028 Quezon City Novaliches Gulod(QUIRINO HIWAY NOVALICHES QUEZON CITY)
+                                                            Prepared by - RYAN ONG on 06/10/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CAROLINE ALCANTARA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723396    1  Entrasol Pltnm Ad PdrChoc200g3 06/25/25 E        352.60   352.60
+                                              1           
+ 3723402    1  Entrasol Pltnm Ad PdrVnla600g3 07/18/25 E        906.80   906.80
+                                              2           
+ 3723664    1  Kwik Multi InsectKill KB500mL6          D        191.60   191.60
+                                              05          
+ 3723695    1  Barrio F Liq Seasoning 250mL 6 07/16/25 E         81.23    81.23
+                                              4           
+ 3780427    1  Diabetasol Cappuccino 600g   3          D        883.20   883.20
+                                              3           
+ 4110018   37  Choco Mucho Mlk Choc 30g    10 05/26/25 E          9.30   344.10
+                                              7           
+ 4136006    1  Kopiko Brn Coff 27.5g      240          D          6.80     6.80
+                                              6           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,766.33
+                                                       Rundate 06/09/2025  12:44:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107862400451
+                                                            Branch - 786 Midsayap Quezon(QUEZON AVE. MIDSAYAP NCOTABATO )
+                                                            Prepared by - AD. CABALLERO/ A. PABLO on 04/21/2024
+                                                            Issued by - ________________________________
+                                                                         LUZ MARIFI R. LAPINID
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102991    8  Del M Crushed Pine 227g     24 05/01/24 E         31.68   253.44
+                                              21500YY     
+ 1147300    1  Sunkist Frt Dr Ap 235mL     24 08/18/24 D         19.03    19.03
+                                              G1V1TO      
+ 3856664    1  Locally Pmlo Jce Dr 240mL   24 04/28/24 E         20.88    20.88
+                                              23B03S      
+ 4103059   38  Del M Tmto Sce FilStyl 250g 48 05/02/24 E         22.35   849.30
+                                              30331NL06   
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240          D          6.83     6.83
+                                              NO LOT      
+ 4180011    2  Mega Sard In TS Chili 425g  24 03/31/25 D         51.08   102.16
+                                              SCTG1CLCV   
+ 4510119    1  Axion Dliq LemRef190mL50%2nd20          D         57.41    57.41
+                                              NO LOT      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,309.05
+                                                       Rundate 04/21/2024  17:24:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

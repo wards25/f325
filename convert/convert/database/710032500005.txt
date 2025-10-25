@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710032500005
+                                                            Branch - 1003 BUL GUIGNTO PGOLD(1003 )
+                                                            Prepared by - Cecil Apolonio on 01/11/2025
+                                                            Issued by - ________________________________
+                                                                         Ms.Edna C. Santos
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530022   50  Nescafe Crmy Lat TwinPck51g200 02/28/25 E         12.37   618.50
+                                              40460597T1  
+
+
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          618.50
+                                                       Rundate 01/11/2025  14:48:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

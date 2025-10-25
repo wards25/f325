@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110282400313
+                                                            Branch - 1028 Quezon City Novaliches Gulod(QUIRINO HIWAY NOVALICHES QUEZON CITY)
+                                                            Prepared by - RYE ONG on 04/06/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CAROLINE ALCANTARA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723344    1  Malkist ChocCrkrSandW18gx10 30 03/31/24 E         51.43    51.43
+                                              1584        
+ 3723616    3  Barrio F Std Shrmp P SG250g 12 05/27/24 E         98.33   294.99
+                                              2205270017  
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         10.63    10.63
+                                              d14         
+ 3856664    7  Locally Pmlo Jce Dr 240mL   24 04/28/24 E         20.88   146.16
+                                              12548       
+ 4510117   33  Mega Sard In TS Ex Hot 155g 10 05/16/24 E         22.73   750.09
+                                              1dkrg       
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24          D         20.25    20.25
+                                              01          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,273.55
+                                                       Rundate 04/06/2024  09:22:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

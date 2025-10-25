@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706092500071
+                                                            Branch - 609 Candon City Nat'l Hway(CANDON CITY NAT'L HWAY )
+                                                            Prepared by - SHIERA MARIX B. LIMAYO on 09/05/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCO S. BALAQUE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606230   36  Jimms 5in1 Coffee Mix 21g   12 02/28/25 F         10.63   382.68
+                                              3006A       
+ 3723389  140  Energen Mlk&Cer Dr Vnla 40g240 05/31/25 F          7.65  1071.00
+                                              1045        
+ 3723590    1  Royal Cheesy R&T 1.6kg SP49 10 07/30/25 F        121.94   121.94
+                                              56B1        
+ 3723685   17  Rebisco Hansel Crackers 32g 10 05/30/25 F          6.18   105.06
+                                              32A2        
+ 4136061   43  Kopiko Dble Cups Orig 33g  240 09/30/25 F          9.05   389.15
+                                              0701        
+ 4510115    3  Mega Sard Frd W/Tau 155g    10 08/31/25 F         29.70    89.10
+                                              SBTAA1CLHE  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,158.93
+                                                       Rundate 09/06/2025  14:43:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

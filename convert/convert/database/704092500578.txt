@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704092500578
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - D.DASALLA on 09/13/2025
+                                                            Issued by - ________________________________
+                                                                         SUCHAN W. CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 01/10/26 D         22.13    22.13
+                                              001110756   
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240 03/17/26 D          7.65     7.65
+                                              1           
+ 3723621    1  Natrue Almnd Unswtnd Dr 1L   6 12/23/25 D        126.65   126.65
+                                              L5213       
+ 3856646    1  UFC GldnFstaCkingOilSup500mL24 09/04/26 D         68.16    68.16
+                                              24I4M33     
+ 4136008    1  Kopiko Cappuccino Coff 25g 240 01/30/26 D          7.40     7.40
+                                              1TGR300701  
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 10/24/26 D          7.23     7.23
+                                              1534GRT240  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          239.22
+                                                       Rundate 09/14/2025  13:05:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

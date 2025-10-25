@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730262500063
+                                                            Branch - 3026 BENGT BAG C A BONI(A.BONIFACIO ST.BRGY.ABCR )
+                                                            Prepared by - HEIDE B. GUMAWANG on 04/08/2025
+                                                            Issued by - ________________________________
+                                                                         MARIBEL F. CABANBAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282    1  Cupp Keyk Choc Mcha         10 06/28/25 D          6.80     6.80
+                                              03          
+ 3723343    1  Cal Cheese Chse Wfer 48g    60          D         13.01    13.01
+                                              X           
+ 3723374    2  Ding Dong Snck Mx Chip&C95g 60          D         20.54    41.08
+                                              X           
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24          D         22.13    22.13
+                                              X           
+ 3723570    1  Naturelab AlcSprFrtySlsh50mL12          D         44.25    44.25
+                                              X           
+ 3723584    3  Fiesta Fil SpagTpd1.6kgSP30 10 02/15/25 E        109.48   328.44
+                                              506A        
+ 3723586    5  Royal Spag R&T Swt1.6kgSP49 10 02/01/25 E        121.94   609.70
+                                              506B        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,065.41
+                                                       Rundate 04/08/2025  11:42:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

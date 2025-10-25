@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 731032500195
+                                                            Branch - 3103 Bulacan Baliwag City Poblacion BS Aquino( )
+                                                            Prepared by - ELIZA SHAYNE DV. BELGICA on 07/14/2025
+                                                            Issued by - ________________________________
+                                                                         JAIME L. NOCOM
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436   42  Nestea Lem ITea 25g        144 03/31/25 F         18.57   779.94
+                                              40860604F1  
+ 3760009    5  Nido NutriSnaxBnna-Crot110mL60 05/31/25 F         17.76    88.80
+                                              41610189GD  
+ 4025099    5  Nestle KKrunch 35g          72 02/28/25 F         16.36    81.80
+                                              40600630B1  
+ 4530000   15  Starbucks Latte DShtEsp220mL24 04/25/25 F         76.00  1140.00
+                                              41179449AD  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,090.54
+                                                       Rundate 07/14/2025  15:01:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

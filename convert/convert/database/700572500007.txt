@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700572500007
+                                                            Branch - 57 Manila Paco Pedro Gil(57 Pedro Gil St. Paco MANILA)
+                                                            Prepared by - Reymark P. Laurente on 01/07/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Arlene A.Mangila
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025007    5  Nescafe Decaf Bl Ref 20g    60          D         25.71   128.55
+                                              X           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         12.37    12.37
+                                              x           
+ 4530019    1  Nestle Chuckie Cal180mLx4P90 9 11/30/24 E         84.11    84.11
+                                              X           
+ 4530026    1  Nescafe Original SF TPck23g100          D         12.27    12.27
+                                              X           
+ 4530039    1  Milo Bfst Cer Ch&MBalls 20g120          D         13.64    13.64
+                                              x           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          250.94
+                                                       Rundate 01/07/2025  15:45:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

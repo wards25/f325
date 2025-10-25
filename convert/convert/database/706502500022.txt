@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706502500022
+                                                            Branch - 650 CONCEPCN CRT(SAN NICOLAS CONCEPCION TARLAC )
+                                                            Prepared by - CECILLE B. DE GUZMAN on 01/11/2025
+                                                            Issued by - ________________________________
+                                                                         MRS. ISABELITA R. SIGUA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723613    8  Barrio F Std Shrmp P Reg250g12 01/19/25 E        101.75   814.00
+                                              .           
+ 3723617    6  Barrio F Std Shrmp P Swt250g12 01/19/25 E        101.75   610.50
+                                              .           
+ 3723620    4  Barrio F Std Shrmp PSpcy500g 6 02/05/25 E        181.26   725.04
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,149.54
+                                                       Rundate 01/11/2025  13:07:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

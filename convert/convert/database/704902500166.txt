@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704902500166
+                                                            Branch - 490 Manila Sta. Mesa P. Sanchez( )
+                                                            Prepared by - Arianne Veracruz on 05/28/2025
+                                                            Issued by - ________________________________
+                                                                         Cherrie Del Mundo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538  130  Nestle Coffeemate 5g       960 03/31/26 D          1.89   245.70
+                                              43398985E1  
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 12/31/25 D         13.32    13.32
+                                              43540602R1D 
+ 4025237   26  Nescafe Crmy Wh Twin Pck51g200 02/28/26 D         13.32   346.32
+                                              50510597T1  
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 02/28/26 D         13.21    13.21
+                                              50400601E1  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          618.55
+                                                       Rundate 05/28/2025  17:51:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707042500199
+                                                            Branch - 704 Panabo City Nat'l Hway(PANABO CITY NATIONAL HIGHWAY )
+                                                            Prepared by - ANALOU T. TEJADA on 05/05/2025
+                                                            Issued by - ________________________________
+                                                                         CLEO B. GODOY RPh
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32 10/31/25 D         23.09    23.09
+                                              43510189    
+ 3760013  179  Nescafe Clssc Sulit Pck 10g 80 04/30/25 F          9.52  1704.08
+                                              32940190DA  
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 07/31/25 D          8.20     8.20
+                                              42050602M1T2
+ 4025177  178  Nescafe Original 26g       520 04/30/25 F          7.37  1311.86
+                                              41068985A1  
+ 4530024   24  Nescafe CrmyWh SF TPck22.4g100 04/30/25 F         13.21   317.04
+                                              40930601E1  
+ 4530026   17  Nescafe Original SF TPck23g100 04/30/25 F         13.21   224.57
+                                              41050601E1F1
+ 4530053    7  Nescafe Mocha Can 220mL     24 04/27/25 F         34.62   242.34
+                                              4119B467B3  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,831.18
+                                                       Rundate 05/05/2025  15:31:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 122132400081
+                                                            Branch - 2213 Aklan Malay Boracay Station B(SINAGPA BALABAG MALAY AKLAN )
+                                                            Prepared by - JHANNECA LARIZA on 02/29/2024
+                                                            Issued by - ________________________________
+                                                                         GRACE RIOJA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3780421    2  Diabetasol Choc 600g         3 02/14/24 E        883.20  1766.40
+                                              2S1402IU    
+ 3780425    1  Diabetasol Choc 180g         3 02/13/24 E        292.10   292.10
+                                              22S1302IU   
+ 3780426    1  Diabetasol Cappuccino 180g   3 02/14/24 E        292.10   292.10
+                                              22s14031u   
+ 3900004    1  Diabetasol Vnla 360g         3 02/14/24 E        609.20   609.20
+                                              22S1401DH   
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,959.80
+                                                       Rundate 02/29/2024  18:04:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

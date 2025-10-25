@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712042500184
+                                                            Branch - 1204 Rizal Tanay Tandang Kutyo(1204-RIZAL TANAY TANDANG KUTYO )
+                                                            Prepared by - MYKEL D - 10 on 05/13/2025
+                                                            Issued by - ________________________________
+                                                                         Annaliza T. Rivera
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010116   18  Ladys C Ham Sprd 80mL       72 12/08/25 D         34.85   627.30
+                                              245052      
+ 3870303    3  Sunsilk Sh Strng&Long 350mL 12 05/30/25 E        180.32   540.96
+                                              0710222     
+ 3980345    1  Rexona Wmen Ron Whtng 45mL   6 05/30/25 E        120.00   120.00
+                                              3052321     
+ 5800112    1  Knorr Crab&Corn Soup 37g    72 09/30/25 D         34.70    34.70
+                                              241213      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,322.96
+                                                       Rundate 05/14/2025  12:59:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

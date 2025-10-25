@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104492400447
+                                                            Branch - 449 Iriga City San Francisco(SAN FRANCISCO,IRIGA CITY )
+                                                            Prepared by - Sheryl M. Macalino on 10/19/2024
+                                                            Issued by - ________________________________
+                                                                         Joyce T. Gascon
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050009    1  Simple Fcl Wsh Mstrsng 150mL 6          G        180.00   180.00
+                                              0           
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60          D         17.76    17.76
+                                              0           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200          D         12.37    12.37
+                                              0           
+ 4530026    1  Nescafe Original SF TPck23g100          D         11.70    11.70
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          221.83
+                                                       Rundate 10/19/2024  17:51:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     G-Deleted

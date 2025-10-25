@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730562500169
+                                                            Branch - 3056 Pampanga San Fernando City San Isidro(Pampanga San Fernando City San Isidro)
+                                                            Prepared by - GESMUNDO/A.CUNNAN/C.ANINZO on 08/28/2025
+                                                            Issued by - ________________________________
+                                                                         JANETTE A. BANSIL
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167857   10  Nestle All Purpose Crm 250mL24 06/30/25 E         67.29   672.90
+                                              1           
+ 3748503   11  Nestle KKrunch SPck 80g     24 09/04/25 E         48.18   529.98
+                                              42480631    
+ 4025056   61  Nescafe Crmy Wh 20g        240 07/31/25 E          8.20   500.20
+                                              42048985    
+ 4025219    1  Nescafe 3n1 Orig TwinPck40g200 07/31/25 D         13.32    13.32
+                                              1           
+ 4530000    9  Starbucks Latte DShtEsp220mL24 07/03/25 E         76.00   684.00
+                                              1           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,400.40
+                                                       Rundate 08/28/2025  11:13:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

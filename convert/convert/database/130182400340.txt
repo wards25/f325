@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130182400340
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL A. MARTIN on 09/18/2024
+                                                            Issued by - ________________________________
+                                                                         JOANNE KAROL H. VILLAJUAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723536   19  UFC Green Peas 400g         24 10/06/24 E         33.96   645.24
+                                              350201116801
+ 3856633    9  Mang Tomas Lchon Sce 325g   24 09/11/24 F         33.25   299.25
+                                              23L16MO60517
+ 3856635    3  Datu Puti Patis Pet 350mL   24 09/28/24 E         23.51    70.53
+                                              280323A     
+ 3856639    2  Datu Puti Wh Vngar Pet 1L   12 10/08/24 F         39.19    78.38
+                                              23J14M072118
+ 3856643    1  UFC Sweet Chili Sce 340g    24 12/06/24 D         37.76    37.76
+                                              23K17C180508
+ 3856650   19  Mang Tomas Hot&Spcy 325g    24 10/01/24 E         34.20   649.80
+                                              24A0506A0314
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,780.96
+                                                       Rundate 09/18/2024  11:41:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

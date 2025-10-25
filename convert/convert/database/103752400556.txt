@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103752400556
+                                                            Branch - 375 CALUMPIT ST. PETER COMMERCIAL CENTER(CALUMPIT )
+                                                            Prepared by - ARIEL C. GONZALES -D 10 on 07/08/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Vanessa T. Rodriguez
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465865    5  Magnol Choc Mlk Dr 1L       12 07/30/24 E         98.84   494.20
+                                              1           
+ 3723580    4  Naturelab FragBMistTrop100mL 6          D        111.75   447.00
+                                              1           
+ 3723671    1  Solbac Surf Disinf Spr 500mL 6          D        250.40   250.40
+                                              1           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,191.60
+                                                       Rundate 07/08/2024  11:54:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104122400596
+                                                            Branch - 412 Naga City Gen. Luna(MERCURY DRUG NAGA GEN LUNA )
+                                                            Prepared by - JEFFREY G. NIEVES on 07/17/2024
+                                                            Issued by - ________________________________
+                                                                         MARGARITA MARIA R. ASUG
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016285    4  555 Tuna Flakes Adobo 155g  50          D         27.48   109.92
+                                              .           
+ 1016292    3  555 Tuna Flakes Cldreta 155g50          D         26.68    80.04
+                                              .           
+ 1016294    4  555 Tuna Flakes Hot&Sp 155g 50          D         30.18   120.72
+                                              .           
+ 1016355    3  Fresca Tuna Flakes Oil 175g 48          D         27.68    83.04
+                                              .           
+ 1210416    7  Argentina CBeef 260g        48          D         52.86   370.02
+                                              .           
+ 1210485    5  Argentina CBeef 100g        48          D         25.24   126.20
+                                              .           
+ 3048433    1  555 Sardine Frd H&Spcy 155g100          D         33.73    33.73
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          923.67
+                                                       Rundate 07/17/2024  14:59:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

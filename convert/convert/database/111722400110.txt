@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111722400110
+                                                            Branch - 1172 Manila Sta. Cruz Plaza Ronquillo(STA. CRUZ PLAZA RONQUILLO )
+                                                            Prepared by - YAM/BEL/FRITZ/MARIE on 11/13/2024
+                                                            Issued by - ________________________________
+                                                                         MS. EVERLEE D. CARBONILLA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050066    2  Surf FabCond MintExtrct25mL360          D          5.19    10.38
+                                              .           
+ 3050068    1  Breeze Pdr Det Anti-Bac 60g144          D         12.20    12.20
+                                              .           
+ 3870115    1  Dove Sh Biotin HFall 10mL  288          D          5.00     5.00
+                                              .           
+ 3870119    1  Dove Sh Crmde IntRepair10mL288          D          5.59     5.59
+                                              .           
+ 3870200    1  Dove Cond 1Min CrIntRep10mL288          D          6.22     6.22
+                                              .           
+ 3870380    1  Creamsilk CondLong&Lusc11mL288          D          5.93     5.93
+                                              .           
+ 3870382    1  Creamsilk CondLong&Lusc170mL24          D        128.33   128.33
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          173.65
+                                                       Rundate 11/13/2024  15:45:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706092500057
+                                                            Branch - 609 Candon City Nat'l Hway(CANDON CITY NAT'L HWAY )
+                                                            Prepared by - SHIERA MARIX B. LIMAYO on 07/18/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCO S. BALAQUE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4014031    3  Nestle Chuckie Cal-N 180mL  32 04/30/25 F         21.73    65.19
+                                              41630189FD  
+ 4530000    8  Starbucks Latte DShtEsp220mL24 02/28/25 F         76.00   608.00
+                                              40489449AA  
+ 4530001   16  Starbucks Mocha DshtEsp220mL24 03/30/25 F         76.00  1216.00
+                                              4019449AC   
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,889.19
+                                                       Rundate 07/18/2025  16:16:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704092500236
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - BOLANTE/D.DASALLA on 04/06/2025
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322   39  Nescafe Clssc Ref 23g       60 07/31/25 D         23.79   927.81
+                                              40170190AA  
+ 3760007    1  Kitkat Mini 8s 72g          48 06/24/25 D         87.18    87.18
+                                              41769531YT  
+ 4025032    1  Nestle Coffeemate 400g      24 04/30/26 D        109.57   109.57
+                                              5022643041  
+ 4025177    1  Nescafe Original 26g       520 09/30/25 D          7.37     7.37
+                                              42478985A1  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,131.93
+                                                       Rundate 04/06/2025  15:12:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

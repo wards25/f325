@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701332500130
+                                                            Branch - 133 Imus City Nueno Ave.(Imus Nueno D-29 )
+                                                            Prepared by - Rizalina T. Caraballa on 02/22/2025
+                                                            Issued by - ________________________________
+                                                                         MS.LIZA I. ARCEO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    1  Magnol Low Fat Mlk 1L       12 05/31/25 E         96.08    96.08
+                                              41003G101A. 
+ 3465890    1  Magnol Full Crm Mlk 1L      12 02/09/25 F         91.47    91.47
+                                              40614G101A  
+ 3723648    5  Selecta Dolce LFat Choc 1L  12 05/15/25 E         85.96   429.80
+                                              6RLO        
+ 3856633    9  Mang Tomas Lchon Sce 325g   24 04/14/25 E         33.25   299.25
+                                              6231128     
+ 3973031    2  Selecta Forti Mlk Strlzed 1L12 02/08/25 F         80.88   161.76
+                                              J6JB1       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,078.36
+                                                       Rundate 02/22/2025  14:44:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

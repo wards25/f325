@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704122500222
+                                                            Branch - 412 Naga City Gen. Luna(MERCURY DRUG NAGA GEN LUNA )
+                                                            Prepared by - JULIOS A. IGLESIA on 08/14/2025
+                                                            Issued by - ________________________________
+                                                                         MARGARITA MARIA R. ASUG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723343   18  Cal Cheese Chse Wfer 48g    60 09/09/25 E         13.01   234.18
+                                              .           
+ 3723711    7  Malkist Crkr Bbq 28gx10     12 07/17/25 F         53.55   374.85
+                                              .           
+ 3723713    7  Malkist Crkr Swt Glzd28gx10 12 07/22/25 F         53.55   374.85
+                                              +           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          983.88
+                                                       Rundate 08/14/2025  18:07:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

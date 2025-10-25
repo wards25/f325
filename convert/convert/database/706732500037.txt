@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706732500037
+                                                            Branch - 673 Cabanatuan City H. Concepcion Sr.( )
+                                                            Prepared by - JHOAN GAY B. SANTOS on 02/11/2025
+                                                            Issued by - ________________________________
+                                                                         ROMEO M. HERNANDEZ, JR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4110024   20  Rebisco Sbrry Sandw 34g     10 02/23/25 E          5.87   117.40
+                                              1           
+ 4113068   20  Magnol All-Pur Crm Orig250mL24 02/05/25 F         60.61  1212.20
+                                              1           
+ 4113082   60  Magnol Star Mgrine 250g     72 03/27/25 E         64.31  3858.60
+                                              1128        
+ 4510153    1  Rite'n Lite Lych+Rse Dr250mL24 02/08/25 F         22.13    22.13
+                                              1           
+ 4510208    2  Barrio F PBut Extra T&C 170g12 10/27/24 F         71.82   143.64
+                                              1           
+ 4510210    5  Barrio F PBut Extra T&N 170g12 10/27/24 F         71.82   359.10
+                                              1           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,713.07
+                                                       Rundate 02/11/2025  09:58:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

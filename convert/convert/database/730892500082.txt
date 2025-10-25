@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730892500082
+                                                            Branch - 3089 Batangas City Waltermart(CALICANTO, BATANGAS CITY )
+                                                            Prepared by - LYKA A. LUZON on 05/26/2025
+                                                            Issued by - ________________________________
+                                                                         REYNALIZA T. BACONG
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321   19  Nescafe Clssc 1.9g        1008 05/31/25 E          2.92    55.48
+                                              40408985C1  
+ 1167467    7  Nestle Frsh Mlk 250mL       24 05/24/25 F         36.23   253.61
+                                              2328802003  
+ 1167931    3  Bear Br Strlzed RTD 200mL   32 06/30/25 E         26.42    79.26
+                                              42690189TD  
+ 4530061    1  Nan Al 110 Lacto Free 400g   6 06/30/25 E       1046.73  1046.73
+                                              33570346AD  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,435.08
+                                                       Rundate 05/26/2025  15:43:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

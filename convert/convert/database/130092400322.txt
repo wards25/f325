@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130092400322
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S.SARGUET on 12/10/2024
+                                                            Issued by - ________________________________
+                                                                         JOEL P.ALMINANZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413863    1  Nagaraya Crkr Nut Adbo 80g  60 05/07/25 D         20.54    20.54
+                                              24773G      
+ 3413871    2  Nagaraya Crkr Nut Adbo 160g 48 11/20/24 D         41.27    82.54
+                                              24617 A     
+ 4110018    5  Choco Mucho Mlk Choc 30g    10 12/04/24 E          9.30    46.50
+                                              B8M         
+ 4110040   30  Frootees Ckie Sbrry 32g     10 12/15/24 E          5.83   174.90
+                                              R14B4       
+ 4136022    4  Kopiko L.A. Coffee 25g     240 08/27/24 E          7.40    29.60
+                                              526         
+ 4510117    1  Mega Sard In TS Ex Hot 155g 10 04/12/27 D         22.73    22.73
+                                              003624496   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          376.81
+                                                       Rundate 12/10/2024  09:58:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

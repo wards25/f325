@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706062500308
+                                                            Branch - 606 Batac City Washington(BATAC WASHINGTON )
+                                                            Prepared by - CMGUINSATAO/CSACLAYAN on 08/22/2025
+                                                            Issued by - ________________________________
+                                                                         FAIRIE LYNE R. PAGTAMA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    2  Bear Br Strlzed RTD 1L      12 10/23/25 D         97.19   194.38
+                                              X           
+ 1167456    2  Nestle Chuckie Cal-N 1000mL 12 12/31/25 D        102.06   204.12
+                                              X           
+ 3748436    4  Nestea Lem ITea 25g        144 05/31/26 D         18.57    74.28
+                                              X           
+ 4025096   10  Milo Activ-Go RTD 110mL     60 06/30/25 F         14.61   146.10
+                                              07          
+ 4530045    5  Nestle Frsh Mlk 1000mLx2SP15 7 11/29/25 D        197.10   985.50
+                                              X           
+ 4530087   13  Nestle Chuckie Cal-N 180mL  36 08/31/25 E         21.73   282.49
+                                              09          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,886.87
+                                                       Rundate 08/22/2025  16:36:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

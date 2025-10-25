@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107062400701
+                                                            Branch - 706 Davao City Bajada(J.P.Laurel, Bajada, Davao City )
+                                                            Prepared by - ALVIN ORILLA on 04/07/2024
+                                                            Issued by - ________________________________
+                                                                         MA. JANICE P. ALMIRANTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103169    1  Del M Pine Jce Swtnd 220mL  24 09/01/25 D         28.00    28.00
+                                              SB1YY       
+ 1104029    1  Del M Pine Jce Swtnd Tetra1L12 08/31/24 D         87.31    87.31
+                                              SB1YY       
+ 3007482    1  St Ives Lot Clgn Elastin621mL4 03/30/24 F        351.12   351.12
+                                              0323LU40    
+ 3207787    1  Lipton Tea Yel Label 50     12 09/26/24 D        206.33   206.33
+                                              X           
+ 3606232    3  Jimms 5in1 Coffee Mix SF 21g20 10/06/25 D         12.33    36.99
+                                              060CT23     
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 02/09/25 D         10.63    10.63
+                                              X           
+ 4136008    2  Kopiko Cappuccino Coff 25g 240 11/11/24 D          6.16    12.32
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          732.70
+                                                       Rundate 04/07/2024  19:28:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

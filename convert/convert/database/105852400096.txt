@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105852400096
+                                                            Branch - 585 RXS SYQUIA(COR.LEAL & SYQUIA ST.BANTUG ROXAS,ISA.)
+                                                            Prepared by - FREDIE C. DELA CRUZ on 08/13/2024
+                                                            Issued by - ________________________________
+                                                                         SHEENA S. RABUT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102987    1  Del M Pine Jce Crush 220mL  24 02/01/24 F         28.00    28.00
+                                              L2047PC84   
+ 1103169    1  Del M Pine Jce Swtnd 220mL  24 01/01/24 F         28.56    28.56
+                                              L2021SPR73  
+ 1104031    3  Del M Pine Jce BoneSmrt220mL24 08/01/24 F         29.71    89.13
+                                              L3228YY     
+ 3606230   72  Jimms 5in1 Coffee Mix 21g   12 11/26/23 F         10.63   765.36
+                                              052         
+ 3606298    2  Jimms 7in1 Coffee Mix 21g   12 09/21/25 D         11.05    22.10
+                                              3081L5      
+ 3723597    2  Tiger Balm Plstr-RDx2 7x10cm24 07/31/24 F         62.40   124.80
+                                              S210544     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,057.95
+                                                       Rundate 08/13/2024  10:00:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

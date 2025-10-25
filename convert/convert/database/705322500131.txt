@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705322500131
+                                                            Branch - 532 San Fabian Public Market(SAN FABIAN PANGASINAN)
+                                                            Prepared by - J.MERTCAD.GABRIEL/R.TORALBA on 03/10/2025
+                                                            Issued by - ________________________________
+                                                                         HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025097    2  Nestle Chuckie Cal-N 110mL  60 04/20/26 D         13.46    26.92
+                                              43360189    
+ 4066024    1  Kitkat 2F 17gx6 FPck        48 02/08/25 E         85.08    85.08
+                                              42159531    
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          112.00
+                                                       Rundate 03/10/2025  11:36:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

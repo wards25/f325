@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 731042500212
+                                                            Branch - 3104 Naga City Concepcion Grande(NAGA CONCEPCION GRANDE )
+                                                            Prepared by - JACKILYN A. RUMBO on 10/09/2025
+                                                            Issued by - ________________________________
+                                                                         NELSON S. SALAMERO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530051   24  Nescafe Ice Blk Can 220mL   24 08/25/25 F         34.62   830.88
+                                              .           
+ 4530053   24  Nescafe Mocha Can 220mL     24 09/11/25 F         34.62   830.88
+                                              .           
+ 4530065   16  Nestogen LowLactose0-12M400g12 12/31/25 E        397.38  6358.08
+                                              .           
+ 4530067    1  Nestogen LowLactose 1-3Y400g12 12/31/25 E        397.38   397.38
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,417.22
+                                                       Rundate 10/09/2025  14:41:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

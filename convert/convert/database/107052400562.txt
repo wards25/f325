@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107052400562
+                                                            Branch - 705 Baybay Bonifacio(BONIFACIO ST., BAYBAY CITY, LEYTE)
+                                                            Prepared by - IMEE A. CITRA on 09/27/2024
+                                                            Issued by - ________________________________
+                                                                         MYELIN L. GALO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221857   35  San Marino Blu Mckrl Stk180g48 05/13/26 G         56.25  1968.75
+                                              SMBMSS307   
+ 1225221   12  San Marino Crnd Tuna 180g   48 12/15/25 G         43.20   518.40
+                                              SMCTR347    
+ 1225222   30  San Marino Crnd TunaChli180g48 10/23/26 G         43.20  1296.00
+                                              SMCCT362    
+ 4470350    5  San Marino Crnd Tuna 85g     6 01/15/27 G         26.33   131.65
+                                              SMCTTR302   
+ 4470352   21  San Marino Crnd TunaChili 85g6 01/04/27 G         26.33   552.93
+                                              smcct329    
+ 4470354    8  San Marino Crnd Tuna 150g    6 02/07/27 G         35.10   280.80
+                                              SMCTR374    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,748.53
+                                                       Rundate 09/27/2024  11:55:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

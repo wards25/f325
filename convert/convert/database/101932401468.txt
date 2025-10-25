@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101932401468
+                                                            Branch - 193 MKT EVNGLSTA(MAKATI EVANGELISTA D16 )
+                                                            Prepared by - mon on 08/13/2024
+                                                            Issued by - ________________________________
+                                                                         MR. CARLOS P. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60          D         25.71    25.71
+                                              .           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              .           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         11.80    11.80
+                                              .           
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200          D         11.80    23.60
+                                              .           
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200          D         11.80    23.60
+                                              .           
+ 4530026    1  Nescafe Original SF TPck23g100          D         11.70    11.70
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          103.78
+                                                       Rundate 08/13/2024  14:12:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

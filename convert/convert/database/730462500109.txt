@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730462500109
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE )
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 05/01/2025
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    4  Nestle Chuckie Cal-N 1000mL 12 03/31/25 F        102.06   408.24
+                                              41490189YD  
+ 3760007    1  Kitkat Mini 8s 72g          48 04/04/25 F         87.18    87.18
+                                              40959531YT  
+ 4530001   14  Starbucks Mocha DshtEsp220mL24 04/24/25 F         76.00  1064.00
+                                              41169449A3  
+ 4530019    5  Nestle Chuckie Cal180mLx4P90 9 02/28/25 F         84.11   420.55
+                                              06          
+ 4530028    8  Nestle Chuckie STB 110mL 6s 10 02/28/25 F         77.57   620.56
+                                              06          
+ 4530053   17  Nescafe Mocha Can 220mL     24 04/27/25 F         34.62   588.54
+                                              4119B467B3  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,189.07
+                                                       Rundate 05/01/2025  19:22:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

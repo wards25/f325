@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730852500119
+                                                            Branch - 3085 Zambales Subic Waltermart(3085 ZAMBALES SUBIC WALTERMART 130852500032)
+                                                            Prepared by - MARIEJO B. MAYO on 06/11/2025
+                                                            Issued by - ________________________________
+                                                                         MARIA RIZA M. ANDRADA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574    3  Kitkat 4F 35g               24 06/19/25 D         29.27    87.81
+                                              41719531BA  
+ 3760009   59  Nido NutriSnaxBnna-Crot110mL60 08/31/25 E         17.76  1047.84
+                                              42500189LD  
+ 4066029    2  Kitkat Chunky Mlk Choc 38g  24 03/16/25 D         41.15    82.30
+                                              40769531CT  
+ 4530057    1  Kitkat 2F 17g               48 08/30/25 E         15.36    15.36
+                                              42439531AA  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,233.31
+                                                       Rundate 06/12/2025  16:28:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

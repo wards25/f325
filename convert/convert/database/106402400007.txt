@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106402400007
+                                                            Branch - 640 Nabua Hway I(SAN FRANCISCO NABUA CAMARINES SUR)
+                                                            Prepared by - BEVERLY LUCILLE DAZA JACOB on 01/04/2024
+                                                            Issued by - ________________________________
+                                                                         CYRUS VELASCO DOCOT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3973031    7  Selecta Forti Mlk Strlzed 1L12 01/03/24 F         80.88   566.16
+                                              -           
+ 4110018    9  Choco Mucho Mlk Choc 30g    10 01/02/24 F          9.30    83.70
+                                              -           
+ 4110036  256  VitaCubes Frt Jelly Cdy 50g 10 01/08/24 E         18.00  4608.00
+                                              -           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,257.86
+                                                       Rundate 01/05/2024  13:15:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

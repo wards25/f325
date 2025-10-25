@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130742400682
+                                                            Branch - 3074 Bataan Pilar Alauli( )
+                                                            Prepared by - ROSA FELISA D. MALINAO on 12/07/2024
+                                                            Issued by - ________________________________
+                                                                         MR. GARRY C. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167452    1  Nestle Chuckie Cal-N 250mL  24 05/31/25 D         28.08    28.08
+                                              421364382a  
+ 1167467    1  Nestle Frsh Mlk 250mL       24 03/16/25 D         36.23    36.23
+                                              2327836807  
+ 1167857    2  Nestle All Purpose Crm 250mL24 06/30/25 D         67.29   134.58
+                                              07          
+ 4025096    6  Milo Activ-Go RTD 110mL     60 02/28/25 D         14.61    87.66
+                                              41050189ld  
+ 4025237   10  Nescafe Crmy Wh Twin Pck51g200 11/30/24 E         12.37   123.70
+                                              f3          
+ 4066024   18  Kitkat 2F 17gx6 FPck        48 12/19/24 E         85.08  1531.44
+                                              33549531aa  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,941.69
+                                                       Rundate 12/07/2024  16:10:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

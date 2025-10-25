@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106672400348
+                                                            Branch - 667 Rosario Gualberto(MD ROSARIO GUALBERTO ROSARIO BATANGAS)
+                                                            Prepared by - ANICIA C. PASCUA on 12/24/2024
+                                                            Issued by - ________________________________
+                                                                         ELMER B. BENITEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915    6  Selecta Forti Mlk 1L        12 12/24/24 F         85.46   512.76
+                                              B8MP0       
+ 3723396    6  Entrasol Pltnm Ad PdrChoc200g3 01/05/25 E        352.60  2115.60
+                                              +3U0506GU   
+ 3856650   17  Mang Tomas Hot&Spcy 325g    24 11/20/24 F         34.20   581.40
+                                              24B24M061128
+ 4110019   10  Choco Mucho Wh Choc 30g     10 12/29/24 E          9.30    93.00
+                                              A4M         
+ 4136006   40  Kopiko Brn Coff 27.5g      240 12/24/24 F          6.80   272.00
+                                              1091        
+ 4510226    9  Happy Pnut Bbq 100g         24 11/15/24 F         30.81   277.29
+                                              A14A        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,852.05
+                                                       Rundate 12/24/2024  19:15:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

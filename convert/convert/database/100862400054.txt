@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100862400054
+                                                            Branch - 86 Paranaque City Sucat Lopez(MDC SUCAT LOPEZ )
+                                                            Prepared by - Jackie Jasmin D-23 on 01/06/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jena H. Mallari
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254310    1  UFC Bnana Csup Reg 320g     24 01/06/24 D         23.40    23.40
+                                              6388        
+ 3254315    3  UFC Bnana Csup Reg 530g     18 01/12/24 E         40.38   121.14
+                                              2318        
+ 3623291    6  Musli Oat Bisc Choc 60g     24 01/10/24 E         31.50   189.00
+                                              2218593     
+ 3623295    2  Musli Oat Bisc BlueBCranB60g24 01/09/24 E         31.50    63.00
+                                              2218549     
+ 3723562    6  Musli OatCrnchyBbry&Rbry375g14 01/15/24 E        160.65   963.90
+                                              39688       
+ 3723566    1  Musli OatCrnchySbry&Almd375g14 01/14/24 E        160.65   160.65
+                                              2200102     
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 07/01/24 D         10.63    10.63
+                                              6988        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,531.72
+                                                       Rundate 01/06/2024  15:49:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

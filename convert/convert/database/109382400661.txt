@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109382400661
+                                                            Branch - 938 DGT COLON(COLON ST DUMAGUETE CITY NEGROS ORIENTAL)
+                                                            Prepared by - AGUSTIN ABADA on 09/29/2024
+                                                            Issued by - ________________________________
+                                                                         FELMA O. IGNACIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109325    1  Nescafe Clssc Ref 92g       30 07/31/24 D         82.41    82.41
+                                              .           
+ 1167467    1  Nestle Frsh Mlk 250mL       24 02/19/25 D         34.74    34.74
+                                              .           
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 12/12/24 D        100.18   100.18
+                                              .           
+ 3760016   12  Kitkat 2F SltdCramelCkies85g48 06/11/24 E         81.82   981.84
+                                              .           
+ 4025037   50  Nescafe 3n1 CrmyLatte27.5g 240 07/31/24 E          8.20   410.00
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,609.17
+                                                       Rundate 09/29/2024  18:38:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130372400402
+                                                            Branch - 3037 PAMPANGA LUBAO JASA(Pampanga Lubao JASA )
+                                                            Prepared by - KIM/JANICE on 09/29/2024
+                                                            Issued by - ________________________________
+                                                                         DARWIN V. RAMIREZ
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221848   10  CDO LchMeat ChineseStyle350g24 11/28/26 G         76.50   765.00
+                                              CDOLM345    
+ 1225221   20  San Marino Crnd Tuna 180g   48 11/30/24 G         43.20   864.00
+                                              SMCTR3135   
+ 1225222   24  San Marino Crnd TunaChli180g48 03/31/26 G         43.20  1036.80
+                                              SMCCT345    
+ 4470354   22  San Marino Crnd Tuna 150g    6 11/11/29 G         33.30   732.60
+                                              SMCTR305    
+ 4470356   20  San Marino Crnd TunaChili150g6 09/11/26 G         33.30   666.00
+                                              SMCCT303    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,064.40
+                                                       Rundate 09/28/2024  15:00:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

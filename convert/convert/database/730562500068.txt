@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730562500068
+                                                            Branch - 3056 Pampanga San Fernando City San Isidro(Pampanga San Fernando City San Isidro)
+                                                            Prepared by - N.GESMUNDO/A.CUNANAN/C.ANINZO on 03/22/2025
+                                                            Issued by - ________________________________
+                                                                         JANETTE A. BANSIL
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    4  Nestle Chuckie Cal-N 1000mL 12 02/28/25 E        102.06   408.24
+                                              1           
+ 4025096   41  Milo Activ-Go RTD 110mL     60 03/31/25 E         14.61   599.01
+                                              1           
+ 4025099    7  Nestle KKrunch 35g          72 03/26/25 E         16.36   114.52
+                                              1           
+ 4530067    1  Nestogen LowLactose 1-3Y400g12 07/24/24 G        397.38   397.38
+                                              1           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,519.15
+                                                       Rundate 03/22/2025  14:18:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted

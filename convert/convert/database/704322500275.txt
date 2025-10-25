@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704322500275
+                                                            Branch - 432 PAMP AGS C MRNDA(PAMP ANGELES C MIRANDA 432)
+                                                            Prepared by - JAYBEE P. OCAMPO on 09/10/2025
+                                                            Issued by - ________________________________
+                                                                         LOISLANE G. MAGTOTO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562   18  Ladys C Mynaise 220mL       24 09/30/25 E        112.05  2016.90
+                                              N/A         
+ 1010117   38  Ladys C Tuna Sprd 80mL      72 09/05/25 F         34.85  1324.30
+                                              N/A         
+ 5800320   18  Ladys C Chck Sprd 80mL      36 08/09/25 F         34.85   627.30
+                                              N/A         
+ 5800323   16  Ladys C Mynaise 80mL        36 07/09/25 F         32.20   515.20
+                                              N/A         
+ 5800326    3  Ladys C RMayo DPck 470mL     6 08/15/25 F        185.40   556.20
+                                              N/A         
+ 5800328   26  Ladys C Sandw Sprd 80mL     36 09/08/25 F         31.55   820.30
+                                              N/A         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,860.20
+                                                       Rundate 09/10/2025  11:10:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

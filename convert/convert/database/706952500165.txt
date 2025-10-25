@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706952500165
+                                                            Branch - 695 Puerto Princesa City San Pedro(SAN PEDRO PUERTO PRINCESA CITY)
+                                                            Prepared by - SHEENA MARIE D. ESMALIA on 05/20/2025
+                                                            Issued by - ________________________________
+                                                                         ANNE D. PEDROSA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562    4  Ladys C Mynaise 220mL       24 05/20/25 F        112.05   448.20
+                                              243023      
+ 1010665    3  Knorr Liq Seasoning Chl130mL24 05/24/25 E         59.50   178.50
+                                              ACX         
+ 5800106    4  Ladys C RMayo GlassJar470mL 12 05/06/25 F        227.50   910.00
+                                              242832      
+ 5800214    7  Knorr Hot Meal ArrozCaldo32g 4 05/29/25 E         16.95   118.65
+                                              1CM3        
+ 5800216    8  Knorr Hot Meal Beef Goto 32g 4 05/29/25 E         16.95   135.60
+                                              3CM3        
+ 5800318    1  Knorr Crab&Corn Soup 55g    30 04/04/25 F         50.95    50.95
+                                              234142      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,841.90
+                                                       Rundate 05/20/2025  13:39:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

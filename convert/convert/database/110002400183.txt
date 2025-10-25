@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110002400183
+                                                            Branch - 1000 Quezon City MDC 100(1000-QC MDC 100 )
+                                                            Prepared by - Michelle Lapuz on 02/14/2024
+                                                            Issued by - ________________________________
+                                                                         Ms.Jennifer Pio De Roda
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584    1  Fiesta Fil SpagTpd1.6kgSP30 10 05/11/24 D        109.48   109.48
+                                              58C2        
+ 3723586    4  Royal Spag R&T Swt1.6kgSP49 10 03/17/24 E        121.94   487.76
+                                              43053171122 
+ 4103101    1  Del M SpagFilStylPrtyPckSP42 8 07/30/25 D        133.46   133.46
+                                              3211IFL1    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          730.70
+                                                       Rundate 02/14/2024  12:32:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

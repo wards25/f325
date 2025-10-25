@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130252400377
+                                                            Branch - 3025 BAT LEM XTRO MALL(MALINIS LEMERY BATANGAS .)
+                                                            Prepared by - CHARLOTTE KHATE C NAVARRO on 11/11/2024
+                                                            Issued by - ________________________________
+                                                                         CHARLOTE S. CATENA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025056  139  Nescafe Crmy Wh 25.5g      240 12/31/24 E          8.20  1139.80
+                                              33398985A162
+ 4025237   80  Nescafe Crmy Wh Twin Pck51g200 11/30/24 E         12.37   989.60
+                                              33200597F1B3
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 02/28/25 D         12.37    12.37
+                                              40590597T1H3
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,141.77
+                                                       Rundate 11/11/2024  12:27:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

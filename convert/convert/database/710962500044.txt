@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710962500044
+                                                            Branch - 1096 Pasig City San Antonio(1096 PASIG CITY SAN ANTONIO )
+                                                            Prepared by - noel on 02/02/2025
+                                                            Issued by - ________________________________
+                                                                         MS LIZEL MATA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    1  Surf FabCond Bl FrshSac25mL360 03/31/26 D          5.19     5.19
+                                              12345       
+ 5800326    5  Ladys C RMayo DPck 470mL     6 03/31/25 E        185.40   927.00
+                                              242322      
+ 6200091    1  Surf Pdr Rose Frsh 65g B6G1 40 03/31/26 D         36.75    36.75
+                                              123456      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          968.94
+                                                       Rundate 02/02/2025  10:24:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

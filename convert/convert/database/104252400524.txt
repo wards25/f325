@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104252400524
+                                                            Branch - 425 Masbate City Zurbito(MERCURY DRUG MASBATE ZURBITO Y)
+                                                            Prepared by - JOHN CHARLIE A. GRACIO on 10/31/2024
+                                                            Issued by - ________________________________
+                                                                         RUDY M. CARDENAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167931    8  Bear Br Strlzed RTD 200mL   32          D         26.42   211.36
+                                              N           
+ 3748416    6  Bear Br Strlzedw/Gnsg 200mL 32          D         26.42   158.52
+                                              N           
+ 3748417    2  Bear Br Strlzedw/GnkgoB200mL32          D         26.42    52.84
+                                              N           
+ 3748436    1  Nestea Lem ITea 25g        144          D         18.57    18.57
+                                              N           
+ 3748444   15  Nestea Ap ITea 20g         144          D         18.57   278.55
+                                              N           
+ 3748503  130  Nestle KKrunch SPck 80g     24          D         47.08  6120.40
+                                              N           
+ 3760015    1  Bear Br StrlzedRTD200mLx4SP8 8          D         92.52    92.52
+                                              N           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,932.76
+                                                       Rundate 10/31/2024  08:49:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

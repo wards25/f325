@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104492400495
+                                                            Branch - 449 Iriga City San Francisco(SAN FRANCISCO,IRIGA CITY )
+                                                            Prepared by - Sheryl M. Macalino on 11/19/2024
+                                                            Issued by - ________________________________
+                                                                         Joyce T. Gascon
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104077    7  Del M Mr Milk GrApl 80mLx6  16 06/01/25 D         47.22   330.54
+                                              hadmi4153050
+ 1104079   12  Del M Mr Milk Plain 80mLx6  16 05/24/25 D         47.22   566.64
+                                              HADMI4145040
+ 1104081    9  Del M Mr Milk Sbrry 80mLx6  16 05/31/25 D         47.22   424.98
+                                              HADMI4152040
+ 1104109   22  Del M Vinamilk IQSmrtCh110mL48 03/21/25 D         12.82   282.04
+                                              210324      
+ 1104111    6  Del M Vinamilk IQSmrtSb110mL48 11/10/24 F         12.82    76.92
+                                              M2105       
+ 1104113    8  Del M Vinamilk Ygrt MxF110mL48 11/10/24 F         11.07    88.56
+                                              M2109       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,769.68
+                                                       Rundate 11/19/2024  12:39:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

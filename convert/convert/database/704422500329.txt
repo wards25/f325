@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704422500329
+                                                            Branch - 442 ROMB ODNGN MA RXS(ODIONGAN ROMBLON )
+                                                            Prepared by - JUDITH J. FAMISARAN on 07/17/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RONNEL E. ROJAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    1  Nestle Frsh Mlk 250mL       24 07/22/25 E         36.23    36.23
+                                              10162704    
+ 4025056    1  Nescafe Crmy Wh 20g        240 04/30/25 F          8.20     8.20
+                                              41208985A11 
+ 4025097   57  Nestle Chuckie Cal-N 110mL  60 06/30/25 F         13.46   767.22
+                                              42380189LD  
+ 4025177  519  Nescafe Original 20g       520 07/31/25 E          7.37  3825.03
+                                              42018985A1  
+ 4025219    1  Nescafe 3n1 Orig TwinPck40g200 11/30/25 D         13.32    13.32
+                                              43260601K   
+ 4025239   48  Nestle CarnationCndnsda388mL48 01/11/25 F         64.49  3095.52
+                                              40111508    
+ 4530049   14  Nescafe Cappuccino Can 220mL24 07/23/25 E         34.62   484.68
+                                              4206B467B1  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,230.20
+                                                       Rundate 07/18/2025  14:46:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

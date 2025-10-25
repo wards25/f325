@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701112500335
+                                                            Branch - 111 Cainta Q-Plaza(QPLAZA COMPLEX FELIX AVE CAINTA RIZAL)
+                                                            Prepared by - lem Marasigan on 04/10/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MARICEL NOTADA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016262    1  Century TunaFlk Veg Oil 155g50          D         34.03    34.03
+                                              0           
+ 1210411    2  Argentina Bf Loaf 250g      48          D         29.05    58.10
+                                              0           
+ 1210453    3  Shanghai Chnse LchMeat 375g 24          D         78.10   234.30
+                                              0           
+ 1210485    2  Argentina CBeef 100g        48          D         25.24    50.48
+                                              0++         
+ 3048433   10  555 Sardine Frd H&Spcy 155g100          D         31.83   318.30
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          695.21
+                                                       Rundate 04/10/2025  14:50:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

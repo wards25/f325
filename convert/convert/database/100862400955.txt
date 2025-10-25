@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100862400955
+                                                            Branch - 86 Paranaque City Sucat Lopez(MDC SUCAT LOPEZ (#86) )
+                                                            Prepared by - Joy Dagat DIST-23 on 08/07/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jena H. Mallari
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.24     2.24
+                                              .           
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              .           
+ 3748416    9  Bear Br Strlzedw/Gnsg 200mL 32 08/09/24 E         25.23   227.07
+                                              33170189kd  
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240          D          8.20     8.20
+                                              0           
+ 4025219    7  Nescafe 3n1 Orig TwinPck56g200          D         11.80    82.60
+                                              0           
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         11.80    11.80
+                                              0           
+ 4025239   25  Nestle CarnationCndnsda388mL48 09/18/24 E         59.81  1495.25
+                                              326115507a  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,829.05
+                                                       Rundate 08/07/2024  10:06:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

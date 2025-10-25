@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709602500198
+                                                            Branch - 960 Mati City Mabini(Mabini St,Mati City,Dvo. Or. )
+                                                            Prepared by - RODOLFO L. DUMADAG II on 10/11/2025
+                                                            Issued by - ________________________________
+                                                                         LIEZLIE ANNE P. IBA¥EZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    9  Royal Spaghetti 900g        18 10/05/25 E         97.00   873.00
+                                              C1023       
+ 3723343    2  Cal Cheese Chse Wfer 48g    60 05/26/26 D         13.01    26.02
+                                              0644S027    
+ 3856663    8  Locally Gybano Jce Dr 240mL 24 10/28/25 E         25.08   200.64
+                                              24H0S509    
+ 4136006    1  Kopiko Brn Coff 27.5g      240 09/01/26 D          7.23     7.23
+                                              1111TGR     
+ 4136010    8  Kopiko Blck 3-N-1 Coff 30g 240 11/22/25 D          7.23    57.84
+                                              3515TGR     
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,164.73
+                                                       Rundate 10/11/2025  18:51:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

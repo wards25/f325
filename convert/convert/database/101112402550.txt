@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101112402550
+                                                            Branch - 111 Cainta Q-Plaza(QPLAZA COMPLEX FELIX AVE )
+                                                            Prepared by - leM MARASIGAN on 08/21/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MARICEL NOTADA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109325    2  Nescafe Clssc Ref 92g       30          D         76.22   152.44
+                                              0           
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              0           
+ 3748503    1  Nestle KKrunch SPck 80g     24          D         47.08    47.08
+                                              0           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              0           
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200          D         11.80    23.60
+                                              0           
+ 4025239   12  Nestle CarnationCndnsda388mL48          D         59.81   717.72
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          950.10
+                                                       Rundate 08/21/2024  15:02:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721392500042
+                                                            Branch - 2139 Siquijor Siquijor Poblacion(2139 SIQUIJOR )
+                                                            Prepared by - JEANNE JUNE L. BALOLONG on 03/01/2025
+                                                            Issued by - ________________________________
+                                                                         CINDY GRACE M. LA VICTORIA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    6  Selecta Forti Mlk LowFat 1L 12 03/10/25 E         91.92   551.52
+                                              05B8MPO     
+ 3413863    1  Nagaraya Crkr Nut Adbo 80g  60 09/12/25 D         20.54    20.54
+                                              24891D      
+ 3413868    1  Nagaraya Crkr Nut Bbq 160g  48 08/29/25 D         41.27    41.27
+                                              24880A      
+ 3413872    1  Nagaraya Crkr Nut Hot&Sp160g48 09/12/25 D         41.27    41.27
+                                              24891       
+ 3695258   48  Magnol Panck+W/Choc Syr200g 48 03/06/25 E         32.77  1572.96
+                                              407091D427  
+ 3695260   21  Magnol Panck+W/Mple Syr200g 48 03/05/25 E         32.77   688.17
+                                              407081C414  
+ 3973046    4  Selecta Forti Mlk LFat1Lx2SP 6 03/08/25 E        156.12   624.48
+                                              5516JBO     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,540.21
+                                                       Rundate 03/03/2025  09:16:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

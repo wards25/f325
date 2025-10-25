@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101552400890
+                                                            Branch - 155 Valenzuela City Polo(PALASAN, VALENZUELA CITY )
+                                                            Prepared by - MELA, CEL on 10/03/2024
+                                                            Issued by - ________________________________
+                                                                         MR. ROMEO GERONIMO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 03/25/25 D        100.18   100.18
+                                              23280047    
+ 4025037  164  Nescafe 3n1 CrmyLatte27.5g 240 10/31/24 E          8.20  1344.80
+                                              32878985A1  
+ 4025056   10  Nescafe Crmy Wh 25.5g      240 10/31/24 E          8.20    82.00
+                                              32948985A1  
+ 4025099    1  Nestle KKrunch 35g          72          D         14.48    14.48
+                                              .           
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 06/30/25 D         12.37    24.74
+                                              .           
+ 4530037    1  Pre Nan Inf Fmla 0-12M 400g  4 05/31/25 D        887.85   887.85
+                                              31340346AB  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,454.05
+                                                       Rundate 10/03/2024  14:03:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705252500061
+                                                            Branch - 525 NV SOL MHRLIKA HWY(NUEVA VIZCAYA SOLANO MAHARLIKA )
+                                                            Prepared by - MERCY M. TABERNA on 04/14/2025
+                                                            Issued by - ________________________________
+                                                                         ALTHEA T. EMPESTAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 08/11/25 D         20.54    20.54
+                                              .           
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10 02/15/25 F        117.39   117.39
+                                              .           
+ 3723708    4  Golden Cup Oil Liniment 3mL  6 09/21/25 D         43.00   172.00
+                                              .           
+ 4113082   56  Magnol Star Mgrine 250g     72 05/07/25 E         64.31  3601.36
+                                              .           
+ 4180010    1  Mega Sard In TS 425g        24 10/04/27 D         50.63    50.63
+                                              .           
+ 4510111    1  Mega Sard In TS Chili 155g  10 04/16/27 D         21.83    21.83
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,983.75
+                                                       Rundate 04/14/2025  17:30:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

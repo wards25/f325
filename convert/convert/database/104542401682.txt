@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104542401682
+                                                            Branch - 454 Sta. Maria Bypass Rd Waltermart(454BUL SM WALTERMART BP ROAD STA CLARA,STA MARIA BUL)
+                                                            Prepared by - Josette De Guzman on 11/27/2024
+                                                            Issued by - ________________________________
+                                                                         Ethel M. Baniqued
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530000    1  Starbucks Latte DShtEsp220mL24 03/20/25 D         76.00    76.00
+                                              40819449AF  
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 04/30/25 D         12.37    12.37
+                                              411770597TAP
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           88.37
+                                                       Rundate 11/27/2024  14:29:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

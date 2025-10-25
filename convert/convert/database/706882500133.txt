@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706882500133
+                                                            Branch - 688 Dagupan City Perez Blvd. - Calimlim(PEREZ CALIMLIM, DAGUPAN CITY )
+                                                            Prepared by - J.CRUZ/ B. SANTOS / E. COQUIA on 05/28/2025
+                                                            Issued by - ________________________________
+                                                                         PERCIVAL AGUSTIN C. PAREDES
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210406    4  Argentina Meat Loaf 250g    48          D         30.95   123.80
+                                              AML25       
+ 1210453    1  Shanghai Chnse LchMeat 375g 24 06/13/25 E         78.10    78.10
+                                              CLMW0       
+ 3793347    1  Birch Tree FortiChocoPdr29g160          D          8.17     8.17
+                                              1519        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          210.07
+                                                       Rundate 05/30/2025  10:03:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

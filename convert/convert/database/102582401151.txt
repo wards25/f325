@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102582401151
+                                                            Branch - 258 Sta. Cruz P. Guevarra( )
+                                                            Prepared by - RACHEL R. TALABIS on 07/04/2024
+                                                            Issued by - ________________________________
+                                                                         MR. OLIVER C. ALUB
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104061    1  Del M Pine Jce Fiber Tetra1L12          D        104.23   104.23
+                                              .           
+ 3254315    1  UFC Bnana Csup Reg 530g     18          D         40.38    40.38
+                                              .           
+ 3723566    5  Musli OatCrnchySbry&Almd375g14 07/15/24 E        160.65   803.25
+                                              .           
+ 3856660    1  Locally Calamnsi Jce Dr240mL24          D         22.80    22.80
+                                              .           
+ 4095043    2  Seoul Wh K SoapDbleWhtng270g12 07/31/24 E        164.00   328.00
+                                              rq201215    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,298.66
+                                                       Rundate 07/04/2024  12:23:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

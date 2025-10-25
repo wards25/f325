@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107192400621
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 09/05/2024
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102966    4  Del M Chunks Pine 227g      24 08/01/24 F         33.18   132.72
+                                              0           
+ 1103030    5  Del M Pine Jce W/VitACE1.36L12 09/01/24 F        100.94   504.70
+                                              0           
+ 1103059   15  Del M Tidbits Pine 432g     24 10/01/24 E         58.10   871.50
+                                              0           
+ 1103593    7  Del M Pine Jce Fiber 1.36L  12 09/01/24 F        110.42   772.94
+                                              0           
+ 1103961    4  Del M Fit N RghtBurnApl330mL24 08/24/24 F         31.13   124.52
+                                              0           
+ 1103962    4  Del M Fit N RghtBurn4sn330mL24 07/14/24 F         31.13   124.52
+                                              0           
+ 4096032   23  Del M Tidbits Pine 227g     24 10/01/24 E         33.18   763.14
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,294.04
+                                                       Rundate 09/05/2024  20:44:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

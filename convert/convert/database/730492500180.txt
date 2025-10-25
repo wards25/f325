@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730492500180
+                                                            Branch - 3049 N. ECIJA TALAVERA WALTERMART(TALAVERA WALTERMART TALAVERA NUEVA ECIJA)
+                                                            Prepared by - MELVIN R. BUIZON on 06/27/2025
+                                                            Issued by - ________________________________
+                                                                         JOANNE KAROL H. VILLAJUAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723685    1  Rebisco Hansel Crackers 32g 10 08/19/25 D          5.97     5.97
+                                              636A2       
+ 3723736    2  Selecta Forti Mlk LFat1Lx2SP12 06/03/25 F        156.12   312.24
+                                              02H6D90     
+ 3900003    4  Diabetasol Choc 360g         3 07/14/25 E        609.20  2436.80
+                                              23X1401DH   
+ 4100002    8  Kettle Korn Cheese 120g     30 06/05/25 G         39.74   317.92
+                                              MLM4        
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,072.93
+                                                       Rundate 06/27/2025  13:26:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired     G-Deleted

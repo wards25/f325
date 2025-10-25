@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500319
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY Ilocos sur)
+                                                            Prepared by - Christopher A. Padua on 08/20/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1008799    2  Best F Mayo Magic 220mL     24 02/25/26 D         51.75   103.50
+                                              250972      
+ 3039262    2  Surf Pdr Blsm Frsh 550g     24          D         53.51   107.02
+                                              .           
+ 3050004   25  Surf Pdr Rose Frsh 57g     288          D          6.13   153.25
+                                              .           
+ 3265477    1  Close Up SthngMntl191gx2TPck36          D        166.65   166.65
+                                              0649        
+ 3870033    4  Creamsilk Cond HFallDef11mL288          D          5.93    23.72
+                                              .           
+ 3870200    1  Dove Cond 1Min CrIntRep10mL288          D          6.37     6.37
+                                              .           
+ 6200284    1  Sunsilk Sh A-DHlthyStrg170mL24 03/28/27 D        115.93   115.93
+                                              32          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          676.44
+                                                       Rundate 08/20/2025  17:04:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

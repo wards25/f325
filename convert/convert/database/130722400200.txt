@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130722400200
+                                                            Branch - 3072 Quezon Lucena City Puregold(GULANG-GULANG LUCENA CITY)
+                                                            Prepared by - MS. KIM L. RAMOS on 08/20/2024
+                                                            Issued by - ________________________________
+                                                                         MR. ANDRO C. ILAGAN
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210407    3  Argentina Meat Loaf 170g    48 06/24/24 F         22.38    67.14
+                                              AMLS4       
+ 1210409   13  Argentina Bf Loaf 170g      48 06/21/24 F         22.86   297.18
+                                              ABL16       
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          364.32
+                                                       Rundate 08/20/2024  13:03:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

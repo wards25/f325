@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101632400708
+                                                            Branch - 163 Hagonoy Poblacion(STO. NI¥O HAGONOY BULACAN )
+                                                            Prepared by - Chester dino on 08/13/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CINDY GOLONDRINA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102991    3  Del M Crushed Pine 227g     24 10/01/24 D         33.18    99.54
+                                              2276        
+ 1103188    4  Del M Spag Sce ItalStyle250g24 09/02/24 E         35.00   140.00
+                                              31221       
+ 4100002    6  Kettle Korn Cheese 120g     30 08/01/24 E         36.25   217.50
+                                              M3          
+ 4113086    1  Magnol All-Pur Flour 400g   30 04/22/25 D         38.90    38.90
+                                              404271      
+ 4510077   26  Axion Paste Lem 190g        48 05/31/25 D         34.16   888.16
+                                              3D          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,384.10
+                                                       Rundate 08/13/2024  15:04:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

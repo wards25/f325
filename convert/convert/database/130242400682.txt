@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130242400682
+                                                            Branch - 3024 Bacnotan McArthur Hway(NISCE BLDG MCARTHUR HIGHWAY NAGSIMBAANAN BACNOTAN LU)
+                                                            Prepared by - AIZA R. MATIENZO on 10/14/2024
+                                                            Issued by - ________________________________
+                                                                         ERIC C. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723285   16  Fudgee Barr Milk Custard    10 11/10/24 E          8.10   129.60
+                                              .           
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24 06/07/25 D         20.25    20.25
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              .           
+ 4110018    9  Choco Mucho Mlk Choc 30g    10 11/25/24 E          9.30    83.70
+                                              B3M         
+ 4110019    5  Choco Mucho Wh Choc 30g     10 11/18/24 E          9.30    46.50
+                                              A2M         
+ 4510217    6  Lipton Tea STL Eng BfstBlk25s6 10/10/24 F        198.35  1190.10
+                                              11102022    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,481.63
+                                                       Rundate 10/14/2024  16:41:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

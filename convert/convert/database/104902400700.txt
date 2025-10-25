@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104902400700
+                                                            Branch - 490 Manila Sta. Mesa P. Sanchez( )
+                                                            Prepared by - Arianne Veracruz on 10/19/2024
+                                                            Issued by - ________________________________
+                                                                         Cherrie Del Mundo
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039296    4  Surf Pdr Chrry Blssm 50g   288          D          6.13    24.52
+                                              .           
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              .           
+ 3050068    1  Breeze Pdr Det Anti-Bac 60g144          D         12.20    12.20
+                                              .           
+ 3870023    1  Creamsilk Cond Dam Ctrl11mL288          D          5.93     5.93
+                                              .           
+ 3870119    1  Dove Sh Crmde IntRepair10mL288          D          5.59     5.59
+                                              .           
+ 6200127    1  Breeze Pdr Det RsGldP66g6+1 24          D         73.21    73.21
+                                              .           
+ 6200289    1  Surf FabCond BlsmFrs25mL6+1 50          D         31.16    31.16
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          158.74
+                                                       Rundate 10/19/2024  15:41:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

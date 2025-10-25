@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130752400162
+                                                            Branch - 3075 Bataan Orion Poblacion(BATAAN ORION POBLACION )
+                                                            Prepared by - JOFIAH ANTONIO on 03/06/2024
+                                                            Issued by - ________________________________
+                                                                         PAOLO C. CANDO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148938    8  Selecta Forti MlkLowFat245mL24 03/07/24 E         34.23   273.84
+                                              E           
+ 3254310    9  UFC Bnana Csup Reg 320g     24 04/16/24 E         23.40   210.60
+                                              E           
+ 3723317   79  Beng-Beng ChocCrmlWfer26.5g120 04/03/24 E          6.92   546.68
+                                              E           
+ 3856627   16  Datu Puti Patis 350mL       24 04/18/24 E         23.04   368.64
+                                              E           
+ 3856643   20  UFC Sweet Chili Sce 340g    24 03/22/24 E         35.86   717.20
+                                              E           
+ 3972988   14  WhiteKing Champorado Mix113g30 04/14/24 E         30.49   426.86
+                                              E           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,543.82
+                                                       Rundate 03/06/2024  14:16:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701942500021
+                                                            Branch - 194 Manila Ermita Robinsons Place(ROBINSONS PLACE ERMITA MANILA )
+                                                            Prepared by - KRISTIA MARIE ABALOS on 02/22/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CLARISSA C.HILARIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748416    1  Bear Br Strlzedw/Gnsg 200mL 32 09/17/25 D         26.42    26.42
+                                              12345       
+ 3760009    6  Nido NutriSnaxBnna-Crot110mL60 03/28/25 E         17.76   106.56
+                                              40800189    
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 11/03/25 D         12.37    24.74
+                                              12345       
+ 4066029    1  Kitkat Chunky Mlk Choc 38g  24 08/30/25 D         41.15    41.15
+                                              12345       
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200 11/30/25 D         12.37    24.74
+                                              43130597    
+ 4530026    1  Nescafe Original SF TPck23g100 12/31/25 D         12.27    12.27
+                                              12345       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          235.88
+                                                       Rundate 02/22/2025  15:43:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

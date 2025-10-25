@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730182500006
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL A. MARTIN on 01/08/2025
+                                                            Issued by - ________________________________
+                                                                         JOANNE KAROL H. VILLAJUAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109346   60  Nescafe Clssc Ref 46g       60 01/31/25 E         39.00  2340.00
+                                              ma1         
+ 4025052   63  Nestle Coffeemate 150g      60 01/31/25 E         44.78  2821.14
+                                              2           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 04/30/25 D         12.37    12.37
+                                              41070597441 
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,173.51
+                                                       Rundate 01/08/2025  15:16:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

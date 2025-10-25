@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104182400443
+                                                            Branch - 418 Aparri Magsaysay(Cagayan Aparri Magsaysay )
+                                                            Prepared by - Mc Nicole A. Movilla on 12/10/2024
+                                                            Issued by - ________________________________
+                                                                         Bryan P. Balisi
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109346    1  Nescafe Clssc Ref 46g       60 08/31/25 D         39.00    39.00
+                                              0           
+ 1167857    5  Nestle All Purpose Crm 250mL24 11/30/24 F         67.29   336.45
+                                              0           
+ 3748444    1  Nestea Ap ITea 20g         144 01/31/25 D         18.57    18.57
+                                              0           
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 D          8.20     8.20
+                                              0           
+ 4025056    1  Nescafe Crmy Wh 25.5g      240 02/28/25 D          8.20     8.20
+                                              0           
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 06/30/25 D         12.27    12.27
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          422.69
+                                                       Rundate 12/10/2024  15:22:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

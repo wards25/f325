@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101012401742
+                                                            Branch - 101 Sta. Maria Poblacion(Poblacion sta maria bulacan )
+                                                            Prepared by - Maris Teodosio on 10/10/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Mila Santiago
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148913    1  Selecta Forti Mlk 245mL     24 04/02/25 D         34.23    34.23
+                                              C4AE0       
+ 3413863    1  Nagaraya Crkr Nut Adbo 80g  60 03/07/25 D         20.54    20.54
+                                              24714       
+ 3623292    2  Musli Oat Bisc Hzlnut 60g   24 05/12/25 D         31.50    63.00
+                                              2400496     
+ 3723286    2  Ding Dong Sup Mxd Nuts 100g 60 04/20/25 D         20.16    40.32
+                                              a2b         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          158.09
+                                                       Rundate 10/10/2024  10:40:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

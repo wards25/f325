@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101542400910
+                                                            Branch - 154 Makati City Cash & Carry Mall(Cash & Carry Mall Makati City )
+                                                            Prepared by - MS.Jayjay District 17 on 08/11/2024
+                                                            Issued by - ________________________________
+                                                                         MR. NICK QUIMSON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    1  Lipton Tea Yel Label 50     12 08/29/24 E        225.69   225.69
+                                              0           
+ 3615296    1  San Mig Coff 3n1 Crema 25g 240          D          6.89     6.89
+                                              0           
+ 3615299    1  San Mig Coff 3N1 Orig 20g  240          D          5.76     5.76
+                                              0           
+ 3723625    3  Kopiko Blanca TwnPckCoff58g120          D         11.22    33.66
+                                              0           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         11.26    11.26
+                                              0           
+ 3723644    2  Energen Champion Choc TP30g120          D         14.24    28.48
+                                              0           
+ 4136022    1  Kopiko L.A. Coffee 25g     240          D          7.40     7.40
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          319.14
+                                                       Rundate 08/11/2024  11:39:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

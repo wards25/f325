@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712092500219
+                                                            Branch - 1209 Bulacan Marilao Lias Town Center(Marilao Lias Town Plaza )
+                                                            Prepared by - Markimbill Operario on 06/20/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Belle N. Alejandrino
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010440   19  Knorr Cr Of Mushrm Soup 62g 60 07/20/25 E         50.95   968.05
+                                              M1          
+ 5800173    6  Vaseline LotGDR330mLx2 40%Off6 07/25/25 E        423.36  2540.16
+                                              B07         
+ 5800174    2  Vaseline LotGFB330mLx2 40%Off6 07/10/25 E        423.36   846.72
+                                              B01         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,354.93
+                                                       Rundate 06/20/2025  14:40:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

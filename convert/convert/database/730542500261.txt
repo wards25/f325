@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730542500261
+                                                            Branch - 3054 NUEVA ECIJA JAEN POBLACION(POBLACION JAEN N.E. )
+                                                            Prepared by - DIANA S. PAMILOZA on 06/18/2025
+                                                            Issued by - ________________________________
+                                                                         ADRIAN B. MAGNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   48  Magnol Daily Quezo 160g     48 06/12/25 F         33.27  1596.96
+                                              50113BD059  
+ 1165714   13  Magnol Chzee Sprd Pmto 235g 24 07/02/25 E         83.13  1080.69
+                                              41204TCB54  
+ 3723283   10  Cupp Keyk Choc Topps        10 06/06/25 F          7.95    79.50
+                                              CB42G10     
+ 3856633    7  Mang Tomas Lchon Sce 325g   24 06/30/25 E         33.25   232.75
+                                              CBD17       
+ 4095043    7  Seoul Wh K SoapDbleWhtng270g12 06/01/25 F        164.00  1148.00
+                                              RQ3P0807    
+ 4110018    1  Choco Mucho Mlk Choc 30g    10 05/11/25 F          9.30     9.30
+                                              A3M         
+ 4113078   41  Magnol Chzee Block 160g     48 06/19/25 E         41.56  1703.96
+                                              41221BBA05  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,851.16
+                                                       Rundate 06/18/2025  14:44:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

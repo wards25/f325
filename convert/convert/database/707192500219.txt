@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707192500219
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 09/16/2025
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870002    1  Clear Men Sh Cool Sprt 12mL288 10/06/27 D          5.88     5.88
+                                              0           
+ 3870043    4  Creamsilk Cond S-Strght11mL288 08/01/27 D          5.93    23.72
+                                              0           
+ 3870327  164  Sunsilk SH Sakura&Rbrry11mL288 08/31/25 F          5.68   931.52
+                                              0           
+ 3980038    3  Axe Dry Deo Ron GoldTemp 40mL6 10/22/25 E        128.63   385.89
+                                              0           
+ 5800138    7  Ladys C Real Mayo 27mL      72 09/09/25 F         10.80    75.60
+                                              0           
+ 6200017    9  Sunsilk Sh Sakura&Rbrry170mL24 05/05/25 F        135.24  1217.16
+                                              0           
+ 6200095    1  Creamsilk TrtCrKDmgeRep18mL288 02/23/27 D          5.88     5.88
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,645.65
+                                                       Rundate 09/18/2025  16:22:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

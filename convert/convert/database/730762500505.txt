@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730762500505
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 07/07/2025
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530000   20  Starbucks Latte DShtEsp220mL24 08/02/25 E         76.00  1520.00
+                                              .           
+ 4530028    1  Nestle Chuckie STB 110mL 6s 10 06/30/25 F         77.57    77.57
+                                              .           
+ 4530053    1  Nescafe Mocha Can 220mL     24 07/24/25 E         34.62    34.62
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,632.19
+                                                       Rundate 07/07/2025  11:57:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

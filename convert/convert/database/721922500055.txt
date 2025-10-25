@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721922500055
+                                                            Branch - 2192 Negros Occidental Binalbagan Poblacion(NEG. OCC. BINALBAGAN POBLACION )
+                                                            Prepared by - MARK F. MIRANDA on 03/14/2025
+                                                            Issued by - ________________________________
+                                                                         TRISTAN C. ORCERADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138501    1  Purefood Star Cbeef 150g    48 09/19/26 D         30.77    30.77
+                                              40929E6A8   
+ 1165709    7  Magnol Chzee Sprd Pln 120g  24 03/15/25 E         45.25   316.75
+                                              40817TCB27  
+ 3465908    1  Magnol Chzee Sqze Pmnto 115g24 06/28/25 D         37.88    37.88
+                                              41130UBJ0   
+ 4113068    1  Magnol All-Pur Crm Orig250mL24 03/29/25 E         60.61    60.61
+                                              40801G203A  
+ 4113080    1  Magnol Star Mgrine 100g    144 03/11/25 E         28.62    28.62
+                                              40515AMO16  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          474.63
+                                                       Rundate 03/16/2025  09:59:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

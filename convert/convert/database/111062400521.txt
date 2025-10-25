@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111062400521
+                                                            Branch - 1106 STA ROSA WALTERMART BEL AIR(WM BEL-AIR SRO )
+                                                            Prepared by - Reymark M. Pandalag on 08/27/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Rosemarie P. Adao
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    2  Ding Dong Sup Mxd Nuts 100g 60 03/25/25 D         20.16    40.32
+                                              B1A2A       
+ 3723625    2  Kopiko Blanca TwnPckCoff58g120 06/22/25 D         11.22    22.44
+                                              221201005   
+ 4510096    6  Porma Shoe Refresher 100mL  12 11/30/24 E        132.96   797.76
+                                              01111121    
+ 4510099    9  Porma Shoe Whitener 75mL    12 10/24/24 E         89.60   806.40
+                                              X           
+ 4510218    2  Lipton Tea STL Chamo Infsn25s6 09/13/24 E        198.35   396.70
+                                              14092022    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,063.62
+                                                       Rundate 08/27/2024  10:47:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

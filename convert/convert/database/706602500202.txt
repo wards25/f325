@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706602500202
+                                                            Branch - 660 DAG FERNDEZ E(ABFERNANDEZ EAST DAGUPAN CITY )
+                                                            Prepared by - H.RODAS/R.RAMIREZ/J.SANTIAGO on 06/21/2025
+                                                            Issued by - ________________________________
+                                                                         ANNA MARIE U. KATIGBAK
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010117    1  Ladys C Tuna Sprd 80mL      72 07/30/25 D         34.85    34.85
+                                              *           
+ 3870180    3  Creamsilk Cond S-St12mL11+1 24 09/30/25 D         65.22   195.66
+                                              *           
+ 3870200  106  Dove Cond 1Min CrIntRep10mL288 07/30/25 D          6.22   659.32
+                                              *           
+ 3980408    2  Rexona Dry Serum FrshRse40mL 3 06/30/25 E        144.65   289.30
+                                              *           
+ 3980706   24  Rexona Men Ron ICool 45mL   24 06/30/25 E        115.79  2778.96
+                                              *           
+ 3980760    3  Axe Deo BS Ice Breaker 50mL 36 07/30/25 E        103.34   310.02
+                                              *           
+ 6200229   11  Dove Cond 1Min BioHFall150mL24 07/30/25 E        156.41  1720.51
+                                              *           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,988.62
+                                                       Rundate 06/21/2025  09:18:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

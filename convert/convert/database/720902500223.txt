@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720902500223
+                                                            Branch - 2090 Sultan Kudarat Isulan Kalawag(2090 ISULAN KALAWAG BRANCH )
+                                                            Prepared by - Merlyngerine S. Eiman on 06/09/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RICARDO A. CASPE
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010117    1  Ladys C Tuna Sprd 80mL      72 01/06/26 D         34.85    34.85
+                                              250253      
+ 1010275    3  Ladys C Chck Sprd DPck220mL 24 12/11/25 D         95.30   285.90
+                                              250751      
+ 1010279    3  Ladys C Sandw Sprd DPck220mL24 01/23/26 D         74.65   223.95
+                                              250522      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          544.70
+                                                       Rundate 06/10/2025  18:10:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

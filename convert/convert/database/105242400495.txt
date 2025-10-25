@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105242400495
+                                                            Branch - 524 OR MIN PMLYN NAUTCL HWY(Marfrancisco,Pin. Or. Mdo. )
+                                                            Prepared by - Evangeline L. Custodio on 10/10/2024
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961   27  Del M Fit N RghtBurnApl330mL24 10/02/24 F         31.13   840.51
+                                              3336YX06    
+ 1103963    4  Del M Fit N RghtBurnPne330mL24 09/17/24 F         31.13   124.52
+                                              4017XY02    
+ 1104079    3  Del M Mr Milk Plain 80mLx6  16 10/18/24 E         47.22   141.66
+                                              HADMI3291   
+ 1104109   24  Del M Vinamilk IQSmrtCh110mL48 10/18/24 E         12.82   307.68
+                                              M2309       
+ 1104115    4  Del M Vinamilk Ygrt Sb 110mL48 09/19/24 F         11.07    44.28
+                                              M2203       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,458.65
+                                                       Rundate 10/10/2024  16:47:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107302401702
+                                                            Branch - 730 Tagum City Rizal(RIZAL ST., TAGUM CITY )
+                                                            Prepared by - Ricardo A. Caspe on 09/20/2024
+                                                            Issued by - ________________________________
+                                                                         MARIA LORENA M. ATABLANCO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850   11  Highland Reg Crnd Bf 150g   48 12/20/26 G         33.30   366.30
+                                              hlcbr421    
+ 1221857   16  San Marino Blu Mckrl Stk180g48 04/20/25 G         56.25   900.00
+                                              smbmss302   
+ 1225221   43  San Marino Crnd Tuna 180g   48 10/02/26 G         43.20  1857.60
+                                              smctr362    
+ 1225222   67  San Marino Crnd TunaChli180g48 10/06/26 G         43.20  2894.40
+                                              smcct347    
+ 4120006   18  Highland Crnd Bf 180g       48 11/30/26 G         57.15  1028.70
+                                              hlcb419     
+ 4121005    4  San Marino Crnd TunaChli150g48 11/13/26 G         35.10   140.40
+                                              smcct385    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,187.40
+                                                       Rundate 09/20/2024  20:27:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

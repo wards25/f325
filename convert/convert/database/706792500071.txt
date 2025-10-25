@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706792500071
+                                                            Branch - 679 SPBL A BONI(Bonifacio St. San Pablo City, Laguna)
+                                                            Prepared by - Ilma M. Becina on 03/18/2025
+                                                            Issued by - ________________________________
+                                                                         Florante C. Lawigan
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147308   10  Sunkist Frt Dr Or 235mL     24 04/06/25 E         19.03   190.30
+                                              x           
+ 3723633    2  Selecta Forti MlkStr1Lx2SP10 6 04/09/25 E        155.94   311.88
+                                              x           
+ 3723655   19  Hands-On DLiq A-Bac 250mL   24 04/18/25 E         70.56  1340.64
+                                              x           
+ 3723656   10  Hands-On DLiq A-Bac 500mL   12 04/14/25 E         98.00   980.00
+                                              x           
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 04/09/25 E         80.88    80.88
+                                              x           
+ 3973057    9  Selecta Adult Activ Vnl245mL24 04/19/25 E         34.95   314.55
+                                              x           
+ 4510217    4  Lipton Tea STL Eng BfstBlk25s6 04/15/25 E        198.35   793.40
+                                              x           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,011.65
+                                                       Rundate 03/18/2025  09:15:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

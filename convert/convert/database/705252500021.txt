@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705252500021
+                                                            Branch - 525 NV SOL MHRLIKA HWY(NUEVA VIZCAYA SOLANO MAHARLIKA )
+                                                            Prepared by - MERCY M. TABERNA on 01/30/2025
+                                                            Issued by - ________________________________
+                                                                         ALTHEA T. EMPESTAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870066   43  Creamsilk Cond TKR UR&S10mL288 12/06/25 D          6.66   286.38
+                                              .           
+ 3980754    2  Ponds FacialFoamAnti-Bac100g24 12/20/24 F        150.53   301.06
+                                              .           
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288 09/28/25 D          5.88     5.88
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          593.32
+                                                       Rundate 01/30/2025  16:55:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

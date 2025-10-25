@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701682500197
+                                                            Branch - 168 San Miguel Poblacion(SAN JOSE SAN MIGUEL BULACAN )
+                                                            Prepared by - CES/IMEE/MAY on 08/27/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CARLA C. ANGELES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138315    4  Purefood Chnky CBeef 150g   48 07/22/25 E         41.62   166.48
+                                              30802e6a01  
+ 1138905   29  Purefood Star CNorte 150g   48 09/19/25 E         24.88   721.52
+                                              30930e6a05  
+ 1139084   69  Purefood LchMeatChiliPep215g48 08/23/25 E         87.76  6055.44
+                                              30903h6a02  
+ 1165709    2  Magnol Chzee Sprd Pln 120g  24 08/21/25 E         45.25    90.50
+                                              50123tcb10  
+ 4113068   21  Magnol All-Pur Crm Orig250mL24 09/09/25 E         60.61  1272.81
+                                              50112g203a  
+ 4136006    1  Kopiko Brn Coff 27.5g      240 06/26/26 D          7.23     7.23
+                                              0414tgr26120
+ 4136010   10  Kopiko Blck 3-N-1 Coff 30g 240 08/28/25 E          7.23    72.30
+                                              0046tgr26020
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,386.28
+                                                       Rundate 08/27/2025  13:04:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

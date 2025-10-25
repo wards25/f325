@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720222500101
+                                                            Branch - 2022 Linamon Poblacion(LINAMON LANAO DEL NORTE )
+                                                            Prepared by - Jeana L. Solatorio on 04/05/2025
+                                                            Issued by - ________________________________
+                                                                         RUFINO B. BARCENAS JR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138501    1  Purefood Star Cbeef 150g    48          D         30.77    30.77
+                                              xxx         
+ 1165709   12  Magnol Chzee Sprd Pln 120g  24 04/03/25 E         45.25   543.00
+                                              xxx         
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20          D         12.33    12.33
+                                              xxx         
+ 4180010    1  Mega Sard In TS 425g        24          D         50.63    50.63
+                                              xxx         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          636.73
+                                                       Rundate 04/05/2025  19:06:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100472400922
+                                                            Branch - 47 Kawit Binakayan(0047- KAWIT BINAKAYAN DISTRICT -29)
+                                                            Prepared by - ROSARIO D. QUINTO on 07/23/2024
+                                                            Issued by - ________________________________
+                                                                         JOSELITO C. DIOKNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165711    9  Magnol Chzee Sprd Pln 235g  24 08/05/24 E         84.05   756.45
+                                              0101052306  
+ 1165713    7  Magnol Chzee Sprd Pmto 120g 24 08/13/24 E         49.91   349.37
+                                              401167cb26  
+ 1165714    3  Magnol Chzee Sprd Pmto 235g 24 08/21/24 E         87.79   263.37
+                                              40124tcb26  
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              0           
+ 3780522    1  Diabetasol Choc 600g PPck    3 07/24/24 E        883.20   883.20
+                                              0           
+ 3856664    6  Locally Pmlo Jce Dr 240mL   24 08/30/24 E         20.88   125.28
+                                              lypoo       
+ 4510213   11  Barrio F Std Shrmp P Spcy50g18 08/22/24 E         21.38   235.18
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,624.07
+                                                       Rundate 07/23/2024  11:24:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705072500185
+                                                            Branch - 507 Urdaneta City McArthur Hway(SAN VICENTE EAST URDANETA PANG )
+                                                            Prepared by - JERRY MAY A. OJERIO on 08/02/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3900003    2  Diabetasol Choc 360g         3 08/13/25 E        609.20  1218.40
+                                              6079        
+ 4110023   32  Rebisco Crackers 35g        10 07/13/25 F          6.14   196.48
+                                              3338        
+ 4136008    1  Kopiko Cappuccino Coff 25g 240          D          7.40     7.40
+                                              14002       
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              14309       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,430.06
+                                                       Rundate 08/02/2025  15:39:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

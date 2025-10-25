@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130762400055
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 01/18/2024
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961   21  Del M Fit N RghtBurnApl330mL24 01/22/24 E         30.80   646.80
+                                              .           
+ 1104078    6  Del M Mr Milk Mango 100mLx6 16 01/28/24 E         46.32   277.92
+                                              .           
+ 1104107    2  Del M Fit N Rght Pine 330mL 24 12/24/23 F         26.65    53.30
+                                              .           
+ 3413863   60  Nagaraya Crkr Nut Adbo 80g  60          H         18.34  1100.40
+                                              .           
+ 3413864   28  Nagaraya Crkr Nut Bbq 80g   60          H         18.34   513.52
+                                              .           
+ 3413865   45  Nagaraya Crkr Nut Orig 80g  60          H         18.34   825.30
+                                              .           
+ 3413866   60  Nagaraya Crkr Nut Gar 80g   60          H         18.34  1100.40
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,517.64
+                                                       Rundate 01/18/2024  14:07:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired     H-Recalled by Supplier

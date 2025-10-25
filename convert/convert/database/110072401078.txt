@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110072401078
+                                                            Branch - 1007 Kalookan City Samson Puregold(KAL PUREGOLD SAMSON DIST V11)
+                                                            Prepared by - LHENG on 08/15/2024
+                                                            Issued by - ________________________________
+                                                                         Arlene S. Terrado
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.24     2.24
+                                              .           
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12          D        102.06   102.06
+                                              .           
+ 3760009   48  Nido NutriSnaxBnna-Crot110mL60 08/31/24 E         17.76   852.48
+                                              .           
+ 3760011   64  Nido NutriSnaxSbry-Crot110mL60 08/31/24 E         17.76  1136.64
+                                              .           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         11.80    11.80
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,105.22
+                                                       Rundate 08/15/2024  15:07:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

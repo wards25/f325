@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703812500025
+                                                            Branch - 381 San Pedro City Centro Pacita(SAN PEDRO CITY CENTRO PACITA )
+                                                            Prepared by - MS. MOIRA ALMAZORA on 01/23/2025
+                                                            Issued by - ________________________________
+                                                                         MS. IRENE C. DEVELA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    4  Nestle Chuckie Cal-N 1000mL 12 01/31/25 E        102.06   408.24
+                                              40390189    
+ 1167538  104  Nestle Coffeemate 5g       960 02/28/25 E          1.89   196.56
+                                              33270604h1  
+ 3748444   20  Nestea Ap ITea 20g         144 02/28/25 E         18.57   371.40
+                                              SBT40380604 
+ 4025037   69  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20   565.80
+                                              10400602m   
+ 4025052    5  Nestle Coffeemate 150g      60 01/31/25 E         44.78   223.90
+                                              3264643831  
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 06/30/25 D         12.37    12.37
+                                              41600602    
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 05/31/25 D         12.37    12.37
+                                              41370597e1  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,790.64
+                                                       Rundate 01/23/2025  15:04:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

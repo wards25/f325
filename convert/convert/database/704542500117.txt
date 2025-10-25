@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704542500117
+                                                            Branch - 454 Sta. Maria Bypass Rd Waltermart(454BUL SM WALTERMART BP ROAD STA CLARA,STA MARIA BUL)
+                                                            Prepared by - Josette de guzman on 04/26/2025
+                                                            Issued by - ________________________________
+                                                                         Ethel M. Baniqued
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530000    3  Starbucks Latte DShtEsp220mL24 03/20/25 E         76.00   228.00
+                                              40819449af  
+ 4530001    4  Starbucks Mocha DshtEsp220mL24 04/24/25 E         76.00   304.00
+                                              41169449a3  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          532.00
+                                                       Rundate 04/26/2025  16:27:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

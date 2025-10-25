@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706192500085
+                                                            Branch - 619 Lopez GV Vera(LOPEZ G. V. VERA LOPEZ, QUEZON)
+                                                            Prepared by - RICHELLE A. DELOS SANTOS on 04/25/2025
+                                                            Issued by - ________________________________
+                                                                         ROSALINDA O. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12 06/17/25 D         97.19    97.19
+                                              43240189YD  
+ 4025056   70  Nescafe Crmy Wh 25.5g      240 02/28/25 E          8.20   574.00
+                                              40580602M1R3
+ 4025177  269  Nescafe Original 26g       520 05/31/25 E          7.37  1982.53
+                                              41298985A121
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 11/30/25 D         13.32    13.32
+                                              43290602N11 
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 11/30/25 D         13.32    26.64
+                                              43340597U1K2
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,693.68
+                                                       Rundate 04/25/2025  09:27:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

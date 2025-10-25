@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704112500116
+                                                            Branch - 411 Cabanatuan City Tinio(CABANATUAN GENERAL TINIO )
+                                                            Prepared by - ALYSSA V. BALAJADIA on 02/13/2025
+                                                            Issued by - ________________________________
+                                                                         JANET P. SALAMANCA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760011   17  Nido NutriSnaxSbry-Crot110mL60 02/28/25 E         17.76   301.92
+                                              3526        
+ 4025037  118  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 E          8.20   967.60
+                                              -           
+ 4025056   42  Nescafe Crmy Wh 25.5g      240 02/28/25 E          8.20   344.40
+                                              -           
+ 4066029    1  Kitkat Chunky Mlk Choc 38g  24          D         41.15    41.15
+                                              -           
+ 4530000    1  Starbucks Latte DShtEsp220mL24 02/28/25 E         76.00    76.00
+                                              -           
+ 4530006    6  Kitkat 2F 17g               24 02/28/25 E         14.77    88.62
+                                              2356        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,819.69
+                                                       Rundate 02/13/2025  14:07:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101052400059
+                                                            Branch - 105 Quezon City Novaliches Susano(Susano Road, Novaliches Q.C. )
+                                                            Prepared by - JAN Michael Tolentino on 01/11/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MARIA FE S.GALANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102851    1  Del M Fiesta Frt Ctail 836g 24 08/01/24 D         83.54    83.54
+                                              L2348YY     
+ 1104077   60  Del M Mr Milk GrApl 100mLx6 16 02/20/24 E         46.32  2779.20
+                                              305102      
+ 3723286    2  Ding Dong Sup Mxd Nuts 100g 60 06/20/24 D         20.16    40.32
+                                              A1A         
+ 3723375    1  Happy Pnut W/RealGarChip100g24 03/14/24 D         30.60    30.60
+                                              A1A         
+ 4103102    3  Del M Pot Crisp BsctSpcy50g 48 01/16/24 E         18.67    56.01
+                                              PDDMI301601 
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,989.67
+                                                       Rundate 01/11/2024  15:10:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

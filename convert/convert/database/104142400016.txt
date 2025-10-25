@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104142400016
+                                                            Branch - 414 Mamburao JP Rizal(OCM Mamburao JP Rizal )
+                                                            Prepared by - Romel B. Briones on 01/23/2024
+                                                            Issued by - ________________________________
+                                                                         Shermene S. Jawerga
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915    1  Selecta Forti Mlk 1L        12 01/18/24 F         85.46    85.46
+                                              G6JBO       
+ 1148938    3  Selecta Forti MlkLowFat245mL24 12/24/23 F         34.23   102.69
+                                              D3RAO       
+ 1148939    2  Selecta Forti Mlk LowFat 1L 12 12/24/23 F         91.92   183.84
+                                              F5BMO       
+ 3623304    1  Apple&E 100%Jce Crnbrry1.89L 8 11/28/23 F        386.10   386.10
+                                              SB0926221749
+ 3723344   12  Malkist ChocCrkrSandW18gx10 30 01/02/24 F         48.15   577.80
+                                              211201AB    
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 12/07/23 F         80.88    80.88
+                                              1KMP        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,416.77
+                                                       Rundate 01/23/2024  15:36:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

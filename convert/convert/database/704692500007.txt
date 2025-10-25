@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704692500007
+                                                            Branch - 469 San Ildefonso Cagayan Valley Rd.( )
+                                                            Prepared by - Rochelle/Ramil/Chadi on 01/10/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Ana Marie S. Duran
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60          D         25.71    25.71
+                                              nl          
+ 4025037  191  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20  1566.20
+                                              40090602m1  
+ 4025096   12  Milo Activ-Go RTD 110mL     60 01/31/25 E         14.61   175.32
+                                              40860189gd  
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         12.37    12.37
+                                              nl          
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 10/31/24 E         12.37    24.74
+                                              32940597r1  
+ 4530020    2  Nestle Chuckie CN250mLx4P110 8 12/31/24 E        102.80   205.60
+                                              404964382b  
+ 4530026    1  Nescafe Original SF TPck23g100          D         12.27    12.27
+                                              nl          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,022.21
+                                                       Rundate 01/10/2025  16:18:44
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

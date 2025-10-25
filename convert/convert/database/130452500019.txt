@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130452500019
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - MARK C LEDDA on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         DINO N NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413866    1  Nagaraya Crkr Nut Gar 80g   60 08/16/25 D         20.54    20.54
+                                              .           
+ 3413872    1  Nagaraya Crkr Nut Hot&Sp160g48 07/16/25 D         41.27    41.27
+                                              .           
+ 3723562    4  Musli OatCrnchyBbry&Rbry375g14 01/22/25 F        160.65   642.60
+                                              .           
+ 3723566    2  Musli OatCrnchySbry&Almd375g14 12/12/24 F        160.65   321.30
+                                              .           
+ 3900045    1  Diabetasol Vnla Can 800g     3 11/10/24 F       1274.20  1274.20
+                                              .           
+ 4136008   20  Kopiko Cappuccino Coff 25g 240 01/13/25 F          7.40   148.00
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,447.91
+                                                       Rundate 01/13/2025  14:24:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

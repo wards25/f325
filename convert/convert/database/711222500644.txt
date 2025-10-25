@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711222500644
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - Maris Teodosio on 10/13/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870043   14  Creamsilk Cond S-Strght11mL288          D          5.93    83.02
+                                              101251122   
+ 3870200    3  Dove Cond 1Min CrIntRep10mL288          D          6.37    19.11
+                                              64315902    
+ 3980417    1  Ponds Brght Mrcle DCrmDtx40g24 09/30/25 E        144.84   144.84
+                                              b01         
+ 5800239   26  Rexona WmenRonAntiS45mL+SSop 6 11/30/25 E        128.87  3350.62
+                                              11          
+ 5800241    7  Rexona WmenRonPdrDr45mL+SSop 6 11/30/25 E        117.60   823.20
+                                              11          
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288          D          5.88     5.88
+                                              64900490    
+ 6200292    1  Creamsilk Cond HFallDef22mL288          D          8.43     8.43
+                                              62718107    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,435.10
+                                                       Rundate 10/13/2025  11:23:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

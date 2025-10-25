@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706422500242
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN ANGULO on 08/12/2025
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165715    6  Magnol Chzee Sprd Pmto 480g 12 07/15/25 F        157.96   947.76
+                                              0           
+ 3413868    4  Nagaraya Crkr Nut Bbq 160g  48 04/06/25 F         41.27   165.08
+                                              0           
+ 3780421    1  Diabetasol Choc 600g         3 09/28/25 E        883.20   883.20
+                                              0           
+ 3856640    1  UFC GldnFstaCkingOilSup250mL48          D         38.95    38.95
+                                              0           
+ 3900003    3  Diabetasol Choc 360g         3 09/17/25 E        609.20  1827.60
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,862.59
+                                                       Rundate 08/12/2025  16:25:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103172400394
+                                                            Branch - 317 Valenzuela City South Supermarket(MDC SOUTH SMKT VAL CITY )
+                                                            Prepared by - Tess Sapitan D9 on 03/12/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Carrie Tungol
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723572    1  Naturelab AlcSprKoolNGo 50mL12 11/16/25 D         44.25    44.25
+                                              tphid16     
+ 3723603    1  Deo Fresh Deo Ron Nat 65mL  12 07/31/24 E        137.60   137.60
+                                              0513072021  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          181.85
+                                                       Rundate 03/12/2024  16:21:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

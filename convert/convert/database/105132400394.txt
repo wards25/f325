@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105132400394
+                                                            Branch - 513 Calauag Poblacion(CALAUAG QUEZON)
+                                                            Prepared by - Florelio M. Briones on 11/19/2024
+                                                            Issued by - ________________________________
+                                                                         Francis Joeriz J. Cagalpin
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1149115    1  WhiteKing HotCake&WafMix400g24 05/16/25 D         53.53    53.53
+                                              0           
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 08/31/25 D         20.25    20.25
+                                              0           
+ 3723389   30  Energen Mlk&Cer Dr Vnla 40g240 11/13/24 F          7.01   210.30
+                                              0           
+ 4113093    1  Magnol Real Mayonnaise 80mL 24 07/03/25 D         26.97    26.97
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          311.05
+                                                       Rundate 11/19/2024  16:44:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705322500191
+                                                            Branch - 532 San Fabian Public Market(SAN FABIAN PANGASINAN)
+                                                            Prepared by - J.ABON/M.GABRIEL/R.TORALBA on 04/29/2025
+                                                            Issued by - ________________________________
+                                                                         REX V. MALABANAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    1  Nestle Frsh Mlk 250mL       24 08/03/25 D         36.23    36.23
+                                              2329355401  
+ 1167857    1  Nestle All Purpose Crm 250mL24 10/31/25 D         67.29    67.29
+                                              433064381A  
+ 3748503    2  Nestle KKrunch SPck 80g     24 04/27/25 E         48.18    96.36
+                                              0023        
+ 3760009    3  Nido NutriSnaxBnna-Crot110mL60 05/31/25 D         17.76    53.28
+                                              41610189GD  
+ 4530010   50  Nescafe Gold 2g            800 04/12/25 E          7.52   376.00
+                                              B           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          629.16
+                                                       Rundate 04/29/2025  09:51:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

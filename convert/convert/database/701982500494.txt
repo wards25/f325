@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701982500494
+                                                            Branch - 198 Manila Sampaloc Vicente G. Cruz(F324 # )
+                                                            Prepared by - DAISY LYN R. GINES on 09/11/2025
+                                                            Issued by - ________________________________
+                                                                         MS. SHIENA D. BERNARDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010440    1  Knorr Cr Of Mushrm Soup 62g 60 06/08/26 D         50.95    50.95
+                                              252453      
+ 3039293    1  Breeze Pdr Det ActvBlch 66g144          D         12.64    12.64
+                                              X           
+ 3050013    1  Surf FabCond MgicalBlm 25mL360          D          5.19     5.19
+                                              X           
+ 3050036    1  Knorr Hot Meal ArrozCaldo35g48 11/06/25 D         28.30    28.30
+                                              B2          
+ 3050068    2  Breeze Pdr Det Anti-Bac 60g144          D         12.64    25.28
+                                              X           
+ 3050074    1  Surf Pdr Antibac ActvCln60g288          D          6.13     6.13
+                                              X           
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          135.15
+                                                       Rundate 09/11/2025  13:24:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705212500139
+                                                            Branch - 521 Sto. Tomas Maharlika Hway(STO TOMAS )
+                                                            Prepared by - N. C. CAMITAN/C.D. ABELLERA on 05/07/2025
+                                                            Issued by - ________________________________
+                                                                         MRS.MARIA BUENA M. MARALIT
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103591    1  Del M Pine Jce Fiber 220mL  24 10/01/26 E         31.73    31.73
+                                              1316        
+ 1103961    9  Del M Fit N RghtBurnApl330mL24 04/18/25 F         31.13   280.17
+                                              032841      
+ 1103962    1  Del M Fit N RghtBurn4sn330mL24 03/16/25 D         31.13    31.13
+                                              105712      
+ 1103963    6  Del M Fit N RghtBurnPne330mL24 06/07/25 E         31.13   186.78
+                                              150705      
+ 1104115    1  Del M Vinamilk Ygrt Sb 110mL48 11/24/24 D         11.07    11.07
+                                              2201        
+ 1104117    5  Del M Frty Zing Apl Lyc330mL24 07/28/25 D         22.28   111.40
+                                              091105      
+ 4470399    1  Purity Cot 10g              12 02/25/25 D          6.11     6.11
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          658.39
+                                                       Rundate 05/07/2025  12:25:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

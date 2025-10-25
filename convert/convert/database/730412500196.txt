@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730412500196
+                                                            Branch - 3041 Nueva Ecija Cabanatuan City Waltermart( )
+                                                            Prepared by - FERDINAND T CARLOS on 06/05/2025
+                                                            Issued by - ________________________________
+                                                                         JOCELYN S. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    1  Nestle Frsh Mlk 250mL       24 03/16/25 F         36.23    36.23
+                                              0\          
+ 3748417    2  Bear Br Strlzedw/GnkgoB200mL32 04/03/25 F         26.42    52.84
+                                              0           
+ 4025237   28  Nescafe Crmy Wh Twin Pck51g200 06/30/25 E         13.32   372.96
+                                              0           
+ 4530020    1  Nestle Chuckie CN250mLx4P110 8 05/31/25 F        102.80   102.80
+                                              0           
+ 4530041   18  Nestle Trix Bfast Cer 20g  120 06/11/25 E         13.64   245.52
+                                              0           
+ 4530045    2  Nestle Frsh Mlk 1000mLx2SP15 7 06/30/25 E        197.10   394.20
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,204.55
+                                                       Rundate 06/05/2025  18:31:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

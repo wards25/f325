@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701462500544
+                                                            Branch - 146 Manila Gagalangin Juan Luna(2668 JUAN LUNA ST. GAGALANGIN TONDO,MANILA)
+                                                            Prepared by - IRENE MERCULIO on 08/19/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RONALD C. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615307    1  San Mig Coff 3n1 SF Strng7g300 08/18/26 D          7.72     7.72
+                                              231         
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 02/07/26 D          7.65     7.65
+                                              2020566     
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12          D         44.25    44.25
+                                              NOLOT       
+ 3723625    3  Kopiko Blanca TwnPckCoff52g120 11/23/26 D         12.11    36.33
+                                              2C25        
+ 3723705    4  Kopiko Blck 3n1 Coff26g TP 120 11/13/26 D         12.11    48.44
+                                              21410       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          144.39
+                                                       Rundate 08/19/2025  16:04:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

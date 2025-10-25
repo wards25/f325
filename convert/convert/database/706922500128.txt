@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706922500128
+                                                            Branch - 692 MRDQUE BOAC GOV D REYES(MURALLON, BOAC, MARINDUQUE )
+                                                            Prepared by - ANNA ROSE S. MANHIT on 06/10/2025
+                                                            Issued by - ________________________________
+                                                                         MS. SHERMILYN M. HERBOSA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    4  Magnol Low Fat Mlk 1L       12 04/06/25 F         96.08   384.32
+                                              40809G101A  
+ 3465890    2  Magnol Full Crm Mlk 1L      12 02/09/25 F         91.47   182.94
+                                              40614G101A  
+ 3723317    1  Beng-Beng ChocCrmlWfer26.5g120 11/11/25 D          8.09     8.09
+                                              0           
+ 3780421    1  Diabetasol Choc 600g         3 02/28/25 F        883.20   883.20
+                                              2353001GU   
+ 3900049    3  Diabetasol Wfer Choco 2s100g 3 05/06/25 F        112.00   336.00
+                                              24P0652L    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,794.55
+                                                       Rundate 06/10/2025  17:44:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

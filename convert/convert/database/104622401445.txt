@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104622401445
+                                                            Branch - 462 Paranaque City Sucat Interchange(SUCAT INTERCHANGE )
+                                                            Prepared by - Joeven Parada - District 24 on 11/28/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039132    1  Surf Bar SunFrsh 380g       36          D         26.95    26.95
+                                              0           
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144          D          7.55     7.55
+                                              0           
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288          D          6.13     6.13
+                                              0           
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              0           
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              0           
+ 3050012    2  Surf Pdr PrplBlom Fabcon50g288          D          6.13    12.26
+                                              0           
+ 3050068    1  Breeze Pdr Det Anti-Bac 60g144          D         12.20    12.20
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           77.35
+                                                       Rundate 11/28/2024  08:33:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

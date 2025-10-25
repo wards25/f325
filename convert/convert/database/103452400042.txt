@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103452400042
+                                                            Branch - 345 Quezon City Trinoma Mall Level M1(541826-28 )
+                                                            Prepared by - luz/mariz on 01/07/2024
+                                                            Issued by - ________________________________
+                                                                         MS.Jannel M. Fegi
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254315   11  UFC Bnana Csup Reg 530g     18 02/28/24 E         40.38   444.18
+                                              124         
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24          D         20.25    20.25
+                                              1           
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240          D          7.01     7.01
+                                              1           
+ 4136010    6  Kopiko Blck 3-N-1 Coff 30g 240          D          6.83    40.98
+                                              1           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          6.80     6.80
+                                              1           
+ 4510153    2  Rite'n Lite Lych+Rse Dr250mL24          D         22.13    44.26
+                                              1           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          563.48
+                                                       Rundate 01/07/2024  15:52:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

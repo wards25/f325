@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705212500066
+                                                            Branch - 521 Sto. Tomas Maharlika Hway(STO TOMAS )
+                                                            Prepared by - NESLIE C. CAMITAN on 03/29/2025
+                                                            Issued by - ________________________________
+                                                                         MRS.MARIA BUENA M. MARALIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465890   11  Magnol Full Crm Mlk 1L      12 04/09/25 E         91.47  1006.17
+                                              40812G101A  
+ 3723374   29  Ding Dong Snck Mx Chip&C95g 60 03/15/25 F         20.54   595.66
+                                              A7A         
+ 3723633    5  Selecta Forti MlkStr1Lx2SP10 6 03/06/25 F        155.94   779.70
+                                              22A5DP0     
+ 3856633    2  Mang Tomas Lchon Sce 325g   24 02/12/25 F         33.25    66.50
+                                              24E18M062001
+ 3973008    5  Selecta Forti Mlk 1Lx2 SP15  6 12/18/24 F        157.04   785.20
+                                              22X8AE1     
+ 4113094   12  Magnol Real Mayonnaise 220mL24 03/30/25 F         77.65   931.80
+                                              40603CA219  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,165.03
+                                                       Rundate 03/29/2025  13:23:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

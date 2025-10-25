@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111322301042
+                                                            Branch - 1132 RIZAL TAYTAY WALTERMART(TAYTAY WALTERMART-1132 )
+                                                            Prepared by - Ivy O.Sorreda d6 on 12/30/2023
+                                                            Issued by - ________________________________
+                                                                         MS. CINDY E. AMBRAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20 10/16/25 D         12.33    12.33
+                                              b513m79     
+ 4110036   10  VitaCubes Frt Jelly Cdy 50g 10 12/31/23 E         18.00   180.00
+                                              bj3         
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          192.33
+                                                       Rundate 12/30/2023  14:44:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

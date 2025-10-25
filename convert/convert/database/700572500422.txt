@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700572500422
+                                                            Branch - 57 Manila Paco Pedro Gil(57 Pedro Gil St. Paco MANILA)
+                                                            Prepared by - Reymark  Laurente on 07/14/2025
+                                                            Issued by - ________________________________
+                                                                         JESSE/ SEN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    4  Nestle Coffeemate 5g       960          D          1.89     7.56
+                                              X           
+ 3748416    1  Bear Br Strlzedw/Gnsg 200mL 32          D         26.42    26.42
+                                              X           
+ 3760011   11  Nido NutriSnaxSbry-Crot110mL60 08/31/25 E         17.76   195.36
+                                              X           
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60          D         30.48    30.48
+                                              X           
+ 4025239   33  Nestle CarnationCndnsda388mL48 07/17/25 E         64.49  2128.17
+                                              X           
+ 4530026    4  Nescafe Original SF TPck23g100          D         13.21    52.84
+                                              X           
+ 4530067    1  Nestogen LowLactose 1-3Y400g12          D        397.38   397.38
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,838.21
+                                                       Rundate 07/14/2025  14:52:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

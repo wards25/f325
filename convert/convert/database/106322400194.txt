@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106322400194
+                                                            Branch - 632 Tayug Quezon( )
+                                                            Prepared by - METCH V. SUNICO on 03/11/2024
+                                                            Issued by - ________________________________
+                                                                         LIZA B DOLLENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103591    2  Del M Pine Jce Fiber 220mL  24 05/01/25 D         30.80    61.60
+                                              0344        
+ 3723393   49  Keratin Plus Hr Trtmnt 20g 288          D          6.00   294.00
+                                              54854       
+ 3780421    1  Diabetasol Choc 600g         3 03/31/24 D        883.20   883.20
+                                              4906        
+ 3780447    2  Fitbar Fruits 22g           12 03/09/24 E         27.00    54.00
+                                              03          
+ 4103104    1  Del M Pot Crisp BsctOrig50g 48 06/10/24 D         18.67    18.67
+                                              6101        
+ 4136006    1  Kopiko Brn Coff 27.5g      240 12/24/24 E          6.76     6.76
+                                              894         
+ 4510157    1  Seoul Wh K Sscrn B&E S50 7mL10          D         79.20    79.20
+                                              665         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,397.43
+                                                       Rundate 03/11/2024  13:22:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

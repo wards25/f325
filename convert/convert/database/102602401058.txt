@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102602401058
+                                                            Branch - 260 SP SAMPOL(SJDM CITY SAPANG PALAY BULACAN DISTRICT XI)
+                                                            Prepared by - MARIANNE DE MESA on 09/28/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MARICAR Y. ALFEREZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12 06/10/26 D         44.25    44.25
+                                              15          
+ 4103101    3  Del M SpagFilStylPrtyPckSP42 8 10/30/24 E        133.46   400.38
+                                              3279        
+ 4510155    2  Rite'n Lite Peach Dr 250mL  24 12/03/24 D         20.25    40.50
+                                              SF5         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          485.13
+                                                       Rundate 09/28/2024  14:16:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

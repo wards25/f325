@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700072500005
+                                                            Branch - 7 Manila Sampaloc Legarda(F324 # 686347)
+                                                            Prepared by - Reniel Redoban on 01/06/2025
+                                                            Issued by - ________________________________
+                                                                         Rhyant C. Plata
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025052    3  Nestle Coffeemate 150g      60 11/30/25 D         44.78   134.34
+                                              .           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 10/31/25 D         12.37    12.37
+                                              43010601h1  
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 10/31/25 D         12.27    12.27
+                                              42800601e1  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          158.98
+                                                       Rundate 01/06/2025  12:14:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

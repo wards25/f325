@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710932500635
+                                                            Branch - 1093 Makati City EDSA Danlig(EDSA DANLIG PINAGKAISAHAN )
+                                                            Prepared by - AJ on 09/05/2025
+                                                            Issued by - ________________________________
+                                                                         ROSALIE G. CARLOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008 08/31/26 D          3.02     3.02
+                                              51360597G   
+ 1109322    1  Nescafe Clssc Ref 20g       60 05/31/27 D         25.69    25.69
+                                              765110932   
+ 1167538    1  Nestle Coffeemate 5g       960 06/30/26 D          1.89     1.89
+                                              50678985E   
+ 4025037    7  Nescafe 3n1 CrmyLatte20g   240 09/30/25 E          8.20    57.40
+                                              4518985A1   
+ 4025177    3  Nescafe Original 20g       520 04/30/26 D          7.37    22.11
+                                              60418986A1  
+ 4025219    1  Nescafe 3n1 Orig TwinPck40g200 05/30/27 D         13.32    13.32
+                                              402521905   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          123.43
+                                                       Rundate 09/05/2025  16:05:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

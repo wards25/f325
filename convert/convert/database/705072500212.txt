@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705072500212
+                                                            Branch - 507 Urdaneta City McArthur Hway(SAN VICENTE EAST URDANETA PANG )
+                                                            Prepared by - JERRY MAY A. OJERIO on 08/19/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723285    3  Fudgee Barr MlkCustrdVnla41g10 09/30/25 E          8.25    24.75
+                                              1284        
+ 3723286   52  Ding Dong Sup Mxd Nuts 100g 60 09/30/25 E         20.54  1068.08
+                                              30131       
+ 3723374   54  Ding Dong Snck Mx Chip&C95g 60 08/15/25 F         20.54  1109.16
+                                              1732        
+ 3723724    1  Mega Tuna Flks In Oil 155g  10 12/02/25 D         36.90    36.90
+                                              12045       
+ 4110023    9  Rebisco Crackers 35g        10 08/25/25 E          6.14    55.26
+                                              338         
+ 4510117    1  Mega Sard In TS Ex Hot 155g 10 07/31/27 D         22.73    22.73
+                                              10805       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,316.88
+                                                       Rundate 08/19/2025  14:21:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

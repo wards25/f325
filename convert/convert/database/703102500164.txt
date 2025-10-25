@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703102500164
+                                                            Branch - 310 ERD ARC TYTY(Eastroad Arcade Taytay )
+                                                            Prepared by - ARLOU L. BOADA on 04/04/2025
+                                                            Issued by - ________________________________
+                                                                         Mr. Eugene L. Guillermo
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870131    4  Dove Sh BK Strgt&Slky 10mL 288          D          5.68    22.72
+                                              .           
+ 5800274    1  Eskinol Clssc Clr Wh 225mL  12          D        114.42   114.42
+                                              .           
+ 5800277    1  Eskinol PimFghtng 135mL     12          D         70.02    70.02
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          207.16
+                                                       Rundate 04/04/2025  11:19:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

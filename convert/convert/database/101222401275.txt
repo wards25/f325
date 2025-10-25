@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101222401275
+                                                            Branch - 122 QZN AV RSVELT( )
+                                                            Prepared by - Irica V. Limson - D1 on 08/12/2024
+                                                            Issued by - ________________________________
+                                                                         Annabelle L. Fabre
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    1  Nestle KKrunch SPck 80g     24 09/01/25 D         47.08    47.08
+                                              40100631CE2 
+ 4014039    1  Bear Br BusogL DrChocYum28g240 05/31/25 D          6.51     6.51
+                                              0144057B1   
+ 4025099    3  Nestle KKrunch 35g          72 02/28/25 D         14.48    43.44
+                                              40600630B1  
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 01/31/25 D         11.80    11.80
+                                              40240597F1  
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200 02/28/25 D         11.80    23.60
+                                              4044057T1 L1
+ 4530024    3  Nescafe CrmyWh SF TPck22.4g100 05/31/25 D         11.70    35.10
+                                              4129060IE1 A
+ 4530026    1  Nescafe Original SF TPck23g100 04/30/25 D         11.70    11.70
+                                              4120060IE1 A
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          179.23
+                                                       Rundate 08/12/2024  12:44:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730092500081
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S.SARGUET on 05/24/2025
+                                                            Issued by - ________________________________
+                                                                         ALDRIN A. BARRUGA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103169    1  Del M Pine Jce Swtnd 220mL  24 09/30/26 D         28.93    28.93
+                                              LCAB        
+ 1103961    1  Del M Fit N RghtBurnApl330mL24 04/18/25 E         31.13    31.13
+                                              SBIC        
+ 1104079   14  Del M Mr Milk Plain 80mLx6  16 05/30/25 G         48.11   673.54
+                                              HA          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          733.60
+                                                       Rundate 05/24/2025  13:01:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730762500786
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 09/30/2025
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723683    1  Fudgee Barr Macapuno 41g    10 10/19/25 E          8.33     8.33
+                                              .           
+ 3723685    7  Rebisco Hansel Crackers 32g 10 10/27/25 E          6.18    43.26
+                                              0           
+ 3723722    2  Mega Tuna FlksSpnshStyl 155g10 08/11/26 D         36.90    73.80
+                                              .           
+ 4110040   10  Frootees Ckie Sbrry 32g     10 10/12/25 E          6.03    60.30
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          185.69
+                                                       Rundate 09/30/2025  15:38:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

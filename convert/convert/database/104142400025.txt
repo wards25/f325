@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104142400025
+                                                            Branch - 414 Mamburao JP Rizal(OCM Mamburao JP Rizal )
+                                                            Prepared by - Romel B. Briones on 02/04/2024
+                                                            Issued by - ________________________________
+                                                                         Shermene S. Jawerga
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104029    3  Del M Pine Jce Swtnd Tetra1L12 02/28/24 E         87.31   261.93
+                                              L305913     
+ 1148913    1  Selecta Forti Mlk 245mL     24 01/18/24 F         34.23    34.23
+                                              B3DAO       
+ 3723344    1  Malkist ChocCrkrSandW18gx10 30 01/02/24 F         48.15    48.15
+                                              0824CKK     
+ 3723536    2  UFC Green Peas 400g         24 09/07/23 F         31.11    62.22
+                                              801         
+ 3856639    8  Datu Puti Wh Vngar Pet 1L   12 10/21/23 F         39.19   313.52
+                                              CBD         
+ 4100002    1  Kettle Korn Cheese 120g     30 02/01/24 F         36.25    36.25
+                                              ML          
+ 4103110    4  Kikkoman Soy Sce Pet 500mL  12 01/15/24 F        139.43   557.72
+                                              201         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,314.02
+                                                       Rundate 02/04/2024  10:32:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

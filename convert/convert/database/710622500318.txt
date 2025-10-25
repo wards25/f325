@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710622500318
+                                                            Branch - 1062 Binan City Southwoods Ecocentrum(SOUTHWOODS ECOCENTRUM )
+                                                            Prepared by - CARLA CARDEL on 05/24/2025
+                                                            Issued by - ________________________________
+                                                                         MS.JAISLE CALANGI
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24 01/01/27 D         29.40    29.40
+                                              21069       
+ 1103591    2  Del M Pine Jce Fiber 220mL  24 10/01/26 D         31.73    63.46
+                                              L5044YYJFB94
+ 1103961    1  Del M Fit N RghtBurnApl330mL24 05/26/25 E         31.13    31.13
+                                              232751      
+ 1103963    2  Del M Fit N RghtBurnPne330mL24 06/27/25 E         31.13    62.26
+                                              154841      
+ 1104077    1  Del M Mr Milk GrApl 80mLx6  16 06/19/25 E         48.11    48.11
+                                              HADMI1417105
+ 1104078    2  Del M Mr Milk Mango 80mLx6  16 06/15/25 E         48.11    96.22
+                                              HADMI4167040
+ 4103090    3  Del M Spag Sce Sweet 900g   12 06/03/25 E         95.67   287.01
+                                              4034INP09   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          617.59
+                                                       Rundate 05/24/2025  17:35:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

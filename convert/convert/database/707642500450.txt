@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707642500450
+                                                            Branch - 764 BUUG POB(BUUG POBLACION ZAMBOANGA SIBUGAY)
+                                                            Prepared by - KARL ANGEL M. MALINAO on 09/14/2025
+                                                            Issued by - ________________________________
+                                                                         LIZ AUBREY L. ARDON
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12          D         97.19    97.19
+                                              51800189YD  
+ 3760007    5  Kitkat Mini 8s 72g          48 09/02/25 E         87.18   435.90
+                                              42489534YT  
+ 4530000    1  Starbucks Latte DShtEsp220mL24          D         76.00    76.00
+                                              43329449AF  
+ 4530073    4  S-26 Gold CS 0-12 InfFmla800g6 11/23/25 E       1663.55  6654.20
+                                              33279510A1  
+ 4530075    2  S-26 Gold Comf HW 0-12Inf800g6 12/31/25 E       1724.30  3448.60
+                                              125394149   
+ 4530077    1  Nestle Low Fat Milk 1L      12          D        109.54   109.54
+                                              52160189YE  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       10,821.43
+                                                       Rundate 09/14/2025  14:15:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

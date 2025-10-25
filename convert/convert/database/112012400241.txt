@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 112012400241
+                                                            Branch - 1201 Kalookan City MetroPlaza Mall(QUIRINO HWAY, MALARIA KAL.CITY )
+                                                            Prepared by - JHEN GALANG on 02/25/2024
+                                                            Issued by - ________________________________
+                                                                         MS. GERALDINE SALUDES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3075750    4  RC Cola 1.5L                12 02/14/24 F         47.25   189.00
+                                              SBT03621231 
+ 3623284    1  Northland Bluebrry Jce 1.89L 8 03/15/24 E        386.10   386.10
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 04/28/25 D         11.22    11.22
+                                              1414SLG10010
+ 4096032    7  Del M Tidbits Pine 227g     24 02/01/24 F         31.68   221.76
+                                              2045YY      
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 02/04/25 D          6.83     6.83
+                                              0935TGR04080
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          814.91
+                                                       Rundate 02/25/2024  14:41:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

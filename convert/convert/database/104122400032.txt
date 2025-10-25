@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104122400032
+                                                            Branch - 412 Naga City Gen. Luna(MERCURY DRUG NAGA GEN LUNA )
+                                                            Prepared by - JEFFREY G. NIEVES on 01/23/2024
+                                                            Issued by - ________________________________
+                                                                         ERIC B. BELTRAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102998   13  Del M Salad Macaroni 400g   25          D         69.02   897.26
+                                              .           
+ 3254310    7  UFC Bnana Csup Reg 320g     24 02/01/24 E         22.50   157.50
+                                              .           
+ 3780421    3  Diabetasol Choc 600g         3 02/20/24 E        883.20  2649.60
+                                              .           
+ 3856633   15  Mang Tomas Lchon Sce 325g   24 03/01/24 E         33.25   498.75
+                                              .           
+ 4096032    2  Del M Tidbits Pine 227g     24          D         31.68    63.36
+                                              .           
+ 4136006    1  Kopiko Brn Coff 27.5g      240          D          6.76     6.76
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,273.23
+                                                       Rundate 01/23/2024  13:35:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

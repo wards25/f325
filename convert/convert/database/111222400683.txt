@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111222400683
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - NERI PEREZ on 03/27/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723344    4  Malkist ChocCrkrSandW18gx10 30 03/29/24 E         51.43   205.72
+                                              1604        
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24          D         20.25    20.25
+                                              n/a         
+ 4110022   60  Rebisco Hansel MchaSandw 32g10 04/27/24 E          5.87   352.20
+                                              c19a2       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          578.17
+                                                       Rundate 03/27/2024  11:52:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

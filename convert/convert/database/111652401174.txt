@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111652401174
+                                                            Branch - 1165 Laguna Sta. Rosa City Malusak(Rizal Blvd Cor P. Vallejo malusak Sta Rosa)
+                                                            Prepared by - Izel on 10/19/2024
+                                                            Issued by - ________________________________
+                                                                         MR.ALEXIS RANQUE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    1  Royal Spaghetti 900g        18 10/25/24 E         97.00    97.00
+                                              25          
+ 3723590    1  Royal Cheesy R&T 1.6kg SP49 10 10/30/24 E        121.94   121.94
+                                              430231      
+ 4103101    6  Del M SpagFilStylPrtyPckSP42 8 10/28/24 E        133.46   800.76
+                                              3291        
+ 4103103    1  Del M SpagSwtStylPrtyPckSP48 8 02/17/25 D        133.46   133.46
+                                              3290        
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,153.16
+                                                       Rundate 10/19/2024  12:25:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

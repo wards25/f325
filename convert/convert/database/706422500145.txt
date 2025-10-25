@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706422500145
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN ANGULO on 05/06/2025
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016285   13  555 Tuna Flakes Adobo 155g  50 03/15/25 F         27.48   357.24
+                                              AD5E2307B   
+ 1210483   12  Argentina Bf Loaf 100g      48 05/03/25 F         16.67   200.04
+                                              BABL22      
+ 3048425    1  555 Mackerel TS 155g       100 05/14/25 E         27.98    27.98
+                                              CTSMHN      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          585.26
+                                                       Rundate 05/06/2025  14:59:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

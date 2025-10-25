@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500159
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY ilocos sur)
+                                                            Prepared by - Christopher A. Padua on 04/26/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723736    1  Selecta Forti Mlk LFat1Lx2SP12 05/03/25 D        156.12   156.12
+                                              P8JA1       
+ 3748506    2  Gerber 1st Banana 80g        6 05/20/26 D         75.55   151.10
+                                              41416376    
+ 3748510    1  Gerber 1st Squash 80g        6 04/26/26 D         75.55    75.55
+                                              41176376    
+ 3856633   24  Mang Tomas Lchon Sce 325g   24 05/26/25 E         33.25   798.00
+                                              24H29M062028
+ 3856662    5  Locally Tamarind Jce Dr240mL24 03/13/25 F         20.88   104.40
+                                              23L19S51945L
+ 3973057   11  Selecta Adult Activ Vnl245mL24 06/03/25 D         34.95   384.45
+                                              EURL1       
+ 4100002   10  Kettle Korn Cheese 120g     30 07/21/25 D         39.74   397.40
+                                              MLM3        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,067.02
+                                                       Rundate 04/26/2025  21:04:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

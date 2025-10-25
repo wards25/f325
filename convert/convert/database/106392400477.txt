@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106392400477
+                                                            Branch - 639 Mangaldan Rizal(RIZAL ST.,POBLACION, MANGALDAN PANGASINAN)
+                                                            Prepared by - M.MOLINA / R. TORALBA on 10/29/2024
+                                                            Issued by - ________________________________
+                                                                         MR. HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723648    1  Selecta Dolce LFat Choc 1L  12 10/16/24 D         85.96    85.96
+                                              DT0         
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 04/14/25 D         20.25    20.25
+                                              SF4         
+ 4510204   12  Barrio F PBut Crmy&Nutty227g12 10/25/24 E         88.92  1067.04
+                                              231026004   
+ 4510206    2  Barrio F PBut Crmy&Swt 227g 12 10/24/25 E         88.92   177.84
+                                              231025004   
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,351.09
+                                                       Rundate 10/29/2024  17:07:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

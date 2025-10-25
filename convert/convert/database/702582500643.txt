@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702582500643
+                                                            Branch - 258 Sta. Cruz P. Guevarra( )
+                                                            Prepared by - RACHEL R. TALABIS on 09/27/2025
+                                                            Issued by - ________________________________
+                                                                         MR OLIVER C. ALUB
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915    1  Selecta Forti Mlk 1L        12 03/19/26 D         85.46    85.46
+                                              06B8MB0     
+ 1165711   34  Magnol Chzee Sprd Pln 235g  24 10/28/25 E         79.44  2700.96
+                                              5401TCB62   
+ 1165715    9  Magnol Chzee Sprd Pmto 480g 12 10/07/25 E        157.96  1421.64
+                                              50311TGB07  
+ 3465855    1  Magnol Pure Frsh Mlk 1L     12 10/10/25 E         96.08    96.08
+                                              50212G201A  
+ 3465861    2  Magnol Choc Mlk Dr 110mL    36          D         12.37    24.74
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,328.88
+                                                       Rundate 09/27/2025  12:11:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

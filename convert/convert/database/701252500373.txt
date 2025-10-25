@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701252500373
+                                                            Branch - 125 Pasay City Rotonda(125 PASAY ROTONDA )
+                                                            Prepared by - JOAN NUDALO on 08/12/2025
+                                                            Issued by - ________________________________
+                                                                         MS. KRISTINE C. QUINDIPAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    5  Selecta Moo Choc 245mL      24 07/24/25 E         28.36   141.80
+                                              3ACP        
+ 3723286    7  Ding Dong Sup Mxd Nuts 100g 60 02/07/26 D         20.54   143.78
+                                              A5K         
+ 3723374    4  Ding Dong Snck Mx Chip&C95g 60 08/27/25 E         20.54    82.16
+                                              B2K         
+ 3723589    3  Fiesta Spag TpdSwt1.6kgSP20 10          D        117.39   352.17
+                                              NLN         
+ 3723625    1  Kopiko Blanca TwnPckCoff52g120 11/17/25 D         12.11    12.11
+                                              2250TGR     
+ 3723683    1  Fudgee Barr Macapuno 41g    10          D          8.33     8.33
+                                              NLN         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          740.35
+                                                       Rundate 08/12/2025  11:46:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703712500081
+                                                            Branch - 371 PC LBRTY COMML COMPLX( 805082)
+                                                            Prepared by - PAUL MODANCIA on 03/17/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MAE T.GALVEZ-BALAWANG
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    4  Del M Pine Jce 220mL        24          D         28.70   114.80
+                                              .           
+ 1103244    1  Del M Tmto Kchup 320g       24 03/10/25 E         41.72    41.72
+                                              .           
+ 1103591    6  Del M Pine Jce Fiber 220mL  24          D         31.13   186.78
+                                              .           
+ 4103090    7  Del M Spag Sce Swt Style900g12 03/23/25 E         92.87   650.09
+                                              .           
+ 4470193    1  Huggies Bb Wipes Cln Care80s24          D         96.57    96.57
+                                              .           
+ 4470329    1  Huggies Mgic Cmfrt XL 18+2   4          D        189.10   189.10
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,279.06
+                                                       Rundate 03/17/2025  16:15:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

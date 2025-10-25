@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705322500123
+                                                            Branch - 532 San Fabian Public Market(SAN FABIAN PANGASINAN)
+                                                            Prepared by - J.MERTCAD.GABRIEL/R.TORALBA on 02/14/2025
+                                                            Issued by - ________________________________
+                                                                         HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   31  Magnol Daily Quezo 160g     48 03/21/25 E         33.27  1031.37
+                                              41023       
+ 3723282   10  Cupp Keyk Choc Mcha         10 03/07/25 E          6.80    68.00
+                                              7123        
+ 3780427    1  Diabetasol Cappuccino 600g   3 10/19/25 D        883.20   883.20
+                                              41023       
+ 4113094    1  Magnol Real Mayonnaise 220mL24 08/01/25 D         77.65    77.65
+                                              41011       
+ 4113096    3  Magnol Sandwich Sprd 80mL   24 10/02/25 D         28.28    84.84
+                                              2222        
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 09/20/25 D          6.80     6.80
+                                              1133        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,151.86
+                                                       Rundate 02/14/2025  15:59:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

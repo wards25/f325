@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702572500380
+                                                            Branch - 257 San Pedro City Nueva(SAN PEDRO NUEVA )
+                                                            Prepared by - ABEGAIL C. PANGAN on 09/12/2025
+                                                            Issued by - ________________________________
+                                                                         MR. BALTAZAR M. AQUINO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010200    3  Ladys C Tuna Sprd 220mL     24 10/20/25 E        122.60   367.80
+                                              NL          
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288          D          6.13     6.13
+                                              NL          
+ 3980617    1  Rexona Men Ron ChrcoalDtx45mL6          D        120.00   120.00
+                                              NL          
+ 5800432    1  Dove Cond 1MinPepBndRep10mL288          D          6.37     6.37
+                                              NL          
+ 5800436   41  Dove Sh PepBond Repair12mL 288          D          5.68   232.88
+                                              NL          
+ 6200292    1  Creamsilk Cond HFallDef22mL288          D          8.43     8.43
+                                              NL          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          741.61
+                                                       Rundate 09/12/2025  15:13:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

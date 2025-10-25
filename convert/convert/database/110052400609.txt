@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110052400609
+                                                            Branch - 1005 Makati City JP Rizal Ext. Puregold(1005 MAKATI CITY JP RIZAL EXT. PUREGOLD)
+                                                            Prepared by - VHINZ VIPINOSA(ABM) on 09/06/2024
+                                                            Issued by - ________________________________
+                                                                         MR.CHRISTIAN BERNARDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3707335    4  Kitkat Bites 40g            30 09/14/24 E         46.82   187.28
+                                              3259531MA   
+ 4025037   20  Nescafe 3n1 CrmyLatte27.5g 240 09/30/24 E          8.20   164.00
+                                              32628985A1  
+ 4025056    2  Nescafe Crmy Wh 25.5g      240 02/28/25 D          8.20    16.40
+                                              4059602M1   
+ 4025177    1  Nescafe Original 26g       520 02/28/25 D          7.37     7.37
+                                              4058985     
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 02/28/25 D         11.80    11.80
+                                              404405971   
+ 4530024    2  Nescafe CrmyWh SF TPck22.4g100 05/31/25 D         11.70    23.40
+                                              4129060     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          410.25
+                                                       Rundate 09/06/2024  15:37:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104682301529
+                                                            Branch - 468 Quezon City Novaliches Lagro Hilltop(QC NOVA LAGRO HILLTOP )
+                                                            Prepared by - FOI ALISUAG DIST 5 on 12/30/2023
+                                                            Issued by - ________________________________
+                                                                         LUZVIMINDA P. COLADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723623    2  Natrue Oat Dr 1L             6 12/31/23 E        126.65   253.30
+                                              .           
+ 3723644    1  Energen Champion Choc TP30g120          D         13.60    13.60
+                                              .           
+ 4103059    1  Del M Tmto Sce FilStyl 250g 48          D         22.35    22.35
+                                              .           
+ 4103104    1  Del M Pot Crisp BsctOrig50g 48          D         18.67    18.67
+                                              .           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          6.80     6.80
+                                              .           
+ 4510192    1  Solbac Surf Disinf Spr 500mL 3 01/31/24 E        250.40   250.40
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          565.12
+                                                       Rundate 12/30/2023  13:27:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

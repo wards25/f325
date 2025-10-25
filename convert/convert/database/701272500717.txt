@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701272500717
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - JANE MONTALBAN-ACU¥A on 09/06/2025
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138311    3  Purefood Chnky CBeef 190g   48 01/26/27 D         51.12   153.36
+                                              .           
+ 1147360    1  Selecta Moo Choc 245mL      24          D         28.36    28.36
+                                              .           
+ 3723398    2  Entrasol Pltnm Ad PdrChoc600g3 12/14/25 D        906.80  1813.60
+                                              .           
+ 3723508    1  Oramed 0.1% 60mL            12 09/15/25 E         76.50    76.50
+                                              230901      
+ 3723586    3  Royal Spag R&T Swt1.6kgSP49 10 09/27/25 E        121.94   365.82
+                                              04137       
+ 4136008    1  Kopiko Cappuccino Coff 25g 240          D          7.40     7.40
+                                              .           
+ 4510058    1  Axion DLiq Kal 20mL        144          D          4.79     4.79
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,449.83
+                                                       Rundate 09/06/2025  13:02:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

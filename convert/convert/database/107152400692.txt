@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107152400692
+                                                            Branch - 715 Cagayan De Oro City Puerto(MDC 715 CAGAYAN DE ORO PUERTO )
+                                                            Prepared by - ARGIE A. MONTERDE on 09/22/2024
+                                                            Issued by - ________________________________
+                                                                         PAOLO RAFAEL M. ROSABAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3856643    8  UFC Sweet Chili Sce 340g    24 10/30/24 E         37.76   302.08
+                                              24A04C30729U
+ 3856646    3  UFC GldnFstaCkingOilSup500mL24 03/15/26 D         68.16   204.48
+                                              24C2SM33    
+ 4103082    2  Del M Swt Blnd Kchup Pch320g36 10/27/24 E         28.33    56.66
+                                              3300INE03   
+ 4136010   39  Kopiko Blck 3-N-1 Coff 30g 240 10/05/24 E          6.80   265.20
+                                              1240TGR05404
+ 4136026    5  Prenagen Lactamom Vnla 400g  6 01/04/25 E        369.75  1848.75
+                                              23u0403au   
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,677.17
+                                                       Rundate 09/22/2024  09:55:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705322500132
+                                                            Branch - 532 San Fabian Public Market(SAN FABIAN PANGASINAN)
+                                                            Prepared by - J.MERTCAD.GABRIEL/R.TORALBA on 03/10/2025
+                                                            Issued by - ________________________________
+                                                                         HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050024    4  Baby Dove Bb Sh 200mL        6 04/10/25 E        215.21   860.84
+                                              32092       
+ 3050027    1  Baby Dove Bb Wash HTT RM400mL6 03/28/25 E        286.94   286.94
+                                              30022       
+ 3980117    1  Eskinol Mild Teens FDC 225mL 6 01/02/25 D        114.42   114.42
+                                              16052412    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,262.20
+                                                       Rundate 03/10/2025  11:41:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107232400468
+                                                            Branch - 723 TNDG NTL R(TANDAG NATIONAL ROAD )
+                                                            Prepared by - CHERRYL V. DELA CALSADA on 06/30/2024
+                                                            Issued by - ________________________________
+                                                                         MA.BETH C. PASAYLO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102998    4  Del M Salad Macaroni 400g   25 12/07/24 D         69.02   276.08
+                                              2341B13     
+ 1148606    1  Fiesta Spaghetti 400g       24 10/23/25 D         40.65    40.65
+                                              A1023       
+ 3856662    1  Locally Tamarind Jce Dr240mL24 06/13/24 D         20.88    20.88
+                                              23C21S51454L
+ 4095043    4  Seoul Wh K SoapDbleWhtng270g12 07/31/24 E        164.00   656.00
+                                              RQ2Q1238    
+ 4103080    2  Del M Spag PastaItaliana900g20 08/04/24 D        100.68   201.36
+                                              2216MM      
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 03/08/25 D         20.25    20.25
+                                              SBT03620416 
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,215.22
+                                                       Rundate 06/30/2024  21:33:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

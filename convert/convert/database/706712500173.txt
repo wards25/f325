@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706712500173
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE P MIRA on 08/27/2025
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039046    1  Domex Lemon Cleaner 500mL   24          D         86.83    86.83
+                                              21032311    
+ 3050013    1  Surf FabCond MgicalBlm 25mL360          D          5.19     5.19
+                                              0           
+ 3050036    1  Knorr Hot Meal ArrozCaldo35g48 07/19/25 F         28.30    28.30
+                                              A1          
+ 3870199   12  Dove Cond 1Min BioHFall10mL288          D          6.37    76.44
+                                              0           
+ 3870303    1  Sunsilk Sh Strng&Long 350mL 12          D        180.32   180.32
+                                              09062532    
+ 3980256    1  Ponds Wh Bty PCond Tner 60mL36 12/27/26 D         70.56    70.56
+                                              060125112   
+ 3980726    1  Ponds Acne ClrPoreToner100mL24 12/27/26 D         92.56    92.56
+                                              060125122   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          540.20
+                                                       Rundate 08/27/2025  14:32:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

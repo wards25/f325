@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730462500036
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE )
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 03/09/2025
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   26  Magnol Daily Quezo 160g     48 12/14/24 F         38.80  1008.80
+                                              4D717BCA31  
+ 3723396    1  Entrasol Pltnm Ad PdrChoc200g3 01/05/25 F        352.60   352.60
+                                              23UO506GU   
+ 3723398    6  Entrasol Pltnm Ad PdrChoc600g3 02/11/25 F        906.80  5440.80
+                                              23V1102GU   
+ 3723400    1  Entrasol Pltnm Ad PdrVnla200g3 12/12/24 F        352.60   352.60
+                                              23T1202GU   
+ 3723590    5  Royal Cheesy R&T 1.6kg SP49 10 11/27/24 F        121.94   609.70
+                                              43045270923F
+ 3780421    2  Diabetasol Choc 600g         3 01/16/25 F        883.20  1766.40
+                                              23R0G01GU   
+ 4113078   34  Magnol Chzee Block 160g     48 12/05/24 F         47.58  1617.72
+                                              40608BCA31  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       11,148.62
+                                                       Rundate 03/09/2025  18:09:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

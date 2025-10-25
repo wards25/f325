@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730462500058
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE )
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 03/27/2025
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3695258    2  Magnol Panck+W/Choc Syr200g 48 03/02/25 F         32.77    65.54
+                                              407051C402  
+ 3695260    1  Magnol Panck+W/Mple Syr200g 48 02/21/25 F         32.77    32.77
+                                              406261C368  
+ 3723616   10  Barrio F Std Shrmp P SG250g 12 02/09/25 F        112.86  1128.60
+                                              230209000356
+ 3723722   17  Mega Tuna Flks SpnshStyl155g10 07/22/26 D         36.90   627.30
+                                              GSB1709     
+ 3723724   16  Mega Tuna Flks In Oil 155g  10 07/31/26 D         36.90   590.40
+                                              GSB2809     
+ 4180011    1  Mega Sard In TS Chili 425g  24 08/27/26 D         51.08    51.08
+                                              CSD27H2023  
+ 4510113    1  Mega Sard Spnsh Styl 155g   10 08/03/27 D         29.70    29.70
+                                              ASI03H2024  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,525.39
+                                                       Rundate 03/27/2025  13:54:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

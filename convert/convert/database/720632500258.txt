@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720632500258
+                                                            Branch - 2063 Barobo Poblacion(POBLACION BAROBO SURIGAO DSUR )
+                                                            Prepared by - ROWENA E.DIOLA on 08/21/2025
+                                                            Issued by - ________________________________
+                                                                         FLORLYN D. LAMPAD
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016223    1  Century Flakes Brine 180g   48 09/04/27 D         49.96    49.96
+                                              0551f       
+ 1016262    3  Century TunaFlk Veg Oil 155g50 02/11/28 D         34.03   102.09
+                                              1322        
+ 1016298    1  555 Tuna Flakes Mchado 155g 50 03/03/28 D         26.68    26.68
+                                              11541       
+ 1210404    1  Argentina CBeef 175g        48 04/07/28 D         38.33    38.33
+                                              akb121      
+ 1210485    1  Argentina CBeef 100g        48 04/09/28 D         25.71    25.71
+                                              acbi10      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          242.77
+                                                       Rundate 08/21/2025  15:26:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

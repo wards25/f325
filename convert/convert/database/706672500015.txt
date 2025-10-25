@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706672500015
+                                                            Branch - 667 Rosario Gualberto(MD ROSARIO GUALBERTO ROSARIO BATANGAS)
+                                                            Prepared by - VERONICA M. GONDA on 02/12/2025
+                                                            Issued by - ________________________________
+                                                                         ELMER B. BENITEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870317    1  Creamsilk Cond TKR UR&S340mL12 06/09/24 F        308.90   308.90
+                                              0912211     
+ 5800325   13  Ladys C Real Mayo DPck 220mL12 11/18/24 F         88.15  1145.95
+                                              240422      
+ 5800328    3  Ladys C Sandw Sprd 80mL     36 01/02/25 F         31.55    94.65
+                                              240173      
+ 6200005    1  Dove Sh Crmde IntRepair170mL24 04/10/27 D        157.29   157.29
+                                              31          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,706.79
+                                                       Rundate 02/12/2025  15:38:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102622400647
+                                                            Branch - 262 Manila Sta. Ana Augusto Francisco(Sta Ana Augusto Francisco )
+                                                            Prepared by - Jena de Castro on 11/28/2024
+                                                            Issued by - ________________________________
+                                                                         LEONORA SAWAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144          D          7.55     7.55
+                                              xx          
+ 3039258    1  Breeze Pdr Det Actv Blch630g24          D        103.54   103.54
+                                              xx          
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              xx          
+ 3050031    1  Breeze Pdr DetRseGldPerf64g144          D         12.20    12.20
+                                              xx          
+ 3050083    5  Surf FabCond BlsFrshSac69mL120          D         12.10    60.50
+                                              xx          
+ 6200089    1  Surf Pdr Chrry Blssm65gB6G1 40          D         36.75    36.75
+                                              xx          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          226.67
+                                                       Rundate 11/28/2024  17:51:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

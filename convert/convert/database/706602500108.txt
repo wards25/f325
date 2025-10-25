@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706602500108
+                                                            Branch - 660 DAG FERNDEZ E(ABFERNANDEZ EAST DAGUPAN CITY )
+                                                            Prepared by - H.RODAS/R.RAMIREZ/J.SANTIAGO on 04/05/2025
+                                                            Issued by - ________________________________
+                                                                         ANNA MARIE U. KATIGBAK
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008 03/30/26 D          2.92     2.92
+                                              *           
+ 1167456    5  Nestle Chuckie Cal-N 1000mL 12 03/30/25 E        102.06   510.30
+                                              *           
+ 4530020    2  Nestle Chuckie CN250mLx4P110 8 03/30/25 E        102.80   205.60
+                                              *           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          718.82
+                                                       Rundate 04/05/2025  11:58:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

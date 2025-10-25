@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101632401001
+                                                            Branch - 163 Hagonoy Poblacion(STO. NI¥O HAGONOY BULACAN )
+                                                            Prepared by - Chester Dino on 10/26/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CINDY GOLONDRINA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165714    1  Magnol Chzee Sprd Pmto 235g 24 10/05/24 E         87.79    87.79
+                                              40309       
+ 3465855    1  Magnol Frsh Mlk 1L          12 02/22/25 D         96.08    96.08
+                                              1r          
+ 3465909    2  Magnol Chzee Sqze Pmnto 220g24 10/05/24 E         78.52   157.04
+                                              40309       
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12 10/31/26 D         44.25    44.25
+                                              12471       
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 07/25/47 E         11.26    11.26
+                                              04140       
+ 4113084    3  Magnol All-Pur Flour 200g   48 10/24/24 E         23.70    71.10
+                                              310301g842  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          467.52
+                                                       Rundate 10/26/2024  16:17:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

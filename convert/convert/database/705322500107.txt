@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705322500107
+                                                            Branch - 532 San Fabian Public Market(SAN FABIAN PANGASINAN)
+                                                            Prepared by - J.MERTCAD.GABRIEL/R.TORALBA on 02/14/2025
+                                                            Issued by - ________________________________
+                                                                         HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050023    5  Baby Dove Bb Lot 200mL       6 03/01/25 E        274.84  1374.20
+                                              12092       
+ 3870002    6  Clear Men Sh Cool Sprt 12mL288 03/03/25 E          5.73    34.38
+                                              88221       
+ 3870043    6  Creamsilk Cond S-Strght11mL288 03/03/25 E          5.93    35.58
+                                              6520        
+ 3870384    6  Creamsilk CondTKR UHFD10mL 288 03/03/25 E          6.66    39.96
+                                              37852       
+ 5800323   16  Ladys C Mynaise 80mL        36 07/10/25 D         32.20   515.20
+                                              1302        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,999.32
+                                                       Rundate 02/14/2025  13:54:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

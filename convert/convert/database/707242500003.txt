@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707242500003
+                                                            Branch - 724 Ozamiz City Rizal(724 OZAMIZ CITY RIZAL )
+                                                            Prepared by - FE T. ORNOPIA on 01/05/2025
+                                                            Issued by - ________________________________
+                                                                         LEOFEL S. CLAVANO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    5  Nestle Chuckie Cal-N 1000mL 12          D        102.06   510.30
+                                              0           
+ 3760009    1  Nido NutriSnaxBnna-Crot110mL60          D         17.76    17.76
+                                              0           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              0           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         12.37    12.37
+                                              0           
+ 4530026    1  Nescafe Original SF TPck23g100          D         12.27    12.27
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          560.07
+                                                       Rundate 01/05/2025  20:42:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

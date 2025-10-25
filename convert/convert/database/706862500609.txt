@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706862500609
+                                                            Branch - 686 SFDO LU QZN P BURGOS(San Fernando LU P.Burgos )
+                                                            Prepared by - Perfecto Menes on 08/27/2025
+                                                            Issued by - ________________________________
+                                                                         Froy Jayson C. Manzano
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035680    1  Ligo Sard In TS 155g       100 08/28/25 F         22.82    22.82
+                                              .           
+ 1035690    7  Ligo Sard In TS Chili 155g 100 08/15/25 F         23.01   161.07
+                                              .           
+ 3793297    8  Birch Tree FC Mlk Pdr 300g  24          D        134.36  1074.88
+                                              .           
+ 3793298   16  Angel Condensada 380g       48 09/20/25 E         50.48   807.68
+                                              .           
+ 3793321    3  Birch Tree FC Milk Pdr 700g 12          D        309.20   927.60
+                                              .           
+ 4131015    2  Birch Tree FortiChocPdr290g 24          D         79.53   159.06
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,153.11
+                                                       Rundate 08/28/2025  09:20:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

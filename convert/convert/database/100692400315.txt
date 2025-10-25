@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100692400315
+                                                            Branch - 69 Muntinlupa City Poblacion(69 MUNTINLUPA POBLACION )
+                                                            Prepared by - Christian Pangan on 04/07/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jocelyn A. Raymundo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103985    1  Del M Pine Jce HeartS 220mL 24 06/01/25 D         30.80    30.80
+                                              L3363YYRJL31
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 11/24/24 D          7.01     7.01
+                                              0440TGR24110
+ 4103065    2  Del M Tmto Sce OrigStyl 250g48 02/16/25 D         25.43    50.86
+                                              3320INL02   
+ 4103090    2  Del M Spag Sce Swt Style900g12 05/09/25 D         91.93   183.86
+                                              4009TFY06   
+ 4103102    3  Del M Pot Crisp BsctSpcy50g 48 03/12/24 E         18.67    56.01
+                                              HADMI307101 
+ 4136006    1  Kopiko Brn Coff 27.5g      240 12/24/24 D          6.76     6.76
+                                              0127TGR24060
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          335.30
+                                                       Rundate 04/07/2024  16:57:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111542400205
+                                                            Branch - 1154 Valenzuela City Gateway Complex(1154 VAL. CITY GATEWAY COMPLEX PASO DE BLAS)
+                                                            Prepared by - MIKE LANOZO on 01/29/2024
+                                                            Issued by - ________________________________
+                                                                         MS. GLICERIA P. ENRIQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103187    1  Del M Spag Sce Swt Style250g24 12/18/24 D         34.54    34.54
+                                              3230        
+ 3723283   10  Cupp Keyk Choc Topps        10 02/28/24 E          7.74    77.40
+                                              24          
+ 3723644    1  Energen Champion Choc TP30g120 09/19/24 D         13.60    13.60
+                                              00005       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          125.54
+                                                       Rundate 01/29/2024  15:21:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

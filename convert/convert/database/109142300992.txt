@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109142300992
+                                                            Branch - 914 Tacloban City Salazar(SALAZAR ST TACLOBAN CITY)
+                                                            Prepared by - Delfa M. Nu¤ez on 12/31/2023
+                                                            Issued by - ________________________________
+                                                                         MR. NESTOR T. YCHON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24 06/17/24 D         20.25    20.25
+                                              4SF5        
+ 3780427    5  Diabetasol Cappuccino 600g   3 01/14/24 E        883.20  4416.00
+                                              1402AU      
+ 3856662    1  Locally Tamarind Jce Dr240mL24 06/13/24 D         20.88    20.88
+                                              LYTMD       
+ 3856663    1  Locally Gybano Jce Dr 240mL 24 06/13/24 D         22.80    22.80
+                                              LYGYB       
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 08/30/24 D         20.25    20.25
+                                              21155       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,500.18
+                                                       Rundate 12/31/2023  18:41:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

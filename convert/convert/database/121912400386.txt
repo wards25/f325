@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121912400386
+                                                            Branch - 2191 Ilo ilo Calinog Poblacion Centro(1C,1D&1E,A&B Bldg.,Osmena St Pob Centro,Calinog Iloilo)
+                                                            Prepared by - JOICE MARIE S PARANGA on 07/19/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MA. IRENE GALENO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723634    2  Selecta Farm Frsh Mlk1Lx2SP7 6 06/25/24 F        180.14   360.28
+                                              02C5DPO     
+ 4180019    3  Mega Tuna Flks SpnshStyl155g50 09/26/23 F         36.90   110.70
+                                              GSB1709     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          470.98
+                                                       Rundate 07/19/2024  15:57:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730182500166
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL A. MARTIN on 06/04/2025
+                                                            Issued by - ________________________________
+                                                                         MARIA SARA E. SALAMERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3382351    4  Novellino Sprklng Red 750mL 12 06/22/25 E        200.00   800.00
+                                              l233508a    
+ 3465906    3  Magnol Chzee Sqze Chdr 115g 24 06/23/25 E         37.88   113.64
+                                              41125ubj22  
+ 3723285    1  Fudgee Barr Milk Custard    10 06/14/25 E          8.25     8.25
+                                              bg116       
+ 3723390   32  Energen Mlk&Cer Dr Choc 40g240 06/05/25 E          7.01   224.32
+                                              1300tgr05080
+ 3856633   14  Mang Tomas Lchon Sce 325g   24 06/18/25 E         33.25   465.50
+                                              2421m0808145
+ 3856638   13  Datu Puti Wh Vngar Pet 385mL24 05/27/25 F         17.34   225.42
+                                              24f01m090017
+ 3856650   15  Mang Tomas Hot&Spcy 325g    24 06/10/25 E         34.20   513.00
+                                              24113m061003
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,350.13
+                                                       Rundate 06/04/2025  16:11:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

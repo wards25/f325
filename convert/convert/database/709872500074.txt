@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709872500074
+                                                            Branch - 987 Oroquieta - Quijano(BARRIENTOS COR QUIJANO STS, OROQUIETA CITY, MIS. OCC.)
+                                                            Prepared by - DOLLY C. ROMERO on 02/27/2025
+                                                            Issued by - ________________________________
+                                                                         MS.LIZA RUIZAL-DURAC
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3856627    6  Datu Puti Patis 350mL       24 03/12/25 E         23.51   141.06
+                                              400260      
+ 3856638   19  Datu Puti Wh Vngar Pet 385mL24 03/28/25 E         17.34   329.46
+                                              164945      
+ 4510107    1  Mega Sard In TS 155g        10 03/14/27 D         21.60    21.60
+                                              00538       
+ 4510113    1  Mega Sard Spnsh Styl 155g   10 06/13/26 D         29.70    29.70
+                                              1190        
+ 4510117    2  Mega Sard In TS Ex Hot 155g 10 11/02/25 D         22.73    45.46
+                                              clk2        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          567.28
+                                                       Rundate 02/26/2025  17:05:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

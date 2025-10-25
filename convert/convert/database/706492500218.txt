@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706492500218
+                                                            Branch - 649 APR RZL(Aparri rizal )
+                                                            Prepared by - GERALDINE DALUDDUNG on 05/26/2025
+                                                            Issued by - ________________________________
+                                                                         SWIETENIA MAE C. AGNO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016231   32  Century Flakes Hot&Spicy180g48 01/01/25 D         43.31  1385.92
+                                              0           
+ 1016253    1  Century Flakes Cldrta Jr155g50          D         31.80    31.80
+                                              0           
+ 1016370   23  Century Chili Crnd Tuna 180g4           D         38.01   874.23
+                                              0           
+ 1016372    4  Century Tuna Mayo Sprd 85g  48          D         25.35   101.40
+                                              0           
+ 1210406    2  Argentina Meat Loaf 250g    48          D         30.95    61.90
+                                              +           
+ 1210417   17  555 Carne Norte 150g        48          D         27.62   469.54
+                                              0           
+ 3793298   44  Angel Condensada 380g       48 05/31/25 E         50.48  2221.12
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,145.91
+                                                       Rundate 05/27/2025  10:26:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

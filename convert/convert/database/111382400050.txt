@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111382400050
+                                                            Branch - 1138 MANILA TONDO BALUT(2518 RODRIGUEZ ST. BALUT TONDO )
+                                                            Prepared by - LARA ANDREA G. AFAN on 01/17/2024
+                                                            Issued by - ________________________________
+                                                                         MS. LEONILA S. GOMEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24 08/01/25 D         28.00    28.00
+                                              L3238YYJVL74
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240 06/07/24 D          7.01     7.01
+                                              0353TGR     
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 02/16/25 D         11.22    11.22
+                                              0742SLG     
+ 3723626    2  Kopiko Brown TwnPckCoff 53g120 01/10/25 D         10.63    21.26
+                                              0412TGR     
+ 4100005    2  Kettle Korn Sltd Crmel 120g 30 03/12/24 D         36.25    72.50
+                                              ML M3       
+ 4510151    2  Rite'n Lite Ccmber Dr250mL  24 10/24/24 D         20.25    40.50
+                                              SBT03620722 
+ 4510197    3  Nachitos TortillaChipChs410g10 10/03/24 D        108.80   326.40
+                                              A12         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          506.89
+                                                       Rundate 01/17/2024  12:17:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

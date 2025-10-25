@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130182400271
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL A. MARTIN on 07/29/2024
+                                                            Issued by - ________________________________
+                                                                         JOANNE KAROL H. VILLAJUAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254310   11  UFC Bnana Csup Reg 320g     24 08/06/24 E         23.40   257.40
+                                              23j11c180308
+ 3254315   16  UFC Bnana Csup Reg 530g     18 08/18/24 E         40.38   646.08
+                                              23j23c18511u
+ 3856636    2  Datu Puti Soy Sce Pet 385mL 24 06/17/24 E         19.95    39.90
+                                              23f23m091551
+ 3856638   10  Datu Puti Wh Vngar Pet 385mL24 08/20/24 E         17.34   173.40
+                                              23h26m090346
+ 3856639    7  Datu Puti Wh Vngar Pet 1L   12 05/04/24 F         39.19   274.33
+                                              23e10m070749
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 07/04/24 E         80.88    80.88
+                                              0921a6ja0   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,471.99
+                                                       Rundate 07/29/2024  16:02:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

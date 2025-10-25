@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105452400097
+                                                            Branch - 545 Lemery Ilustre(ILUSTRE AVE., LEMERY, BATANGAS )
+                                                            Prepared by - RUFFA MAE M. LIWATIC on 03/15/2024
+                                                            Issued by - ________________________________
+                                                                         MR. WINDEL BALOG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723389    5  Energen Mlk&Cer Dr Vnla 40g240 07/04/24 D          7.01    35.05
+                                              1248TGR0407 
+ 3780421    1  Diabetasol Choc 600g         3 02/29/24 F        883.20   883.20
+                                              22S3002AU   
+ 4100002    9  Kettle Korn Cheese 120g     30 05/30/24 D         36.25   326.25
+                                              MLM4        
+ 4103104    1  Del M Pot Crisp BsctOrig50g 48 11/22/24 D         18.67    18.67
+                                              PBDM133260  
+ 4136006  162  Kopiko Brn Coff 27.5g      240 07/12/24 D          6.76  1095.12
+                                              0026TGR12010
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,358.29
+                                                       Rundate 03/15/2024  15:55:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

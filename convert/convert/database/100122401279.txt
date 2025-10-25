@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100122401279
+                                                            Branch - 12 Quezon City Cubao Pinatubo(12 CUBAO PINATUBO )
+                                                            Prepared by - jenalyn on 11/23/2024
+                                                            Issued by - ________________________________
+                                                                         MR. CHRISTOPHER P. MONDERO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    1  Surf FabCond Bl FrshSac25mL360          D          5.19     5.19
+                                              nolot       
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              nolot       
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288          D          6.13     6.13
+                                              nolot       
+ 3050066    2  Surf FabCond MintExtrct25mL360          D          5.19    10.38
+                                              nolot       
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              nolot       
+ 3980605    1  Ponds VitMicellWatDChar100mL 3          D         83.30    83.30
+                                              nolot       
+ 6200249    1  Surf Pdr Sun Frsh 65g B6G1  40          D         36.75    36.75
+                                              nolot       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          154.54
+                                                       Rundate 11/23/2024  11:56:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

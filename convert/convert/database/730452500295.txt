@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730452500295
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - MARK LEDDA on 05/23/2025
+                                                            Issued by - ________________________________
+                                                                         DINO NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    3  Bear Br Strlzed RTD 1L      12          D         97.19   291.57
+                                              .           
+ 1167538    8  Nestle Coffeemate 5g       960 05/31/25 F          1.89    15.12
+                                              .           
+ 4530041   29  Nestle Trix Bfast Cer 20g  120 06/10/25 E         13.64   395.56
+                                              .           
+ 4530055    6  Bonina Maternal Mlk Vnla350g18 01/31/25 F        303.74  1822.44
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,524.69
+                                                       Rundate 05/23/2025  17:01:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

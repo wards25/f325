@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730842500050
+                                                            Branch - 3084 Pangasinan San Carlos City Magic Mall(MD-3084 SAN CARLOS MAGIC MALL PANGASINAN)
+                                                            Prepared by - F.PARAYNO/J.AMPO/J.VINLUAN on 03/12/2025
+                                                            Issued by - ________________________________
+                                                                         MR.ALMAR N. DE VERA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048746    1  Suncoast Lgt Wat 650mL      24          D         18.00    18.00
+                                              1           
+ 3254310    4  UFC Bnana Csup Reg 320g     24 01/01/25 F         23.40    93.60
+                                              1           
+ 3606298    2  Jimms 7in1 Coffee Mix 21g   12          D         11.05    22.10
+                                              1           
+ 3723372    7  Golden Cup Oil Liniment 7mL 12 02/09/24 F         82.40   576.80
+                                              1           
+ 4110019    4  Choco Mucho Wh Choc 30g     10 04/16/25 E          9.30    37.20
+                                              1           
+ 4113091   13  Magnol Crmy Chckn Sprd 220mL24 03/28/25 E         87.79  1141.27
+                                              1           
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240          D          6.80     6.80
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,895.77
+                                                       Rundate 03/12/2025  08:18:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

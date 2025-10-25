@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707192500034
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165715    8  Magnol Chzee Sprd Pmto 480g 12 12/01/24 F        157.96  1263.68
+                                              0           
+ 3723625   11  Kopiko Blanca TwnPckCoff58g120 11/23/25 D         11.48   126.28
+                                              0           
+ 3856660    9  Locally Calamnsi Jce Dr240mL24 12/21/24 F         25.08   225.72
+                                              0           
+ 3856661    4  Locally Dalandan Jce Dr240mL24 05/27/25 D         25.08   100.32
+                                              0           
+ 3973033    1  Selecta Forti LFat Choc 1L  12 01/11/25 F         62.43    62.43
+                                              0           
+ 4113082    9  Magnol Star Mgrine 250g     72 02/26/25 E         64.31   578.79
+                                              0           
+ 4136008    1  Kopiko Cappuccino Coff 25g 240 11/23/25 D          7.40     7.40
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,364.62
+                                                       Rundate 02/26/2025  15:07:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

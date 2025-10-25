@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730382500550
+                                                            Branch - 3038 LU S FDO C SVLA(SAN FERNANDO CITY SEVILLA LU )
+                                                            Prepared by - KRISTINE CLAIRE R. BUMAGAT on 10/02/2025
+                                                            Issued by - ________________________________
+                                                                         JENNIFER M. HUFANA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    1  Surf FabCond Bl FrshSac25mL360          D          5.19     5.19
+                                              .           
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288          D          6.13     6.13
+                                              .           
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              .           
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              .           
+ 3870023    1  Creamsilk Cond Dam Ctrl11mL288          D          5.93     5.93
+                                              .           
+ 5800159    3  Knorr Sngng Smplok Orig 22g144          D         14.10    42.30
+                                              .           
+ 5800214    1  Knorr Hot Meal ArrozCaldo32g 4          D         16.95    16.95
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           88.76
+                                                       Rundate 10/02/2025  20:55:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

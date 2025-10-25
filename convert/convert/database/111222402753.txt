@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111222402753
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - NERI PEREZ on 12/19/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 01/31/25 E        102.06   102.06
+                                              40810189yd  
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              n/a         
+ 4530000    1  Starbucks Latte DShtEsp220mL24 01/12/25 E         76.00    76.00
+                                              40139449pf  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          185.43
+                                                       Rundate 12/19/2024  11:29:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

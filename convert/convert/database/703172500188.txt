@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703172500188
+                                                            Branch - 317 Valenzuela City South Supermarket(MDC SOUTH SMKT VAL CITY )
+                                                            Prepared by - Tess Sapitan - D7 on 07/17/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Carrie Tungol
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606230    1  Jimms 5in1 Coffee Mix 21g   12 02/18/27 I         10.63    10.63
+                                              5008L7      
+ 3972988   12  WhiteKing Champorado Mix113g30 08/06/25 E         34.64   415.68
+                                              19142060824c
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          426.31
+                                                       Rundate 07/17/2025  13:07:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     I-Loose Tablet Items (Factory Defect)

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721202500097
+                                                            Branch - 2120 ILO ILO PAVIA AGANAN(HDH MERCHNDSNG BLDG.,ZONE II BRGY AGANAN,PAVIA ILOILO)
+                                                            Prepared by - JOHANN S.  PROVIDO on 07/27/2025
+                                                            Issued by - ________________________________
+                                                                         MARY LUZ C. LORETIZO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870289    1  Creamsilk Cond Dam Ctrl350mL12 03/16/26 D        240.35   240.35
+                                              28012321    
+ 3870321    1  Creamsilk Cond TKR UStr340mL12 11/16/26 D        308.90   308.90
+                                              30052623    
+ 3980357    1  Dove Deo Stk UltRepFrshL40g 12 06/30/25 E        217.17   217.17
+                                              61005232    
+ 3980670    2  Vaseline Lot HBr SPF24 320mL12 08/06/25 E        307.52   615.04
+                                              150823      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,381.46
+                                                       Rundate 07/28/2025  15:07:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

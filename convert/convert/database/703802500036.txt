@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703802500036
+                                                            Branch - 380 Pasig City C. Raymundo(MDC PSG C RAYMUNDO )
+                                                            Prepared by - TIN PISUE¥A on 02/10/2025
+                                                            Issued by - ________________________________
+                                                                         MS NANCY B RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025037   14  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20   114.80
+                                              .           
+ 4025056  123  Nescafe Crmy Wh 25.5g      240 02/26/25 E          8.20  1008.60
+                                              40448985    
+ 4025177   14  Nescafe Original 26g       520 01/31/25 E          7.37   103.18
+                                              .           
+ 4025237   13  Nescafe Crmy Wh Twin Pck51g200 03/31/25 E         12.37   160.81
+                                              407669      
+ 4530022    3  Nescafe Crmy Lat TwinPck51g200 02/28/25 E         12.37    37.11
+                                              .           
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100          D         12.27    12.27
+                                              .           
+ 4530026    2  Nescafe Original SF TPck23g100 09/30/25 D         12.27    24.54
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,461.31
+                                                       Rundate 02/10/2025  12:54:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

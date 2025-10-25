@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704092500454
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - D. DASALLA on 08/22/2025
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010200    1  Ladys C Tuna Sprd 220mL     24          D        122.60   122.60
+                                              .           
+ 1010440    2  Knorr Cr Of Mushrm Soup 62g 60 12/10/25 D         50.95   101.90
+                                              MI          
+ 1010722    2  Knorr Sinigang W/Gabi 44g  144 09/05/25 D         27.35    54.70
+                                              U3          
+ 3050036    1  Knorr Hot Meal ArrozCaldo35g48          D         28.30    28.30
+                                              .           
+ 5800112    3  Knorr Crab&Corn Soup 37g    72 09/03/26 D         34.70   104.10
+                                              MI          
+ 5800216    1  Knorr Hot Meal Beef Goto 32g 4 11/20/25 D         16.95    16.95
+                                              3AM3        
+ 5800325    3  Ladys C Real Mayo DPck 220mL12 03/18/26 D         88.15   264.45
+                                              1540        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          693.00
+                                                       Rundate 08/22/2025  09:06:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

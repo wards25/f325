@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101822401597
+                                                            Branch - 182 Manila Binondo Ongpin(182 Manila Binondo Ongpin 13)
+                                                            Prepared by - Ryan Leonardo on 10/02/2024
+                                                            Issued by - ________________________________
+                                                                         Mr.Ariel C.Angeles
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 12/28/25 D         11.48    11.48
+                                              0434SLG     
+ 4095038   20  Seoul Wh K Cr Inst WhTneUp3g20 11/08/24 E         16.00   320.00
+                                              LK1         
+ 4095041    9  Seoul Wh K Soap DbleWhtng90g12 10/31/24 E         64.00   576.00
+                                              RQ2T1777    
+ 4095052   12  Seoul Wh K Soap Whip 120g   12 11/30/24 E        196.00  2352.00
+                                              RT2V0482    
+ 4510100   10  Seoul Wh K SoapDbleW120g2+1F12 10/31/24 E        196.00  1960.00
+                                              RQ2T1772    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,219.48
+                                                       Rundate 10/02/2024  12:41:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700482500295
+                                                            Branch - 48 Pasay City Malibay( )
+                                                            Prepared by - GHE RAMOS on 03/18/2025
+                                                            Issued by - ________________________________
+                                                                         ELNORA GANZON
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    4  Nestle Coffeemate 5g       960          D          1.89     7.56
+                                              nln         
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60          D         17.76    17.76
+                                              nln         
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 11/30/25 D          8.20     8.20
+                                              43338985a2  
+ 4025219    6  Nescafe 3n1 Orig TwinPck56g200 10/31/25 D         13.32    79.92
+                                              4302060     
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 11/30/25 D         13.32    13.32
+                                              43280597t1  
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 11/30/25 D         13.21    13.21
+                                              43250601e1  
+ 4530026    1  Nescafe Original SF TPck23g100 12/31/25 D         13.21    13.21
+                                              43510601E1  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          153.18
+                                                       Rundate 03/18/2025  08:00:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

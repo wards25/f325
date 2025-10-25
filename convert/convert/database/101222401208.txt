@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101222401208
+                                                            Branch - 122 QZN AV RSVELT( 629345)
+                                                            Prepared by - Fernando Erestain D1 on 07/31/2024
+                                                            Issued by - ________________________________
+                                                                         Annabelle L. Fabre
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4100002    1  Kettle Korn Cheese 120g     30          D         36.25    36.25
+                                              .           
+ 4103090    4  Del M Spag Sce Swt Style900g12          D         91.93   367.72
+                                              .           
+ 4103092    3  Del M Tmto Sce Orig Styl900g12          D         85.82   257.46
+                                              .           
+ 4510151    2  Rite'n Lite Ccmber Dr250mL  24          D         20.25    40.50
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          701.93
+                                                       Rundate 07/31/2024  09:10:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

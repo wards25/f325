@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103992401275
+                                                            Branch - 399 Quezon City Frisco Place( )
+                                                            Prepared by - BENCH D. SIMON JR. \ DIS on 10/04/2024
+                                                            Issued by - ________________________________
+                                                                         MS. GRETHEL ROSE T. CAMI¥A
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.46     2.46
+                                              0           
+ 3760006    1  Milo Activ-Go PdrZeroSgr26g 10 02/28/25 D         14.68    14.68
+                                              41100601J1A2
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60 09/30/25 D         25.71    25.71
+                                              40620190DA  
+ 4025237    3  Nescafe Crmy Wh Twin Pck51g200 03/31/25 D         12.37    37.11
+                                              40730597E1  
+ 4530026    2  Nescafe Original SF TPck23g100 07/31/25 D         11.70    23.40
+                                              4196060OEE1 
+ 4530028    1  Nestle Chuckie STB 110mL 6s 10 03/31/25 D         77.57    77.57
+                                              3064383B    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          180.93
+                                                       Rundate 10/04/2024  10:19:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

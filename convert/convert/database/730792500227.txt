@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500227
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY ilocos sur)
+                                                            Prepared by - Christopher A. Padua on 05/13/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723561    1  Extra Joss Active 4.4g 6+1  10 09/30/25 G         39.95    39.95
+                                              FJ905T      
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 04/11/26 D         11.48    11.48
+                                              0223SLG1110 
+ 3723715    1  Golden Cup Oil Lin Rlr 7mL   6 03/02/25 F         89.60    89.60
+                                              G064-0065   
+ 3780422    2  Diabetasol Swtnr 75g         3 05/10/25 F        159.20   318.40
+                                              23V10J      
+ 3900049    1  Diabetasol Wfer Choco 2s100g 3 05/06/25 F        112.00   112.00
+                                              24P06S22    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          571.43
+                                                       Rundate 05/13/2025  12:46:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired     G-Deleted

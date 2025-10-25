@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104602401020
+                                                            Branch - 460 RZL ANT C MALL(460 CMA)
+                                                            Prepared by - ALDRIN DIST21 on 07/24/2024
+                                                            Issued by - ________________________________
+                                                                         JOVITA C. PARIS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    1  Nescafe Clssc Ref 23g       60          D         19.98    19.98
+                                              na          
+ 1167931    1  Bear Br Strlzed RTD 200mL   32          D         25.00    25.00
+                                              na          
+ 4025097    1  Nestle Chuckie Cal-N 110mL  60          D         13.46    13.46
+                                              na          
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200          D         11.80    23.60
+                                              na          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           82.04
+                                                       Rundate 07/24/2024  09:24:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

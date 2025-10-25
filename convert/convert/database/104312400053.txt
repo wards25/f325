@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104312400053
+                                                            Branch - 431 Brooke's Point Public Market(PALAWAN BROOKES POINT )
+                                                            Prepared by - CIONELYN A. RIVERA on 02/12/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MERCE FE A. PEREZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723668   23  Solbac Disinf Spr Ctrs&G300g 6 10/31/23 F        199.36  4585.28
+                                              92121020    
+ 3723670    6  Solbac Disinf Spr LavMist300g6 11/30/23 F        199.36  1196.16
+                                              2020        
+ 3856631   14  Datu Puti Wh Vin 350mL      24 12/31/23 F         15.44   216.16
+                                              0           
+ 3900004    1  Diabetasol Vnla 360g         3 04/03/25 D        609.20   609.20
+                                              0           
+ 3969081    1  Bubble Man DLiq ABac270mLx2 10          D         46.26    46.26
+                                              0           
+ 4136062   12  Bubble Man DLiq ABac 270mL  20          G         29.01   348.12
+                                              040524      
+ 4136064   12  Bubble Man DLiq Lem 270mL   20          G         29.01   348.12
+                                              041125      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,349.30
+                                                       Rundate 02/23/2024  14:33:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired     G-Deleted

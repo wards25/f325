@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130032400280
+                                                            Branch - 3003 Tuguegarao City Buntun(TUGUEGARAO CITY BUNTUN )
+                                                            Prepared by - JOEL A. IGNACIO on 08/15/2024
+                                                            Issued by - ________________________________
+                                                                         YOLANDITA BONROSTRO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584    1  Fiesta Fil SpagTpd1.6kgSP30 10 11/25/24 E        109.48   109.48
+                                              -           
+ 3723590    4  Royal Cheesy R&T 1.6kg SP49 10 08/08/24 E        121.94   487.76
+                                              -           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         11.26    11.26
+                                              -           
+ 3856633   11  Mang Tomas Lchon Sce 325g   24 08/18/24 E         33.25   365.75
+                                              -           
+ 3856637    4  UFC GldnFstaCkingOilPet485mL24 07/18/24 E         71.73   286.92
+                                              -           
+ 4180022    1  Mega Tuna Flks Hot&Spcy 155g50 09/01/24 E         36.90    36.90
+                                              -           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,298.07
+                                                       Rundate 08/15/2024  14:06:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

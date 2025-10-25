@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104282400370
+                                                            Branch - 428 Balanga City Public Market( )
+                                                            Prepared by - FRANCIS JONATHAN J. LOPEZ on 09/17/2024
+                                                            Issued by - ________________________________
+                                                                         ALEX G. BANGCO JR.
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304    3  Sunkist Frt Dr Mgo 235mL    24 10/10/24 E         20.05    60.15
+                                              E1S1T0      
+ 3723613    3  Barrio F Std Shrmp P Reg250g12 10/24/24 E         89.78   269.34
+                                              2204240256  
+ 3723617    5  Barrio F Std Shrmp P Swt250g12 10/07/24 E         89.78   448.90
+                                              2204070100  
+ 4100002   12  Kettle Korn Cheese 120g     30 08/14/24 F         36.25   435.00
+                                              MLM4        
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,213.39
+                                                       Rundate 09/17/2024  11:55:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

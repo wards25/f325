@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706282500067
+                                                            Branch - 628 Mabalacat City McArthur(MD-MABALACAT )
+                                                            Prepared by - BERNADETTE S. JAVIER on 04/03/2025
+                                                            Issued by - ________________________________
+                                                                         CHARLESS P DUNGCA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167452   15  Nestle Chuckie Cal-N 250mL  24 03/31/25 E         28.08   421.20
+                                              N/A         
+ 3748503   21  Nestle KKrunch SPck 80g     24 04/27/25 E         48.18  1011.78
+                                              N/A         
+ 4025037   57  Nescafe 3n1 CrmyLatte27.5g 240 02/26/25 E          8.20   467.40
+                                              N/A         
+ 4025099   12  Nestle KKrunch 35g          72 05/16/25 E         16.36   196.32
+                                              N/A         
+ 4025219   60  Nescafe 3n1 Orig TwinPck56g200 04/30/25 E         13.32   799.20
+                                              n/a         
+ 4025237  113  Nescafe Crmy Wh Twin Pck51g200 03/31/25 E         13.32  1505.16
+                                              N/A         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,401.06
+                                                       Rundate 04/22/2025  13:20:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

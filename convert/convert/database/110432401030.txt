@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110432401030
+                                                            Branch - 1043 Gen. Trias Poblacion(General Trias Poblacion )
+                                                            Prepared by - Rina Escarilla on 09/18/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Concepcion S. Baculod
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850    5  Highland Reg Crnd Bf 150g   48 11/26/26 G         33.30   166.50
+                                              HLCBR407    
+ 1221854   21  San Marino Crnd Tuna 85g    48 03/18/24 G         26.33   552.93
+                                              SMCTR313    
+ 1225221   16  San Marino Crnd Tuna 180g   48 08/30/26 G         43.20   691.20
+                                              SMCTR325    
+ 1225222   42  San Marino Crnd TunaChli180g48 10/13/25 G         43.20  1814.40
+                                              SMCCT335    
+ 4120006   23  Highland Crnd Bf 180g       48 10/12/26 G         57.15  1314.45
+                                              HLCBC402    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,539.48
+                                                       Rundate 09/18/2024  10:23:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

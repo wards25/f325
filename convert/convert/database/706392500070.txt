@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706392500070
+                                                            Branch - 639 Mangaldan Rizal(RIZAL ST.,POBLACION, MANGALDAN PANGASINAN)
+                                                            Prepared by - M.MOLINA / DP. MANINGDING on 02/25/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JO ANN R. SWING
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035690    2  Ligo Sard In TS Chili 155g 100          D         23.98    47.96
+                                              5ANA0808    
+ 3048400    1  555 Sardines TS 155g       100          D         22.80    22.80
+                                              OSTS7       
+ 3048420    1  555 Sardines TS W/Chili425g 48          D         58.14    58.14
+                                              MS0537F     
+ 3793297    1  Birch Tree FC Mlk Pdr 300g  24          D        134.36   134.36
+                                              AMA3        
+ 3793319    1  Birch Tree Forti Mlk Pdr660g12          D        194.80   194.80
+                                              APA295AH    
+ 3793321    1  Birch Tree FC Milk Pdr 700g 12          D        309.20   309.20
+                                              401034      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          767.26
+                                                       Rundate 02/25/2025  16:09:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730612500167
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B. MEDRANO on 07/29/2025
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167452    3  Nestle Chuckie Cal-N 250mL  24 03/31/26 D         28.08    84.24
+                                              .           
+ 3748416    1  Bear Br Strlzedw/Gnsg 200mL 32 06/17/25 F         26.42    26.42
+                                              .           
+ 3760009    3  Nido NutriSnaxBnna-Crot110mL60 08/31/25 D         17.76    53.28
+                                              .           
+ 3760011   11  Nido NutriSnaxSbry-Crot110mL60 02/08/25 F         17.76   195.36
+                                              .           
+ 4025056   18  Nescafe Crmy Wh 20g        240 10/31/24 F          8.20   147.60
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          506.90
+                                                       Rundate 07/29/2025  15:37:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

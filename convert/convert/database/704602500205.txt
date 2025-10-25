@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704602500205
+                                                            Branch - 460 RZL ANT C MALL(460 CMA)
+                                                            Prepared by - ALDRIN DIST 10 on 03/08/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RICHARD E. BALLENA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3856646    1  UFC GldnFstaCkingOilSup500mL24          D         68.16    68.16
+                                              na          
+ 3856661    1  Locally Dalandan Jce Dr240mL24          D         25.08    25.08
+                                              na          
+ 3856664    3  Locally Pmlo Jce Dr 240mL   24 03/13/25 E         20.88    62.64
+                                              na          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          155.88
+                                                       Rundate 03/08/2025  09:48:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272400531
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 03/22/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723283   10  Cupp Keyk Choc Topps        10 04/23/24 E          7.74    77.40
+                                              CB41        
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 05/30/24 D         11.22    11.22
+                                              3011041686  
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 04/03/25 D         10.63    10.63
+                                              310041388   
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 02/20/24 E         80.88    80.88
+                                              23B6JB1     
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 03/03/24 E          5.87     5.87
+                                              C22B3       
+ 4136034    2  Prenagen Lactamom Choc 400g  6 03/09/24 E        369.75   739.50
+                                              22W0902GU   
+ 4136035    1  Prenagen Mommy Emesis Cho400g6 03/09/24 E        335.75   335.75
+                                              22W0901GU   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,261.25
+                                                       Rundate 03/22/2024  15:07:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106342400570
+                                                            Branch - 634 Pinamalayan Mabini(Mabini St.,Pin.,Or. Mdo. )
+                                                            Prepared by - Eduard Den M. Gasbon on 12/30/2024
+                                                            Issued by - ________________________________
+                                                                         Rizaliza P. Macatangay
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165711    2  Magnol Chzee Sprd Pln 235g  24 12/26/24 F         79.44   158.88
+                                              40530       
+ 1165712    1  Magnol Chzee Sprd Pln 480g  12 12/13/24 F        154.28   154.28
+                                              405171      
+ 1165713    2  Magnol Chzee Sprd Pmto 120g 24 12/25/24 F         48.02    96.04
+                                              40529       
+ 1165714    4  Magnol Chzee Sprd Pmto 235g 24 12/28/24 F         83.13   332.52
+                                              40601       
+ 1165715    3  Magnol Chzee Sprd Pmto 480g 12 12/15/24 F        157.96   473.88
+                                              40519       
+ 3465906    3  Magnol Chzee Sqze Chdr 115g 24 12/12/24 F         37.88   113.64
+                                              40516       
+ 3973031    8  Selecta Forti Mlk Strlzed 1L12 01/11/25 E         80.88   647.04
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,976.28
+                                                       Rundate 12/30/2024  16:50:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

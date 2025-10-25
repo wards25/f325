@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701012500110
+                                                            Branch - 101 Sta. Maria Poblacion(Poblacion sta maria bulacan )
+                                                            Prepared by - Carmela Gallardo on 03/24/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Mila Santiago
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723655   15  Hands-On DLiq A-Bac 250mL   24 04/18/25 E         70.56  1058.40
+                                              23012       
+ 3723656    3  Hands-On DLiq A-Bac 500mL   12 05/05/25 E         98.00   294.00
+                                              230415      
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,352.40
+                                                       Rundate 03/24/2025  15:44:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

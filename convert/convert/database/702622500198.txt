@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702622500198
+                                                            Branch - 262 Manila Sta. Ana Augusto Francisco(Sta Ana Augusto Francisco )
+                                                            Prepared by - Jena de Castro on 08/30/2025
+                                                            Issued by - ________________________________
+                                                                         Lorgelyn Balon
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144          D          7.55     7.55
+                                              xx          
+ 3039269    1  Surf Pdr Kal 1000g          12          D        102.90   102.90
+                                              xx          
+ 3039296    3  Surf Pdr Chrry Blssm 50g   288          D          6.13    18.39
+                                              xx          
+ 3039297    1  Breeze Liq Det 64g         108          D         12.50    12.50
+                                              xx          
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              xx          
+ 3050083    4  Surf FabCond BlsFrshSac69mL120          D         12.10    48.40
+                                              xx          
+ 3870142    2  Sunsilk Sh S&L30%More13mL  288          D          5.68    11.36
+                                              xx          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          207.23
+                                                       Rundate 08/30/2025  17:15:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

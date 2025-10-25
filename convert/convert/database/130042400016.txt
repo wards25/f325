@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130042400016
+                                                            Branch - 3004 Tumauini Poblacion(TUMAUINI POBLACION 3004)
+                                                            Prepared by - SHARON B.PALACAY on 01/16/2024
+                                                            Issued by - ________________________________
+                                                                         RON PAUL M. RESPICIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103167    9  Del M Or Jce Swtnd 220mL    24 09/01/23 F         28.00   252.00
+                                              SB1YY       
+ 1104081    1  Del M Mr Milk Sbrry 100mLx6 16 11/19/23 F         46.32    46.32
+                                              HADM1232301 
+ 1148939   11  Selecta Forti Mlk LowFat 1L 12 12/24/23 F         91.92  1011.12
+                                              E5BM0       
+ 3207792    1  Lipton Yel Label Tea 25'    24 04/09/24 D        113.56   113.56
+                                              0443        
+ 3723343    2  Cal Cheese Chse Wfer 48g    60 01/31/24 E         10.64    21.28
+                                              0514SD310103
+ 3973008    4  Selecta Forti Mlk 1Lx2 SP15  6 10/28/23 F        157.04   628.16
+                                              B6RA0       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,072.44
+                                                       Rundate 01/18/2024  11:23:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

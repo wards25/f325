@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705212500164
+                                                            Branch - 521 Sto. Tomas Maharlika Hway(STO TOMAS )
+                                                            Prepared by - N. C. CAMITAN/C.D. ABELLERA on 06/19/2025
+                                                            Issued by - ________________________________
+                                                                         MRS.MARIA BUENA M. MARALIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    3  Selecta Moo Choc 245mL      24 06/04/25 F         28.36    85.08
+                                              GY          
+ 1148913    8  Selecta Forti Mlk 245mL     24 09/06/25 E         34.23   273.84
+                                              D           
+ 1148938    4  Selecta Forti MlkLowFat245mL24 06/09/25 F         34.23   136.92
+                                              JPI         
+ 3723646    3  Selecta Dolce LFat Choc245mL24 03/31/25 F         27.14    81.42
+                                              MBO         
+ 3973030    5  Selecta FortiMlkStrlzed200mL24 07/12/25 E         22.16   110.80
+                                              GYMBO       
+ 3973057    5  Selecta Adult Activ Vnl245mL24 06/03/25 F         34.95   174.75
+                                              DAO         
+ 3973059   11  Selecta Adult Activ Vnla 1L 12 04/19/29 D        115.60  1271.60
+                                              ASDPO       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,134.41
+                                                       Rundate 06/19/2025  08:41:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

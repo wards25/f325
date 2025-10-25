@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711222500099
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - Maris I. Teodosio on 02/15/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12 10/22/26 D         44.25    44.25
+                                              0185        
+ 3723588    4  Fiesta SpagheTpd Swt SP18   12 02/01/25 E         68.37   273.48
+                                              56e1        
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          317.73
+                                                       Rundate 02/15/2025  16:39:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

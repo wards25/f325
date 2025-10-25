@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102332401053
+                                                            Branch - 233 Pavilion Mall Binan(MDC PAVILION MALL-BI¥AN DISTRICT27)
+                                                            Prepared by - hansMarticio on 10/04/2024
+                                                            Issued by - ________________________________
+                                                                         MR. ERICSON SALANDANAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009364    1  Ladys C Ham Sprd 220mL      24 11/01/24 E        122.60   122.60
+                                              234513      
+ 1009562   10  Ladys C Mynaise 220mL       24 11/18/24 E        112.05  1120.50
+                                              240421      
+ 3050013    6  Surf FabCond MgicalBlm 25mL360 11/30/25 D          5.19    31.14
+                                              25648       
+ 3870023    1  Creamsilk Cond Dam Ctrl11mL288 12/30/25 D          5.93     5.93
+                                              15454       
+ 3870131    2  Dove Sh BK Strgt&Slky 10mL 288 12/30/52 D          5.59    11.18
+                                              5498        
+ 3870327    1  Sunsilk SH Sakura&Rbrry11mL288 12/30/24 D          5.44     5.44
+                                              2656        
+ 3980773    1  Dove Deo-Lot UltRepFLily3mL360 01/20/25 D          8.09     8.09
+                                              1545        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,304.88
+                                                       Rundate 10/07/2024  11:29:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110182402026
+                                                            Branch - 1018 Valenzuela City Malanday One Zentrum Place(1018 )
+                                                            Prepared by - ELOISA B. CALIXTO on 12/21/2024
+                                                            Issued by - ________________________________
+                                                                         MS. EMILINDA DILLENA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723386    4  Rite'n Lite Lem Lime Dr250mL24 07/24/25 D         20.25    81.00
+                                              SF4         
+ 3723389    3  Energen Mlk&Cer Dr Vnla 40g240 04/27/25 D          7.01    21.03
+                                              20374       
+ 3723588    1  Fiesta SpagheTpd Swt SP18   12 10/13/25 D         68.37    68.37
+                                              .           
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 12/14/25 D          6.80     6.80
+                                              40471       
+ 4136022   79  Kopiko L.A. Coffee 25g     240 01/13/25 E          7.40   584.60
+                                              0756TGR     
+ 4136024    1  Kopiko Blanca Coff 30g     240 08/28/25 D          7.78     7.78
+                                              003         
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 07/17/25 D         20.25    20.25
+                                              SF4         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          789.83
+                                                       Rundate 12/21/2024  14:48:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

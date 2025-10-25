@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730842500030
+                                                            Branch - 3084 Pangasinan San Carlos City Magic Mall(MD-3084 SAN CARLOS MAGIC MALL PANGASINAN)
+                                                            Prepared by - F.PARAYNO/J.AMPO/J.VINLUAN on 02/05/2025
+                                                            Issued by - ________________________________
+                                                                         MR.ALMAR N. DE VERA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165713   21  Magnol Chzee Sprd Pmto 120g 24 12/25/24 F         48.02  1008.42
+                                              1           
+ 3723398    3  Entrasol Pltnm Ad PdrChoc600g3 02/11/25 F        906.80  2720.40
+                                              1           
+ 3723402    3  Entrasol Pltnm Ad PdrVnla600g3 12/12/24 F        906.80  2720.40
+                                              1           
+ 3723659    2  Kwik Mosquito Killer WB 300mL6 02/01/25 F        134.04   268.08
+                                              1           
+ 3723668    6  Solbac Disinf Spr Ctrs&G300g 6 01/31/25 F        199.36  1196.16
+                                              1           
+ 3780426    1  Diabetasol Cappuccino 180g   3 11/24/25 F        292.10   292.10
+                                              1           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,205.56
+                                                       Rundate 02/05/2025  15:42:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

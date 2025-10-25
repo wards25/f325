@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730612500151
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B. MEDRANO on 07/24/2025
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   31  Magnol Daily Quezo 160g     48 07/08/25 F         33.27  1031.37
+                                              50208BCA69  
+ 1165709    8  Magnol Chzee Sprd Pln 120g  24 04/26/25 F         45.25   362.00
+                                              40928TCB15  
+ 4100002   11  Kettle Korn Cheese 120g     30 07/10/25 F         39.74   437.14
+                                              M3          
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 07/12/25 F         39.74    39.74
+                                              M1          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,870.25
+                                                       Rundate 07/24/2025  11:35:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

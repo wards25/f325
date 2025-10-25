@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102542401012
+                                                            Branch - 254 M PT EDSA TF(PASAY CITY METRO POINT MALL )
+                                                            Prepared by - JOAN NUDALO on 08/22/2024
+                                                            Issued by - ________________________________
+                                                                         MR. WILMER DELA CRUZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4014031   11  Nestle Chuckie Cal-N 180mL  32 04/30/25 D         21.73   239.03
+                                              41640189fd  
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 03/31/25 D         11.80    11.80
+                                              40710597ui  
+ 4530032    2  Nan Al 110 Lacto Free 400g   4 09/30/24 E        976.64  1953.28
+                                              30690346aa  
+ 4530037    2  Pre Nan Inf Fmla 0-12M 400g  4 12/31/24 E        887.85  1775.70
+                                              23370346ac  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,979.81
+                                                       Rundate 08/22/2024  14:49:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

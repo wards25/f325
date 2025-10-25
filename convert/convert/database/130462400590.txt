@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130462400590
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE DCN)
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 10/30/2024
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016253    2  Century Flakes Cldrta Jr155g50 12/04/25 D         31.80    63.60
+                                              C106B       
+ 1016287    1  555 Tuna Flakes Afritada155g50 06/14/27 D         26.68    26.68
+                                              2325        
+ 1191019    1  Hunts Pork&Beans Can 175g   48 08/15/25 D         22.38    22.38
+                                              HPB05       
+ 1210416    1  Argentina CBeef 260g        48 10/02/26 D         53.81    53.81
+                                              ACB121      
+ 1210484    4  Argentina Fsta Ssge 175g    48 07/26/25 D         27.14   108.56
+                                              AFS09       
+ 1210486    1  Argentina CBeef Jr 150g     48 11/30/26 D         33.57    33.57
+                                              AKBI30      
+ 1210487    2  Argentina Meat Loaf 100g    48 12/02/26 D         16.43    32.86
+                                              AML54       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          341.46
+                                                       Rundate 10/30/2024  17:06:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

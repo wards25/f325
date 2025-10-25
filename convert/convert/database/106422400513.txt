@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106422400513
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN ANGULO/EVITA B. BUENO on 11/27/2024
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615275    1  San Mig Coff3N1SF OTPck7g10 30          D         59.85    59.85
+                                              0           
+ 3615288    1  San Mig Coff3N1SFOrig7g10x2 15          D        117.49   117.49
+                                              0           
+ 3969082    1  Bubble Man DLiq ABac880mLx2 10          D        116.82   116.82
+                                              0           
+ 4510195    5  Nachitos TortillaChipBbq410g10 09/17/24 F        113.90   569.50
+                                              A15         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          863.66
+                                                       Rundate 11/27/2024  16:04:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

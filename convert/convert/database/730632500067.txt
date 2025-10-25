@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730632500067
+                                                            Branch - 3063 Tarlac Concepcion Waltermart(Concepcion Tarlac EXPIRING/EXPIRED)
+                                                            Prepared by - JAN KYLA MAE D. YSAIS on 10/09/2025
+                                                            Issued by - ________________________________
+                                                                         ROY V. MACARAIG
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574   12  Kitkat 4F 35g               24 09/17/25 F         29.27   351.24
+                                              42619531    
+ 1167452    2  Nestle Chuckie Cal-N 250mL  24 09/30/25 F         28.08    56.16
+                                              4335364382  
+ 4025219    1  Nescafe 3n1 Orig TwinPck40g200 12/31/25 E         13.32    13.32
+                                              43390601    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          420.72
+                                                       Rundate 10/09/2025  10:01:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

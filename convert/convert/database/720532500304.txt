@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720532500304
+                                                            Branch - 2053 Kapatagan Poblacion(2053 LDN KAPATAGAN POBLACION LANAO DEL NORTE)
+                                                            Prepared by - JULIUS R. MERAMBEL on 08/02/2025
+                                                            Issued by - ________________________________
+                                                                         JONA R. ANDALES
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050005    3  Surf Pdr SFrsh 57g         288 05/25/26 D          6.13    18.39
+                                              L5          
+ 3050066    1  Surf FabCond MintExtrct25mL360 10/23/25 D          5.19     5.19
+                                              1S5         
+ 3870023    4  Creamsilk Cond Dam Ctrl11mL288 11/08/25 D          5.93    23.72
+                                              2124        
+ 5800034   78  Lifebuoy Soap T10AntiBac60g144 08/30/25 E         14.55  1134.90
+                                              090223      
+ 6200063    3  Dove Sh BK StrtSlk340mL50%2nd6 08/26/25 E        414.93  1244.79
+                                              003232      
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288 10/18/25 D          5.88     5.88
+                                              6022        
+ 6200231    1  Surf Pdr Tawas 57g         288 04/10/26 D          6.13     6.13
+                                              2A15        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,439.00
+                                                       Rundate 08/02/2025  20:28:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

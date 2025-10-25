@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706062500169
+                                                            Branch - 606 Batac City Washington(BATAC WASHINGTON )
+                                                            Prepared by - GRAMOS/CSACLAYAN on 05/05/2025
+                                                            Issued by - ________________________________
+                                                                         CHERYLL LEI B. CATOR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723528    9  UFC Young Corn Cuts 425g    24 01/12/25 F         49.88   448.92
+                                              TBCCE104    
+ 3723536    4  UFC Green Peas 400g         24 02/20/25 F         33.96   135.84
+                                              801         
+ 3748506    1  Gerber 1st Banana 80g        6 04/26/26 D         75.55    75.55
+                                              41176376    
+ 4100002    1  Kettle Korn Cheese 120g     30 07/21/25 D         39.74    39.74
+                                              ML          
+ 4100010    1  Kettle KornCheese120gx2SP10 16 05/08/25 D         62.43    62.43
+                                              M3          
+ 4113096    7  Magnol Sandwich Sprd 80mL   24 04/03/25 F         28.28   197.96
+                                              40607CB229  
+ 4510220    2  Diabetasol Crmy Almnd 180g   3 04/05/25 F        328.00   656.00
+                                              2360501IU   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,616.44
+                                                       Rundate 05/05/2025  14:18:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

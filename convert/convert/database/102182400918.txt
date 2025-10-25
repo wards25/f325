@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102182400918
+                                                            Branch - 218 Makati City AP Reyes(216Huseng Batute cor.A.P.Reyes y)
+                                                            Prepared by - DONA N. GARCES on 11/15/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Irma J. Abadia
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    1  Nestle KKrunch SPck 80g     24          D         47.08    47.08
+                                              NL          
+ 3760013    1  Nescafe Clssc Sulit Pck 10g 80          D          9.52     9.52
+                                              NL          
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         12.37    12.37
+                                              NL          
+ 4025239   40  Nestle CarnationCndnsda388mL48 12/12/24 E         64.49  2579.60
+                                              334615507   
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,648.57
+                                                       Rundate 11/16/2024  14:18:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

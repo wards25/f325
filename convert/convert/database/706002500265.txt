@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706002500265
+                                                            Branch - 600 Balanga City Paterno(BALANGA PATERNO )
+                                                            Prepared by - SHAIRA MAE J. MANUEL on 10/14/2025
+                                                            Issued by - ________________________________
+                                                                         MS.NORENE C AUDITOR
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109346   16  Nescafe Clssc Ref 40g       60          D         50.43   806.88
+                                              0           
+ 3748503    3  Nestle KKrunch SPck 80g     24          D         48.18   144.54
+                                              0           
+ 4530000   24  Starbucks Latte DShtEsp220mL24 10/09/25 E         76.00  1824.00
+                                              0           
+ 4530049   19  Nescafe Cappuccino Can 220mL24 10/26/25 E         34.62   657.78
+                                              0           
+ 4530059  140  Milo Activ-Go PdrZeroSgr26g140 01/31/26 E         14.68  2055.20
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,488.40
+                                                       Rundate 10/14/2025  13:10:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

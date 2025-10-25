@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700472500553
+                                                            Branch - 47 Kawit Binakayan(47- KAWIT BINAKAYAN yy)
+                                                            Prepared by - MS. ROSARIO D. QUINTO on 09/11/2025
+                                                            Issued by - ________________________________
+                                                                         MR. JOSELITO C. DIOKNO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016294    2  555 Tuna Flakes Hot&Sp 155g 50 04/20/26 D         30.18    60.36
+                                              0           
+ 1016352    1  Fresca Tuna Afrtda 175g     48 06/30/28 D         24.48    24.48
+                                              0           
+ 1191019    1  Hunts Pork&Beans Can 175g   48 06/30/28 D         22.38    22.38
+                                              0           
+ 1210417    2  555 Carne Norte 150g        48 04/30/26 D         28.10    56.20
+                                              0           
+ 3048405    1  555 Sardines TS Hot 155g   100 03/14/27 D         22.14    22.14
+                                              +0          
+ 3048430    1  555 Sardines Oil Spnish155g100 05/30/27 D         30.16    30.16
+                                              0           
+ 3793349    1  555 Tuna Spcy Paksiw 155g   50 06/30/27 D         26.68    26.68
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          242.40
+                                                       Rundate 09/11/2025  15:10:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

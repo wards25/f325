@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730332500016
+                                                            Branch - 3033 Solano Quirino(BRGY QUIRINO SOLANO NUEVA VIZCAYA)
+                                                            Prepared by - DIANA MAE P. JUAN on 02/07/2025
+                                                            Issued by - ________________________________
+                                                                         MA. CRISTINA M. UBIDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870227    2  Creamsilk CondTKR UCR 10mL 288          D          6.66    13.32
+                                              .           
+ 3870311    2  Creamsilk Cond HFallDef180mL24 04/03/26 D        128.33   256.66
+                                              16102343    
+ 3870315    7  Creamsilk Cond TKR UR&S170mL24 11/17/24 F        180.22  1261.54
+                                              0106222     
+ 5800328   12  Ladys C Sandw Sprd 80mL     36 01/02/25 F         31.55   378.60
+                                              240211      
+ 6200003    1  Creamsilk Cond Dam Ctrl180mL24 12/22/26 D        128.33   128.33
+                                              05072441    
+ 6200013    1  Dove Sh DC Sthng Moist 150mL24 08/23/24 F        182.62   182.62
+                                              2302222     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,221.07
+                                                       Rundate 02/07/2025  10:19:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

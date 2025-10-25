@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730552500681
+                                                            Branch - 3055 Ilocos Sur Narvacan Poblacion(Sta Lucia, Narvacan, I.S. )
+                                                            Prepared by - JLCPAISTE/PVTRAFANAN on 07/28/2025
+                                                            Issued by - ________________________________
+                                                                         FATIMA G. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4066024   19  Kitkat 2F 17gx6 FPck        48 06/12/25 E         89.77  1705.63
+                                              .           
+ 4530003   11  Kitkat Santa 29gx3          44 07/31/25 E        122.73  1350.03
+                                              .           
+ 4530039    1  Milo Bfst Cer Ch&MBalls 20g120 06/03/25 F         13.64    13.64
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,069.30
+                                                       Rundate 07/28/2025  13:58:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

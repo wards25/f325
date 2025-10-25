@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272402084
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 10/27/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103169    3  Del M Pine Jce Swtnd 220mL  24 07/01/26 D         28.56    85.68
+                                              L4211SPRL92 
+ 1103188    1  Del M Spag Sce ItalStyle250g24 11/05/25 D         35.00    35.00
+                                              4187INL01   
+ 4103089   10  Del M Spag Sce Fil Style900g12 11/10/24 E         86.75   867.50
+                                              33141NP09   
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          988.18
+                                                       Rundate 10/27/2024  11:47:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

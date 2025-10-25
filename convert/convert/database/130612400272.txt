@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130612400272
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - PATRICIA SHAINNE C. AMUYOT on 07/26/2024
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016285    1  555 Tuna Flakes Adobo 155g  50 01/21/24 D         27.48    27.48
+                                              AD5SHE      
+ 1016287    2  555 Tuna Flakes Afritada155g50 06/22/26 D         26.68    53.36
+                                              23513       
+ 1016294    1  555 Tuna Flakes Hot&Sp 155g 50 08/17/25 D         30.18    30.18
+                                              0923G       
+ 1016298    4  555 Tuna Flakes Mchado 155g 50 10/22/25 D         26.68   106.72
+                                              1641G       
+ 1016352    1  Fresca Tuna Afrtda 175g     48 11/23/25 D         24.48    24.48
+                                              05153       
+ 1016358    1  Fresca Tuna Mchdo 175g      48 11/03/25 D         24.48    24.48
+                                              04343       
+ 3048433    1  555 Sardine Frd H&Spcy 155g100 08/13/23 D         33.73    33.73
+                                              0880        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          300.43
+                                                       Rundate 07/26/2024  10:33:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

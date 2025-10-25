@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106432400116
+                                                            Branch - 643 Dagupan City Perez Blvd.(PEREZ BLVD )
+                                                            Prepared by - J.Pingol/E.C/AW.B/RK.J. on 03/25/2024
+                                                            Issued by - ________________________________
+                                                                         Richard C. Samson
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    6  Selecta Forti Mlk LowFat 1L 12 03/21/24 F         91.92   551.52
+                                              .           
+ 3623294    2  Pacifica Prune Jce100% 946mL12 03/21/24 F        296.10   592.20
+                                              .           
+ 4100002    1  Kettle Korn Cheese 120g     30 11/30/23 F         36.25    36.25
+                                              .           
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 03/28/24 E         36.25    36.25
+                                              .           
+ 4100010    1  Kettle KornCheese120gx2SP10 16 03/18/24 F         62.43    62.43
+                                              .           
+ 4136050    1  Milna Bb Bsct Bnana 130g     6 01/22/24 F         65.45    65.45
+                                              .           
+ 4136052    1  Milna Bb Bsct Orig 130g      6 03/12/24 F         65.45    65.45
+                                              22W12S      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,409.55
+                                                       Rundate 03/26/2024  14:03:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

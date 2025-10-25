@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101632400597
+                                                            Branch - 163 Hagonoy Poblacion(STO. NI¥O HAGONOY BULACAN )
+                                                            Prepared by - chester dino on 07/07/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CINDY GOLONDRINA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    1  Selecta Moo Choc 245mL      24 12/11/24 D         28.36    28.36
+                                              dao         
+ 1149115    1  WhiteKing HotCake&WafMix400g24 07/18/24 E         56.36    56.36
+                                              10657180723 
+ 3723570    1  Naturelab AlcSprFrtySlsh50mL12 02/06/26 D         44.25    44.25
+                                              0006        
+ 3723587    6  Fiesta SpagheTpd 3ChseSP18  12 07/31/24 E         68.76   412.56
+                                              123         
+ 3973030    1  Selecta FortiMlkStrlzed245mL24 12/11/24 D         22.16    22.16
+                                              dao         
+ 4510157    1  Seoul Wh K Sscrn B&E S50 7mL10 04/21/25 D         79.20    79.20
+                                              001         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          642.89
+                                                       Rundate 07/07/2024  13:41:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

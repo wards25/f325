@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701632500015
+                                                            Branch - 163 Hagonoy Poblacion(STO. NI¥O HAGONOY BULACAN )
+                                                            Prepared by - Chester Dino on 01/05/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CINDY GOLONDRINA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035680    1  Ligo Sard In TS 155g       100 02/17/27 D         23.79    23.79
+                                              207         
+ 1035690    1  Ligo Sard In TS Chili 155g 100 04/08/27 D         23.98    23.98
+                                              477         
+ 3048405    1  555 Sardines TS Hot 155g   100 07/14/26 D         23.09    23.09
+                                              475         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           70.86
+                                                       Rundate 01/05/2025  13:31:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730072500432
+                                                            Branch - 3007 Vigan City Puregold(STA ELENA VIGAN CITY )
+                                                            Prepared by - Melanie R. Rapanut on 07/10/2025
+                                                            Issued by - ________________________________
+                                                                         Vanessa A. Alconcel
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12          D         97.19    97.19
+                                              *           
+ 3707335   23  Kitkat Bites 40g            30 05/10/25 F         53.40  1228.20
+                                              *           
+ 4025219   14  Nescafe 3n1 Orig TwinPck56g200          D         13.32   186.48
+                                              *           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200          D         13.32    13.32
+                                              *           
+ 4530053    5  Nescafe Mocha Can 220mL     24 07/24/25 E         34.62   173.10
+                                              *           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,698.29
+                                                       Rundate 07/10/2025  13:26:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

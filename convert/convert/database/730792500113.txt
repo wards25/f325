@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500113
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY ilocos sur)
+                                                            Prepared by - Christopher A. Padua on 03/29/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615297    1  Essenso 3n1CoffMicrogrnd25g192 07/03/25 D         17.62    17.62
+                                              .           
+ 3615307    1  San Mig Coff 3n1 SF Strng7g300 05/20/26 D          7.45     7.45
+                                              229         
+ 3723576    2  Naturelab FragBMistLLem100mL 6 09/28/24 F         55.88   111.76
+                                              TPH1D13     
+ 3723580    4  Naturelab FragBMistTrop100mL 6 02/02/25 F        111.75   447.00
+                                              TPM1D11     
+ 3723582    4  Naturelab FragBMistWint100mL 6 01/16/25 F         55.88   223.52
+                                              TPH1012     
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10 01/29/25 F        117.39   117.39
+                                              505A        
+ 3723657    5  Kwik Cockroach Killer 300mL  6          D        134.04   670.20
+                                              02042001    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,594.94
+                                                       Rundate 03/29/2025  15:49:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

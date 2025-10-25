@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121402400336
+                                                            Branch - 2140 BOHOL TALIBON SAN JOSE(TALIBON )
+                                                            Prepared by - ARIEL A SALINGAY on 12/04/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MARIE KHRIS M. LIMOCON
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050023    4  Baby Dove Bb Lot 200mL       6 12/03/24 E        274.84  1099.36
+                                              12892       
+ 3980117   32  Eskinol Mild Teens FDC 225mL 6 01/06/25 E        114.42  3661.44
+                                              220122122   
+ 5800321    2  Ladys C Chck Sprd 220mL     12 06/15/25 D        122.60   245.20
+                                              242533      
+ 6200028    9  Rexona Deo Pdr Aloe UA&F+80g24 01/31/25 E         87.96   791.64
+                                              02          
+ 6200031    9  Rexona Deo PdrPprmntUA&F+80g24 12/31/24 E         87.96   791.64
+                                              26          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,589.28
+                                                       Rundate 12/04/2024  16:58:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 731002500011
+                                                            Branch - 3100 Tarlac La Paz Public Market( )
+                                                            Prepared by - Ms. Marie Lynette R. Rufino on 01/09/2025
+                                                            Issued by - ________________________________
+                                                                         Mr.Marciano A. Paguio Jr.
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304   11  Sunkist Frt Dr Mgo 235mL    24 01/15/25 E         20.05   220.55
+                                              D1V1TO      
+ 1147308    8  Sunkist Frt Dr Or 235mL     24 01/16/25 E         19.03   152.24
+                                              E1V1TO      
+ 3723343   23  Cal Cheese Chse Wfer 48g    60 12/18/24 F         13.01   299.23
+                                              1036SD201205
+ 3973031    3  Selecta Forti Mlk Strlzed 1L12 01/11/25 E         80.88   242.64
+                                              DK5BM0      
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 12/01/24 F         39.74    39.74
+                                              M4          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          954.40
+                                                       Rundate 01/09/2025  17:16:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

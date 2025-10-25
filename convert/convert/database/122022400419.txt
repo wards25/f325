@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 122022400419
+                                                            Branch - 2202 Cotabato Pigcawayan Poblacion(Cotabato Pigcawayan Poblacion )
+                                                            Prepared by - Hermie D. Delostrico on 09/30/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Angelo B. Gelay
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723398    1  Entrasol Pltnm Ad PdrChoc600g3 12/31/24 E        906.80   906.80
+                                              23T0501GU   
+ 3723400    1  Entrasol Pltnm Ad PdrVnla200g3 11/30/24 E        352.60   352.60
+                                              23S1901GU   
+ 3780421    1  Diabetasol Choc 600g         3 11/13/24 E        883.20   883.20
+                                              23P1304GU   
+ 3780422    2  Diabetasol Swtnr 75g         3 11/24/24 E        159.20   318.40
+                                              23P24J24N1  
+ 3780522    1  Diabetasol Choc 600g PPck    3 10/31/24 E        883.20   883.20
+                                              23N1203GU   
+ 3900045    1  Diabetasol Vnla Can 800g     3 11/23/25 D       1274.20  1274.20
+                                              23Y2301H1U  
+ 4510153    3  Rite'n Lite Lych+Rse Dr250mL24 04/14/25 D         22.13    66.39
+                                              001110415   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,684.79
+                                                       Rundate 09/30/2024  11:29:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

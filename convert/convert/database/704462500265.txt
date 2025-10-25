@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704462500265
+                                                            Branch - 446 ALBY LGP C WASH DR(WASHINGTON DRIVE LEGASPI CITY )
+                                                            Prepared by - EDWIN J.CLETE on 09/19/2025
+                                                            Issued by - ________________________________
+                                                                         ARMIE A. ESPINAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO LOGISTICS INC (79445  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 5800161    1  Baby Dove BbWshRM430mLx2R30% 6          G        342.71   342.71
+                                              0           
+ 5800163    3  Baby Dove BbWshSM430mLx2R30% 6 09/07/25 E        410.08  1230.24
+                                              0           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,572.95
+                                                       Rundate 09/19/2025  11:36:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted

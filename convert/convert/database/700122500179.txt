@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700122500179
+                                                            Branch - 12 Quezon City Cubao Pinatubo(12 CUBAO PINATUBO )
+                                                            Prepared by - jenalyn on 03/22/2025
+                                                            Issued by - ________________________________
+                                                                         MS CELESTE A. ENRIQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870033    1  Creamsilk Cond HFallDef11mL288          D          5.93     5.93
+                                              nolot       
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              nolot       
+ 3870115    3  Dove Sh Biotin HFall 10mL  288          D          5.15    15.45
+                                              nolot       
+ 3870124    2  Dove Sh Rstre Nrshng Cr10mL288          D          5.15    10.30
+                                              nolot       
+ 3870137    1  Sunsilk Sh D-R30%More13mL  288          D          5.68     5.68
+                                              nolot       
+ 3870143   61  Sunsilk Sh S&M30%More13mL  288          D          5.68   346.48
+                                              nolot       
+ 3870227    1  Creamsilk CondTKR UCR 10mL 288          D          6.66     6.66
+                                              nolot       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          397.16
+                                                       Rundate 03/22/2025  14:25:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730182500201
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL A. MARTIN on 07/14/2025
+                                                            Issued by - ________________________________
+                                                                         MARIA SARA E. SALAMERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584    5  Fiesta Fil SpagTpd1.6kgSP30 10 04/22/25 F        109.48   547.40
+                                              56c1        
+ 3723587    2  Fiesta SpagheTpd 3ChseSP18  12 05/11/25 F         68.76   137.52
+                                              56b1        
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          684.92
+                                                       Rundate 07/14/2025  08:53:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

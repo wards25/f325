@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130832400369
+                                                            Branch - 3083 Nueva Ecija Bongabon Poblacion(Bongabon, N.E )
+                                                            Prepared by - REYMARK H. GARCIA on 09/17/2024
+                                                            Issued by - ________________________________
+                                                                         AVENSUS GEORGE A. DE DIOS
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210406    9  Argentina Meat Loaf 250g    48 08/05/24 F         30.95   278.55
+                                              AML19       
+ 1210411   10  Argentina Bf Loaf 250g      48 07/29/24 F         29.05   290.50
+                                              ABL24       
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          569.05
+                                                       Rundate 09/17/2024  15:50:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

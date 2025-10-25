@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130772400266
+                                                            Branch - 3077 Pampanga Sta. Ana San Joaquin Jasa(MD3077 PAMPANGA STA.ANA SAN JO AQUIN JASA)
+                                                            Prepared by - JOANNE CARLA VELASQUEZ on 07/03/2024
+                                                            Issued by - ________________________________
+                                                                         NORMAN A. URBANO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016231    2  Century Flakes Hot&Spicy180g48 03/09/24 F         43.31    86.62
+                                              A           
+ 1016360   15  Century Tuna W/Cal 180g     48 03/08/24 F         40.35   605.25
+                                              A           
+ 1016370   18  Century Chili Crnd Tuna 180g4  03/31/24 F         38.01   684.18
+                                              A           
+ 1016371   21  Century Crnd Tuna 180g      48 03/31/24 F         38.01   798.21
+                                              A           
+ 1210407   14  Argentina Meat Loaf 170g    48 06/24/24 F         18.86   264.04
+                                              A           
+ 1210409   24  Argentina Bf Loaf 170g      48 06/22/24 F         18.76   450.24
+                                              A           
+ 1210417   26  555 Carne Norte 150g        48 06/15/24 F         27.62   718.12
+                                              A           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,606.66
+                                                       Rundate 07/03/2024  11:26:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

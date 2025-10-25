@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706322500194
+                                                            Branch - 632 Tayug Quezon( )
+                                                            Prepared by - METCH V. SUNICO on 03/22/2025
+                                                            Issued by - ________________________________
+                                                                         LIZA B DOLLENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12          D         97.19    97.19
+                                              578         
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32          D         23.09    23.09
+                                              5484        
+ 4025032    3  Nestle Coffeemate 400g      24          D        109.57   328.71
+                                              4878        
+ 4025219    4  Nescafe 3n1 Orig TwinPck56g200          D         13.32    53.28
+                                              8787        
+ 4530051    1  Nescafe Ice Blk Can 220mL   24 03/27/25 E         34.62    34.62
+                                              1930        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          536.89
+                                                       Rundate 03/22/2025  13:19:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

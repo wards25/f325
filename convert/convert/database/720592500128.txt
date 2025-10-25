@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720592500128
+                                                            Branch - 2059 CBU MDE C MGUIKY(MAGUIKAY MANDAUE CITY CEBU )
+                                                            Prepared by - MARIBETH A. ARMILLA on 08/16/2025
+                                                            Issued by - ________________________________
+                                                                         JOLLIBEE A. BERECIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025099   20  Nestle KKrunch 35g          72 08/18/25 E         16.36   327.20
+                                              42310630B1E2
+ 4530010   56  Nescafe Gold 2g            800 08/16/25 E          7.52   421.12
+                                              40483404    
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          748.32
+                                                       Rundate 08/16/2025  18:51:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730242500133
+                                                            Branch - 3024 Bacnotan McArthur Hway(NISCE BLDG MCARTHUR HIGHWAY NAGSIMBAANAN BACNOTAN LU)
+                                                            Prepared by - AIZA R. MATIENZO on 03/25/2025
+                                                            Issued by - ________________________________
+                                                                         ERIC C. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    9  Nescafe Clssc Ref 23g       60 04/30/25 E         23.79   214.11
+                                              .           
+ 3748436    1  Nestea Lem ITea 25g        144 09/30/25 D         18.57    18.57
+                                              .           
+ 3760013   11  Nescafe Clssc Sulit Pck 10g 80 04/30/25 E          9.52   104.72
+                                              .           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              .           
+ 4530010  138  Nescafe Gold 2g            800 04/15/25 E          7.52  1037.76
+                                              .           
+ 4530039   56  Milo Bfst Cer Ch&MBalls 20g120 04/20/25 E         13.64   763.84
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,152.32
+                                                       Rundate 03/25/2025  11:11:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

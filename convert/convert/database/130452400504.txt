@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130452400504
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - VENUS O. RUIZ on 07/14/2024
+                                                            Issued by - ________________________________
+                                                                         DINO N. NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961   36  Del M Fit N RghtBurnApl330mL24 06/27/24 E         30.80  1108.80
+                                              .           
+ 1104045    2  Del M Pine Jce Sbrry Tetra1L12 06/29/24 E         87.31   174.62
+                                              .           
+ 3207787    7  Lipton Tea Yel Label 50     12 07/24/24 D        225.69  1579.83
+                                              .           
+ 3254310    1  UFC Bnana Csup Reg 320g     24 06/28/24 E         23.40    23.40
+                                              .           
+ 3254315    4  UFC Bnana Csup Reg 530g     18 06/28/24 E         40.38   161.52
+                                              .           
+ 3623279    4  Apple&E 100%Jce ApNoSgar1.89L8 07/24/24 D        305.10  1220.40
+                                              .           
+ 3723344   10  Malkist ChocCrkrSandW18gx10 30          D         51.43   514.30
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,782.87
+                                                       Rundate 07/14/2024  18:23:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

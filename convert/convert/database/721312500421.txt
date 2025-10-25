@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721312500421
+                                                            Branch - 2131 LAN DEL NOR TUBOD POB(A & A BLDG.P6A TCES NATIONAL H yGHWAY POB.TUBOD LDN)
+                                                            Prepared by - BEATTE YCIEL B. OBIANDA on 10/09/2025
+                                                            Issued by - ________________________________
+                                                                         FE P HISULER
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 01/31/26 D        102.06   102.06
+                                              50610189YD  
+ 1167931    3  Bear Br Strlzed RTD 200mL   32 02/28/26 D         26.42    79.26
+                                              51500189TD  
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32 02/28/26 D         23.09    23.09
+                                              51150189FE  
+ 3748417    1  Bear Br Strlzedw/GnkgoB200mL32 03/05/26 D         26.42    26.42
+                                              51590189UD  
+ 3760009    4  Nido NutriSnaxBnna-Crot110mL60 12/31/25 D         17.76    71.04
+                                              50130189GD  
+ 3760011    2  Nido NutriSnaxSbry-Crot110mL60 12/31/25 D         17.76    35.52
+                                              50120189GD  
+ 4025096    2  Milo Activ-Go RTD 110mL     60 03/31/26 D         14.61    29.22
+                                              51450189GD  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          366.61
+                                                       Rundate 10/11/2025  12:32:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

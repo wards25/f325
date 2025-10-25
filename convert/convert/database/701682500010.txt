@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701682500010
+                                                            Branch - 168 San Miguel Poblacion(SAN JOSE SAN MIGUEL BULACAN )
+                                                            Prepared by - CECI/IMEE/MAY on 01/20/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CARLA C. ANGELES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147308    8  Sunkist Frt Dr Or 235mL     24 01/16/25 E         19.03   152.24
+                                              A1S2T0      
+ 1147360    5  Selecta Moo Choc 245mL      24 01/09/25 E         28.36   141.80
+                                              C4MB0       
+ 3465859   12  Magnol Low Fat Mlk 1L       12 02/01/25 E         96.08  1152.96
+                                              40606G101A  
+ 3695262   32  Magnol Panck+W/Sbrry Syr200g48 02/21/25 E         32.77  1048.64
+                                              406261C366  
+ 3723623    4  Natrue Oat Dr 1L             6 12/22/24 E        126.65   506.60
+                                              L5152       
+ 4100002   12  Kettle Korn Cheese 120g     30 12/08/24 E         39.74   476.88
+                                              MLM3        
+ 4100005   27  Kettle Korn Sltd Crmel 120g 30 10/22/24 E         39.74  1072.98
+                                              MLM3        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,552.10
+                                                       Rundate 01/20/2025  12:24:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

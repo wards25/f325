@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107232400585
+                                                            Branch - 723 TNDG NTL R(TANDAG NATIONAL ROAD )
+                                                            Prepared by - CHERRYL V. DELA CALSADA on 08/17/2024
+                                                            Issued by - ________________________________
+                                                                         MA.BETH C. PASAYLO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    1  Nestle KKrunch SPck 80g     24 03/15/25 D         47.08    47.08
+                                              40750631CD  
+ 4025037    2  Nescafe 3n1 CrmyLatte27.5g 240 10/31/24 E          8.20    16.40
+                                              32888985A1  
+ 4025056   60  Nescafe Crmy Wh 25.5g      240 08/31/24 E          8.20   492.00
+                                              32418985A1  
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 04/30/25 D         11.80    23.60
+                                              4109062S1E  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          579.08
+                                                       Rundate 08/17/2024  20:44:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

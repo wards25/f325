@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730752500288
+                                                            Branch - 3075 Bataan Orion Poblacion(BATAAN ORION POBLACION )
+                                                            Prepared by - JOFIAH P. ANTONIO on 07/02/2025
+                                                            Issued by - ________________________________
+                                                                         PAOLO C. CANDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109325    3  Nescafe Clssc Ref 92g       30 04/30/25 F         91.46   274.38
+                                              E           
+ 1109346   29  Nescafe Clssc Ref 46g       60 07/31/25 F         46.62  1351.98
+                                              E           
+ 3760009   48  Nido NutriSnaxBnna-Crot110mL60 08/31/25 E         17.76   852.48
+                                              E           
+ 4025032   13  Nestle Coffeemate 400g      24 08/31/25 E        109.57  1424.41
+                                              E           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,903.25
+                                                       Rundate 07/02/2025  08:59:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

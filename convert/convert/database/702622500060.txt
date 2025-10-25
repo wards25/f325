@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702622500060
+                                                            Branch - 262 Manila Sta. Ana Augusto Francisco(Sta Ana Augusto Francisco )
+                                                            Prepared by - Jena de Castro on 03/08/2025
+                                                            Issued by - ________________________________
+                                                                         Lorgelyn Balon
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3980358    5  Ponds Age Mrcle DbleA Ser30mL3 07/19/25 E        653.66  3268.30
+                                              B05         
+ 6200127    1  Breeze Pdr Det RsGldP64g6+1 24          D         73.21    73.21
+                                              XX          
+ 6200296    1  Breeze Liq Det 64g 6+1      16          D         72.32    72.32
+                                              XX          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,413.83
+                                                       Rundate 03/08/2025  14:23:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

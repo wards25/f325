@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711222500297
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - Maris Teodosio on 05/17/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165712    5  Magnol Chzee Sprd Pln 480g  12 06/04/25 E        154.28   771.40
+                                              41107tcb31  
+ 3723565    1  Ginhawa Red-G Syr Sac 15mL 180 03/04/26 D          9.60     9.60
+                                              gc007       
+ 3723711    2  Malkist Crkr Bbq 28gx10     12 06/04/25 E         53.55   107.10
+                                              2024        
+ 4100002    2  Kettle Korn Cheese 120g     30 10/25/25 D         39.74    79.48
+                                              m4          
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 11/04/25 D         39.74    39.74
+                                              m1          
+ 4510058    1  Axion DLiq Kal 20mL        144          D          4.65     4.65
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,011.97
+                                                       Rundate 05/17/2025  14:05:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130792400773
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 10/13/2024
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615296    1  San Mig Coff 3n1 Crema 25g 240 05/12/26 D          6.89     6.89
+                                              182         
+ 3615299    2  San Mig Coff 3N1 Orig 20g  240 04/20/26 D          5.76    11.52
+                                              096         
+ 3723386    2  Rite'n Lite Lem Lime Dr250mL24 04/16/25 D         20.25    40.50
+                                              SBT032400111
+ 3723390    2  Energen Mlk&Cer Dr Choc 40g240 04/28/25 D          7.01    14.02
+                                              1852TGR28040
+ 3723566    1  Musli OatCrnchySbry&Almd375g14 10/14/24 E        160.65   160.65
+                                              U2300229    
+ 3723644    4  Energen Champion Choc TP30g120 06/22/25 D         14.24    56.96
+                                              1902TGR22060
+ 4136006    2  Kopiko Brn Coff 27.5g      240 10/09/24 F          6.80    13.60
+                                              0412TGR09040
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          304.14
+                                                       Rundate 10/13/2024  17:15:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

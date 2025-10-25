@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703812500226
+                                                            Branch - 381 San Pedro City Centro Pacita(SAN PEDRO CITY CENTRO PACITA )
+                                                            Prepared by - MS  MOIRA ALMAZORA on 05/13/2025
+                                                            Issued by - ________________________________
+                                                                         MS. IRENE C. DEVELA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4095040    3  Seoul Wh K Soap DbleWhtng60g12 09/30/25 E         52.00   156.00
+                                              RQ3S1483    
+ 4136063    1  Bubble Man DLiq Kal 270mL   20          D         29.01    29.01
+                                              NO LOT      
+ 4160033    1  Bubble Man DLiq Kal 270mLx2 10          D         46.26    46.26
+                                              NO LOT      
+ 4510159    1  Seoul Wh K SoapByeAcBr&Cl60g12 09/30/25 E         79.20    79.20
+                                              RT3S0346    
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          310.47
+                                                       Rundate 05/13/2025  16:48:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

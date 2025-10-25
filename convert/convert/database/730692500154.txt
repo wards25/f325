@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730692500154
+                                                            Branch - 3069 Mabalacat Great Mall( )
+                                                            Prepared by - LEONARDO B. GARCIA on 09/24/2025
+                                                            Issued by - ________________________________
+                                                                         LEONOR S. BULANADI
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3793298   39  Angel Condensada 380g       48 09/30/25 E         50.48  1968.72
+                                              C0925C7     
+ 3793335   18  Argentina CChckn 150g       48 10/04/25 E         32.86   591.48
+                                              AKR         
+ 4131034   17  Angel Creamer All Pur 370mL 24 07/31/25 F         48.43   823.31
+                                              4T2B200     
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,383.51
+                                                       Rundate 09/24/2025  10:20:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

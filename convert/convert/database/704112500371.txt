@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704112500371
+                                                            Branch - 411 Cabanatuan City Tinio(CABANATUAN GENERAL TINIO )
+                                                            Prepared by - ALYSSA V. BALAJADIA on 08/12/2025
+                                                            Issued by - ________________________________
+                                                                         JANET P. SALAMANCA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016292   12  555 Tuna Flakes Cldreta 155g50 09/04/25 E         26.68   320.16
+                                              -           
+ 1016298    7  555 Tuna Flakes Mchado 155g 50 06/30/25 E         26.68   186.76
+                                              00303       
+ 1191019   11  Hunts Pork&Beans Can 175g   48 09/11/25 E         22.38   246.18
+                                              HPB07       
+ 1210488   23  555 Carne Norte 100g        48 09/04/25 E         19.52   448.96
+                                              5C1         
+ 3793347   13  Birch Tree FortiChocoPdr29g160 07/31/25 E          8.17   106.21
+                                              0945        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,308.27
+                                                       Rundate 08/12/2025  15:33:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

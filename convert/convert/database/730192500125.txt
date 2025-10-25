@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730192500125
+                                                            Branch - 3019 Bayombong LB Perez( )
+                                                            Prepared by - ROSE ANN M. UNTALAN on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         ARNOLD C. RUIZ
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210487    2  Argentina Meat Loaf 100g    48 03/02/24 F         16.43    32.86
+                                              AMLO3       
+ 3048405    1  555 Sardines TS Hot 155g   100 05/14/26 D         22.14    22.14
+                                              CHTDDGL8COLO
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           55.00
+                                                       Rundate 08/13/2025  16:15:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

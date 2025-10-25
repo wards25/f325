@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730652500075
+                                                            Branch - 3065 Quezon Tiaong Dona Tating(QUEZON TIAONG DO¥A TATING )
+                                                            Prepared by - MYCA Z. MENDOZA on 03/10/2025
+                                                            Issued by - ________________________________
+                                                                         RHODORA G. QUITO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    4  Nestle Frsh Mlk 250mL       24 03/05/25 F         36.23   144.92
+                                              -           
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 02/28/25 F         12.37    24.74
+                                              -           
+ 4530043    1  Nestle Trix Bfast Cer 160g  18 05/10/25 D        111.82   111.82
+                                              -           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          281.48
+                                                       Rundate 03/10/2025  10:45:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

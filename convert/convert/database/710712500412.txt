@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710712500412
+                                                            Branch - 1071 Alfonso Poblacion(CAVITE ALFONSO POB BRANCH )
+                                                            Prepared by - LEE CABADIN on 10/06/2025
+                                                            Issued by - ________________________________
+                                                                         MS. GRAZEIL F. LOYOLA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4131057    6  Birch Tree AdvMch850g+VCSP80 6 07/30/25 E        890.19  5341.14
+                                              .           
+ 4131059    6  Birch Tree AdvVnl850g+VCSP80 6 10/30/25 E        890.19  5341.14
+                                              .           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       10,682.28
+                                                       Rundate 10/06/2025  14:39:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

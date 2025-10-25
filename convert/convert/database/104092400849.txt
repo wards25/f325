@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092400849
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 08/13/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413870    1  Nagaraya Crkr Nut Orig 160g 48 05/03/24 D         36.85    36.85
+                                              24769       
+ 3723286    7  Ding Dong Sup Mxd Nuts 100g 60 12/10/24 D         20.16   141.12
+                                              B5A3A       
+ 3723539    2  Jimms 3+1 CofeeMixW/Gins20g 12 01/06/24 D          6.04    12.08
+                                              4003L2      
+ 3723627    1  Jimms 5in1 Coffee Mix NSA21g20 06/01/24 D         12.33    12.33
+                                              3020L7      
+ 4136022    2  Kopiko L.A. Coffee 25g     240 01/18/25 D          7.40    14.80
+                                              1           
+ 4510197    1  Nachitos TortillaChipChs410g10 09/17/24 D        108.80   108.80
+                                              A15         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          325.98
+                                                       Rundate 08/13/2024  10:36:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

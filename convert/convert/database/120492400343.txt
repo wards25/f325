@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120492400343
+                                                            Branch - 2049 NEG OCC VICS C ACLN(2049 VICTORIAS ASCALON BRANCH )
+                                                            Prepared by - STELLA MICA DOHAYLO on 04/17/2024
+                                                            Issued by - ________________________________
+                                                                         JOHN CARLO V ESPIRITU
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104065    3  Del M Pine Jce HeartSTetra1L12 02/01/25 D        104.23   312.69
+                                              l4032       
+ 1104109    8  Del M Vinamilk IQSmrtCh110mL48 11/20/24 D         12.59   100.72
+                                              13246       
+ 1104111   10  Del M Vinamilk IQSmrtSb110mL48 12/30/24 D         12.59   125.90
+                                              356         
+ 1104115    8  Del M Vinamilk Ygrt Sb 110mL48 11/11/24 D         11.07    88.56
+                                              110124      
+ 4103090    3  Del M Spag Sce Swt Style900g12 12/30/24 D         91.93   275.79
+                                              1345        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          903.66
+                                                       Rundate 04/17/2024  20:01:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

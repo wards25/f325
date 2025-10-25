@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705242500074
+                                                            Branch - 524 OR MIN PMLYN NAUTCL HWY(Marfrancisco,Pin. Or. Mdo. )
+                                                            Prepared by - Evangeline L. Custodio on 02/03/2025
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 09/30/25 D        102.06   102.06
+                                              43350189YX  
+ 3760009   18  Nido NutriSnaxBnna-Crot110mL60 02/28/25 E         17.76   319.68
+                                              40800189LD  
+ 4025037  241  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 E          8.20  1976.20
+                                              40468985A191
+ 4025056   28  Nescafe Crmy Wh 25.5g      240 02/28/25 E          8.20   229.60
+                                              40428985A192
+ 4025177  158  Nescafe Original 26g       520 02/28/25 E          7.37  1164.46
+                                              40578985A114
+ 4530000   20  Starbucks Latte DShtEsp220mL24 02/15/25 E         76.00  1520.00
+                                              40479449AF  
+ 4530019    1  Nestle Chuckie Cal180mLx4P90 9 02/28/25 E         84.11    84.11
+                                              41170189FD  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,396.11
+                                                       Rundate 02/03/2025  18:30:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

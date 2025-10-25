@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701462500382
+                                                            Branch - 146 Manila Gagalangin Juan Luna(2668 JUAN LUNA ST. GAGALANGIN TONDO,MANILA)
+                                                            Prepared by - IRENE MERCULLO on 06/07/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RONALD C. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    2  Bear Br Strlzed RTD 1L      12 09/26/25 D         97.19   194.38
+                                              50590189YD  
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 09/15/25 D        106.43   106.43
+                                              2330042104  
+ 1167538    5  Nestle Coffeemate 5g       960 04/30/26 D          1.89     9.45
+                                              50178985E1  
+ 3748503    1  Nestle KKrunch SPck 80g     24 02/03/25 D         48.18    48.18
+                                              50340631CD  
+ 4025056    3  Nescafe Crmy Wh 25.5g      240 11/30/25 D          8.20    24.60
+                                              28985A1163  
+ 4025096    1  Milo Activ-Go RTD 110mL     60 11/30/25 D         14.61    14.61
+                                              50180189G0  
+ 4025177    1  Nescafe Original 26g       520 02/28/25 D          7.37     7.37
+                                              50448851A32 
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          405.02
+                                                       Rundate 06/07/2025  17:25:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

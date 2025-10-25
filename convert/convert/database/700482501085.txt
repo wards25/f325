@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700482501085
+                                                            Branch - 48 Pasay City Malibay( )
+                                                            Prepared by - GHE RAMOS on 10/16/2025
+                                                            Issued by - ________________________________
+                                                                         MS.ELNORA GANZON
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960 08/31/26 D          1.89     1.89
+                                              51518985e1  
+ 4025219    1  Nescafe 3n1 Orig TwinPck40g200 05/31/26 D         13.32    13.32
+                                              51290601k1  
+ 4530115   10  Milo Choco Malt Pdr 24g    504 04/30/26 D          8.58    85.80
+                                              52398985d1  
+ 4530121    1  Milo Choco Malt Pdr 1Kg      9 05/31/26 D        279.18   279.18
+                                              52120191aa  
+ 4530123    1  Milo Choco Malt PdrTwnPk48g256 04/30/26 D         16.63    16.63
+                                              52240601b1  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          396.82
+                                                       Rundate 10/16/2025  13:47:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

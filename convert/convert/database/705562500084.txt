@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705562500084
+                                                            Branch - 556 Quezon Lucena City Merchan( )
+                                                            Prepared by - JESSAME T. SANIEL on 07/25/2025
+                                                            Issued by - ________________________________
+                                                                         SHIELA Q. GO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574    4  Kitkat 4F 35g               24 05/11/25 F         29.27   117.08
+                                              1055        
+ 3707335    1  Kitkat Bites 40g            30 07/27/25 E         53.40    53.40
+                                              42099531MA  
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60 07/31/26 D         30.48    30.48
+                                              0432        
+ 4530051   16  Nescafe Ice Blk Can 220mL   24 07/25/25 F         34.62   553.92
+                                              0307        
+ 4530053   16  Nescafe Mocha Can 220mL     24 07/24/25 F         34.62   553.92
+                                              2322        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,308.80
+                                                       Rundate 07/25/2025  14:10:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

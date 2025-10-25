@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730302500277
+                                                            Branch - 3030 LU NAGLN ORZ(Ortiz,Naguilian, La Union )
+                                                            Prepared by - RENCY A. ESTEBAN on 05/06/2025
+                                                            Issued by - ________________________________
+                                                                         MARLO J. GAONA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 05/10/25 E         22.13    22.13
+                                              +           
+ 3723390   40  Energen Mlk&Cer Dr Choc 40g240 05/07/25 E          7.01   280.40
+                                              *           
+ 3969081    1  Bubble Man DLiq ABac270mLx2 10          D         46.26    46.26
+                                              *           
+ 4113097    2  Magnol Sandwich Sprd 220mL  24 01/08/26 D         66.40   132.80
+                                              *           
+ 4160035    1  Bubble Man DLiq Lem 270mLx2 10          D         46.26    46.26
+                                              *           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          527.85
+                                                       Rundate 05/06/2025  17:38:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

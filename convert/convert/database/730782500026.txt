@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730782500026
+                                                            Branch - 3078 Albay Bacacay Poblacion(Albay Bacacay Poblacion MD3078)
+                                                            Prepared by - Irene Dapulang on 07/11/2025
+                                                            Issued by - ________________________________
+                                                                         Emily Barbadillo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   14  Nestle Frsh Mlk 250mL       24 07/22/25 E         36.23   507.22
+                                              23292410    
+ 4025097    4  Nestle Chuckie Cal-N 110mL  60 07/31/25 E         13.46    53.84
+                                              426864383   
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          561.06
+                                                       Rundate 07/11/2025  13:24:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101782401066
+                                                            Branch - 178 Manila Malate San Andres(660 San Andres St. Malate Mla. )
+                                                            Prepared by - Gleza M. Flores on 07/22/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Marsha Y. Tampes
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167931    1  Bear Br Strlzed RTD 200mL   32          D         25.00    25.00
+                                              .           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              .           
+ 4025219    7  Nescafe 3n1 Orig TwinPck56g200          D         11.80    82.60
+                                              .           
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200          D         11.80    23.60
+                                              .           
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200          D         11.80    23.60
+                                              .           
+ 4530024    4  Nescafe CrmyWh SF TPck22.4g100          D         11.70    46.80
+                                              .           
+ 4530026    3  Nescafe Original SF TPck23g100          D         11.70    35.10
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          244.07
+                                                       Rundate 07/22/2024  14:13:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730282500245
+                                                            Branch - 3028 Macabebe Poblacion(3028 MACABEBE POBLACION )
+                                                            Prepared by - APRIL JOY PAULE on 09/01/2025
+                                                            Issued by - ________________________________
+                                                                         MR. JERRY C. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016245    5  Century Flakes Veg Oil 180g 48 10/25/25 E         42.77   213.85
+                                              D1Z7E       
+ 1016260    7  Century TunaFlk Hot&Spcy155g50          D         34.40   240.80
+                                              -           
+ 1016287    4  555 Tuna Flakes Afritada155g50 11/20/26 D         26.68   106.72
+                                              1630        
+ 1016292    5  555 Tuna Flakes Cldreta 155g50 04/24/26 D         26.68   133.40
+                                              KD5SH       
+ 1016360    1  Century Tuna W/Cal 180g     48 11/15/27 D         43.31    43.31
+                                              -           
+ 1210407    5  Argentina Meat Loaf 170g    48 07/01/27 D         22.38   111.90
+                                              LML80       
+ 3048405    8  555 Sardines TS Hot 155g   100 08/12/25 E         22.14   177.12
+                                              4DNA0839    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,027.10
+                                                       Rundate 09/03/2025  15:40:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706322500442
+                                                            Branch - 632 Tayug Quezon( )
+                                                            Prepared by - METCH S JOANINO on 07/08/2025
+                                                            Issued by - ________________________________
+                                                                         LIZA B DOLLENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413865   21  Nagaraya Crkr Nut Orig 80g  60 12/07/25 F         20.54   431.34
+                                              256330      
+ 3723282    2  Cupp Keyk Choc Mcha         10 07/19/25 E          6.80    13.60
+                                              VB31        
+ 3723683    1  Fudgee Barr Macapuno 39g    10 09/28/25 D          8.33     8.33
+                                              CA55CN      
+ 4110019    2  Choco Mucho Wh Choc 30g     10 06/25/25 E          9.30    18.60
+                                              b11m        
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          471.87
+                                                       Rundate 07/08/2025  09:59:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

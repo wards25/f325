@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130332400263
+                                                            Branch - 3033 Solano Quirino(BRGY QUIRINO SOLANO NUEVA VIZCAYA)
+                                                            Prepared by - DIANA MAE P. JUAN on 11/06/2024
+                                                            Issued by - ________________________________
+                                                                         MA. CRISTINA M. UBIDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322   39  Nescafe Clssc Ref 23g       60 11/30/24 E         19.98   779.22
+                                              31360190AA  
+ 4025007   17  Nescafe Decaf Bl Ref 20g    60 10/31/24 F         25.71   437.07
+                                              30980190DB  
+ 4025177   14  Nescafe Original 26g       520 10/31/24 F          7.37   103.18
+                                              32858985A1  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,319.47
+                                                       Rundate 11/06/2024  10:50:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

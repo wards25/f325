@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104462400535
+                                                            Branch - 446 ALBY LGP C WASH DR(WASHINGTON DRIVE LEGASPI CITY )
+                                                            Prepared by - EDWIN J.CLETE on 12/26/2024
+                                                            Issued by - ________________________________
+                                                                         ARMIE A. ESPINAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413873    1  Nagaraya SwtMni PretChoc30g100          D          7.61     7.61
+                                              0           
+ 3723374    2  Ding Dong Snck Mx Chip&C95g 60 09/30/24 F         20.54    41.08
+                                              0           
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 01/18/25 E        121.94   121.94
+                                              0           
+ 3723590    5  Royal Cheesy R&T 1.6kg SP49 10 12/30/24 E        121.94   609.70
+                                              0           
+ 3723685    2  Rebisco Hansel Crackers 32g 10 12/30/24 E          5.97    11.94
+                                              0           
+ 4095042    1  Seoul Wh K SoapDbleWhtng180g12 12/30/24 E        132.00   132.00
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          924.27
+                                                       Rundate 12/26/2024  14:38:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

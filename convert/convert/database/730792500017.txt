@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500017
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 01/18/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530000   22  Starbucks Latte DShtEsp220mL24 02/16/25 E         76.00  1672.00
+                                              SBL         
+ 4530020    1  Nestle Chuckie CN250mLx4P110 8 03/31/25 D        102.80   102.80
+                                              02          
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 08/31/25 D         12.27    12.27
+                                              42230601E1  
+ 4530026    1  Nescafe Original SF TPck23g100 09/30/25 D         12.27    12.27
+                                              42550601E1  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,799.34
+                                                       Rundate 01/19/2025  10:55:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130742400420
+                                                            Branch - 3074 Bataan Pilar Alauli( )
+                                                            Prepared by - ROSA FELISA D. MALINAO on 08/12/2024
+                                                            Issued by - ________________________________
+                                                                         MR. GARRY C. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32 02/28/25 D         23.09    23.09
+                                              40920189FD  
+ 3748436    1  Nestea Lem ITea 25g        144 10/31/24 D         18.57    18.57
+                                              SBT32820604E
+ 3748503   13  Nestle KKrunch SPck 80g     24 08/21/24 E         47.08   612.04
+                                              32340631CD  
+ 3760009    2  Nido NutriSnaxBnna-Crot110mL60 02/28/25 D         17.76    35.52
+                                              40800189GD  
+ 4014031    1  Nestle Chuckie Cal-N 180mL  32 03/31/25 D         21.73    21.73
+                                              41220189FD  
+ 4025219    5  Nescafe 3n1 Orig TwinPck56g200 08/31/24 E         11.80    59.00
+                                              32140601H1C1
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 11/30/24 D         11.80    23.60
+                                              33160597E1  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          793.55
+                                                       Rundate 08/12/2024  12:09:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

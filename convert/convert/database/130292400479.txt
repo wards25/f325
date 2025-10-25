@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130292400479
+                                                            Branch - 3029 Rosario Public Market(ROSARIO,BATANGAS )
+                                                            Prepared by - LIEZL T. COLOMA on 12/24/2024
+                                                            Issued by - ________________________________
+                                                                         MA. AZENITH C. HUFALAR
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 11/30/24 F        102.06   102.06
+                                              40160189YD  
+ 1167467    2  Nestle Frsh Mlk 250mL       24 11/10/24 F         36.23    72.46
+                                              2325712302  
+ 3760011   51  Nido NutriSnaxSbry-Crot110mL60 12/31/24 E         17.76   905.76
+                                              40180189L0  
+ 4530020    3  Nestle Chuckie CN250mLx4P110 8 12/31/24 E        102.80   308.40
+                                              404764382A  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,388.68
+                                                       Rundate 12/24/2024  14:38:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706902500015
+                                                            Branch - 690 Oriental Mindoro Calapan City Mabini(MD0690 )
+                                                            Prepared by - JAZELLE A. VILLAROMAN on 02/12/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLA MAY A. NACAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615301    1  San Mig Coff 3N1 Barako 20g240 05/15/25 D          6.96     6.96
+                                              -           
+ 3615303   10  San Mig Coff 3n1 SF Orig 7g300 06/24/26 D          6.30    63.00
+                                              -           
+ 3723375    1  Happy Pnut W/RealGarChip100g24 12/20/24 F         30.81    30.81
+                                              -           
+ 3723613    3  Barrio F Std Shrmp P Reg250g12 01/19/25 F        101.75   305.25
+                                              -           
+ 3748514    5  Gerber 2nd Mix Veg 125g      6 02/10/25 F         90.67   453.35
+                                              -           
+ 3780421    1  Diabetasol Choc 600g         3 05/24/25 D        883.20   883.20
+                                              -           
+ 3780427    1  Diabetasol Cappuccino 600g   3 05/21/25 D        883.20   883.20
+                                              *           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,625.77
+                                                       Rundate 02/12/2025  13:51:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102762400828
+                                                            Branch - 276 CMEL MR CANL(Canlubang CarmelMart      324# )
+                                                            Prepared by - CHRIS DAEL on 12/14/2024
+                                                            Issued by - ________________________________
+                                                                         MS. KAREN M. ANDAY
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167857   13  Nestle All Purpose Crm 250mL24 01/31/25 E         67.29   874.77
+                                              404664381a  
+ 3760009    2  Nido NutriSnaxBnna-Crot110mL60          D         17.76    35.52
+                                              .           
+ 4025056   11  Nescafe Crmy Wh 25.5g      240 01/31/25 E          8.20    90.20
+                                              40078985a1  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,000.49
+                                                       Rundate 12/14/2024  14:46:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

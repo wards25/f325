@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092401205
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 10/20/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760009   16  Nido NutriSnaxBnna-Crot110mL60          D         17.76   284.16
+                                              0           
+ 3760011   16  Nido NutriSnaxSbry-Crot110mL60          D         17.76   284.16
+                                              0           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          568.32
+                                                       Rundate 10/20/2024  21:07:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

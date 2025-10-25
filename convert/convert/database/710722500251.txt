@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710722500251
+                                                            Branch - 1072 Meycauayan City EMA Town Center(1072 BUL MEYC EMA TOWN CENTER )
+                                                            Prepared by - Cecil Manuel on 08/09/2025
+                                                            Issued by - ________________________________
+                                                                         MS. REMY FRANCISCO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016223    2  Century Flakes Brine 180g   48 08/18/25 E         49.96    99.92
+                                              1528e       
+ 1191019    5  Hunts Pork&Beans Can 175g   48 08/11/25 E         22.38   111.90
+                                              hpb04       
+ 1210406    1  Argentina Meat Loaf 250g    48 03/05/28 D         30.95    30.95
+                                              am117       
+ 1210411    1  Argentina Bf Loaf 250g      48          B         29.05    29.05
+                                              no lot      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          271.82
+                                                       Rundate 08/09/2025  17:14:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  B-Orders Rejected by Customers/ Good Stock     D-Damaged / Redressing     E-Expiring

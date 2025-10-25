@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130092400070
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S. SARGUET on 03/20/2024
+                                                            Issued by - ________________________________
+                                                                         FLORENCE A. CUNANAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1036005    1  Hello Kitty TP 50mL W/ Tb   24 05/30/25 D         59.81    59.81
+                                              040         
+ 1102987    1  Del M Pine Jce Crush 220mL  24 07/31/25 D         28.00    28.00
+                                              L3160PCL643 
+ 1103169    1  Del M Pine Jce Swtnd 220mL  24 07/31/25 D         28.00    28.00
+                                              L3185SPRL73 
+ 3723282   20  Cupp Keyk Choc Mcha         10 03/31/24 E          6.80   136.00
+                                              CA64        
+ 3723283   63  Cupp Keyk Choc Topps        10 03/31/24 E          7.74   487.62
+                                              CB44        
+ 3723284   53  Fudgee Barr Choc Blst       10 03/31/24 E          7.65   405.45
+                                              VA3         
+ 3723285   10  Fudgee Barr Mlky Crze       10 04/30/24 E          7.65    76.50
+                                              VA7         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,221.38
+                                                       Rundate 03/20/2024  11:39:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

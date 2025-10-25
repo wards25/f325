@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730042500117
+                                                            Branch - 3004 Tumauini Poblacion(TUMAUINI POBLACION 3004)
+                                                            Prepared by - SHARON B. PALACAY on 03/10/2025
+                                                            Issued by - ________________________________
+                                                                         ALDRIN A. BARRUGA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4100002   15  Kettle Korn Cheese 120g     30 01/02/25 F         39.74   596.10
+                                              MLM4        
+ 4136008    1  Kopiko Cappuccino Coff 25g 240          D          7.40     7.40
+                                              01          
+ 4136022    4  Kopiko L.A. Coffee 25g     240          D          7.40    29.60
+                                              01          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          633.10
+                                                       Rundate 03/12/2025  08:36:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

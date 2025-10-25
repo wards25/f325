@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500004
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 01/18/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    3  Royal Spaghetti 900g        18 10/11/25 D         97.00   291.00
+                                              .           
+ 3207792   13  Lipton Yel Label Tea 25'    24 11/11/24 F        124.34  1616.42
+                                              .           
+ 3413869    6  Nagaraya Crkr Nut Gar 160g  48 05/02/25 D         41.27   247.62
+                                              24768C      
+ 3413871    4  Nagaraya Crkr Nut Adbo 160g 48 04/05/25 D         41.27   165.08
+                                              24743A      
+ 3465855    1  Magnol Frsh Mlk 1L          12 03/23/25 D         96.08    96.08
+                                              F1          
+ 3723283    4  Cupp Keyk Choc Topps        10 02/10/25 E          7.74    30.96
+                                              CA41G       
+ 3723389    6  Energen Mlk&Cer Dr Vnla 40g240 01/03/25 F          7.01    42.06
+                                              1009TGR03010
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,489.22
+                                                       Rundate 01/19/2025  10:54:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

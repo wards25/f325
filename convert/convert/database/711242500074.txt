@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711242500074
+                                                            Branch - 1124 Bulacan San Miguel Poblacion Tecson(1124 BUL. SAN MIGUEL TECSON )
+                                                            Prepared by - ALMA/MAX/LYN on 04/07/2025
+                                                            Issued by - ________________________________
+                                                                         MR. GERUEL M. GERALDE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138931    2  Purefood Star Meat Loaf150g 48 04/05/25 E         18.10    36.20
+                                              30416       
+ 1138992    3  Star CBeef 260g             48 04/19/25 E         50.67   152.01
+                                              1a          
+ 3723687    2  RC Cola 1.5L                 6 12/15/24 E         47.25    94.50
+                                              sf1         
+ 3973059    3  Selecta Adult Activ Vnla 1L 12 04/19/25 E        115.60   346.80
+                                              g5bmo       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          629.51
+                                                       Rundate 04/07/2025  14:05:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

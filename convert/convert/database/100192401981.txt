@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100192401981
+                                                            Branch - 19 Manila Blumentritt Avenida(BLUMENTRITT AVENIDA )
+                                                            Prepared by - MYRA LEYNES on 07/16/2024
+                                                            Issued by - ________________________________
+                                                                         SONIA A. ALANIS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147308    4  Sunkist Frt Dr Or 235mL     24 08/03/24 E         19.03    76.12
+                                              A1S2T0      
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20 01/22/26 D         12.33    12.33
+                                              B51M91      
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 09/03/24 D         20.25    20.25
+                                              0           
+ 3723677    1  Le Minerale 5L               4 09/19/25 D         62.83    62.83
+                                              JR19036     
+ 4510155    1  Rite'n Lite Peach Dr 250mL  24 09/03/24 D         20.25    20.25
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          191.78
+                                                       Rundate 07/16/2024  13:57:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

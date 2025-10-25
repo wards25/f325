@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720242500174
+                                                            Branch - 2024 Sara Poblacion Ilawod(Poblacion Ilawod Sara Iloilo)
+                                                            Prepared by - MECHELLE R. BATAYOLA on 08/29/2025
+                                                            Issued by - ________________________________
+                                                                         MAJARANEE A. BRILLANTES
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748444    4  Nestea Ap ITea 20g         144 08/31/25 E         18.57    74.28
+                                              SBT42170604E
+ 3748503    4  Nestle KKrunch SPck 80g     24 08/03/25 E         48.18   192.72
+                                              41550631CD1 
+ 4066029    6  Kitkat Chunky Mlk Choc 38g  24 08/21/25 E         41.15   246.90
+                                              42349531CT  
+ 4530024   85  Nescafe CrmyWh SF TPck22.4g100 08/31/25 E         13.21  1122.85
+                                              42220601W01 
+ 4530041    2  Nestle Trix Bfast Cer 20g  120 08/30/25 E         13.64    27.28
+                                              42470631CD1 
+ 4530051    4  Nescafe Ice Blk Can 220mL   24 08/25/25 E         34.62   138.48
+                                              4147B467B1  
+ 4530053    9  Nescafe Mocha Can 220mL     24 08/04/25 E         34.62   311.58
+                                              4096B467B1  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,114.09
+                                                       Rundate 08/31/2025  19:27:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

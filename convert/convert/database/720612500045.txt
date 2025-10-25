@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720612500045
+                                                            Branch - 2061 MGDNAO CBO ROSY HGHTS(SANTOS ST. cor SINSUAT AVE COT CITY)
+                                                            Prepared by - EMELDA B. ARABIS on 01/24/2025
+                                                            Issued by - ________________________________
+                                                                         KRISTOFFERSON G. CAYENA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760013    4  Nescafe Clssc Sulit Pck 10g 80          D          9.52    38.08
+                                              X           
+ 4025052    1  Nestle Coffeemate 150g      60          D         44.78    44.78
+                                              X           
+ 4025177    2  Nescafe Original 26g       520          D          7.37    14.74
+                                              X           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           97.60
+                                                       Rundate 01/28/2025  20:26:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

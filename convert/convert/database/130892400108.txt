@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130892400108
+                                                            Branch - 3089 Batangas City Waltermart(CALICANTO, BATANGAS CITY )
+                                                            Prepared by - LYKA A. LUZON on 04/16/2024
+                                                            Issued by - ________________________________
+                                                                         MARLON L. NACAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    2  Lipton Tea Yel Label 50     12 04/11/24 F        206.33   412.66
+                                              .           
+ 3207792    6  Lipton Yel Label Tea 25'    24 05/22/24 E        113.56   681.36
+                                              .           
+ 3723283    5  Cupp Keyk Choc Topps        10 05/16/24 E          7.74    38.70
+                                              CA45        
+ 3723286    2  Ding Dong Sup Mxd Nuts 100g 60 05/18/24 E         20.16    40.32
+                                              A4          
+ 3723375    8  Happy Pnut W/RealGarChip100g24 04/17/24 E         30.60   244.80
+                                              B3          
+ 3900006    3  Milna Bb Cer Brwn Rice 120g  6 05/09/24 E         61.20   183.60
+                                              22Y0902D1U  
+ 4110023   10  Rebisco Crackers 35g        10 04/20/24 E          5.87    58.70
+                                              R6          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,660.14
+                                                       Rundate 04/16/2024  15:47:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

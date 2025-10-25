@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711802500215
+                                                            Branch - 1180 Cavite Bacoor City Molino III Celestino(CELESTINO 1180 )
+                                                            Prepared by - Rhea May S. Duque on 05/28/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Juanita Celestino
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016260    1  Century TunaFlk Hot&Spcy155g50          D         34.40    34.40
+                                              0           
+ 1016262    2  Century TunaFlk Veg Oil 155g50          D         34.03    68.06
+                                              .           
+ 1016288    1  555 Tuna Flakes VegOil 155g 50          D         29.68    29.68
+                                              .           
+ 1016359    1  Century Tuna W/ Cal 155g    50          D         34.40    34.40
+                                              .           
+ 3048433    1  555 Sardine Frd H&Spcy 155g100 11/19/24 E         31.83    31.83
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          198.37
+                                                       Rundate 05/28/2025  15:11:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

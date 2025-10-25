@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705942500179
+                                                            Branch - 594 APL MCAR HWY(594 )
+                                                            Prepared by - DAN JAYAR C. ESGUERRA on 10/04/2025
+                                                            Issued by - ________________________________
+                                                                         JERRY C. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050023    5  Baby Dove Bb Lot 200mL       6 04/11/25 E        274.84  1374.20
+                                              12092       
+ 3870321    2  Creamsilk Cond TKR UStr340mL12 07/27/25 E        308.90   617.80
+                                              08022231    
+ 3980568    2  Dove Cr Bar Pk Mstrzng 135g 48 08/30/26 D         73.55   147.10
+                                              565         
+ 6200005    8  Dove Sh Crmde IntRepair170mL24 10/31/25 E        175.71  1405.68
+                                              150523      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,544.78
+                                                       Rundate 10/04/2025  12:51:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

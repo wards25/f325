@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709432500007
+                                                            Branch - 943 Tacurong City Ledesma(LEDESMA ST.TACURONG CITY,SULTA N KUDARAT)
+                                                            Prepared by - MAYBELYN C. AZARES on 01/02/2025
+                                                            Issued by - ________________________________
+                                                                         VIVIAN P. ABASOLO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010117    1  Ladys C Tuna Sprd 80mL      72 09/04/25 D         34.85    34.85
+                                              243712      
+ 1010277    2  Ladys C Ham Sprd DPck 220mL 24 08/23/25 D         95.30   190.60
+                                              244371      
+ 5800326    4  Ladys C RMayo DPck 470mL     6 07/02/25 D        185.40   741.60
+                                              24361       
+ 6200003    1  Creamsilk Cond Dam Ctrl180mL24 11/22/26 D        128.33   128.33
+                                              443         
+ 6200276    1  Dove Sh HairFallRcovery170mL24 03/06/26 D        182.62   182.62
+                                              1143        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,278.00
+                                                       Rundate 01/02/2025  13:41:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

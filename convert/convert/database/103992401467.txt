@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103992401467
+                                                            Branch - 399 Quezon City Frisco Place( )
+                                                            Prepared by - BENCH D. SIMON JR. \ DIST 1 on 11/13/2024
+                                                            Issued by - ________________________________
+                                                                         MS. GRETHEL ROSE T. CAMI¥A
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167857    3  Nestle All Purpose Crm 250mL24 06/30/25 D         67.29   201.87
+                                              418364381A  
+ 3748417   16  Bear Br Strlzedw/GnkgoB200mL32 11/09/24 D         26.42   422.72
+                                              40440189TD  
+ 3760015    1  Bear Br StrlzedRTD200mLx4SP8 8 03/31/25 D         92.52    92.52
+                                              41600189TE  
+ 4025097    1  Nestle Chuckie Cal-N 110mL  60 06/30/25 D         13.46    13.46
+                                              21764383    
+ 4530006    1  Kitkat 2F 17g               24 05/14/25 D         14.77    14.77
+                                              41359531AA  
+ 4530019    3  Nestle Chuckie Cal180mLx4P90 9 04/30/25 D         84.11   252.33
+                                              41560189FD  
+ 4530028   23  Nestle Chuckie STB 110mL 6s 10 04/30/25 D         77.57  1784.11
+                                              46664383A   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,781.78
+                                                       Rundate 11/13/2024  13:20:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

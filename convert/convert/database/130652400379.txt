@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130652400379
+                                                            Branch - 3065 Quezon Tiaong Dona Tating(QUEZON TIAONG DO¥A TATING )
+                                                            Prepared by - MYCA Z. MENDOZA on 10/15/2024
+                                                            Issued by - ________________________________
+                                                                         RHODORA G. QUITO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532   10  Royal Spaghetti 900g        18 08/22/24 F         97.00   970.00
+                                              -           
+ 1147360    2  Selecta Moo Choc 245mL      24 07/18/24 F         28.36    56.72
+                                              -           
+ 1148938    1  Selecta Forti MlkLowFat245mL24 08/06/24 F         34.23    34.23
+                                              -           
+ 3723282   11  Cupp Keyk Choc Mcha         10 09/29/24 F          6.80    74.80
+                                              -           
+ 3723283    4  Cupp Keyk Choc Topps        10 06/13/24 F          7.74    30.96
+                                              -           
+ 3856629   14  Datu Puti Soy Sce 340mL     24 05/09/24 F         17.10   239.40
+                                              -           
+ 3973031    5  Selecta Forti Mlk Strlzed 1L12 08/30/24 F         80.88   404.40
+                                              -           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,810.51
+                                                       Rundate 10/15/2024  13:16:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

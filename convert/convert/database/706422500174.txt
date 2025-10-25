@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706422500174
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN A. ANGULO on 07/08/2025
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413863    5  Nagaraya Crkr Nut Adbo 80g  60 04/25/25 F         20.54   102.70
+                                              24762E      
+ 3723286   23  Ding Dong Sup Mxd Nuts 100g 60 05/13/25 F         20.54   472.42
+                                              A6KA2B      
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24          D         22.13    22.13
+                                              0           
+ 4136061    1  Kopiko Dble Cups Orig 33g  240          D          9.05     9.05
+                                              0           
+ 4510226   11  Happy Pnut Bbq 100g         24 06/04/25 F         30.81   338.91
+                                              A2A2A       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          945.21
+                                                       Rundate 07/08/2025  10:32:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

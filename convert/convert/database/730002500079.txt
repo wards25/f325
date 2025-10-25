@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730002500079
+                                                            Branch - 3000 Mariveles Poblacion(BATAAN MARIVELES )
+                                                            Prepared by - BERLYN A. TINIO on 07/13/2025
+                                                            Issued by - ________________________________
+                                                                         MARIANNE T. SALAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413868    7  Nagaraya Crkr Nut Bbq 160g  48 10/11/25 D         41.27   288.89
+                                              24918A      
+ 3723283   28  Cupp Keyk Choc Topps        10 06/15/25 F          7.95   222.60
+                                              CB44G       
+ 3723375   11  Happy Pnut W/RealGarChip100g24 07/15/25 E         30.81   338.91
+                                              A7B         
+ 3856633   16  Mang Tomas Lchon Sce 325g   24 05/26/25 F         33.25   532.00
+                                              24H29MO62025
+ 3856643   11  UFC Sweet Chili Sce 340g    24 07/24/25 E         37.76   415.36
+                                              24I27C182244
+ 4100005    6  Kettle Korn Sltd Crmel 120g 30 06/07/25 F         39.74   238.44
+                                              MLM4        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,036.20
+                                                       Rundate 07/13/2025  18:41:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

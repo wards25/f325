@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704422500300
+                                                            Branch - 442 ROMB ODNGN MA RXS(ODIONGAN ROMBLON )
+                                                            Prepared by - MARK F. FONTAMILLAS on 07/05/2025
+                                                            Issued by - ________________________________
+                                                                         MR. RONNEL E. ROJAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748409    4  Milo w/Actigen-E RTD 180mL  32 06/30/25 F         23.09    92.36
+                                              42330189fe  
+ 4025037    1  Nescafe 3n1 CrmyLatte20g   240 05/31/25 F          8.20     8.20
+                                              61          
+ 4530028    1  Nestle Chuckie STB 110mL 6s 10 02/28/26 D         77.57    77.57
+                                              51050189ld  
+ 4530045   10  Nestle Frsh Mlk 1000mLx2SP15 7 07/01/25 F        197.10  1971.00
+                                              2329075508  
+ 4530053   24  Nescafe Mocha Can 220mL     24 04/27/25 F         34.62   830.88
+                                              411913467133
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,980.01
+                                                       Rundate 07/05/2025  16:25:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

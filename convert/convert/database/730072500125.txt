@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730072500125
+                                                            Branch - 3007 Vigan City Puregold(STA ELENA VIGAN CITY )
+                                                            Prepared by - Melanie R. Rapanut on 02/15/2025
+                                                            Issued by - ________________________________
+                                                                         Vanessa A. Alconcel
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016305    5  555 Tuna Spcy Cldrta 155g   50          D         26.68   133.40
+                                              *           
+ 3048405    1  555 Sardines TS Hot 155g   100          D         23.09    23.09
+                                              *           
+ 3048425    4  555 Mackerel TS 155g       100          D         27.98   111.92
+                                              *           
+ 3048430    1  555 Sardines Oil Spnish155g100          D         31.11    31.11
+                                              *           
+ 3048435    1  555 Sardine Frd W/Tau 155g 100          D         31.83    31.83
+                                              *           
+ 3793333    1  555 Sardine Frd Bistek 155g100          D         31.83    31.83
+                                              *           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          363.18
+                                                       Rundate 02/15/2025  10:35:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

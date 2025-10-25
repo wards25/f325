@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706672500138
+                                                            Branch - 667 Rosario Gualberto(MD ROSARIO GUALBERTO ROSARIO BATANGAS)
+                                                            Prepared by - VERONICA M. GONDA on 10/07/2025
+                                                            Issued by - ________________________________
+                                                                         EDNA P. DAVID
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   12  Nestle Frsh Mlk 250mL       24          D         36.23   434.76
+                                              0           
+ 3748409   27  Milo w/Actigen-E RTD 180mL  32 08/31/25 F         23.09   623.43
+                                              42780189FD  
+ 3748436  122  Nestea Lem ITea 19g        144 10/31/25 E         18.57  2265.54
+                                              SBT42820604E
+ 4025096    1  Milo Activ-Go RTD 110mL     60 08/31/25 F         14.61    14.61
+                                              42770189LD  
+ 4530103    2  Cerelac Mxd Veg&Soya 120g   40 07/31/25 F         67.26   134.52
+                                              41369479LA  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,472.86
+                                                       Rundate 10/07/2025  16:05:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

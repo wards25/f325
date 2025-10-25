@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110962400847
+                                                            Branch - 1096 Pasig City San Antonio(1096 PASIG CITY SAN ANTONIO )
+                                                            Prepared by - noel on 10/13/2024
+                                                            Issued by - ________________________________
+                                                                         MS LIZEL MATA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    1  Lipton Tea Yel Label 50     12 10/18/24 E        225.69   225.69
+                                              0256        
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 06/30/25 D          7.01     7.01
+                                              0831        
+ 3780425    1  Diabetasol Choc 180g         3 11/10/24 E        292.10   292.10
+                                              23p1002iu   
+ 4103101    5  Del M SpagFilStylPrtyPckSP42 8 11/09/24 E        133.46   667.30
+                                              33131n      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,192.10
+                                                       Rundate 10/13/2024  14:24:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

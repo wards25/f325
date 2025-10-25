@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702532500018
+                                                            Branch - 253 Tondo Juan Luna(1738 A&B Juan Luna St. Tondo )
+                                                            Prepared by - FRANCESCA SAPITAN on 01/17/2025
+                                                            Issued by - ________________________________
+                                                                         MS. ALELI RIVERA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167857    1  Nestle All Purpose Crm 250mL24 10/31/24 E         67.29    67.29
+                                              33335438    
+ 4025037  145  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20  1189.00
+                                              40090602m1  
+ 4025056  219  Nescafe Crmy Wh 25.5g      240 01/31/25 E          8.20  1795.80
+                                              40078985    
+ 4025219   33  Nescafe 3n1 Orig TwinPck56g200 12/31/24 E         12.37   408.21
+                                              3340        
+ 4025237    8  Nescafe Crmy Wh Twin Pck51g200 12/31/24 E         12.37    98.96
+                                              33480597    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,559.26
+                                                       Rundate 01/17/2025  15:10:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

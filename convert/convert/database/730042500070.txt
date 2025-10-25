@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730042500070
+                                                            Branch - 3004 Tumauini Poblacion(TUMAUINI POBLACION 3004)
+                                                            Prepared by - SHARON B. PALACAY on 02/04/2025
+                                                            Issued by - ________________________________
+                                                                         ALDRIN A. BARRUGA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010275   16  Ladys C Chck Sprd DPck220mL 24          D         95.30  1524.80
+                                              01          
+ 1010277   12  Ladys C Ham Sprd DPck 220mL 24          D         95.30  1143.60
+                                              01          
+ 3870293    1  Creamsilk Cond S-Strght350mL12          D        240.35   240.35
+                                              01          
+ 3870307    4  Tresemme Sh Keratin Sm 330mL12          D        280.13  1120.52
+                                              01          
+ 3980117    1  Eskinol Mild Teens FDC 225mL 6          D        114.42   114.42
+                                              01          
+ 3980121    2  Eskinol Ppya Smth Wh 75mL   12          D         41.06    82.12
+                                              01          
+ 3980578    1  Dove Men B&F Bar DClean 106g48          D         70.17    70.17
+                                              01          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,295.98
+                                                       Rundate 02/05/2025  13:31:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

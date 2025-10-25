@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130532400018
+                                                            Branch - 3053 QUIRINO MADDELA POBLACION SUR( )
+                                                            Prepared by - CRIZELLE JOY R. CAGINOR on 01/25/2024
+                                                            Issued by - ________________________________
+                                                                         JHONAFE G. MAMACLAY
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3007550    6  St Ives ReNew C&E Mstrzr283g 6 09/30/24 N391A    315.84  1895.04
+                                              +           
+ 4103092    7  Del M Tmto Sce Orig Styl900g12 02/09/24 E         85.82   600.74
+                                              fy11        
+ 4136062   10  Bubble Man DLiq ABac 270mL  20 07/06/24 G         29.01   290.10
+                                              +           
+ 4136064   14  Bubble Man DLiq Lem 270mL   20 02/16/25 G         29.01   406.14
+                                              +           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,192.02
+                                                       Rundate 01/25/2024  13:25:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted     N-Non-Moving / New Stock

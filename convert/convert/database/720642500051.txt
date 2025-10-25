@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720642500051
+                                                            Branch - 2064 ZAMB DS MLV MLOY-ON MABINI(MABINI ST. BRGY,MALOLOY-ON MOL AVE ZDS)
+                                                            Prepared by - Consuelo S. Darunday on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         Arlyn C. Gatoc
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4096037    2  Del M Tidbits Pine 200g     24 07/01/25 D         26.06    52.12
+                                              L4178HESL   
+ 4103063    1  Del M Tmto Sce OrigStyl 115g48 07/16/25 D         17.88    17.88
+                                              41071NAC4   
+ 4103065    4  Del M Tmto Sce OrigStyl 250g48 04/29/25 D         25.72   102.88
+                                              4029NCO8    
+ 4103080    1  Del M Spag PastaItaliana900g20 03/22/25 D        101.57   101.57
+                                              1052BII     
+ 4103092    1  Del M Tmto Sce Orig Styl900g12 05/14/25 D         86.66    86.66
+                                              4045INP18   
+ 4103093    3  Del M Tmto Sce Fil Styl900g 12 03/06/25 D         78.21   234.63
+                                              93400Z029   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          595.74
+                                                       Rundate 01/14/2025  13:06:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

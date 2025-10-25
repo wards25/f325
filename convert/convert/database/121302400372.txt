@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121302400372
+                                                            Branch - 2130 BOHOL UBAY POBLACION(2130 UBAY POBLACION BOHOL )
+                                                            Prepared by - CAFEMAE A. SALAGOSTE on 10/08/2024
+                                                            Issued by - ________________________________
+                                                                         BERLOU R. GENITA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010278    1  Ladys C Real Mayo DPck 220mL24          D         88.15    88.15
+                                              12345       
+ 1010390    1  Knorr Crab&Corn Soup 55g    60 02/07/26 D         50.95    50.95
+                                              243351      
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              12345       
+ 3980281    1  Rexona Men Deo-L Qua 3mL SP360          D          6.47     6.47
+                                              12345       
+ 3980474    1  Vaseline Lot HWh Frsh&F 350mL3 11/10/24 E        297.43   297.43
+                                              12345       
+ 6200089    1  Surf Pdr Chrry Blssm65gB6G1 40          D         36.75    36.75
+                                              12345       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          485.88
+                                                       Rundate 10/08/2024  10:14:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

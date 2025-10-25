@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101682400590
+                                                            Branch - 168 San Miguel Poblacion(SAN JOSE SAN MIGUEL BULACAN )
+                                                            Prepared by - Ces/Ramil/May on 09/14/2024
+                                                            Issued by - ________________________________
+                                                                         Ana Marie Duran
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723576    1  Naturelab FragBMistLLem100mL 6 09/28/24 E        111.75   111.75
+                                              TPH1D13     
+ 3723648    1  Selecta Dolce LFat Choc 1L  12 09/17/24 E         85.96    85.96
+                                              41D5DT1     
+ 3780422    2  Diabetasol Swtnr 75g         3 11/23/24 E        159.20   318.40
+                                              23P23J      
+ 4100005    2  Kettle Korn Sltd Crmel 120g 30 06/12/24 E         36.25    72.50
+                                              M1          
+ 4510072    1  Axion DLiq KalRef190mL50%2nd20          D         57.41    57.41
+                                              X           
+ 4510151    4  Rite'n Lite Ccmber Dr250mL  24 06/24/25 D         20.25    81.00
+                                              001111941   
+ 4510161    4  Seoul Wh K SoapByeAcBr&C120g12 09/30/24 E        132.00   528.00
+                                              RT2S0397    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,255.02
+                                                       Rundate 09/14/2024  13:01:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130042400384
+                                                            Branch - 3004 Tumauini Poblacion(TUMAUINI POBLACION 3004)
+                                                            Prepared by - SHARON B. PALACAY on 10/30/2024
+                                                            Issued by - ________________________________
+                                                                         ALDRIN A. BARRUGA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210455    2  Argentina Carne Norte 150g  48 08/25/24 F         26.43    52.86
+                                              rkn24       
+ 3048425   75  555 Mackerel TS 155g       100 10/13/24 F         27.98  2098.50
+                                              101yl1047   
+ 3793318    1  Birch Tree Forti AdltBst33g160          D         11.93    11.93
+                                              01          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,163.29
+                                                       Rundate 10/30/2024  15:08:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

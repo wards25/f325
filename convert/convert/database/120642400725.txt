@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120642400725
+                                                            Branch - 2064 ZAMB DS MLV MLOY-ON MABINI(MABINI ST. BRGY,MALOLOY-ON MOL AVE ZDS)
+                                                            Prepared by - Consuelo S. Darunday on 08/28/2024
+                                                            Issued by - ________________________________
+                                                                         Arlyn C. Gatoc
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167857    1  Nestle All Purpose Crm 250mL24 04/30/25 D         64.49    64.49
+                                              412260382A  
+ 3748436    1  Nestea Lem ITea 25g        144 05/31/25 D         18.57    18.57
+                                              SBT4134060  
+ 3748503    1  Nestle KKrunch SPck 80g     24 06/06/25 D         47.08    47.08
+                                              41550631CO  
+ 4530020    3  Nestle Chuckie CN250mLx4P110 8 11/28/25 D        102.80   308.40
+                                              409854382A  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          438.54
+                                                       Rundate 08/28/2024  18:13:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

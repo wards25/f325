@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710702500158
+                                                            Branch - 1070 Binangonan EM Complex(BIN.EM COMPLEXPANTOK )
+                                                            Prepared by - JESUSA S.BAGABALDO on 03/08/2025
+                                                            Issued by - ________________________________
+                                                                         MS.THERESA D.GADAONI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60          D         20.54    20.54
+                                              0           
+ 3723644    2  Energen Champion Choc TP30g120          D         14.24    28.48
+                                              0           
+ 4510217    4  Lipton Tea STL Eng BfstBlk25s6 04/15/25 E        198.35   793.40
+                                              0           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          842.42
+                                                       Rundate 03/08/2025  19:18:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

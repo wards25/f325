@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706392500176
+                                                            Branch - 639 Mangaldan Rizal(RIZAL ST.,POBLACION, MANGALDAN PANGASINAN)
+                                                            Prepared by - MMDV/MF.MOLINA/MJDP.MANINGDING on 05/04/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JO ANN R. SWING
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760007    5  Kitkat Mini 8s 72g          48 05/08/25 E         87.18   435.90
+                                              531YT       
+ 3760013   70  Nescafe Clssc Sulit Pck 10g 80          G          9.52   666.40
+                                              32900190DA  
+ 4025056    2  Nescafe Crmy Wh 25.5g      240 07/31/25 D          8.20    16.40
+                                              1393096     
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         13.32    13.32
+                                              416726      
+ 4530022   36  Nescafe Crmy Lat TwinPck51g200 04/30/25 E         13.32   479.52
+                                              14139952    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,611.54
+                                                       Rundate 05/04/2025  15:59:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

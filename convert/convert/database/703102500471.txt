@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703102500471
+                                                            Branch - 310 ERD ARC TYTY(Eastroad Arcade Taytay )
+                                                            Prepared by - Arlou L. Boada on 10/04/2025
+                                                            Issued by - ________________________________
+                                                                         Mrs. Lovelle S. Enriquez
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 09/30/25 E        102.06   102.06
+                                              .           
+ 3748436   14  Nestea Lem ITea 19g        144 10/31/25 E         18.57   259.98
+                                              .           
+ 4530065    1  Nestogen LowLactose0-12M400g12          D        397.38   397.38
+                                              .           
+ 4530099    1  Cerelac Homestyl R&Veggi200g24          D                       
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          759.42
+                                                       Rundate 10/04/2025  15:39:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 131032400272
+                                                            Branch - 3103 Bulacan Baliwag City Poblacion BS Aquino( )
+                                                            Prepared by - ELIZA SHAYNE DV. BELGICA on 12/25/2024
+                                                            Issued by - ________________________________
+                                                                         JAIME L. NOCOM
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465906   17  Magnol Chzee Sqze Chdr 115g 24 12/12/24 F         37.88   643.96
+                                              40516UBJ15  
+ 3465907    9  Magnol Chzee Sqze Chdr 220g 24 12/29/24 F         70.23   632.07
+                                              40602UAJ22  
+ 3465908   15  Magnol Chzee Sqze Pmnto 115g24 01/06/25 F         37.88   568.20
+                                              40610UBJ10  
+ 3465909   11  Magnol Chzee Sqze Pmnto 220g24 12/15/24 F         74.84   823.24
+                                              40519UAJ03  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,667.47
+                                                       Rundate 12/25/2024  10:54:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

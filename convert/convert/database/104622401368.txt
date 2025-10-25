@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104622401368
+                                                            Branch - 462 Paranaque City Sucat Interchange(SUCAT INTERCHANGE )
+                                                            Prepared by - Joeven Parada - District 24 on 11/05/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016260    1  Century TunaFlk Hot&Spcy155g50          D         34.40    34.40
+                                              0           
+ 1016287    3  555 Tuna Flakes Afritada155g50          D         26.68    80.04
+                                              0           
+ 1016294    1  555 Tuna Flakes Hot&Sp 155g 50          D         30.18    30.18
+                                              0           
+ 1016359    7  Century Tuna W/ Cal 155g    50          D         34.40   240.80
+                                              0           
+ 1035690    3  Ligo Sard In TS Chili 155g 100          D         23.98    71.94
+                                              0           
+ 3048430    2  555 Sardines Oil Spnish155g100          D         31.11    62.22
+                                              0           
+ 3048433    1  555 Sardine Frd H&Spcy 155g100          D         31.83    31.83
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          551.41
+                                                       Rundate 11/05/2024  08:55:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

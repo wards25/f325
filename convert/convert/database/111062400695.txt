@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111062400695
+                                                            Branch - 1106 STA ROSA WALTERMART BEL AIR(WM BEL-AIR SRO )
+                                                            Prepared by - Reymark M. Pandalag on 10/31/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Rosemarie P. Adao
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050023    3  Baby Dove Bb Lot 200mL       6 03/01/25 E        274.84   824.52
+                                              32092       
+ 3050024    1  Baby Dove Bb Sh 200mL        6 02/28/25 E        215.21   215.21
+                                              12092       
+ 3050031    3  Breeze Pdr DetRseGldPerf64g144          D         12.20    36.60
+                                              X           
+ 3870142    1  Sunsilk Sh S&L30%More13mL  288          D          5.59     5.59
+                                              110224110   
+ 3870311    1  Creamsilk Cond HFallDef180mL24 10/25/25 D        128.33   128.33
+                                              0905231     
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,210.25
+                                                       Rundate 10/31/2024  11:06:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

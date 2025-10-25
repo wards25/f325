@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103102400738
+                                                            Branch - 310 ERD ARC TYTY(Eastroad Arcade Taytay )
+                                                            Prepared by - ARLOU BOADA on 09/17/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Eugene L. Guillermo
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221857    6  San Marino Blu Mckrl Stk180g48 04/29/26 G         56.25   337.50
+                                              SMBMSS301   
+ 1225222    5  San Marino Crnd TunaChli180g48 10/23/26 G         43.20   216.00
+                                              SMCCT3127   
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          553.50
+                                                       Rundate 09/17/2024  11:12:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

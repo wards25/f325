@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705402500006
+                                                            Branch - 540 Daet Gov. Panotes(GOV. PANOTES AVE. DAET, CAMARINES NORTE)
+                                                            Prepared by - IRENE R. OPERIO on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         MS. ERCEL P. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723396    3  Entrasol Pltnm Ad PdrChoc200g3 01/05/25 F        352.60  1057.80
+                                              1           
+ 3723398    1  Entrasol Pltnm Ad PdrChoc600g3 02/11/25 E        906.80   906.80
+                                              1           
+ 3856631   12  Datu Puti Wh Vin 350mL      24 01/03/25 F         15.91   190.92
+                                              1           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,155.52
+                                                       Rundate 01/13/2025  15:36:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

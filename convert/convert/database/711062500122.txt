@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711062500122
+                                                            Branch - 1106 STA ROSA WALTERMART BEL AIR(WM BEL-AIR SRO )
+                                                            Prepared by - Mr. Michael Marticio on 05/07/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Rosemarie P. Adao
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3980150    1  Master FScrb OC Max 50mL    12 05/18/25 E         86.44    86.44
+                                              3009222     
+ 3980700    2  Master FScrb OC Max 100g    24 05/30/25 E        155.87   311.74
+                                              18082216    
+ 5800214    1  Knorr Hot Meal ArrozCaldo32g 4 05/28/25 E         16.95    16.95
+                                              3bm3        
+ 5800216    1  Knorr Hot Meal Beef Goto 32g 4 05/29/25 E         16.95    16.95
+                                              2am3        
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          432.08
+                                                       Rundate 05/07/2025  15:38:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

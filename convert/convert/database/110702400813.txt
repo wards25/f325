@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110702400813
+                                                            Branch - 1070 Binangonan EM Complex(BIN.EM COMPLEXPANTOK )
+                                                            Prepared by - JESUSA S. BAGABALDO on 11/13/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CRISTINA R. OBLEA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    3  Surf FabCond Bl FrshSac25mL360          D          5.19    15.57
+                                              0           
+ 3870131    1  Dove Sh BK Strgt&Slky 10mL 288          D          5.59     5.59
+                                              0           
+ 3870311    1  Creamsilk Cond HFallDef180mL24          D        128.33   128.33
+                                              0           
+ 6200289    1  Surf FabCond BlsmFrs25mL6+1 50          D         31.16    31.16
+                                              0           
+ 6200290    1  Surf FabCond LuxePer25mL6+1 50          D         31.16    31.16
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          211.81
+                                                       Rundate 11/13/2024  20:23:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

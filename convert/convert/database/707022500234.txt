@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707022500234
+                                                            Branch - 702 CBO ORC(COR.GOV.GUTIRREZ AVE.& SINSUAT COT. CITY)
+                                                            Prepared by - MR. KENNOR BRENT JOHN PEGARRO on 06/28/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JORLYN T. UYTARANCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465907    1  Magnol Chzee Sqze Chdr 220g 24 10/24/25 D         70.23    70.23
+                                              X           
+ 3723286    5  Ding Dong Sup Mxd Nuts 100g 60 09/24/25 D         20.54   102.70
+                                              A8T         
+ 3723374    2  Ding Dong Snck Mx Chip&C95g 60 11/03/25 D         20.54    41.08
+                                              A2K         
+ 4113093    1  Magnol Real Mayonnaise 80mL 24 01/02/26 D         28.28    28.28
+                                              50308CB231  
+ 4136061    1  Kopiko Dble Cups Orig 33g  240 12/29/25 D          9.05     9.05
+                                              TGR290602024
+ 4510109    1  Mega Sard Nat Oil 155g      10 10/24/27 D         22.73    22.73
+                                              000011948   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          274.07
+                                                       Rundate 06/28/2025  17:35:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701202500202
+                                                            Branch - 120 Quezon City Araneta Center Farmers Plaza(GF ARTC FARMERS PLAZA CUBAO QC )
+                                                            Prepared by - ANALIZA A. BANQUIRAY on 06/11/2025
+                                                            Issued by - ________________________________
+                                                                         MR. LARSEN M. GACAD
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016298    1  555 Tuna Flakes Mchado 155g 50 01/13/28 D         26.68    26.68
+                                              2234        
+ 1016305    1  555 Tuna Spcy Cldrta 155g   50 04/25/28 D         26.68    26.68
+                                              1319        
+ 1016359    1  Century Tuna W/ Cal 155g    50 01/31/28 D         34.40    34.40
+                                              1437        
+ 1210457    1  Argentina Liver Sprd 85g    48 04/30/26 D         22.14    22.14
+                                              0345        
+ 3793299    5  Angel Kremdensada 2n1 410mL 24 04/30/26 D         57.10   285.50
+                                              21004       
+ 3793318    1  Birch Tree Forti AdltBst33g160 08/31/26 D         11.93    11.93
+                                              0747        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          407.33
+                                                       Rundate 06/11/2025  12:58:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

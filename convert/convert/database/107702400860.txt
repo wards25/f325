@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107702400860
+                                                            Branch - 770 Isulan Gallego(GALLEGO ST., KALAWAG 2, ISULAN SULTAN KUDARAT)
+                                                            Prepared by - LERCY C. CHIVA on 11/10/2024
+                                                            Issued by - ________________________________
+                                                                         GIESEL A. DAVID
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210406    4  Argentina Meat Loaf 250g    48 11/20/26 D         30.95   123.80
+                                              0           
+ 1210453    1  Shanghai Chnse LchMeat 375g 24 01/13/26 D         78.10    78.10
+                                              0           
+ 1210485    2  Argentina CBeef 100g        48 08/29/26 D         25.24    50.48
+                                              0           
+ 3048400    3  555 Sardines TS 155g       100 11/15/26 D         22.80    68.40
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          320.78
+                                                       Rundate 11/10/2024  11:38:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

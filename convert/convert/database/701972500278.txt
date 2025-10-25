@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701972500278
+                                                            Branch - 197 VALENZUELA MARULAS(VALENZUELA CITY MARULAS )
+                                                            Prepared by - MS. EVANGELINE SAN DIEGO on 05/08/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MAURA Y. LOPEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016288    1  555 Tuna Flakes VegOil 155g 50 10/12/27 D         29.68    29.68
+                                              21562       
+ 1210457    1  Argentina Liver Sprd 85g    48 05/30/25 E         22.14    22.14
+                                              04          
+ 3048435    2  555 Sardine Frd W/Tau 155g 100 04/28/27 D         31.83    63.66
+                                              0418        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          115.48
+                                                       Rundate 05/08/2025  17:46:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

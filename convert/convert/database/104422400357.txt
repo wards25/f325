@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104422400357
+                                                            Branch - 442 ROMB ODNGN MA RXS(ODIONGAN ROMBLON )
+                                                            Prepared by - JUDITH J. FAMISARAN on 08/20/2024
+                                                            Issued by - ________________________________
+                                                                         MR. RONNEL E. ROJAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    1  Royal Spaghetti 900g        18 10/11/25 D         97.00    97.00
+                                              25C         
+ 1102851    2  Del M Fiesta Frt Ctail 836g 24 08/01/24 F         84.94   169.88
+                                              L2348YYFRES4
+ 3780489    1  Fitbar Choc 22g             12 03/15/25 D         27.00    27.00
+                                              24Q15Y104   
+ 4100002    6  Kettle Korn Cheese 120g     30 01/11/25 D         36.25   217.50
+                                              MLM1        
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 07/21/24 D          5.87     5.87
+                                              C16B3       
+ 4110036    1  VitaCubes Frt Jelly Cdy 50g 10 10/18/24 D         18.00    18.00
+                                              BJ4         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          535.25
+                                                       Rundate 08/20/2024  13:24:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705072500100
+                                                            Branch - 507 Urdaneta City McArthur Hway(SAN VICENTE EAST URDANETA PANG )
+                                                            Prepared by - JERRY MAY A. OJERIO on 04/09/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    1  Magnol Low Fat Mlk 1L       12          D         96.08    96.08
+                                              859         
+ 3465910   10  Magnol Full Cr Mlk 200mL    36 03/20/25 F         25.56   255.60
+                                              40723G202A  
+ 3723390   18  Energen Mlk&Cer Dr Choc 40g240 04/28/25 E          7.01   126.18
+                                              0049        
+ 3780421    1  Diabetasol Choc 600g         3 04/21/25 E        883.20   883.20
+                                              0044        
+ 4110018   15  Choco Mucho Mlk Choc 30g    10 03/13/25 F          9.30   139.50
+                                              01313M      
+ 4110023    1  Rebisco Crackers 35g        10 03/09/25 F          5.87     5.87
+                                              R4B4        
+ 4113042    4  Magnol Chzee Sprd MlkyWh120g24 03/20/25 F         42.49   169.96
+                                              4:38        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,676.39
+                                                       Rundate 04/09/2025  13:21:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

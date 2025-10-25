@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272402178
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 11/09/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3817317    1  CDO Kaong Wh 340g           24 12/05/24 E         74.70    74.70
+                                              KW30203     
+ 3817320    7  CDO Kaong Red 340g          24 12/02/24 E         74.70   522.90
+                                              KR30202     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          597.60
+                                                       Rundate 11/09/2024  13:32:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

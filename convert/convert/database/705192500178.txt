@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705192500178
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - KYLLA CLAIRE P. DE GUZMAN on 03/07/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLE D. VILLAREAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009364    1  Ladys C Ham Sprd 220mL      24 12/30/24 F        122.60   122.60
+                                              240153      
+ 3050024    3  Baby Dove Bb Sh 200mL        6 04/06/25 E        215.21   645.63
+                                              22092       
+ 5800040    2  Baby Dove Bb Wash HTTSM190mL 6 01/23/25 F        176.84   353.68
+                                              230722      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,121.91
+                                                       Rundate 03/07/2025  15:35:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

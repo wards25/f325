@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702572500145
+                                                            Branch - 257 San Pedro City Nueva(SAN PEDRO NUEVA )
+                                                            Prepared by - GAIL C. PANGAN on 03/29/2025
+                                                            Issued by - ________________________________
+                                                                         MS LANY F. BUQUING
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870200    1  Dove Cond 1Min CrIntRep10mL288          D          6.22     6.22
+                                              NL          
+ 5800320    1  Ladys C Chck Sprd 80mL      36          D         34.85    34.85
+                                              NL          
+ 5800350    1  Ponds Age Mrcl DaySPF15 50mL12          D        703.98   703.98
+                                              NL          
+ 6200023    1  Surf Liq Chry Blossm 64mL  288          D          6.42     6.42
+                                              NL          
+ 6200024    2  Surf Liq Rose Fresh 64mL   288          D          6.42    12.84
+                                              NL          
+ 6200230    1  Surf FabCond Bl FrshSac40mL360          D          7.30     7.30
+                                              NL          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          771.61
+                                                       Rundate 03/29/2025  10:55:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

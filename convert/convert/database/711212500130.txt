@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711212500130
+                                                            Branch - 1121 LAGUNA LILIW POBLACION(1121 LAGUNA LILIW POBLACION )
+                                                            Prepared by - ADELSON D. BALLARES on 05/18/2025
+                                                            Issued by - ________________________________
+                                                                         ANNA MARIE T. URRIZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723590    1  Royal Cheesy R&T 1.6kg SP49 10          D        121.94   121.94
+                                              .           
+ 3900003    1  Diabetasol Choc 360g         3 07/14/25 E        609.20   609.20
+                                              .           
+ 4510220    1  Diabetasol Crmy Almnd 180g   3 08/23/25 E        328.00   328.00
+                                              .           
+ 4510224    3  Diabetasol Crmy Almnd 800g   3 08/31/25 E       1420.00  4260.00
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,319.14
+                                                       Rundate 05/19/2025  13:01:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

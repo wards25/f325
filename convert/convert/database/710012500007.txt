@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710012500007
+                                                            Branch - 1001 Teresa Magsaysay(MGSYSY AVE,SAN GABRIEL TERESA, RIZAL)
+                                                            Prepared by - ROSELLE D SERRANILLO on 01/04/2025
+                                                            Issued by - ________________________________
+                                                                         MS.ELENA M.RAYMUNDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760015    1  Bear Br StrlzedRTD200mLx4SP8 8 05/31/25 D         92.52    92.52
+                                              42340189ud  
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 05/31/25 D         12.37    24.74
+                                              41370597f1e1
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          117.26
+                                                       Rundate 01/04/2025  18:52:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120972400688
+                                                            Branch - 2097 AGUSAN DEL SUR BAYUGAN C NARRA(Bayugan City Narra )
+                                                            Prepared by - FELY A.BUQUE on 09/15/2024
+                                                            Issued by - ________________________________
+                                                                         BREINELL C. GASCO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850   56  Highland Reg Crnd Bf 150g   48          G         33.30  1864.80
+                                              HLCBR411    
+ 1221857   44  San Marino Blu Mckrl Stk180g48          G         56.25  2475.00
+                                              SMBMSS302   
+ 1225221   48  San Marino Crnd Tuna 180g   48          G         43.20  2073.60
+                                              SMCTR316    
+ 1225222   48  San Marino Crnd TunaChli180g48          G         43.20  2073.60
+                                              SMCCT366    
+ 4120006   79  Highland Crnd Bf 180g       48          G         57.15  4514.85
+                                              HLCBC415    
+ 4121005   51  San Marino Crnd TunaChli150g48          G         35.10  1790.10
+                                              SMCCT372    
+ 4121007   14  San Marino Crnd Tuna 150g   48          G         35.10   491.40
+                                              SMCCTR382   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       15,283.35
+                                                       Rundate 09/15/2024  13:41:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

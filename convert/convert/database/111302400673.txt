@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111302400673
+                                                            Branch - 1130 LAGUNA CABUYAO CITY BANAYBANAY( )
+                                                            Prepared by - ERNEL JOSEPH C. PANG-AO on 10/20/2024
+                                                            Issued by - ________________________________
+                                                                         RENATO P. GUINTO JR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723586    4  Royal Spag R&T Swt1.6kgSP49 10          D        121.94   487.76
+                                              .           
+ 3723669    2  Solbac Disinf Spr FLinen300g 6 11/30/24 E        199.36   398.72
+                                              .           
+ 4095042    1  Seoul Wh K SoapDbleWhtng180g12 12/31/24 E        132.00   132.00
+                                              .           
+ 4095043    6  Seoul Wh K SoapDbleWhtng270g12 02/28/25 E        164.00   984.00
+                                              .           
+ 4510100    1  Seoul Wh K SoapDbleW120g2+1F12 02/28/25 E        196.00   196.00
+                                              .           
+ 4510161    5  Seoul Wh K SoapByeAcBr&C120g12 02/28/25 E        132.00   660.00
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,858.48
+                                                       Rundate 10/21/2024  14:36:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106712400094
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE MIRA on 03/12/2024
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    1  Lipton Tea Yel Label 50     12 12/30/23 F        206.33   206.33
+                                              1758        
+ 3973030   10  Selecta FortiMlkStrlzed245mL24 03/15/24 E         24.88   248.80
+                                              MB0         
+ 4103091    1  Del M Spag Sce Ital Styl900g12 08/11/24 D         91.93    91.93
+                                              31011NF08   
+ 4103102   10  Del M Pot Crisp BsctSpcy50g 48 03/27/24 E         18.67   186.70
+                                              HADM1308601 
+ 4110040   20  Frootees Ckie Sbrry 32g     10 03/31/24 E          5.83   116.60
+                                              A2          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          850.36
+                                                       Rundate 03/12/2024  15:43:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

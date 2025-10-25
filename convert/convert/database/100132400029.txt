@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100132400029
+                                                            Branch - 13 Baclaran Quirino(MDC QUIRINO AVE BAC. PQUE )
+                                                            Prepared by - Joy Ann Salazar on 01/10/2024
+                                                            Issued by - ________________________________
+                                                                         Ms.Chyrel Buban
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103030    1  Del M Pine Jce W/VitACE1.36L12          D         98.00    98.00
+                                              01          
+ 1103591    1  Del M Pine Jce Fiber 220mL  24          D         30.80    30.80
+                                              01          
+ 1103985    2  Del M Pine Jce HeartS 220mL 24          D         30.80    61.60
+                                              01          
+ 1104031    3  Del M Pine Jce BoneSmrt220mL24          D         29.40    88.20
+                                              01          
+ 3048746    2  Suncoast Lgt Wat 650mL      24          D         18.00    36.00
+                                              01          
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24          D         20.25    20.25
+                                              1           
+ 4510155    1  Rite'n Lite Peach Dr 250mL  24          D         20.25    20.25
+                                              01          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          355.10
+                                                       Rundate 01/10/2024  12:59:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

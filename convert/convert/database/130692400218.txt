@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130692400218
+                                                            Branch - 3069 Mabalacat Great Mall( )
+                                                            Prepared by - LEONARDO B. GARCIA on 07/15/2024
+                                                            Issued by - ________________________________
+                                                                         LEONOR S. BULANADI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102996    3  Del M Elbow Macaroni 400g   25 08/28/24 E         69.02   207.06
+                                              2236B13     
+ 3254315   13  UFC Bnana Csup Reg 530g     18 08/17/24 E         38.71   503.23
+                                              CBD         
+ 4095043    2  Seoul Wh K SoapDbleWhtng270g12 01/30/24 F        164.00   328.00
+                                              RQ2K0083    
+ 4110018    8  Choco Mucho Mlk Choc 30g    10 07/17/24 F          9.30    74.40
+                                              B12M        
+ 4110019   11  Choco Mucho Wh Choc 30g     10 07/14/24 F          9.30   102.30
+                                              B10M        
+ 4110036    3  VitaCubes Frt Jelly Cdy 50g 10 08/18/24 E         18.00    54.00
+                                              AJ3         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,268.99
+                                                       Rundate 07/15/2024  16:53:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

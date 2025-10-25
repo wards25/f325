@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106862500233
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos )
+                                                            Prepared by - Perfecto Menes on 02/25/2025
+                                                            Issued by - ________________________________
+                                                                         Analiza L. Caluya
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562    1  Ladys C Mynaise 220mL       24 03/10/25 E        112.05   112.05
+                                              .           
+ 1010275    5  Ladys C Chck Sprd DPck220mL 24 03/27/25 E         95.30   476.50
+                                              2242252     
+ 3870359    1  Dove Sh Crmde InR170mL50%2nd12          D        235.94   235.94
+                                              .           
+ 5800320   10  Ladys C Chck Sprd 80mL      36 02/28/25 E         34.85   348.50
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,172.99
+                                                       Rundate 02/26/2025  14:24:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

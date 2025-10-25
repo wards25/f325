@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730072500646
+                                                            Branch - 3007 Vigan City Puregold(STA ELENA VIGAN CITY y)
+                                                            Prepared by - Melanie R. Rapanut on 09/02/2025
+                                                            Issued by - ________________________________
+                                                                         Vanessa A. Alconcel
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048425    8  555 Mackerel TS 155g       100 09/30/25 E         27.98   223.84
+                                              *           
+ 3793295    6  Angel Evaporada 410mL       48 09/30/25 E         30.55   183.30
+                                              *           
+ 3793298   28  Angel Condensada 380g       48 08/30/25 F         50.48  1413.44
+                                              *           
+ 4131034   16  Angel Creamer All Pur 370mL 24 09/30/25 E         48.43   774.88
+                                              *           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,595.46
+                                                       Rundate 09/02/2025  14:19:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

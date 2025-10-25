@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272401859
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 09/17/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584   10  Fiesta Fil SpagTpd1.6kgSP30 10 12/04/24 E        109.48  1094.80
+                                              56B2        
+ 3723588   48  Fiesta SpagheTpd Swt SP18   12 11/04/24 E         68.37  3281.76
+                                              58C2        
+ 3723589   20  Fiesta Spag TpdSwt1.6kgSP20 10 11/24/24 E        117.39  2347.80
+                                              56B2        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,724.36
+                                                       Rundate 09/17/2024  11:38:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

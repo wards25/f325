@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720612500173
+                                                            Branch - 2061 MGDNAO CBO ROSY HGHTS(SANTOS ST. cor SINSUAT AVE COT cITY)
+                                                            Prepared by - EMELDA B. ARABIS on 05/02/2025
+                                                            Issued by - ________________________________
+                                                                         SUNSHINE I. KARIM
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025056    1  Nescafe Crmy Wh 25.5g      240          D          8.20     8.20
+                                              X           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              X           
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         13.32    13.32
+                                              X           
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200          D         13.32    26.64
+                                              X           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           55.53
+                                                       Rundate 05/07/2025  16:40:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

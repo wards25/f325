@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701222500019
+                                                            Branch - 122 QZN AV RSVELT( )
+                                                            Prepared by - IRICA V. LIMSON - D2 on 02/12/2025
+                                                            Issued by - ________________________________
+                                                                         Mr. Jerry D. Sosa
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 10/31/25 D         12.37    12.37
+                                              43000697TI  
+ 4530032    2  Nan Al 110 Lacto Free 400g   4 10/31/24 E        976.64  1953.28
+                                              30990346AD  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,965.65
+                                                       Rundate 02/12/2025  10:12:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

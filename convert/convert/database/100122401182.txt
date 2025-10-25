@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100122401182
+                                                            Branch - 12 Quezon City Cubao Pinatubo(12 CUBAO PINATUBO )
+                                                            Prepared by - jhing on 10/26/2024
+                                                            Issued by - ________________________________
+                                                                         MR. CHRISTOPHER P. MONDERO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039296    6  Surf Pdr Chrry Blssm 50g   288          D          6.13    36.78
+                                              nolot       
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              nolot       
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              molot       
+ 3870142    2  Sunsilk Sh S&L30%More13mL  288          D          5.59    11.18
+                                              nolot       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           60.22
+                                                       Rundate 10/26/2024  11:55:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104622401517
+                                                            Branch - 462 Paranaque City Sucat Interchange(SUCAT INTERCHANGE )
+                                                            Prepared by - Joeven Parada - District 24 on 12/17/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3551927    1  Suncoast Vit Bst Or 600mL   24          D         35.70    35.70
+                                              0           
+ 3723584    2  Fiesta Fil SpagTpd1.6kgSP30 10          D        109.48   218.96
+                                              0           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              0           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         11.26    11.26
+                                              0           
+ 3856643    2  UFC Sweet Chili Sce 340g    24          D         37.76    75.52
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          352.92
+                                                       Rundate 12/17/2024  09:50:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

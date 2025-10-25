@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103712400097
+                                                            Branch - 371 PC LBRTY COMML COMPLX(371 PASAY LIBERTY 552896)
+                                                            Prepared by - PAUL H. MODANCIA on 01/26/2024
+                                                            Issued by - ________________________________
+                                                                         MR. JEFFREY D. CASTRO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24          D         28.00    28.00
+                                              .           
+ 1103985    1  Del M Pine Jce HeartS 220mL 24          D         30.80    30.80
+                                              .           
+ 4110036    6  VitaCubes Frt Jelly Cdy 50g 10 01/28/24 E         18.00   108.00
+                                              AJ3         
+ 4160035    2  Bubble Man DLiq Lem 270mLx2 10 02/26/24 E         46.26    92.52
+                                              .           
+ 4510074    1  Axion DLiq Kal Ref 190mL    10          D         40.22    40.22
+                                              .           
+ 4510155    1  Rite'n Lite Peach Dr 250mL  24          D         20.25    20.25
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          319.79
+                                                       Rundate 01/26/2024  17:05:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

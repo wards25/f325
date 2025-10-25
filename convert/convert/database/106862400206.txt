@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106862400206
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos )
+                                                            Prepared by - Perfecto Menes on 02/10/2024
+                                                            Issued by - ________________________________
+                                                                         Analiza L. Caluya
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    4  Del M Fit N RghtBurnApl330mL24 02/22/24 E         30.80   123.20
+                                              .           
+ 1103962    2  Del M Fit N RghtBurn4sn330mL24 01/17/23 E         30.80    61.60
+                                              .           
+ 1103963    1  Del M Fit N RghtBurnPne330mL24 01/15/23 E         30.80    30.80
+                                              .           
+ 3007482    1  St Ives Lot Clgn Elastin621mL4          D        351.12   351.12
+                                              .           
+ 3254310    1  UFC Bnana Csup Reg 320g     24          D         23.40    23.40
+                                              .           
+ 3623291    1  Musli Oat Bisc Choc 60g     24          D         31.50    31.50
+                                              .           
+ 3623297    2  Pfanner Plum/Prune Jce 1L    8 02/20/24 E        125.10   250.20
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          871.82
+                                                       Rundate 02/10/2024  09:36:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

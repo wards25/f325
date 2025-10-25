@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111422400259
+                                                            Branch - 1142 CAVITE KAWIT V CENTRAL MALL(1142 CAVITE KAWIT V CENTRAL MA LL)
+                                                            Prepared by - LEN DIAZ on 02/27/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MICHELLE C.SEBASTIAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723389   10  Energen Mlk&Cer Dr Vnla 40g240 06/30/24 D          7.01    70.10
+                                              02507       
+ 3723390    8  Energen Mlk&Cer Dr Choc 40g240 06/30/24 D          7.01    56.08
+                                              0001        
+ 4510097    1  Porma Shoe Shine Spr 120mL  12 09/30/24 E        158.08   158.08
+                                              01092421    
+ 4510153    1  Rite'n Lite Lych+Rse Dr250mL24 12/16/24 D         22.13    22.13
+                                              SF5         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          306.39
+                                                       Rundate 02/27/2024  12:13:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

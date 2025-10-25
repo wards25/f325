@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130192400097
+                                                            Branch - 3019 Bayombong LB Perez( )
+                                                            Prepared by - YOLANDA JOY T. MARCOS on 04/19/2024
+                                                            Issued by - ________________________________
+                                                                         ARNEL A. DELA CRUZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    7  Del M Fit N RghtBurnApl330mL24 01/22/24 F         30.80   215.60
+                                              SBIC        
+ 3551926    1  Suncoast Vit Bst Gpe 600mL  24 11/18/24 D         35.70    35.70
+                                              G5          
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 09/25/24 D         20.16    20.16
+                                              .           
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 10/06/24 D         20.25    20.25
+                                              SBT03621259 
+ 3973046    1  Selecta Forti Mlk LFat1Lx2SP 6 04/03/24 F        156.12   156.12
+                                              46C58M0     
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 01/25/23 F          6.83     6.83
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          454.66
+                                                       Rundate 04/20/2024  12:35:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

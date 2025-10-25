@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104222400528
+                                                            Branch - 422 Vigan City Alcantara(IL SUR VIGAN ALCANTARA )
+                                                            Prepared by - Misniwati E. Cabuloy on 07/24/2024
+                                                            Issued by - ________________________________
+                                                                         Shermeine R. Bugarin
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109346   37  Nescafe Clssc Ref 46g       60 08/31/24 E         39.00  1443.00
+                                              .           
+ 4025056    1  Nescafe Crmy Wh 25.5g      240 04/30/24 F          8.20     8.20
+                                              .           
+ 4025239   88  Nestle CarnationCndnsda388mL48 08/21/24 E         59.81  5263.28
+                                              .           
+ 4530000    7  Starbucks Latte DShtEsp220mL24 08/29/24 E         76.00   532.00
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,246.48
+                                                       Rundate 07/24/2024  11:26:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

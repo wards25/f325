@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101682400034
+                                                            Branch - 168 San Miguel Poblacion(SAN JOSE SAN MIGUEL BULACAN )
+                                                            Prepared by - Ramil/Ces/may on 01/22/2024
+                                                            Issued by - ________________________________
+                                                                         Ana Marie Duran
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    2  Del M Pine Jce 220mL        24 08/01/25 D         28.00    56.00
+                                              L3221YY     
+ 1103030    1  Del M Pine Jce W/VitACE1.36L12 08/01/25 D         98.00    98.00
+                                              L3225YY     
+ 1103188    2  Del M Spag Sce ItalStyle250g24 02/18/25 D         34.54    69.08
+                                              32911NC01   
+ 1103950    1  Del M Tmto Paste 150g       48 07/21/24 D         29.40    29.40
+                                              32021NHO5   
+ 1148939    2  Selecta Forti Mlk LowFat 1L 12 02/11/24 E         91.92   183.84
+                                              52A6JBO     
+ 3723587    6  Fiesta SpagheTpd 3ChseSP18  12 02/06/24 E         68.76   412.56
+                                              56E2        
+ 4103065    2  Del M Tmto Sce OrigStyl 250g48 04/30/24 D         25.43    50.86
+                                              3004TJ      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          899.74
+                                                       Rundate 01/22/2024  15:28:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

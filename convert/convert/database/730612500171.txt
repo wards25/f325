@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730612500171
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B. MEDRANO on 07/29/2025
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016251    1  Century Flakes Adobo Jr 155g50 10/30/26 D         32.85    32.85
+                                              .           
+ 1016285    5  555 Tuna Flakes Adobo 155g  50 01/21/27 D         27.48   137.40
+                                              .           
+ 1016298   14  555 Tuna Flakes Mchado 155g 50 10/22/25 D         26.68   373.52
+                                              164IG       
+ 3048425    5  555 Mackerel TS 155g       100 07/03/25 F         27.98   139.90
+                                              CM11D       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          683.67
+                                                       Rundate 07/29/2025  15:59:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111222401527
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - NERI PEREZ on 07/15/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102966    7  Del M Chunks Pine 227g      24 07/01/21 E         32.66   228.62
+                                              2143yy      
+ 3623283    7  Apple&E 100%Jce ApOrgncs1.42L8 08/28/24 E        323.10  2261.70
+                                              n/az        
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 07/21/24 E        121.94   121.94
+                                              43061210323s
+ 3723590    1  Royal Cheesy R&T 1.6kg SP49 10 07/08/24 E        121.94   121.94
+                                              58c1        
+ 4103093    5  Del M Tmto Sce Fil Styl900g 12 08/22/24 E         77.42   387.10
+                                              31421np10   
+ 4103101    3  Del M SpagFilStylPrtyPckSP42 8 08/25/24 E        133.46   400.38
+                                              3237dz      
+ 4113086    4  Magnol All-Pur Flour 400g   30 08/21/24 E         38.90   155.60
+                                              308271g587  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,677.28
+                                                       Rundate 07/15/2024  16:15:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

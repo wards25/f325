@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711412500102
+                                                            Branch - 1141 Kalookan City Deparo(1141 KALOOKAN CITY DEPARO )
+                                                            Prepared by - LENA D5 on 03/22/2025
+                                                            Issued by - ________________________________
+                                                                         MR. ARIEL B. NOLASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138820    1  Purefood Vie Ssge 230g      48 01/31/25 F         51.12    51.12
+                                              3021156A    
+ 3695266    1  Magnol Panck&Waffle Mix400g 24 03/12/25 F         51.44    51.44
+                                              4071510416  
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12 10/22/26 D         44.25    44.25
+                                              102224      
+ 3723644    2  Energen Champion Choc TP30g120 03/07/25 F         14.24    28.48
+                                              1844T       
+ 3856631    2  Datu Puti Wh Vin 350mL      24 11/05/25 D         16.39    32.78
+                                              23K11M      
+ 4110022    2  Rebisco Hansel MchaSandw 32g10 03/16/25 F          5.87    11.74
+                                              NO LOT      
+ 4113068    4  Magnol All-Pur Crm Orig250mL24 02/05/25 F         60.61   242.44
+                                              406010G     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          462.25
+                                                       Rundate 03/22/2025  09:15:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

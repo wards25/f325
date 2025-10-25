@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704092500069
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - ABOLANTE/D.DASALLA on 02/23/2025
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3695262   32  Magnol Panck+W/Sbrry Syr200g48 02/19/25 E         32.77  1048.64
+                                              4062415351  
+ 3695264   12  Magnol Panck&Waffle Mix180g 48 03/20/25 E         25.93   311.16
+                                              408021d490  
+ 4100002    1  Kettle Korn Cheese 120g     30 06/05/25 D         39.74    39.74
+                                                    EXD05 
+ 4100010    1  Kettle KornCheese120gx2SP10 16 06/05/25 D         62.43    62.43
+                                              EXD05       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,461.97
+                                                       Rundate 02/23/2025  14:07:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

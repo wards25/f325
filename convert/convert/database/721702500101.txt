@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721702500101
+                                                            Branch - 2170 Zamboanga Sto. Nino San Jose( )
+                                                            Prepared by - PRINCESS E. TEJANO on 02/09/2025
+                                                            Issued by - ________________________________
+                                                                         CHRIS GELROB LUKE C. DA¥OS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254310    1  UFC Bnana Csup Reg 320g     24 12/18/24 F         23.40    23.40
+                                              vbm         
+ 3413870    1  Nagaraya Crkr Nut Orig 160g 48 08/14/25 D         41.27    41.27
+                                              cds         
+ 3615299    1  San Mig Coff 3N1 Orig 20g  240 07/14/26 D          5.76     5.76
+                                              wes         
+ 3856631    1  Datu Puti Wh Vin 350mL      24 08/17/25 D         15.91    15.91
+                                              asd         
+ 4136024    1  Kopiko Blanca Coff 30g     240 01/18/26 D          7.78     7.78
+                                              vdc         
+ 4510107    2  Mega Sard In TS 155g        10 05/19/27 D         21.60    43.20
+                                              cdf         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          137.32
+                                                       Rundate 02/09/2025  12:41:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

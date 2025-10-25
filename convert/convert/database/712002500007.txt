@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712002500007
+                                                            Branch - 1200 Bulacan Waltermart Malolos(BULACAN WALTERMART MALOLOS CI TY MALOLOS BULACAN)
+                                                            Prepared by - MHAYE V ICTORIA on 01/08/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MYRA F. ESPINOZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530000    2  Starbucks Latte DShtEsp220mL24 02/01/25 D         76.00   152.00
+                                              1701        
+ 4530045    1  Nestle Frsh Mlk 1000mLx2SP15 7 08/13/25 D        197.10   197.10
+                                              201407      
+ 4530051    2  Nescafe Ice Blk Can 220mL   24 05/25/25 D         34.62    69.24
+                                              4147b467b1  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          418.34
+                                                       Rundate 01/08/2025  09:45:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

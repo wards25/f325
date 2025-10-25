@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704452500058
+                                                            Branch - 445 Calasiao McArthur Hway(CALASIAO PANGASINAN)
+                                                            Prepared by - CM.CLAVERIA\N.LIM\S.FERRER on 03/14/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MARIA NATIVIDAD G. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915    1  Selecta Forti Mlk 1L        12 09/09/24 E         85.46    85.46
+                                              1APP        
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 09/14/24 E         91.92    91.92
+                                              14C6RLO     
+ 1165709    9  Magnol Chzee Sprd Pln 120g  24 04/03/25 E         45.25   407.25
+                                              40905TCB20  
+ 3465907   17  Magnol Chzee Sqze Chdr 220g 24 04/30/25 E         70.23  1193.91
+                                              41002UAJIA  
+ 3856650   19  Mang Tomas Hot&Spcy 325g    24 03/11/25 E         34.20   649.80
+                                              cbd         
+ 4510220    2  Diabetasol Crmy Almnd 180g   3 04/05/25 E        328.00   656.00
+                                              23005011LI  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,084.34
+                                                       Rundate 03/14/2025  10:40:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

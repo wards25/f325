@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120692400450
+                                                            Branch - 2069 Bansalan Poblacion Dos(RAMON DE LOS CIENTOS ST. BANSALAN DVO DS)
+                                                            Prepared by - MS. NANCY LOU S. PALIGSA on 10/04/2024
+                                                            Issued by - ________________________________
+                                                                         MS. JESSIE P. MAGUAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009222    1  Ladys C Bcon Sprd 220mL     24 10/13/24 E        122.60   122.60
+                                              232951      
+ 1010200    3  Ladys C Tuna Sprd 220mL     24 10/16/24 E        122.60   367.80
+                                              1234271     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          490.40
+                                                       Rundate 10/04/2024  12:12:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

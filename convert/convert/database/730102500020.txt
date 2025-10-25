@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730102500020
+                                                            Branch - 3010 PANG BYMBNG PUB MK(PUBLIC MARKET BAYAMBANG PANGASINAN)
+                                                            Prepared by - K.ESTEBA/J.ZABALA/M.VALLO on 01/18/2025
+                                                            Issued by - ________________________________
+                                                                         ROSEMARIE D. MACARAEG
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 04/30/25 E         12.37    24.74
+                                              40980601HA  
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 04/30/25 E         12.27    12.27
+                                              41140601    
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           37.01
+                                                       Rundate 01/18/2025  10:15:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

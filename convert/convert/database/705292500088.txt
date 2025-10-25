@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705292500088
+                                                            Branch - 529 Sta. Cruz Poblacion( )
+                                                            Prepared by - Eunice R. Quezada on 06/12/2025
+                                                            Issued by - ________________________________
+                                                                         Kris Kimberly Palomares
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   48  Nestle Frsh Mlk 250mL       24 05/24/25 F         36.23  1739.04
+                                              n/a         
+ 4014031    1  Nestle Chuckie Cal-N 180mL  32          D         21.73    21.73
+                                              n/a         
+ 4025099  144  Nestle KKrunch 35g          72 05/16/25 F         16.36  2355.84
+                                              n/a         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,116.61
+                                                       Rundate 06/12/2025  11:30:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

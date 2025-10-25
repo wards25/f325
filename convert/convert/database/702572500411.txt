@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702572500411
+                                                            Branch - 257 San Pedro City Nueva(SAN PEDRO NUEVA )
+                                                            Prepared by - ABEGAIL C. PANGAN on 10/04/2025
+                                                            Issued by - ________________________________
+                                                                         MR. BALTAZAR M. AQUINO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 19g        144 10/31/25 E         18.57    18.57
+                                              42830604    
+ 4025037    1  Nescafe 3n1 CrmyLatte20g   240 05/31/25 D          8.20     8.20
+                                              51448985    
+ 4530026    1  Nescafe Original SF TPck23g100 07/31/26 D         13.21    13.21
+                                              5199060     
+ 4530041   13  Nestle Trix Bfast Cer 20g  120 11/14/25 E         13.64   177.32
+                                              43540631    
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          217.30
+                                                       Rundate 10/04/2025  13:44:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

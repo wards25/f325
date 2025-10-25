@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711242500016
+                                                            Branch - 1124 Bulacan San Miguel Poblacion Tecson(1124 BUL. SAN MIGUEL TECSON )
+                                                            Prepared by - ALMA/MAX/LYN on 01/27/2025
+                                                            Issued by - ________________________________
+                                                                         MR. GERUEL M. GERALDE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723687    2  RC Cola 1.5L                 6 12/30/24 E         47.25    94.50
+                                              SBT0324     
+ 4510069   22  Axion DLiq Lem 250mL 50% 2nd20 01/20/25 E         98.79  2173.38
+                                              2166        
+ 4510195    1  Nachitos TortillaChipBbq410g10 01/08/25 E        113.90   113.90
+                                              A1          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,381.78
+                                                       Rundate 01/27/2025  13:56:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107242400536
+                                                            Branch - 724 Ozamiz City Rizal(0724 OZAMIZ CITY RIZAL Y)
+                                                            Prepared by - HAZEL C. ADLAON on 09/29/2024
+                                                            Issued by - ________________________________
+                                                                         LEOFEL S. CLAVANO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009333    3  Royal Elbow Macaroni 400g   30          D         60.97   182.91
+                                              0522        
+ 3413874    1  Nagaraya SwtMni PretSgrC30g100          D          7.61     7.61
+                                              24004       
+ 3465855    3  Magnol Frsh Mlk 1L          12          D         96.08   288.24
+                                              F107        
+ 3465909    1  Magnol Chzee Sqze Pmnto 220g24          D         78.52    78.52
+                                              40224UAJ29  
+ 3723625    2  Kopiko Blanca TwnPckCoff58g120          D         11.48    22.96
+                                              1140TGR23040
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         11.26    11.26
+                                              1142TGR14060
+ 3856637   30  UFC GldnFstaCkingOilPet485mL24 10/19/24 E         71.73  2151.90
+                                              22130M340834
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,743.40
+                                                       Rundate 09/29/2024  21:11:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

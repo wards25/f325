@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130192400189
+                                                            Branch - 3019 Bayombong LB Perez( )
+                                                            Prepared by - JANYLIN A. SALADINO on 08/25/2024
+                                                            Issued by - ________________________________
+                                                                         ARNEL A. DELA CRUZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10          D        121.94   121.94
+                                              .           
+ 3723587    6  Fiesta SpagheTpd 3ChseSP18  12 04/04/24 F         68.76   412.56
+                                              .           
+ 3723588    4  Fiesta SpagheTpd Swt SP18   12 05/17/24 F         68.37   273.48
+                                              .           
+ 4180019    3  Mega Tuna Flks SpnshStyl155g50 05/20/23 F         36.90   110.70
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          918.68
+                                                       Rundate 08/25/2024  20:39:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

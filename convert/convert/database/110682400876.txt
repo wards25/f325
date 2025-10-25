@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110682400876
+                                                            Branch - 1068 Valenzuela City Marulas McArthur(D9-1068 VAL.CITY MARULAS MCART HUR HWAY)
+                                                            Prepared by - MS.ALMA MONTE DE RAMOS on 07/21/2024
+                                                            Issued by - ________________________________
+                                                                         MS.LEI LUBI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009518    1  Royal Spaghetti 400g        35          I         58.67    58.67
+                                              no lot #    
+ 1102998    1  Del M Salad Macaroni 400g   25 12/15/24 I         69.02    69.02
+                                              2349b13     
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 04/18/25 I         20.25    20.25
+                                              001110048   
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 10/25/25 I         11.22    11.22
+                                              0816slg25040
+ 4100002    1  Kettle Korn Cheese 120g     30 11/06/24 I         36.25    36.25
+                                              mlm1        
+ 4103065    1  Del M Tmto Sce OrigStyl 250g48 06/20/25 I         25.43    25.43
+                                              4080inc08   
+ 4510197    1  Nachitos TortillaChipChs410g10 09/17/24 I        108.80   108.80
+                                              a16         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          329.64
+                                                       Rundate 07/21/2024  15:53:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  I-Loose Tablet Items (Factory Defect)

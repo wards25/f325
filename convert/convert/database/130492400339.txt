@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130492400339
+                                                            Branch - 3049 N. ECIJA TALAVERA WALTERMART(TALAVERA WALTERMART TALAVERA NUEVA ECIJA)
+                                                            Prepared by - MELVIN R. BUIZON on 09/04/2024
+                                                            Issued by - ________________________________
+                                                                         RYAN CHRISTOPHER F. CARREON
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016288    1  555 Tuna Flakes VegOil 155g 50 10/14/25 D         29.68    29.68
+                                              1548G       
+ 1210485    6  Argentina CBeef 100g        48 07/07/24 F         25.24   151.44
+                                              ACB109      
+ 4131012    1  Hope In A Bot PurifdWat500mL24 07/19/24 F         11.27    11.27
+                                              16322       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          192.39
+                                                       Rundate 09/04/2024  15:27:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707472500240
+                                                            Branch - 747 Davao City Buhangin(Buhangin, Davao City )
+                                                            Prepared by - Ms. Michelle S.Terec on 10/13/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Melanie S. Lauren
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    4  Nescafe Clssc 1.9g        1008 08/31/26 D          3.02    12.08
+                                              51310602F   
+ 3748436    1  Nestea Lem ITea 19g        144 03/31/26 D         18.57    18.57
+                                              SBT50850620L
+ 4025056    1  Nescafe Crmy Wh 20g        240 05/31/26 D          8.20     8.20
+                                              51288985A   
+ 4530115    6  Milo Choco Malt Pdr 24g    504 10/31/25 E          8.58    51.48
+                                              50428985D   
+ 4530123    2  Milo Choco Malt PdrTwnPk48g256 03/31/26 D         16.63    33.26
+                                              51960601B1  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          123.59
+                                                       Rundate 10/12/2025  15:06:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

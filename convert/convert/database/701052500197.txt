@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701052500197
+                                                            Branch - 105 Quezon City Novaliches Susano(SUSANO NOVA Q.C. )
+                                                            Prepared by - NHESSA BOSQUE on 04/05/2025
+                                                            Issued by - ________________________________
+                                                                         MS. NOEMI E. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 04/30/25 E        102.06   102.06
+                                              x           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              x           
+ 4530001    9  Starbucks Mocha DshtEsp220mL24 04/24/25 E         76.00   684.00
+                                              x           
+ 4530020    2  Nestle Chuckie CN250mLx4P110 8 04/30/25 E        102.80   205.60
+                                              x           
+ 4530041   26  Nestle Trix Bfast Cer 20g  120 05/10/25 E         13.64   354.64
+                                              x           
+ 4530043    7  Nestle Trix Bfast Cer 160g  18 05/10/25 E        111.82   782.74
+                                              x           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,142.36
+                                                       Rundate 04/05/2025  13:34:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

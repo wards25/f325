@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721032500098
+                                                            Branch - 2103 DAVAO DEL NORTE PANABO CITY SAN FRANCISCO(PANABO SAN FRANCISCO PANABO CITY)
+                                                            Prepared by - JUNDEL MAY S. CAGA on 05/16/2025
+                                                            Issued by - ________________________________
+                                                                         JILIN C. BUENA, RPh
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760013    4  Nescafe Clssc Sulit Pck 10g 80 04/30/25 G          9.52    38.08
+                                              3293019ODA  
+ 4025177    1  Nescafe Original 26g       520 07/30/25 D          7.37     7.37
+                                              42015       
+ 4530026    1  Nescafe Original SF TPck23g100 06/30/25 D         13.21    13.21
+                                              A177060EID2 
+ 4530053    6  Nescafe Mocha Can 220mL     24 04/27/25 F         34.62   207.72
+                                              4119B467B3  
+ 4530061    1  Nan Al 110 Lacto Free 400g   6 12/31/25 D       1046.73  1046.73
+                                              41680346AB  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,313.11
+                                                       Rundate 05/16/2025  21:01:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired     G-Deleted

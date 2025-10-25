@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272402187
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 11/09/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025177    2  Nescafe Original 26g       520          D          7.37    14.74
+                                              X           
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200          D         12.37    12.37
+                                              X           
+ 4025239   14  Nestle CarnationCndnsda388mL48 11/27/24 E         64.49   902.86
+                                              333115507   
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          929.97
+                                                       Rundate 11/09/2024  14:01:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

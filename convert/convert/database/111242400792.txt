@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111242400792
+                                                            Branch - 1124 Bulacan San Miguel Poblacion Tecson(1124 BUL. SAN MIGUEL TECSON )
+                                                            Prepared by - ALMA/MAX/LYN on 10/10/2024
+                                                            Issued by - ________________________________
+                                                                         Mr.MAXIMO/ MS. MERLYN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723687    2  RC Cola 1.5L                 6 08/07/24 E         47.25    94.50
+                                              sbt03620    
+ 4136006  100  Kopiko Brn Coff 27.5g      240 09/15/24 E          6.80   680.00
+                                              0931tgr     
+ 4136010   33  Kopiko Blck 3-N-1 Coff 30g 240 10/11/24 E          6.80   224.40
+                                              0240tgr     
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          998.90
+                                                       Rundate 10/10/2024  12:27:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

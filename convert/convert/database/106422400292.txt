@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106422400292
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN A. ANGULO/E.L.NATIVIDAD on 07/19/2024
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016251    4  Century Flakes Adobo Jr 155g50 07/26/24 E         32.85   131.40
+                                              1615G       
+ 1016298    1  555 Tuna Flakes Mchado 155g 50 07/08/24 F         26.68    26.68
+                                              17303       
+ 3793310    4  Vita Coco Coconut Water330mL12 05/20/23 F         36.46   145.84
+                                              0           
+ 3793320   17  Birch Tree Forti Mlk Pdr300g24 07/31/24 E         88.78  1509.26
+                                              BT          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,813.18
+                                                       Rundate 07/20/2024  16:36:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

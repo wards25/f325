@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 131032400269
+                                                            Branch - 3103 Bulacan Baliwag City Poblacion BS Aquino( )
+                                                            Prepared by - ELIZA SHAYNE DV. BELGICA on 12/21/2024
+                                                            Issued by - ________________________________
+                                                                         JAIME L. NOCOM
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   44  Magnol Daily Quezo 160g     48 11/18/24 F         33.27  1463.88
+                                              40621       
+ 3465906    3  Magnol Chzee Sqze Chdr 115g 24 12/12/24 F         37.88   113.64
+                                              40516       
+ 3465907   13  Magnol Chzee Sqze Chdr 220g 24 12/29/24 E         70.23   912.99
+                                              40602       
+ 3465908    4  Magnol Chzee Sqze Pmnto 115g24 01/06/25 F         37.88   151.52
+                                              40610       
+ 3465909   10  Magnol Chzee Sqze Pmnto 220g24 12/15/24 F         74.84   748.40
+                                              40519       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,390.43
+                                                       Rundate 12/21/2024  15:09:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

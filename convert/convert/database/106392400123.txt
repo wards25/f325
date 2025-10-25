@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106392400123
+                                                            Branch - 639 Mangaldan Rizal(RIZAL ST.,POBLACION, MANGALDAN PANGASINAN)
+                                                            Prepared by - DE VERA,M/TORALBA,R/MOLINA,M on 03/21/2024
+                                                            Issued by - ________________________________
+                                                                         MR. HAROLD B. PUNZAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24          D         20.25    20.25
+                                              SF5         
+ 3723625    2  Kopiko Blanca TwnPckCoff58g120 05/25/25 D         11.22    22.44
+                                              1726        
+ 3723644   28  Energen Champion Choc TP30g120 07/04/24 D         13.60   380.80
+                                              0407030008  
+ 3900003    1  Diabetasol Choc 360g         3 04/24/24 E        609.20   609.20
+                                              22U2401DH   
+ 4110019   12  Choco Mucho Wh Choc 30g     10 02/27/24 E          9.30   111.60
+                                              B2M         
+ 4136010    2  Kopiko Blck 3-N-1 Coff 30g 240 08/06/24 D          6.83    13.66
+                                              0602020985  
+ 4136061    2  Kopiko Dble Cups Orig 33g  240 06/19/24 D          7.86    15.72
+                                              1912010245  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,173.67
+                                                       Rundate 03/21/2024  10:28:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

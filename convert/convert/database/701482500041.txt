@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701482500041
+                                                            Branch - 148 Meycauayan City McArthur Hway(MEYCAUAYAN McARTHUR HIGHWAY )
+                                                            Prepared by - Mellany Adrias on 01/16/2025
+                                                            Issued by - ________________________________
+                                                                         MR.ORBITO S. HIPOLITO JR.
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048746    1  Suncoast Lgt Wat 650mL      24 11/05/25 D         18.00    18.00
+                                              S15         
+ 3413871    1  Nagaraya Crkr Nut Adbo 160g 48 08/13/25 D         41.27    41.27
+                                              24866       
+ 3606298    1  Jimms 7in1 Coffee Mix 21g   12 08/12/26 D         11.05    11.05
+                                              4053L5      
+ 3723562    2  Musli OatCrnchyBbry&Rbry375g14 12/16/24 E        160.65   321.30
+                                              16292       
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 05/09/26 D         11.48    11.48
+                                              41552       
+ 3856663    8  Locally Gybano Jce Dr 240mL 24 02/21/25 E         25.08   200.64
+                                              LYGYB       
+ 4095052    2  Seoul Wh K Soap Whip 120g   12 03/31/25 E        196.00   392.00
+                                              31116       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          995.74
+                                                       Rundate 01/16/2025  18:32:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

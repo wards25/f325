@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705092500173
+                                                            Branch - 509 Narra Nat'l Hway(PALAWAN-NARRA )
+                                                            Prepared by - NELIZA GRACE J. VALDEZ on 09/22/2025
+                                                            Issued by - ________________________________
+                                                                         MERCE FE A. PEREZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO LOGISTICS INC (79445  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 6200041   13  Dove Cond 1Min SrAR10mLB6G1 48          D         37.34   485.42
+                                              1           
+ 6200057    6  Dove Cond 1Min SrIR10mLB6G1 48          D         37.34   224.04
+                                              1           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          709.46
+                                                       Rundate 09/22/2025  16:08:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

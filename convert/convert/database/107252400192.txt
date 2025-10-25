@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107252400192
+                                                            Branch - 725 Calbayog City Magsaysay(MAGSAYSAY ST. CALBAYOG CITY)
+                                                            Prepared by - ANNE KATHLEEN G CALVO on 04/26/2024
+                                                            Issued by - ________________________________
+                                                                         JONAS B. DOGUILES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104030    1  Del M Pine-Or Jce Tetra 1L  12 08/19/24 D         87.31    87.31
+                                              L323113     
+ 1104088    1  Del M Melon Cucumber Jce 1L 12 08/09/24 D         87.31    87.31
+                                              SB1C9       
+ 1147304    2  Sunkist Frt Dr Mgo 235mL    24 08/23/24 D         20.05    40.10
+                                              F1V2T0      
+ 1147360    1  Selecta Moo Choc 245mL      24          D         28.36    28.36
+                                              1           
+ 4096030    2  Del M Tidbits Pine 115g     48 01/25/25 D         14.70    29.40
+                                              4031MEGL    
+ 4103059    2  Del M Tmto Sce FilStyl 250g 48          D         22.35    44.70
+                                              3045TFM01   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          317.18
+                                                       Rundate 04/26/2024  13:31:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720532500235
+                                                            Branch - 2053 Kapatagan Poblacion(2053 LDN KAPATAGAN POBLACION LANAO DEL NORTE)
+                                                            Prepared by - JULIUS R. MERAMBEL on 06/26/2025
+                                                            Issued by - ________________________________
+                                                                         JONA R. ANDALES
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035690   74  Ligo Sard In TS Chili 155g 100 07/20/25 E         23.98  1774.52
+                                              LHTD06      
+ 4131045    1  Birch Tree Forti Mlk Pdr925g12 07/31/26 D        229.69   229.69
+                                              64028N      
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,004.21
+                                                       Rundate 06/26/2025  16:14:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130452400648
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - MARK C LEDDA on 10/02/2024
+                                                            Issued by - ________________________________
+                                                                         DINO N. NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413871    1  Nagaraya Crkr Nut Adbo 160g 48 05/07/25 D         41.27    41.27
+                                              .           
+ 3551928    3  Suncoast Vit BstSbryKwi600mL24 09/20/24 F         35.70   107.10
+                                              .           
+ 3623292    1  Musli Oat Bisc Hzlnut 60g   24 03/16/25 D         31.50    31.50
+                                              .           
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 02/04/25 D         20.16    20.16
+                                              .           
+ 3723317    1  Beng-Beng ChocCrmlWfer26.5g120          D          8.09     8.09
+                                              .           
+ 3723566    1  Musli OatCrnchySbry&Almd375g14 12/12/24 D        160.65   160.65
+                                              .           
+ 3780424    1  Diabetasol Vnla 600g         3 04/26/25 D        883.20   883.20
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,251.97
+                                                       Rundate 10/02/2024  09:32:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

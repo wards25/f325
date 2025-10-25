@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730152500048
+                                                            Branch - 3015 Cabiao JA Santos Ave.(MD 3015 CABIAO JASA )
+                                                            Prepared by - JERICH V. VIESCA on 04/12/2025
+                                                            Issued by - ________________________________
+                                                                         JAYPEE V. FLORES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465890    4  Magnol Full Crm Mlk 1L      12 03/20/25 F         91.47   365.88
+                                              40723       
+ 3723282   17  Cupp Keyk Choc Mcha         10 03/07/25 F          6.80   115.60
+                                              VB72        
+ 3723285   19  Fudgee Barr Milk Custard    10 05/16/25 E          8.25   156.75
+                                              BGD114      
+ 3723374    5  Ding Dong Snck Mx Chip&C95g 60 02/20/25 F         20.54   102.70
+                                              A4          
+ 3723683    8  Fudgee Barr Macapuno 39g    10 05/19/25 E          8.33    66.64
+                                              CB85GN      
+ 4510204    8  Barrio F PBut Crmy&Nutty227g12 05/11/25 E         88.92   711.36
+                                              240512002   
+ 4510220    1  Diabetasol Crmy Almnd 180g   3 04/05/25 F        328.00   328.00
+                                              23U0501TU   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,846.93
+                                                       Rundate 04/12/2025  14:51:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

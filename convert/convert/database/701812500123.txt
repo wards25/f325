@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701812500123
+                                                            Branch - 181 Sta. Rosa City Waltermart(WALTERMART SRO )
+                                                            Prepared by - ELAY LACSAMANA on 04/11/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. May M. Cantoria
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009364    1  Ladys C Ham Sprd 220mL      24 11/24/24 E        122.60   122.60
+                                              1           
+ 3870043    2  Creamsilk Cond S-Strght11mL288          D          5.93    11.86
+                                              1           
+ 3870066    1  Creamsilk Cond TKR UR&S10mL288          D          6.66     6.66
+                                              1           
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              1           
+ 3870142    1  Sunsilk Sh S&L30%More13mL  288          D          5.68     5.68
+                                              1           
+ 5800112    1  Knorr Crab&Corn Soup 37g    72 04/11/25 E         34.70    34.70
+                                              1           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          188.16
+                                                       Rundate 04/11/2025  14:24:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

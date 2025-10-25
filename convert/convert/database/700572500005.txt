@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700572500005
+                                                            Branch - 57 Manila Paco Pedro Gil(57 Pedro Gil St. Paco MANILA)
+                                                            Prepared by - Reymark P. Laurente on 01/07/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Arlene A.Mangila
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723390    8  Energen Mlk&Cer Dr Choc 40g240          D          7.01    56.08
+                                              x           
+ 3723626    8  Kopiko Brown TwnPckCoff 53g120          D         11.26    90.08
+                                              c           
+ 3723646    1  Selecta Dolce LFat Choc245mL24          D         27.14    27.14
+                                              x           
+ 3723648    6  Selecta Dolce LFat Choc 1L  12 01/05/25 E         85.96   515.76
+                                              x           
+ 3723705    5  Kopiko Blck 3n1 Coff28g TP 120          D         11.26    56.30
+                                              x           
+ 4136008    3  Kopiko Cappuccino Coff 25g 240          D          7.40    22.20
+                                              x           
+ 4136024    4  Kopiko Blanca Coff 30g     240          D          7.78    31.12
+                                              x           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          798.68
+                                                       Rundate 01/07/2025  15:43:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

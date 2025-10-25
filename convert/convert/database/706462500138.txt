@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706462500138
+                                                            Branch - 646 CIAO PUB MKT(Calasiao Public Market Pangasinan)
+                                                            Prepared by - E.PADILLA,R.QUINTO,C.CLAVE on 04/22/2025
+                                                            Issued by - ________________________________
+                                                                         MS. ILENE ANZIEL C.CHUA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530051   13  Nescafe Ice Blk Can 220mL   24 03/27/25 F         34.62   450.06
+                                              4088b467b1  
+ 4530053    4  Nescafe Mocha Can 220mL     24 04/27/25 E         34.62   138.48
+                                              4119b467b8  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          588.54
+                                                       Rundate 04/22/2025  08:50:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

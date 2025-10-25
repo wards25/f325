@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012500523
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 05/27/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035680    1  Ligo Sard In TS 155g       100          D         23.79    23.79
+                                              XXX         
+ 1210406    3  Argentina Meat Loaf 250g    48          D         30.95    92.85
+                                              XXX         
+ 1210416    1  Argentina CBeef 260g        48          D         53.81    53.81
+                                              XXX         
+ 1210417    1  555 Carne Norte 150g        48          D         27.62    27.62
+                                              XXX         
+ 1210486    1  Argentina CBeef Jr 150g     48          D         32.38    32.38
+                                              XXX         
+ 3048430    3  555 Sardines Oil Spnish155g100          D         31.11    93.33
+                                              XXX         
+ 3048435    1  555 Sardine Frd W/Tau 155g 100          D         31.83    31.83
+                                              XXX         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          355.61
+                                                       Rundate 05/27/2025  13:47:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

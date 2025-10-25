@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110902400866
+                                                            Branch - 1090 Rosario EPZA(Tejeros Convention Rosario Cav ite)
+                                                            Prepared by - MS SHIELA C GUSTILO on 09/16/2024
+                                                            Issued by - ________________________________
+                                                                         MS.MELANIE L. ATANGAN
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850   12  Highland Reg Crnd Bf 150g   48 03/30/25 G         33.30   399.60
+                                              HCLBR408    
+ 1225221   36  San Marino Crnd Tuna 180g   48 12/01/26 G         43.20  1555.20
+                                              SMCTR335    
+ 1225222   26  San Marino Crnd TunaChli180g48 12/01/26 G         43.20  1123.20
+                                              SMCCT351    
+ 4120006   54  Highland Crnd Bf 180g       48 04/26/25 G         57.15  3086.10
+                                              HLCBC405    
+ 4121007   22  San Marino Crnd Tuna 150g   48 12/27/26 G         35.10   772.20
+                                              SMCTR334    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,936.30
+                                                       Rundate 09/16/2024  11:27:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

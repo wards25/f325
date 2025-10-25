@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104822400943
+                                                            Branch - 482 Kalookan City Sangandaan Gen. San Miguel(KALOOKAN SANGANDAAN GSM )
+                                                            Prepared by - JOKO SANTIAGO on 11/23/2024
+                                                            Issued by - ________________________________
+                                                                         MS.OLIVIA S. ZU¥IGA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723576    4  Naturelab FragBMistLLem100mL 6 09/28/24 G         55.88   223.52
+                                              TPHID13     
+ 3723580    3  Naturelab FragBMistTrop100mL 6 12/06/24 E        111.75   335.25
+                                              TPHID11     
+ 3723582    1  Naturelab FragBMistWint100mL 6 01/27/25 G         55.88    55.88
+                                              TPHID12     
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          614.65
+                                                       Rundate 11/23/2024  11:18:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted

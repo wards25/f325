@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130592400399
+                                                            Branch - 3059 Oriental Mindoro Puerto Galera Xentro Mall( )
+                                                            Prepared by - LHEA A. ABANILLA on 08/12/2024
+                                                            Issued by - ________________________________
+                                                                         EDEN C. ABDON
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3793295    1  Angel Evaporada 410mL       48 05/31/24 F         30.07    30.07
+                                              3T074B03    
+ 3793319    7  Birch Tree Forti Mlk Pdr660g12 05/31/24 F        194.52  1361.64
+                                              2Y309D      
+ 3793320   12  Birch Tree Forti Mlk Pdr300g24 08/31/24 E         88.78  1065.36
+                                              3Y05TD      
+ 4131045    7  Birch Tree Forti Mlk Pdr925g12 08/31/24 E        238.10  1666.70
+                                              3U047D      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,123.77
+                                                       Rundate 08/19/2024  14:13:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

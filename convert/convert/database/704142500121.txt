@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704142500121
+                                                            Branch - 414 Mamburao JP Rizal(OCM Mamburao JP Rizal )
+                                                            Prepared by - Romel B. Briones on 06/04/2025
+                                                            Issued by - ________________________________
+                                                                         Shermene S. Jawerga
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760009    1  Nido NutriSnaxBnna-Crot110mL60          D         17.76    17.76
+                                              33370189CD  
+ 4025096   10  Milo Activ-Go RTD 110mL     60 03/31/25 F         14.61   146.10
+                                              41380189LD  
+ 4025177    1  Nescafe Original 26g       520 10/21/25 D          7.37     7.37
+                                              D           
+ 4530026    1  Nescafe Original SF TPck23g100 11/30/25 D         13.21    13.21
+                                              F1          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          184.44
+                                                       Rundate 06/04/2025  17:12:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

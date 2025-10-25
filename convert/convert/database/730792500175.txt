@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500175
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY ilocos sur)
+                                                            Prepared by - Christopher A. Padua on 04/26/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3793298    8  Angel Condensada 380g       48 09/30/25 D         50.48   403.84
+                                              C0925C7     
+ 3793318    2  Birch Tree Forti AdltBst33g160 06/30/26 D         11.93    23.86
+                                              4Y3480      
+ 3793335    2  Argentina CChckn 150g       48 05/02/27 D         32.86    65.72
+                                              AZR22       
+ 4131014    2  Birch Tree Forti AdltBst300g24 11/30/25 D         98.31   196.62
+                                              4Y145N      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          690.04
+                                                       Rundate 04/26/2025  21:07:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

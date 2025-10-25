@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711222500301
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - Maris Teodosio on 05/17/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 02/28/26 D         13.32    26.64
+                                              50660602r1d1
+ 4530026    1  Nescafe Original SF TPck23g100 01/31/26 D         13.21    13.21
+                                              56360e      
+ 4530043    1  Nestle Trix Bfast Cer 160g  18 06/10/25 E        111.82   111.82
+                                              41970631dd  
+ 4530069    1  Pre Nan Inf Fmla 0-12M 400g  6 05/31/26 D        925.43   925.43
+                                              31480346aa  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,077.10
+                                                       Rundate 05/17/2025  14:18:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706192500074
+                                                            Branch - 619 Lopez GV Vera(LOPEZ G. V. VERA LOPEZ, QUEZON)
+                                                            Prepared by - RICHELLE A. DELOS SANTOS on 04/10/2025
+                                                            Issued by - ________________________________
+                                                                         ROSALINDA O. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254315   13  UFC Bnana Csup Reg 530g     18 05/04/25 E         40.38   524.94
+                                              24G08C181305
+ 3723587    2  Fiesta SpagheTpd 3ChseSP18  12 12/16/25 E         68.76   137.52
+                                              58C2        
+ 3723588    3  Fiesta SpagheTpd Swt SP18   12 10/13/25 D         68.37   205.11
+                                              X           
+ 3856633    4  Mang Tomas Lchon Sce 325g   24 02/12/25 E         33.25   133.00
+                                              24EI18MO6000
+ 4110022   70  Rebisco Hansel MchaSandw 32g10 04/02/25 E          5.87   410.90
+                                              C22B1       
+ 4510226    1  Happy Pnut Bbq 100g         24 07/04/25 D         30.81    30.81
+                                              A2A4A       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,442.28
+                                                       Rundate 04/10/2025  15:59:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

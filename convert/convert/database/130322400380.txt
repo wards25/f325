@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130322400380
+                                                            Branch - 3032 ISAB RXS XTRO MALL(RIZAL,ROXAS,ISABELA )
+                                                            Prepared by - MARY ANN P HERMOSA on 10/11/2024
+                                                            Issued by - ________________________________
+                                                                         JEANIFER B.SUMAIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282   20  Cupp Keyk Choc Mcha         10 10/13/24 E          6.80   136.00
+                                              vb11        
+ 3723284    4  Fudgee Barr Chocolate       10 10/30/24 E          8.01    32.04
+                                              bga111      
+ 3723285    2  Fudgee Barr Milk Custard    10 11/19/24 E          8.10    16.20
+                                              va71        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          184.24
+                                                       Rundate 10/11/2024  09:08:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709002500090
+                                                            Branch - 900 DVO DS DVO C MABINI(Mabini St., Circumferential Rd brgy 10-A, DC)
+                                                            Prepared by - DEN YBANEZ/ZEL ABAN on 04/08/2025
+                                                            Issued by - ________________________________
+                                                                         MS.SUSAN G. VISMANOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    1  Surf FabCond Bl FrshSac25mL360          D          5.19     5.19
+                                              X           
+ 3039295    1  Surf FabCond Luxe Perf 25mL360          D          5.19     5.19
+                                              X           
+ 3039296    4  Surf Pdr Chrry Blssm 50g   288          D          6.13    24.52
+                                              X           
+ 3050005    2  Surf Pdr SFrsh 57g         288          D          6.13    12.26
+                                              X           
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288          D          6.13     6.13
+                                              X           
+ 3050074    1  Surf Pdr Antibac ActvCln60g288          D          6.13     6.13
+                                              X           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           59.42
+                                                       Rundate 04/08/2025  19:54:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

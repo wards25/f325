@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711412500132
+                                                            Branch - 1141 Kalookan City Deparo(1141 KALOOKAN CITY DEPARO )
+                                                            Prepared by - LENA D5 on 04/11/2025
+                                                            Issued by - ________________________________
+                                                                         MR. ARIEL B. NOLASCO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    5  Nestle Coffeemate 5g       960 02/28/26 D          1.89     9.45
+                                              4323695     
+ 4530039   20  Milo Bfst Cer Ch&MBalls 20g120 04/13/25 E         13.64   272.80
+                                              41040631ED2 
+ 4530041  108  Nestle Trix Bfast Cer 20g  120 05/10/25 E         13.64  1473.12
+                                              41660631CE1 
+ 4530043    4  Nestle Trix Bfast Cer 160g  18 05/10/25 E        111.82   447.28
+                                              416606      
+ 4530045    1  Nestle Frsh Mlk 1000mLx2SP15 7 09/17/25 D        197.10   197.10
+                                              23300426    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,399.75
+                                                       Rundate 04/11/2025  09:06:44
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

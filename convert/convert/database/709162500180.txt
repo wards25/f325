@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709162500180
+                                                            Branch - 916 Iloilo City Valeria(Valeria Delgado St.Iloilo City )
+                                                            Prepared by - MARY JANE E. SALES on 06/20/2025
+                                                            Issued by - ________________________________
+                                                                         MA. ROWENA J. MANACOP
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    5  Nestea Lem ITea 25g        144 05/31/25 F         18.57    92.85
+                                              SBT         
+ 3748444    1  Nestea Ap ITea 20g         144 02/28/25 F         18.57    18.57
+                                              SBT40       
+ 4025177   48  Nescafe Original 20g       520 05/31/25 F          7.37   353.76
+                                              41308985A1  
+ 4025237    1  Nescafe Crmy Wh Twin Pck40g200 11/30/25 D         13.32    13.32
+                                              4334059741  
+ 4530024    7  Nescafe CrmyWh SF TPck22.4g100 05/31/25 F         13.21    92.47
+                                              41350601E1  
+ 4530026    1  Nescafe Original SF TPck23g100 09/30/25 D         13.21    13.21
+                                              42520601E1  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          584.18
+                                                       Rundate 06/21/2025  18:38:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110802400733
+                                                            Branch - 1080 LAG CBY C SALA(BRGY SALA CABUYAO CITY )
+                                                            Prepared by - ANN JAMAICA DORIA on 09/15/2024
+                                                            Issued by - ________________________________
+                                                                         MS.TITA P. ARIDA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1036006    1  Hello Kitty Trvl Kit TB     12          H         74.81    74.81
+                                              NO LOT      
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 05/07/25 D        121.94   121.94
+                                              43037070324B
+ 4180019    1  Mega Tuna Flks SpnshStyl155g50 10/11/24 D         36.90    36.90
+                                              GSB1709     
+ 4510211   38  Barrio F Std Shrmp P Reg 50g18 10/06/24 E         21.38   812.44
+                                              2210060015  
+ 4510213    6  Barrio F Std Shrmp P Spcy50g18 10/11/24 E         21.38   128.28
+                                              2210110047  
+ 4510215   33  Barrio F Std Shrmp P Swt 50g18 10/17/24 E         21.38   705.54
+                                              2210170150  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,879.91
+                                                       Rundate 09/15/2024  12:46:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     H-Recalled by Supplier

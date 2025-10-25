@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705242500145
+                                                            Branch - 524 OR MIN PMLYN NAUTCL HWY(Marfrancisco,Pin. Or. Mdo. )
+                                                            Prepared by - Evangeline L. Custodio on 04/03/2025
+                                                            Issued by - ________________________________
+                                                                         Jennifer M. Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322   21  Nescafe Clssc Ref 23g       60 04/30/25 E         23.79   499.59
+                                              32920190DA  
+ 1167456    3  Nestle Chuckie Cal-N 1000mL 12 09/30/25 D        102.06   306.18
+                                              43350189YX  
+ 4025052    1  Nestle Coffeemate 150g      60 06/30/25 E         44.78    44.78
+                                              4065643831  
+ 4530001   29  Starbucks Mocha DshtEsp220mL24 04/24/25 E         76.00  2204.00
+                                              41169449A3  
+ 4530053   31  Nescafe Mocha Can 220mL     24 04/27/25 E         34.62  1073.22
+                                              4119B467B3  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,127.77
+                                                       Rundate 04/03/2025  16:08:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

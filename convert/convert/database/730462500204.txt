@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730462500204
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE )
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 08/25/2025
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870006    4  Clear Men Sh Cool Sprt 70mL 36 05/24/25 F         64.83   259.32
+                                              0612222     
+ 3870291    1  Creamsilk Cond HFallDef350mL12 08/10/25 F        240.35   240.35
+                                              2202231     
+ 3980322    1  Rexona Wmen Deo-L PdrDry3mL360          D          6.47     6.47
+                                              1           
+ 5800106    4  Ladys C RMayo GlassJar470mL 12 08/31/25 E        227.50   910.00
+                                              18106       
+ 5800216    1  Knorr Hot Meal Beef Goto 32g 4 08/20/25 F         16.95    16.95
+                                              3BM3        
+ 6200006    2  Dove Sh BK Strgt&Slky 170mL 24 07/21/25 F        175.71   351.42
+                                              0202232     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,784.51
+                                                       Rundate 08/25/2025  16:00:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

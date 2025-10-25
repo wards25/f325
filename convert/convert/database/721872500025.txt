@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721872500025
+                                                            Branch - 2187 Capiz Sigma Poblacion Sur(CAPIZ SIGMA POB. SUR )
+                                                            Prepared by - MS. JENIVEVE O. MAYO on 01/31/2025
+                                                            Issued by - ________________________________
+                                                                         MS. DAYLIN B. VERDEJOLO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035690    1  Ligo Sard In TS Chili 155g 100 08/15/27 D         23.98    23.98
+                                              LHTCNC3HVI08
+ 1148510    1  Blue Bay Tuna Afritada 155g 50 05/02/24 D         27.39    27.39
+                                              1652B       
+ 1191025   17  Hunts Prk&Bean 390g         48 01/28/25 E         51.81   880.77
+                                              HPB30       
+ 1210486    1  Argentina CBeef Jr 150g     48 02/03/27 D         32.38    32.38
+                                              AKR37       
+ 3048433    1  555 Sardine Frd H&Spcy 155g100 09/09/26 D         31.83    31.83
+                                              10YLO923    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          996.35
+                                                       Rundate 01/31/2025  12:54:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710472500038
+                                                            Branch - 1047 Sta. Rosa City Tagapo Puregold(STA.ROSA PUREGOLD TAGAPO )
+                                                            Prepared by - MHARA JENNELE ATIENZA on 02/07/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MARY GRACE D. ABROGAR D-23
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010275    2  Ladys C Chck Sprd DPck220mL 24 03/27/25 E         95.30   190.60
+                                              242252      
+ 3050036   22  Knorr Hot Meal ArrozCaldo35g48 03/06/25 E         28.30   622.60
+                                              C2          
+ 3980288    2  Rexona Men Ron Invi Dry 45mL24 06/30/25 E        120.00   240.00
+                                              020623      
+ 3980345    6  Rexona Wmen Ron Whtng 45mL   6 05/30/25 E        120.00   720.00
+                                              130523      
+ 3980708    2  Rexona Wmen Ron Pdr Dry 45mL24 05/30/25 E        117.60   235.20
+                                              120523      
+ 3980714    6  Rexona Wmen Ron Frsh Rse45mL24 05/30/25 E        120.00   720.00
+                                              220523      
+ 5800216    3  Knorr Hot Meal Beef Goto 32g 4 03/11/25 E         16.95    50.85
+                                              1CM3        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,779.25
+                                                       Rundate 02/07/2025  14:59:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101812400222
+                                                            Branch - 181 Sta. Rosa City Waltermart(WALTERMART SRO )
+                                                            Prepared by - elay lacsamana on 03/08/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. May M. Cantoria
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723285    5  Fudgee Barr Mlky Crze       10 03/22/24 E          7.65    38.25
+                                              1           
+ 3723668    1  Solbac Disinf Spr Ctrs&G300g 6 06/30/24 E        199.36   199.36
+                                              1           
+ 4100005    5  Kettle Korn Sltd Crmel 120g 30 03/12/24 E         36.25   181.25
+                                              1           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          418.86
+                                                       Rundate 03/08/2024  16:36:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

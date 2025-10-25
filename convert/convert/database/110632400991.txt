@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110632400991
+                                                            Branch - 1063 Marikina City Barangka(A BONIFACIO AVE. BARANGKA )
+                                                            Prepared by - INA on 11/07/2024
+                                                            Issued by - ________________________________
+                                                                         MS. LETH S. TUBERA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870319    9  Creamsilk Cond TKR UStr170mL24 12/28/24 E        180.22  1621.98
+                                              1207221     
+ 3870321    4  Creamsilk Cond TKR UStr340mL12 12/20/24 E        308.90  1235.60
+                                              0407221     
+ 3870366    1  Dove Cond 1Min BKStrSlk150mL24 12/31/24 E        156.41   156.41
+                                              1507222     
+ 6200003    5  Creamsilk Cond Dam Ctrl180mL24 12/29/24 E        128.33   641.65
+                                              1307222     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,655.64
+                                                       Rundate 11/07/2024  13:14:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

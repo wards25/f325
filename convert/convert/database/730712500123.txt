@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730712500123
+                                                            Branch - 3071 Pangasinan Binalonan Town Center( )
+                                                            Prepared by - ANA MARIE O. FERNANDEZ on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         HEIDI MAE C. SOMERA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035680   30  Ligo Sard In TS 155g       100 06/21/25 F         22.82   684.60
+                                              3BNA0637    
+ 1035690   58  Ligo Sard In TS Chili 155g 100 07/18/25 F         23.01  1334.58
+                                              6ANA0728    
+ 1210407   16  Argentina Meat Loaf 170g    48 08/30/25 E         22.38   358.08
+                                              6ML15       
+ 1210487   10  Argentina Meat Loaf 100g    48 07/28/25 F         16.43   164.30
+                                              AML34       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,541.56
+                                                       Rundate 08/13/2025  14:32:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

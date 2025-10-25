@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103882400116
+                                                            Branch - 388 Angono Poblacion(136 M.L. QUEZON AVE ANGONO POB )
+                                                            Prepared by - RUMIL DOLOR on 03/11/2024
+                                                            Issued by - ________________________________
+                                                                         MS.ANNA RIVERA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    4  Del M Fit N RghtBurnApl330mL24          D         30.80   123.20
+                                              .           
+ 1103963    2  Del M Fit N RghtBurnPne330mL24          D         30.80    61.60
+                                              .           
+ 1104077    1  Del M Mr Milk GrApl 100mLx6 16          D         46.32    46.32
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              .           
+ 4110019   14  Choco Mucho Wh Choc 30g     10 03/05/24 E          9.30   130.20
+                                              a2m         
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          372.54
+                                                       Rundate 03/11/2024  15:53:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103942400656
+                                                            Branch - 394 Marilao McArthur(MARILAO MCARTHUR-DIST XI )
+                                                            Prepared by - Mellany Adrias on 09/05/2024
+                                                            Issued by - ________________________________
+                                                                         MS. OLIVE INOCENCIO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016223    5  Century Flakes Brine 180g   48 11/20/25 D         49.96   249.80
+                                              1456F       
+ 1016352    1  Fresca Tuna Afrtda 175g     48 01/18/27 D         24.48    24.48
+                                              02193       
+ 1035680    2  Ligo Sard In TS 155g       100 12/04/26 D         24.37    48.74
+                                              NWC041      
+ 1035690    4  Ligo Sard In TS Chili 155g 100 05/17/25 D         24.56    98.24
+                                              3C0L0512    
+ 1210485    1  Argentina CBeef 100g        48 10/03/25 D         25.24    25.24
+                                              LCBI03      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          446.50
+                                                       Rundate 09/05/2024  16:12:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

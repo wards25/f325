@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121062400443
+                                                            Branch - 2106 ILOILO ESTANCIA POBLACION(E.REYES ST.POB. ZONE 11 ESTANCIA ILOILO)
+                                                            Prepared by - ANGELIE V. SEDERIO on 10/01/2024
+                                                            Issued by - ________________________________
+                                                                         JANICE F. AMIAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 09/15/24 E         20.25    20.25
+                                              sbt03820126 
+ 3723627    1  Jimms 5in1 Coffee Mix NSA21g20 06/08/25 D         12.33    12.33
+                                              3025LIT     
+ 3723668    1  Solbac Disinf Spr Ctrs&G300g 6 10/12/24 E        199.36   199.36
+                                              92102130    
+ 3856633    1  Mang Tomas Lchon Sce 325g   24 10/14/24 E         33.25    33.25
+                                              23X19M0612  
+ 4510155    1  Rite'n Lite Peach Dr 250mL  24 10/03/24 E         20.25    20.25
+                                              sbt03621638 
+ 4510217    3  Lipton Tea STL Eng BfstBlk25s6 10/10/24 E        198.35   595.05
+                                              A           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          880.49
+                                                       Rundate 10/01/2024  20:50:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

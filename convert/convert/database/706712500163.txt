@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706712500163
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE P MIRA on 08/27/2025
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723284    2  Fudgee Barr Chocolate 42g   10 09/08/25 E          8.25    16.50
+                                              b6a103      
+ 3856638    4  Datu Puti Wh Vngar Pet 385mL24 09/17/25 E         17.34    69.36
+                                              24122M101436
+ 4095043    9  Seoul Wh K SoapDbleWhtng270g12 04/30/25 F        164.00  1476.00
+                                              RQ3N0500    
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 09/06/25 D          6.04     6.04
+                                              C16A1       
+ 4110023    2  Rebisco Crackers 35g        10 07/13/25 F          6.14    12.28
+                                              R4A4        
+ 4110024    2  Rebisco Sbrry Sandw 34g     10 08/16/25 F          6.09    12.18
+                                              abm1        
+ 4510037    2  Mega Prime MushroomWhole198g48          D         34.16    68.32
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,660.68
+                                                       Rundate 08/27/2025  14:17:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

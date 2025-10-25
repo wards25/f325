@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 731032500240
+                                                            Branch - 3103 Bulacan Baliwag City Poblacion BS Aquino( )
+                                                            Prepared by - ELIZA SHAYNE DV. BELGICA on 09/05/2025
+                                                            Issued by - ________________________________
+                                                                         JAIME L. NOCOM
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465865    5  Magnol Choc Mlk Dr 1L       12 09/11/25 E         98.84   494.20
+                                              40916G101A  
+ 3723732    1  Selecta Farm Frsh Mk1Lx2SP7 12 09/11/25 E        180.14   180.14
+                                              K5BM1       
+ 3723738    4  Selecta Forti MlkSt1Lx2SP10 12 09/04/25 F        155.94   623.76
+                                              N8MP0       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,298.10
+                                                       Rundate 09/05/2025  14:12:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

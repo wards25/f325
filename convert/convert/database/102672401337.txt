@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102672401337
+                                                            Branch - 267 Quezon City Acropolis E. Rodriguez Jr.(QUEZON CITY ACROPOLIS YRODRIGUEZ JR.)
+                                                            Prepared by - GRACE on 11/26/2024
+                                                            Issued by - ________________________________
+                                                                         cristina p de leon
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723582    4  Naturelab FragBMistWint100mL 6 10/10/26 G         55.88   223.52
+                                              TGHID126    
+ 3723586    4  Royal Spag R&T Swt1.6kgSP49 10 12/24/24 E        121.94   487.76
+                                              43021240823F
+ 3723685    1  Rebisco Hansel Crackers 32g 10 04/10/25 D          5.97     5.97
+                                              C28A2       
+ 3856633    4  Mang Tomas Lchon Sce 325g   24 12/29/24 E         33.25   133.00
+                                              24DO36100   
+ 3856650    3  Mang Tomas Hot&Spcy 325g    24 11/26/24 E         34.20   102.60
+                                              24C01M060   
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          952.85
+                                                       Rundate 11/26/2024  12:13:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

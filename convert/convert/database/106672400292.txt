@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106672400292
+                                                            Branch - 667 Rosario Gualberto(MD ROSARIO GUALBERTO ROSARIO BATANGAS)
+                                                            Prepared by - VERONICA M. GONDA on 10/17/2024
+                                                            Issued by - ________________________________
+                                                                         ELMER B. BENITEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    5  Nestle Chuckie Cal-N 1000mL 12 09/30/24 F        102.06   510.30
+                                              33220189YD  
+ 3760009   12  Nido NutriSnaxBnna-Crot110mL60 10/31/24 E         17.76   213.12
+                                              33090189GE  
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60 10/31/25 D         25.71    25.71
+                                              41190190DA  
+ 4025052    1  Nestle Coffeemate 150g      60 08/31/25 D         44.78    44.78
+                                              1643831     
+ 4025056    1  Nescafe Crmy Wh 25.5g      240 02/28/25 D          8.20     8.20
+                                              40448985A113
+ 4066029    2  Kitkat Chunky Mlk Choc 38g  24 10/22/24 E         41.15    82.30
+                                              32969531CT  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          884.41
+                                                       Rundate 10/19/2024  13:44:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

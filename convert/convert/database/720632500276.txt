@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720632500276
+                                                            Branch - 2063 Barobo Poblacion(POBLACION BAROBO SURIGAO DSUR )
+                                                            Prepared by - ROWENA E.DIOLA on 09/04/2025
+                                                            Issued by - ________________________________
+                                                                         FLORLYN D. LAMPAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1139084    2  Purefood LchMeatChiliPep215g48 09/06/25 E         87.76   175.52
+                                              30917h6a02  
+ 1165711   18  Magnol Chzee Sprd Pln 235g  24 09/15/25 E         79.44  1429.92
+                                              50217tcb2   
+ 1165714   11  Magnol Chzee Sprd Pmto 235g 24 09/25/25 E         83.13   914.43
+                                              50227tcb30  
+ 1165715    7  Magnol Chzee Sprd Pmto 480g 12 09/30/25 E        157.96  1105.72
+                                              50304tcb56  
+ 4113084    8  Magnol All-Pur Flour 200g   48 09/13/25 E         23.70   189.60
+                                              4091818776  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,815.19
+                                                       Rundate 09/04/2025  20:21:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

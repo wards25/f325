@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709272500007
+                                                            Branch - 927 Gen. Santos City Acharon(GENSAN-ACHARON BOULEVARD GEN. SANTOS CITY)
+                                                            Prepared by - AIAN KRIS D. TOLEDO on 01/02/2025
+                                                            Issued by - ________________________________
+                                                                         MILANIE D. HERRADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304   16  Sunkist Frt Dr Mgo 235mL    24 11/23/24 E         20.05   320.80
+                                              B1N2TO      
+ 1147308    1  Sunkist Frt Dr Or 235mL     24 11/07/24 E         19.03    19.03
+                                              D1V270      
+ 3413869    1  Nagaraya Crkr Nut Gar 160g  48 06/21/25 D         41.27    41.27
+                                              24819A      
+ 3723374   24  Ding Dong Snck Mx Chip&C95g 60 11/20/24 E         20.54   492.96
+                                              A9A         
+ 3723385    7  Rite'n Lite Lem Dr 250mL    24 06/07/25 D         20.25   141.75
+                                              SF5         
+ 3723387    8  Rite'n Lite Or Dr 250mL     24 01/12/25 D         20.25   162.00
+                                              5F5         
+ 3723390    8  Energen Mlk&Cer Dr Choc 40g240 06/20/25 D          7.01    56.08
+                                              1232TGR     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,233.89
+                                                       Rundate 01/03/2025  14:32:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

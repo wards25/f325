@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730542500071
+                                                            Branch - 3054 NUEVA ECIJA JAEN POBLACION(POBLACION JAEN N.E. )
+                                                            Prepared by - DIANA S. PAMILOZA on 02/23/2025
+                                                            Issued by - ________________________________
+                                                                         ADRIAN B. MAGNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148913    5  Selecta Forti Mlk 245mL     24 03/03/25 E         34.23   171.15
+                                              2223D3DA0   
+ 3382351    3  Novellino Sprklng Red 750mL 12 01/03/25 F        200.00   600.00
+                                              L22104188   
+ 3723374   20  Ding Dong Snck Mx Chip&C95g 60 02/13/25 F         20.54   410.80
+                                              A3A1B       
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 12/22/24 F        121.94   121.94
+                                              4300220823C 
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,303.89
+                                                       Rundate 02/23/2025  14:22:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

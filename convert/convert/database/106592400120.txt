@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106592400120
+                                                            Branch - 659 Talavera Maharlika Diaz(Talavera Nueva Ecija )
+                                                            Prepared by - ALJONH S. CADUCIO on 02/21/2024
+                                                            Issued by - ________________________________
+                                                                         MICHELLE M. MANZANO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104077   16  Del M Mr Milk GrApl 100mLx6 16 01/26/24 F         46.32   741.12
+                                              HADMI3026   
+ 1104083   16  Del M Pine JceACE220mLx6SP10 4 02/01/24 F        158.66  2538.56
+                                              W14         
+ 3723284   10  Fudgee Barr Choc Blst       10 06/30/24 D          7.65    76.50
+                                              CA66G       
+ 3723390   50  Energen Mlk&Cer Dr Choc 40g240 01/26/24 F          7.01   350.50
+                                              2233TGR     
+ 3856636    9  Datu Puti Soy Sce Pet 385mL 24 02/15/24 F         19.95   179.55
+                                              23620M0     
+ 3856639    7  Datu Puti Wh Vngar Pet 1L   12 10/21/23 F         39.19   274.33
+                                              22J26L10    
+ 4100002   24  Kettle Korn Cheese 120g     30 11/30/23 F         36.25   870.00
+                                              MLM3        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,030.56
+                                                       Rundate 02/21/2024  15:09:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

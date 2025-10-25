@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730472500020
+                                                            Branch - 3047 BATANGAS STO. TOMAS FPIP(STA ANASTACIA STO TOMAS BATS )
+                                                            Prepared by - ANNA KATHLEEN M. MENDOZA on 02/07/2025
+                                                            Issued by - ________________________________
+                                                                         MARK LEE R. LIWAG
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    4  Nestle KKrunch SPck 80g     24 03/06/25 D         48.18   192.72
+                                              41550631CD 2
+ 3760007   34  Kitkat Mini 8s 72g          48 03/07/25 E         85.47  2905.98
+                                              40679531YT  
+ 4025096   17  Milo Activ-Go RTD 110mL     60 03/31/25 E         14.61   248.37
+                                              41390189LE  
+ 4025099   29  Nestle KKrunch 35g          72 03/04/25 E         16.36   474.44
+                                              D1          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 11/30/25 E         12.37    12.37
+                                              E1          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,833.88
+                                                       Rundate 02/07/2025  13:49:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104122400591
+                                                            Branch - 412 Naga City Gen. Luna(MERCURY DRUG NAGA GEN LUNA )
+                                                            Prepared by - JEFFREY G. NIEVES on 07/17/2024
+                                                            Issued by - ________________________________
+                                                                         MARGARITA MARIA R. ASUG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104113    5  Del M Vinamilk Ygrt MxF110mL48          D         11.07    55.35
+                                              .           
+ 1148913    9  Selecta Forti Mlk 245mL     24          D         34.23   308.07
+                                              .           
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240          D          7.01     7.01
+                                              .           
+ 3723565   10  Ginhawa Red-G Syr Sac 15mL 180 06/01/24 F          8.00    80.00
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.22    11.22
+                                              .           
+ 4136008    1  Kopiko Cappuccino Coff 25g 240          D          6.16     6.16
+                                              .           
+ 4136010   13  Kopiko Blck 3-N-1 Coff 30g 240 07/31/24 E          6.80    88.40
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          556.21
+                                                       Rundate 07/17/2024  14:44:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

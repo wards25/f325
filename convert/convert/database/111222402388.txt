@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111222402388
+                                                            Branch - 1122 BULACAN STA. MARIA BYPASS ROAD(1122 bypass sta. maria )
+                                                            Prepared by - NERI PEREZ on 10/31/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCA G. TRINIDAD
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254310    1  UFC Bnana Csup Reg 320g     24          D         23.40    23.40
+                                              n/a         
+ 3723568    1  Naturelab AlcSprBBlePop50mL 12          D         44.25    44.25
+                                              na          
+ 3723588    4  Fiesta SpagheTpd Swt SP18   12 11/03/24 E         68.37   273.48
+                                              56b2        
+ 4110036    1  VitaCubes Frt Jelly Cdy 50g 10          D         18.00    18.00
+                                              aj3         
+ 4113080  128  Magnol Star Mgrine 100g    144 11/12/24 E         28.62  3663.36
+                                              40117am     
+ 4510119    1  Axion DLiq LemRef190mL50%2nd20          D         57.41    57.41
+                                              n/a         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,079.90
+                                                       Rundate 10/31/2024  11:28:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

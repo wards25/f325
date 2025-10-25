@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100122401203
+                                                            Branch - 12 Quezon City Cubao Pinatubo(12 CUBAO PINATUBO )
+                                                            Prepared by - jhing on 11/06/2024
+                                                            Issued by - ________________________________
+                                                                         MR. CHRISTOPHER P. MONDERO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4470140    3  Huggies Dry XL 26            4          D        321.46   964.38
+                                              nolot       
+ 4470314    5  Huggies Mgic Cmfrt L 33+3    8          D        287.94  1439.70
+                                              nolot       
+ 4470315    1  Huggies Mgic Cmfrt XL 29+3   8          D        287.94   287.94
+                                              nolot       
+ 4470327    1  Huggies Mgic Cmfrt L 20+2    4          D        180.50   180.50
+                                              nolot       
+ 4470329   31  Huggies Mgic Cmfrt XL 18+2   4          D        189.10  5862.10
+                                              nolot       
+ 4470331   11  Huggies Mgic Cmfrt XXL 17+2  4          D        189.10  2080.10
+                                              nolot       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       10,814.72
+                                                       Rundate 11/06/2024  10:57:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

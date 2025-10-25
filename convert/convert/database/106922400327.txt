@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106922400327
+                                                            Branch - 692 MRDQUE BOAC GOV D REYES(MURALLON, BOAC, MARINDUQUE )
+                                                            Prepared by - ANNA ROSE S. MANHIT on 08/22/2024
+                                                            Issued by - ________________________________
+                                                                         MS. SHERMILYN M. HERBOSA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760007    1  Kitkat Mini 8s 72g          48 09/22/24 D         77.27    77.27
+                                              32669531YT  
+ 4014031    1  Nestle Chuckie Cal-N 180mL  32 07/31/24 F         21.73    21.73
+                                              32500189FD  
+ 4025056    1  Nescafe Crmy Wh 25.5g      240 02/28/25 D          8.20     8.20
+                                              161         
+ 4025099    1  Nestle KKrunch 35g          72 02/28/25 D         14.48    14.48
+                                              D1          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 04/30/25 D         11.80    11.80
+                                              41180602N112
+ 4530026    3  Nescafe Original SF TPck23g100 04/30/25 D         11.70    35.10
+                                              40950601E1D2
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          168.58
+                                                       Rundate 08/22/2024  17:32:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

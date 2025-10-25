@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105212400516
+                                                            Branch - 521 Sto. Tomas Maharlika Hway(STO TOMAS )
+                                                            Prepared by - N.C. CAMITAN/I.R. ARIOLA on 10/27/2024
+                                                            Issued by - ________________________________
+                                                                         MRS.MARIA BUENA M. MARALIT
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221857   38  San Marino Blu Mckrl Stk180g48 12/27/25 G         56.25  2137.50
+                                              SMBM55301   
+ 1225221    1  San Marino Crnd Tuna 180g   48 12/15/26 G         43.20    43.20
+                                              SMCTR355    
+ 1225222   27  San Marino Crnd TunaChli180g48          G         43.20  1166.40
+                                              SMCCT3150   
+ 4121014   38  San Marino TunaFlksMrina180g48 06/28/26 G         51.30  1949.40
+                                              SMTFMP302   
+ 4470348    1  Highland Clssic Crnd Bf 180g 6 10/11/26 G         57.15    57.15
+                                              HLCBC418    
+ 4470354    1  San Marino Crnd Tuna 150g    6 09/16/26 D         33.30    33.30
+                                              SMCTR399    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,386.95
+                                                       Rundate 10/27/2024  14:50:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     G-Deleted

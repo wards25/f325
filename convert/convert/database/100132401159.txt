@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100132401159
+                                                            Branch - 13 Baclaran Quirino(MDC QUIRINO AVE BAC. PQUE )
+                                                            Prepared by - Joy Ann Salazar on 10/11/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Chyrel S.Buban
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010116    1  Ladys C Ham Sprd 80mL       72          D         34.85    34.85
+                                              01          
+ 1010264    2  Ladys C Chck Sprd 80mL      72          D         34.85    69.70
+                                              1           
+ 3039297    2  Breeze Liq Det 64g         108          D         12.05    24.10
+                                              01          
+ 3050063    1  Surf FabCond Charcoal 25mL 360          D          5.19     5.19
+                                              01          
+ 3870071    4  Creamsilk UlC Tri-K Str10mL288          D          6.66    26.64
+                                              01          
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288          D          5.88     5.88
+                                              01          
+ 6200127    1  Breeze Pdr Det RsGldP66g6+1 24          D         73.21    73.21
+                                              01          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          239.57
+                                                       Rundate 10/11/2024  16:47:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

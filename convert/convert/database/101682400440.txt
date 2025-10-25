@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101682400440
+                                                            Branch - 168 San Miguel Poblacion(SAN JOSE SAN MIGUEL BULACAN )
+                                                            Prepared by - Ces/Ramil/May on 07/29/2024
+                                                            Issued by - ________________________________
+                                                                         Ana Marie Duran
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1992002   19  Barrio F Crispy Joy Spcy 62g48 05/31/24 E         14.54   276.26
+                                              220505C3PA6 
+ 3723562    8  Musli OatCrnchyBbry&Rbry375g14 08/11/24 E        160.65  1285.20
+                                              U2300109    
+ 4100005    7  Kettle Korn Sltd Crmel 120g 30 06/12/24 E         36.25   253.75
+                                              MLM1        
+ 4103092    6  Del M Tmto Sce Orig Styl900g12 07/17/24 E         85.82   514.92
+                                              31071NPO8   
+ 4510195    4  Nachitos TortillaChipBbq410g10 06/21/24 E        108.80   435.20
+                                              A13         
+ 4510204    2  Barrio F PBut Crmy&Nutty227g12 08/16/24 E         88.92   177.84
+                                              230817006   
+ 4510206    8  Barrio F PBut Crmy&Swt 227g 12 08/15/24 E         88.92   711.36
+                                              230816008   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,654.53
+                                                       Rundate 07/29/2024  13:17:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

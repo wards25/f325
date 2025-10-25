@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705942500123
+                                                            Branch - 594 APL MCAR HWY(594 )
+                                                            Prepared by - DAN JAYAR C. ESGUERRA on 07/12/2025
+                                                            Issued by - ________________________________
+                                                                         JERRY C. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109325   29  Nescafe Clssc Ref 92g       30 05/31/25 E        100.03  2900.87
+                                              r           
+ 1109574    3  Kitkat 4F 35g               24 11/04/25 D         29.27    87.81
+                                              tr          
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,988.68
+                                                       Rundate 07/12/2025  13:48:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

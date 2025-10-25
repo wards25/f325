@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710712500394
+                                                            Branch - 1071 Alfonso Poblacion(CAVITE ALFONSO POB BRANCH )
+                                                            Prepared by - LEE CABADIN on 09/18/2025
+                                                            Issued by - ________________________________
+                                                                         Mr.GREGORIO CUBIO BM in-charge
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4110018    6  Choco Mucho Mlk Choc 30g    10 09/29/25 E          9.30    55.80
+                                              B8M         
+ 4110019   20  Choco Mucho Wh Choc 30g     10 09/28/25 E          9.30   186.00
+                                              B2M         
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          241.80
+                                                       Rundate 09/18/2025  12:44:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711542500311
+                                                            Branch - 1154 Valenzuela City Gateway Complex(1154 VAL. CITY GATEWAY COMPLEX GS PASO DE BLAS BGY P)
+                                                            Prepared by - MICHAEL LANOZO on 06/07/2025
+                                                            Issued by - ________________________________
+                                                                         MS.ANNA LIZA M. DEMITION
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    5  Surf FabCond Bl FrshSac25mL360          D          5.19    25.95
+                                              .           
+ 3870033    1  Creamsilk Cond HFallDef11mL288          D          5.93     5.93
+                                              .           
+ 3870043    2  Creamsilk Cond S-Strght11mL288          D          5.93    11.86
+                                              .           
+ 3870071    2  Creamsilk Cond TKR UStr10mL288          D          6.66    13.32
+                                              .           
+ 6200294    1  Creamsilk Cond S-Strght22mL288          D          8.43     8.43
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           65.49
+                                                       Rundate 06/07/2025  15:31:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

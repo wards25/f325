@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104492400485
+                                                            Branch - 449 Iriga City San Francisco(SAN FRANCISCO,IRIGA CITY )
+                                                            Prepared by - Sheryl M. Macalino on 11/19/2024
+                                                            Issued by - ________________________________
+                                                                         Joyce T. Gascon
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    3  Bear Br Strlzed RTD 1L      12 03/16/25 D         97.19   291.57
+                                              42310189YD  
+ 1167452    2  Nestle Chuckie Cal-N 250mL  24 12/31/24 D         28.08    56.16
+                                              405064382A  
+ 1167456    5  Nestle Chuckie Cal-N 1000mL 12 03/31/25 D        102.06   510.30
+                                              41490189YD  
+ 1167467    7  Nestle Frsh Mlk 250mL       24 01/22/25 D         36.23   253.61
+                                              23236978602 
+ 1167931    1  Bear Br Strlzed RTD 200mL   32 04/30/25 D         26.42    26.42
+                                              41910189TD  
+ 3748409   10  Milo w/Actigen-E RTD 180mL  32 02/28/25 D         23.09   230.90
+                                              40920189FD  
+ 3760009   17  Nido NutriSnaxBnna-Crot110mL60 02/28/25 D         17.76   301.92
+                                              40800189GD  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,670.88
+                                                       Rundate 11/19/2024  06:59:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

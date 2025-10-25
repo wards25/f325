@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701202500169
+                                                            Branch - 120 Quezon City Araneta Center Farmers Plaza(GF ARTC FARMERS PLAZA CUBAO QC )
+                                                            Prepared by - ANALIZA A. BANQUIRAY on 05/05/2025
+                                                            Issued by - ________________________________
+                                                                         MR. LARSEN M. GACAD
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 25g        144 10/31/25 D         18.57    18.57
+                                              42830604    
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              N/A         
+ 4530043    1  Nestle Trix Bfast Cer 160g  18 05/10/25 E        111.82   111.82
+                                              41160631    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          143.71
+                                                       Rundate 05/05/2025  15:35:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

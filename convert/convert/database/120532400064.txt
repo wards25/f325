@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120532400064
+                                                            Branch - 2053 Kapatagan Poblacion(2053 LDN KAPATAGAN POBLACION LANAO DEL NORTE)
+                                                            Prepared by - FE P HISULER on 02/04/2024
+                                                            Issued by - ________________________________
+                                                                         JONA ANDALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723372   12  Golden Cup Oil Liniment 7mL 12 02/09/24 E         77.25   927.00
+                                              GO64-0063   
+ 3856635   12  Datu Puti Patis Pet 350mL   24 02/02/24 F         23.04   276.48
+                                              A           
+ 4103080    1  Del M Spag PastaItaliana900g20          D        100.68   100.68
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,304.16
+                                                       Rundate 02/04/2024  12:09:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

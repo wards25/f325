@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012500864
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D.GUMIDAM on 09/02/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12          D         97.19    97.19
+                                              xxx         
+ 1167470    1  Nestle Frsh Mlk 1000mL      12          D        106.43   106.43
+                                              xxx         
+ 3748436    1  Nestea Lem ITea 25g        144          D         18.57    18.57
+                                              xxx         
+ 3760009    1  Nido NutriSnaxBnna-Crot110mL60          D         17.76    17.76
+                                              xxx         
+ 4025097    1  Nestle Chuckie Cal-N 110mL  60          D         13.46    13.46
+                                              xxx         
+ 4025177    1  Nescafe Original 20g       520          D          7.37     7.37
+                                              x           
+ 4530077    1  Nestle Low Fat Milk 1L      12          D        109.54   109.54
+                                              xxx         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          370.32
+                                                       Rundate 09/02/2025  19:42:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

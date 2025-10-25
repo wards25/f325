@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706942500122
+                                                            Branch - 694 Agoo Cases Blvd.(SAN NICOLAS NORTE AGOO,L.U. )
+                                                            Prepared by - A.MEDINA/M.MENDOZA on 02/19/2025
+                                                            Issued by - ________________________________
+                                                                         MARILOU P. JACABAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    5  Bear Br Strlzed RTD 1L      12 12/12/24 F         97.19   485.95
+                                              41370189YD  
+ 3748416    2  Bear Br Strlzedw/Gnsg 200mL 32          D         26.42    52.84
+                                              41030189UD  
+ 4025037   12  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 E          8.20    98.40
+                                              40458985A1  
+ 4025056    7  Nescafe Crmy Wh 25.5g      240 02/28/25 E          8.20    57.40
+                                              40418985A1  
+ 4530020   24  Nestle Chuckie CN250mLx4P110 8 02/20/25 F        102.80  2467.20
+                                              .           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200          D         12.37    12.37
+                                              41100597U1F3
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,174.16
+                                                       Rundate 02/19/2025  16:22:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

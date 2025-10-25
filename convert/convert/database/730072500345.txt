@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730072500345
+                                                            Branch - 3007 Vigan City Puregold(STA ELENA VIGAN CITY )
+                                                            Prepared by - Melanie R. Rapanut on 05/23/2025
+                                                            Issued by - ________________________________
+                                                                         Vanessa A. Alconcel
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050036   27  Knorr Hot Meal ArrozCaldo35g48 03/24/25 F         28.30   764.10
+                                              *           
+ 3265456    1  Pepsodent Tp WhtngW/P190g2TP24 04/09/25 F        120.88   120.88
+                                              *           
+ 3870315   21  Creamsilk Cond TKR UR&S170mL24 04/06/25 F        180.22  3784.62
+                                              *           
+ 5800173    1  Vaseline LotGDR330mLx2 40%Off6          D        423.36   423.36
+                                              *           
+ 6200236    1  Sunsilk Sh Smth&Manage 650mL12 05/30/25 E        311.64   311.64
+                                              *           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,404.60
+                                                       Rundate 05/23/2025  16:43:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

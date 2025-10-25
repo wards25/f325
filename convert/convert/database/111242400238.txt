@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111242400238
+                                                            Branch - 1124 Bulacan San Miguel Poblacion Tecson(1124 BUL. SAN MIGUEL TECSON )
+                                                            Prepared by - ALMA/MAX/LYN/VANA/CHA on 03/18/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Roy Villaceran
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723603    6  Deo Fresh Deo Ron Nat 65mL  12 08/30/24 I        137.60   825.60
+                                              0524082021  
+ 4136008  157  Kopiko Cappuccino Coff 25g 240 03/22/24 E          6.16   967.12
+                                              1943        
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,792.72
+                                                       Rundate 03/18/2024  13:33:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     I-Loose Tablet Items (Factory Defect)

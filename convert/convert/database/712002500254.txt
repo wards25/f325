@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712002500254
+                                                            Branch - 1200 Bulacan Waltermart Malolos(BULACAN WALTERMART MALOLOS CITY MALOLOS BULACAN)
+                                                            Prepared by - MHAYE J. VICTORIA on 10/15/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MYRA F. ESPINOZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465855    1  Magnol Pure Frsh Mlk 1L     12 10/31/25 E         96.08    96.08
+                                              50226g      
+ 3465859    2  Magnol Low Fat Mlk 1L       12 10/31/25 E        100.69   201.38
+                                              50216g      
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24 03/08/26 D         22.13    22.13
+                                              sf5         
+ 3723536    4  UFC Green Peas 400g         24 10/31/25 E         33.96   135.84
+                                              3502        
+ 3723644    1  Energen ChampionChMaltTP32g120 05/25/26 D         14.24    14.24
+                                              19+00115    
+ 4510079    1  Solbac Toilet Drops 15mL    24 10/31/25 E        116.48   116.48
+                                              8210132201  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          586.15
+                                                       Rundate 10/15/2025  17:08:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

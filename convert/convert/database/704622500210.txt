@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704622500210
+                                                            Branch - 462 Paranaque City Sucat Interchange(Sucat P'que )
+                                                            Prepared by - Neneth T. Magdale-District20 on 06/19/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016262    1  Century TunaFlk Veg Oil 155g50 03/05/28 D         34.03    34.03
+                                              1044        
+ 3048433    1  555 Sardine Frd H&Spcy 155g100 03/18/28 D         31.83    31.83
+                                              5FNANC6BNNA0
+ 3793297    1  Birch Tree FC Mlk Pdr 300g  24 06/30/26 D        134.36   134.36
+                                              4G324D      
+ 4131036    5  Birch Tree Adv Mocha 300g   12 08/31/25 E        323.19  1615.95
+                                              36219       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,816.17
+                                                       Rundate 06/19/2025  09:03:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

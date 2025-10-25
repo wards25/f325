@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705422500058
+                                                            Branch - 542 San Jose Cooper(SAN JOSE COOPER OCCIDENTAL MINDORO)
+                                                            Prepared by - MARYGIE M. TAPANG on 02/09/2025
+                                                            Issued by - ________________________________
+                                                                         LEAN C. DIMAPILIS
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    7  Del M Fit N RghtBurnApl330mL24 01/18/25 F         31.13   217.91
+                                              4078YX01    
+ 1103962    9  Del M Fit N RghtBurn4sn330mL24 02/06/25 F         31.13   280.17
+                                              4097YX03    
+ 1103963    1  Del M Fit N RghtBurnPne330mL24 01/18/25 F         31.13    31.13
+                                              4139YX01    
+ 4103103    2  Del M SpagSwtStylPrtyPckSP48 8 03/03/25 D        133.46   266.92
+                                              3307TF      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          796.13
+                                                       Rundate 02/09/2025  17:11:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

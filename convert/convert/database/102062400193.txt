@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102062400193
+                                                            Branch - 206 Bulacan Prestines Comm'l Complex(PRESTINES BULACAN )
+                                                            Prepared by - REMUS PASCUAL on 03/23/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Lisette D. Josep
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104062    1  Del M Pine JceVitACE Tetra1L12 07/13/24 D         87.31    87.31
+                                              L319YY13    
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 10/06/24 D         20.25    20.25
+                                              SF5         
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 08/02/24 D         20.25    20.25
+                                              SF5         
+ 4110019    7  Choco Mucho Wh Choc 30g     10 02/08/24 E          9.30    65.10
+                                              B3M         
+ 4180020    1  Mega Tuna Flks In Oil 155g  50 05/12/23 D         35.10    35.10
+                                              GSB2809     
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          228.01
+                                                       Rundate 03/23/2024  07:41:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

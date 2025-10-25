@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707192500032
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760011   12  Nido NutriSnaxSbry-Crot110mL60 12/31/24 F         17.76   213.12
+                                              0           
+ 4025096   20  Milo Activ-Go RTD 110mL     60 01/31/25 F         14.61   292.20
+                                              0           
+ 4025177    1  Nescafe Original 26g       520 07/31/25 D          7.37     7.37
+                                              0           
+ 4025219    5  Nescafe 3n1 Orig TwinPck56g200 04/30/25 D         12.37    61.85
+                                              0           
+ 4025239    8  Nestle CarnationCndnsda388mL48 11/27/24 F         64.49   515.92
+                                              0           
+ 4530039    1  Milo Bfst Cer Ch&MBalls 20g120 06/03/25 D         13.64    13.64
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,104.10
+                                                       Rundate 02/26/2025  14:49:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

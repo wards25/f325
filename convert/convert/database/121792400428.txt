@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121792400428
+                                                            Branch - 2179 Leyte AlangAlang Poblacion(J&F BLDG,POBLACION, ALANGALANG LEYTE)
+                                                            Prepared by - MARIA DHEVIE C MAGAYONES on 09/19/2024
+                                                            Issued by - ________________________________
+                                                                         MS. RHEA I. QUISIDO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850   36  Highland Reg Crnd Bf 150g   48 09/12/26 G         33.30  1198.80
+                                              HLCBR403    
+ 1221857   28  San Marino Blu Mckrl Stk180g48 07/26/25 G         56.25  1575.00
+                                              SMBMSS303   
+ 1225221   25  San Marino Crnd Tuna 180g   48 10/01/25 G         43.20  1080.00
+                                              SMCTR332    
+ 1225222   60  San Marino Crnd TunaChli180g48 10/24/26 G         43.20  2592.00
+                                              SMCCT347    
+ 4120006   32  Highland Crnd Bf 180g       48 11/30/26 G         57.15  1828.80
+                                              HLCBC420    
+ 4121005   15  San Marino Crnd TunaChli150g48 12/26/26 G         35.10   526.50
+                                              SMCCT370    
+ 4121007   14  San Marino Crnd Tuna 150g   48 12/18/26 G         35.10   491.40
+                                              SMCTR386    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        9,292.50
+                                                       Rundate 09/19/2024  18:57:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

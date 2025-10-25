@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109432301605
+                                                            Branch - 943 Tacurong City Ledesma(LEDESMA ST.TACURONG CITY,SULTA N KUDARAT)
+                                                            Prepared by - VINCENT PAUL V. BATISLAONG on 12/28/2023
+                                                            Issued by - ________________________________
+                                                                         VIVIAN P. ABASOLO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    1  Del M Fit N RghtBurnApl330mL24 04/08/23 F         30.80    30.80
+                                              015114      
+ 1104062    1  Del M Pine JceVitACE Tetra1L12 08/08/24 D         87.31    87.31
+                                              JJ          
+ 3623304    1  Apple&E 100%Jce Crnbrry1.89L 8 11/28/23 F        386.10   386.10
+                                              LI426AEU5   
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 04/02/24 D         20.16    20.16
+                                              B7          
+ 3723387    1  Rite'n Lite Or Dr 250mL     24 02/09/24 D         20.25    20.25
+                                              SF5         
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 04/12/24 D          7.01     7.01
+                                              1407T       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          551.63
+                                                       Rundate 12/28/2023  20:46:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

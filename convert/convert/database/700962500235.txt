@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700962500235
+                                                            Branch - 96 Valenzuela City Malinta(MALINTA )
+                                                            Prepared by - GINA FRANCISCO on 07/12/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JOCELYN C. BABAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465865    2  Magnol Choc Mlk Dr 1L       12 08/15/25 E         98.84   197.68
+                                              40820G201A  
+ 3623298    3  Pfanner Cranberry Jce 1L     8 06/29/25 E        125.10   375.30
+                                              07013       
+ 3723580    1  Naturelab FragBMistTrop100mL 6 02/02/26 D        111.75   111.75
+                                              .           
+ 3723648    8  Selecta Dolce LFat Choc 1L  12 08/14/25 E         85.96   687.68
+                                              35F6JB0     
+ 4100002    1  Kettle Korn Cheese 120g     30 11/30/25 D         39.74    39.74
+                                              MLM1        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,412.15
+                                                       Rundate 07/12/2025  15:45:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

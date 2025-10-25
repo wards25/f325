@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730262500078
+                                                            Branch - 3026 BENGT BAG C A BONI(A.BONIFACIO ST.BRGY.ABCR )
+                                                            Prepared by - HEIDE B. GUMAWANG on 05/05/2025
+                                                            Issued by - ________________________________
+                                                                         MARIBEL F. CABANBAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3695260    6  Magnol Panck+W/Mple Syr200g 48 02/02/25 F         32.77   196.62
+                                              406071c312  
+ 3695264    7  Magnol Panck&Waffle Mix180g 48 02/26/25 F         25.93   181.51
+                                              407011c366  
+ 3723648    5  Selecta Dolce LFat Choc 1L  12 05/15/25 E         85.96   429.80
+                                              01b6rl0     
+ 4113082    6  Magnol Star Mgrine 250g     72 05/09/25 E         69.31   415.86
+                                              40713am003  
+ 4510224    3  Diabetasol Crmy Almnd 800g   3 06/22/25 E       1420.00  4260.00
+                                              23t2202hiu  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,483.79
+                                                       Rundate 05/05/2025  16:01:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

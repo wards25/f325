@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703712500009
+                                                            Branch - 371 PC LBRTY COMML COMPLX( 23990)
+                                                            Prepared by - PAUL MODANCIA on 01/21/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MAE T.GALVEZ-BALAWANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12          D         91.92    91.92
+                                              .           
+ 3723584    2  Fiesta Fil SpagTpd1.6kgSP30 10 02/15/25 E        109.48   218.96
+                                              .           
+ 3723589    3  Fiesta Spag TpdSwt1.6kgSP20 10 02/15/25 E        117.39   352.17
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              .           
+ 3723648    2  Selecta Dolce LFat Choc 1L  12 01/25/25 E         85.96   171.92
+                                              .           
+ 3723687    3  RC Cola 1.5L                 6 02/01/25 E         47.25   141.75
+                                              .           
+ 3856631    6  Datu Puti Wh Vin 350mL      24 01/26/25 E         15.91    95.46
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,083.66
+                                                       Rundate 01/21/2025  15:59:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

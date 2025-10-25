@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706892500071
+                                                            Branch - 689 Batac City Public Market(ILN Batac Pub Market )
+                                                            Prepared by - MAYNARD C. PAGTAMA on 02/21/2025
+                                                            Issued by - ________________________________
+                                                                         GLORY M. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465855    1  Magnol Frsh Mlk 1L          12 02/16/25 F         96.08    96.08
+                                              F1          
+ 3465859    3  Magnol Low Fat Mlk 1L       12 02/01/25 F         96.08   288.24
+                                              40606G101A  
+ 3723648    8  Selecta Dolce LFat Choc 1L  12 02/04/25 F         85.96   687.68
+                                              11F6JA1     
+ 3973031    6  Selecta Forti Mlk Strlzed 1L12 03/01/25 E         80.88   485.28
+                                              47I8RED     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,557.28
+                                                       Rundate 02/21/2025  16:48:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

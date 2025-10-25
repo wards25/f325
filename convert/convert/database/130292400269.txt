@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130292400269
+                                                            Branch - 3029 Rosario Public Market(ROSARIO,BATANGAS )
+                                                            Prepared by - LIEZL T. COLOMA on 07/09/2024
+                                                            Issued by - ________________________________
+                                                                         MA. AZENITH C. HUFALAR
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32 06/30/24 F         23.09    23.09
+                                              32410189FD  
+ 4025219   15  Nescafe 3n1 Orig TwinPck56g200 06/30/24 F         11.80   177.00
+                                              31730601H1 B
+ 4025237   90  Nescafe Crmy Wh Twin Pck51g200 06/30/24 F         11.80  1062.00
+                                              31650597U1 J
+ 4025244    4  Nescafe CafeCreatCrmlLat33g 10 07/31/24 E         11.82    47.28
+                                              1940601C1 G1
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,309.37
+                                                       Rundate 07/09/2024  14:45:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

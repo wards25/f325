@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730462500246
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE )
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 10/03/2025
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210409    5  Argentina Bf Loaf 170g      48 10/07/26 D         22.86   114.30
+                                              ABL17       
+ 3048405    1  555 Sardines TS Hot 155g   100 04/18/26 D         22.14    22.14
+                                              14HNA04110  
+ 3048430    1  555 Sardines Oil Spnish155g100 04/10/26 D         30.16    30.16
+                                              GCNA0452    
+ 3048433    4  555 Sardine Frd H&Spcy 155g100 03/29/26 D         31.83   127.32
+                                              8CYL0375    
+ 3793298    4  Angel Condensada 380g       48 09/30/25 F         50.48   201.92
+                                              00922C2     
+ 3793321    1  Birch Tree FC Milk Pdr 700g 12 02/28/26 D        309.20   309.20
+                                              1           
+ 4131034   11  Angel Creamer All Pur 370mL 24 09/30/25 F         48.43   532.73
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,337.77
+                                                       Rundate 10/03/2025  14:44:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

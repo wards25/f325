@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107232400090
+                                                            Branch - 723 TNDG NTL R(TANDAG NATIONAL ROAD )
+                                                            Prepared by - CHERRYL V. DELA CALSADA on 01/21/2024
+                                                            Issued by - ________________________________
+                                                                         MA.BETH C. PASAYLO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413864   60  Nagaraya Crkr Nut Bbq 80g   60 07/14/24 H         18.34  1100.40
+                                              23827E      
+ 3413865   60  Nagaraya Crkr Nut Orig 80g  60 08/31/24 H         18.34  1100.40
+                                              23847E      
+ 3413866   60  Nagaraya Crkr Nut Gar 80g   60 08/16/24 H         18.34  1100.40
+                                              23858E      
+ 3413867   51  Nagaraya Crkr Nut Hot&Sp 80g60 07/15/24 H         18.34   935.34
+                                              23326E      
+ 3413868   96  Nagaraya Crkr Nut Bbq 160g  48 07/14/24 H         36.85  3537.60
+                                              23827A      
+ 3413870   51  Nagaraya Crkr Nut Orig 160g 48 08/12/24 H         36.85  1879.35
+                                              23854A      
+ 3413872   96  Nagaraya Crkr Nut Hot&Sp160g48 09/09/24 H         36.85  3537.60
+                                              23879A      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       13,191.09
+                                                       Rundate 01/21/2024  19:44:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  H-Recalled by Supplier

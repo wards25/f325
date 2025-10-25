@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104482400257
+                                                            Branch - 448 Baler Quezon(BALER AURORA)
+                                                            Prepared by - EVANGELYN G. VERA on 10/20/2024
+                                                            Issued by - ________________________________
+                                                                         MA. CLAUDENE S. GOMEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3856633   18  Mang Tomas Lchon Sce 325g   24 10/07/24 F         33.25   598.50
+                                              x           
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 11/15/24 E         80.88    80.88
+                                              x           
+ 3973055    1  Selecta Farm Frsh Mlk 1L    12 10/18/24 F         93.30    93.30
+                                              x           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          772.68
+                                                       Rundate 10/20/2024  09:02:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

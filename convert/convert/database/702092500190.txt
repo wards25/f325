@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702092500190
+                                                            Branch - 209 Sta. Rosa City Paseo de Sta. Rosa(GF PASEO DE STA ROSA )
+                                                            Prepared by - MS ROZE URRIZA on 05/20/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JOCELYN DELAS ALAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025099    6  Nestle KKrunch 35g          72 11/20/25 D         16.36    98.16
+                                              43250630    
+ 4530043    1  Nestle Trix Bfast Cer 160g  18 05/31/25 E        111.82   111.82
+                                              416606      
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          209.98
+                                                       Rundate 05/20/2025  17:26:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711182500249
+                                                            Branch - 1118 BULACAN PLARIDEL TABANG(BULACAN PLARIDEL TABANG DISTRICT V111)
+                                                            Prepared by - beth on 06/24/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MARICEL L.MARQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010200    3  Ladys C Tuna Sprd 220mL     24 06/23/25 E        122.60   367.80
+                                              619         
+ 3039297    1  Breeze Liq Det 64g         108 02/01/28 D         12.50    12.50
+                                              XX          
+ 3050041    1  Breeze Liq DetRseGldPer60g 108 03/01/28 D         12.50    12.50
+                                              XX          
+ 3980287    1  Rexona Men Ron Invi Dry 25mL24 06/30/25 E         71.30    71.30
+                                              XXX         
+ 6200014    6  Dove Men Sh Strngthng 170mL 24 06/23/25 E        177.92  1067.52
+                                              1232        
+ 6200254    1  Rexona Men DeoUltraPActvB45mL6 06/23/25 E        195.22   195.22
+                                              525         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,726.84
+                                                       Rundate 06/23/2025  15:33:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

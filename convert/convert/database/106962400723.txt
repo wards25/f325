@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106962400723
+                                                            Branch - 696 Tarlac City San Roque McArthur Hway( Y)
+                                                            Prepared by - MC Dela Cruz/ J.A Pineda on 09/30/2024
+                                                            Issued by - ________________________________
+                                                                         Mrs.REGINE V. BAUTISTA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102946    1  Del M Chunks Pine 432g      24 08/01/24 F         58.10    58.10
+                                              C22LESP     
+ 1225222    1  San Marino Crnd TunaChli180g48 02/10/26 G         43.20    43.20
+                                              SMCCT324    
+ 4470342    6  CDO Karne Norte PStyle 150g  6 12/08/25 G         25.65   153.90
+                                              CDOKN447    
+ 4470344    7  CDO LchMeat ChineseStyle350g 4 03/18/27 G         76.50   535.50
+                                              CDOLM366    
+ 4470346    1  Highland Clssc Crnd Bf 150g  6 10/25/26 G         48.15    48.15
+                                              HLCBR419    
+ 4470356    5  San Marino Crnd TunaChili150g6 03/20/27 G         33.30   166.50
+                                              SMCCT397    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,005.35
+                                                       Rundate 09/30/2024  10:08:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired     G-Deleted

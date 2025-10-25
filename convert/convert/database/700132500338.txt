@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700132500338
+                                                            Branch - 13 Baclaran Quirino(MDC QUIRINO AVE BAC. PQUE )
+                                                            Prepared by - Joy Ann Salazar on 04/13/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Ronalyn P. Penales
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12          D         97.19    97.19
+                                              01          
+ 1109325    1  Nescafe Clssc Ref 92g       30          D         91.46    91.46
+                                              01          
+ 1109574    1  Kitkat 4F 35g               24          D         29.27    29.27
+                                              01          
+ 3748436    2  Nestea Lem ITea 25g        144          D         18.57    37.14
+                                              01          
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200          D         13.32    26.64
+                                              ++          
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100          D         13.21    13.21
+                                              01          
+ 4530065    1  Nestogen LowLactose0-12M400g12          D        397.38   397.38
+                                              01          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          692.29
+                                                       Rundate 04/13/2025  10:27:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

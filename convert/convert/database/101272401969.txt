@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272401969
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 10/04/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    1  Selecta Moo Choc 245mL      24 02/07/25 D         28.36    28.36
+                                              4AQP        
+ 1148938    1  Selecta Forti MlkLowFat245mL24 02/07/25 D         34.23    34.23
+                                              B3RL0       
+ 3254310    1  UFC Bnana Csup Reg 320g     24 06/26/25 D         23.40    23.40
+                                              24H30C18    
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240 05/22/25 D          7.01     7.01
+                                              0301T       
+ 3723644    1  Energen Champion Choc TP30g120 06/08/25 D         14.24    14.24
+                                              00115       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          107.24
+                                                       Rundate 10/04/2024  15:20:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

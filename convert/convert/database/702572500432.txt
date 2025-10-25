@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702572500432
+                                                            Branch - 257 San Pedro City Nueva(SAN PEDRO NUEVA )
+                                                            Prepared by - ABEGAIL C. PANGAN on 10/11/2025
+                                                            Issued by - ________________________________
+                                                                         MR. BALTAZAR M. AQUINO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 12/31/25 D        102.06   102.06
+                                              50560189    
+ 3748436   57  Nestea Lem ITea 19g        144 10/31/25 E         18.57  1058.49
+                                              42830604    
+ 4530041   38  Nestle Trix Bfast Cer 20g  120 11/14/25 E         13.64   518.32
+                                              43540631    
+ 4530115    7  Milo Choco Malt Pdr 24g    504 03/31/26 D          8.58    60.06
+                                              5191895d1   
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,738.93
+                                                       Rundate 10/11/2025  16:10:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130752400709
+                                                            Branch - 3075 Bataan Orion Poblacion(BATAAN ORION POBLACION )
+                                                            Prepared by - JOFIAH P. ANTONIO on 12/03/2024
+                                                            Issued by - ________________________________
+                                                                         PAOLO C. CANDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    1  Nestle Frsh Mlk 250mL       24 10/27/24 F         36.23    36.23
+                                              F           
+ 3707335   12  Kitkat Bites 40g            30 11/15/24 F         53.40   640.80
+                                              F           
+ 3748416    4  Bear Br Strlzedw/Gnsg 200mL 32 12/10/24 E         26.42   105.68
+                                              E           
+ 3760007   45  Kitkat Mini 8s 72g          48 11/15/24 F         85.47  3846.15
+                                              F           
+ 4025096   45  Milo Activ-Go RTD 110mL     60 01/31/25 E         14.61   657.45
+                                              E           
+ 4530026    5  Nescafe Original SF TPck23g100 04/30/25 D         12.27    61.35
+                                              D           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,347.66
+                                                       Rundate 12/03/2024  17:00:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

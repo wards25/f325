@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272401987
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 10/04/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3980603    1  Ponds VitMicellWatBRose100mL 3          D         83.30    83.30
+                                              X           
+ 6200023    1  Surf Liq Chry Blossm 64mL  288          D          6.42     6.42
+                                              X           
+ 6200024    6  Surf Liq Rose Fresh 64mL   288          D          6.42    38.52
+                                              X           
+ 6200099    3  Vitakeratin Brzln Strgt24mL288          D          4.95    14.85
+                                              X           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          143.09
+                                                       Rundate 10/04/2024  16:30:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

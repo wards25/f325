@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730332500044
+                                                            Branch - 3033 Solano Quirino(BRGY QUIRINO SOLANO NUEVA VIZCAYA)
+                                                            Prepared by - DIANA MAE P. JUAN on 04/23/2025
+                                                            Issued by - ________________________________
+                                                                         MA. CRISTINA M. UBIDO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   31  Nestle Frsh Mlk 250mL       24 06/09/25 E         36.23  1123.13
+                                              2328930203  
+ 3748503    1  Nestle KKrunch SPck 80g     24 01/03/25 F         48.18    48.18
+                                              CD1         
+ 4530022   28  Nescafe Crmy Lat TwinPck51g200 04/30/25 E         13.32   372.96
+                                              A2          
+ 4530053   11  Nescafe Mocha Can 220mL     24 04/27/25 E         34.62   380.82
+                                              419B467B3   
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,925.09
+                                                       Rundate 04/23/2025  16:23:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

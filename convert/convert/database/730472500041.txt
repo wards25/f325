@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730472500041
+                                                            Branch - 3047 BATANGAS STO. TOMAS FPIP(STA ANASTACIA STO TOMAS BATS )
+                                                            Prepared by - ANNA KATHLEEN M. MENDOZA on 03/06/2025
+                                                            Issued by - ________________________________
+                                                                         MARK LEE R. LIWAG
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039293    1  Breeze Pdr Det ActvBlch 66g144          D         12.20    12.20
+                                              250724311   
+ 3050068    1  Breeze Pdr Det Anti-Bac 60g144          D         12.20    12.20
+                                              0308243393  
+ 3265438    1  Close Up Red Hot 145mL      36 01/25/27 D        120.10   120.10
+                                              2           
+ 3870023    1  Creamsilk Cond Dam Ctrl11mL288          D          5.93     5.93
+                                              F1          
+ 3870043    2  Creamsilk Cond S-Strght11mL288          D          5.93    11.86
+                                              1006242117  
+ 3870142    2  Sunsilk Sh S&L30%More13mL  288          D          5.59    11.18
+                                              0311242106  
+ 3870200    2  Dove Cond 1Min CrIntRep10mL288          D          6.22    12.44
+                                              3           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          185.91
+                                                       Rundate 03/06/2025  12:36:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

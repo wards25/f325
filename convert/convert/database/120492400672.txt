@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120492400672
+                                                            Branch - 2049 NEG OCC VICS C ACLN(2049 VICTORIAS ASCALON BRANCH )
+                                                            Prepared by - PATRICIA INES A VILLANUEVA on 08/27/2024
+                                                            Issued by - ________________________________
+                                                                         JOHN CARLO V ESPIRITU
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    1  Nestle Frsh Mlk 250mL       24 12/31/24 D         34.74    34.74
+                                              1           
+ 1167470    2  Nestle Frsh Mlk 1000mL      12 02/23/24 D        100.18   200.36
+                                              2327430205  
+ 1167857    2  Nestle All Purpose Crm 250mL24 04/30/25 D         64.49   128.98
+                                              414364381A  
+ 3748416    1  Bear Br Strlzedw/Gnsg 200mL 32 01/07/25 D         25.23    25.23
+                                              41030189UD  
+ 3748417    1  Bear Br Strlzedw/GnkgoB200mL32 12/11/24 D         25.23    25.23
+                                              407         
+ 3760009    6  Nido NutriSnaxBnna-Crot110mL60 11/30/24 D         17.76   106.56
+                                              G4          
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60 12/31/24 D         17.76    17.76
+                                              10+         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          538.86
+                                                       Rundate 08/27/2024  20:25:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

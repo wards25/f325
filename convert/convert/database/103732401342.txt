@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103732401342
+                                                            Branch - 373 Valenzuela City Gen. T. De Leon(VAL CITY GEN. T DE LEON f324 #977524)
+                                                            Prepared by - AMOR AMACIO on 09/17/2024
+                                                            Issued by - ________________________________
+                                                                         MR. ALVIN P. PASCO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102850   58  Del M Fiesta Frt Ctail 432g 24 10/01/24 E         64.17  3721.86
+                                              l2291       
+ 1103059   12  Del M Tidbits Pine 432g     24 10/01/24 E         58.10   697.20
+                                              2297yy      
+ 1221850   12  Highland Reg Crnd Bf 150g   48 01/25/26 G         33.30   399.60
+                                              hlcbr405    
+ 1221857   29  San Marino Blu Mckrl Stk180g48 05/13/26 G         56.25  1631.25
+                                              smbmss306   
+ 1225221   25  San Marino Crnd Tuna 180g   48 04/17/24 G         43.20  1080.00
+                                              smctr374    
+ 1225222   12  San Marino Crnd TunaChli180g48 04/17/26 G         43.20   518.40
+                                              smcct302    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,048.31
+                                                       Rundate 09/17/2024  15:24:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted

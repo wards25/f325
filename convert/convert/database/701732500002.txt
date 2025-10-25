@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701732500002
+                                                            Branch - 173 Cainta Sta. Lucia Mall(Sta LUCIA MALL CAINTA 173 STA LUCIA MALL)
+                                                            Prepared by - DALENE on 01/14/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MA. CONCEPCION B. ISLA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050022    4  Baby Dove Bb Lot Nrshng200mL 6 04/14/25 E        227.36   909.44
+                                              22092       
+ 3050024    1  Baby Dove Bb Sh 200mL        6 02/28/25 E        215.21   215.21
+                                              22092       
+ 3050027    1  Baby Dove Bb Wash HTT RM400mL6 05/28/25 E        286.94   286.94
+                                              30022       
+ 3870066    1  Creamsilk Cond TKR UR&S10mL288 11/17/27 D          6.66     6.66
+                                              1           
+ 3870325    1  Sunsilk Sh Strng&Long 180mL 24 03/24/27 D        115.93   115.93
+                                              05102432    
+ 3980140    1  Master DC Oil Ctrl Max 225mL 6 08/30/26 E        101.43   101.43
+                                              130324112   
+ 3980716    3  Rexona Wmen RonFrshSkura45mL24 04/30/25 E        120.00   360.00
+                                              15042321    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,995.61
+                                                       Rundate 01/14/2025  17:07:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

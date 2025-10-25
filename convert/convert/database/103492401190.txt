@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103492401190
+                                                            Branch - 349 Makati City Valero 2 Carpark(VALERO ST. MAKATI CITY )
+                                                            Prepared by - Myra Bulosan on 11/01/2024
+                                                            Issued by - ________________________________
+                                                                         MS CATHERINE F. PALLES
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    3  Nescafe Clssc 1.9g        1008          D          2.46     7.38
+                                              .           
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 10/31/24 E        102.06   102.06
+                                              .           
+ 4025099    1  Nestle KKrunch 35g          72          D         14.48    14.48
+                                              .           
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              .           
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200          D         12.37    24.74
+                                              .           
+ 4530022    4  Nescafe Crmy Lat TwinPck51g200          D         12.37    49.48
+                                              .           
+ 4530026    1  Nescafe Original SF TPck23g100          D         11.70    11.70
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          217.21
+                                                       Rundate 11/01/2024  19:47:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

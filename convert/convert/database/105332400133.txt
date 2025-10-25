@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105332400133
+                                                            Branch - 533 SJOC MHRLIKA(San Jose Maharlika )
+                                                            Prepared by - APPLE MAY F. MOLINA on 03/08/2024
+                                                            Issued by - ________________________________
+                                                                         MS. SAEDA S. CABUTAJE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009333    5  Royal Elbow Macaroni 400g   30 01/16/25 D         59.12   295.60
+                                              1           
+ 1149115    1  WhiteKing HotCake&WafMix400g24 09/27/24 D         56.36    56.36
+                                              1           
+ 3723286    7  Ding Dong Sup Mxd Nuts 100g 60 07/18/24 D         20.16   141.12
+                                              1           
+ 3723374    3  Ding Dong Snck Mx Chip&C95g 60 05/03/24 D         20.16    60.48
+                                              a54         
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 12/21/24 D        121.94   121.94
+                                              1           
+ 4096030   34  Del M Tidbits Pine 115g     48 02/01/24 E         14.70   499.80
+                                              1           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,175.30
+                                                       Rundate 03/08/2024  14:05:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

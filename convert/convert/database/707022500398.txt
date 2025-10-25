@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707022500398
+                                                            Branch - 702 CBO ORC(COR.GOV.GUTIRREZ AVE.& SINSUAT COT. CITY)
+                                                            Prepared by - J.BELARMINO/K.BUENO/K.PEGARRO on 09/28/2025
+                                                            Issued by - ________________________________
+                                                                         MS. JORLYN T. UYTARANCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413868    1  Nagaraya Crkr Nut Bbq 160g  48 04/17/26 D         41.27    41.27
+                                              25746N      
+ 3413869    1  Nagaraya Crkr Nut Gar 160g  48 04/19/26 D         41.27    41.27
+                                              25748N      
+ 3413873   30  Nagaraya SwtMni PretChoc30g100 04/28/26 D          7.61   228.30
+                                              25010B      
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 06/09/26 D        121.94   121.94
+                                              X           
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10 01/19/26 D        117.39   117.39
+                                              X           
+ 4113093    2  Magnol Real Mayonnaise 80mL 24 03/19/26 D         28.28    56.56
+                                              50523CB249  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          606.73
+                                                       Rundate 09/28/2025  14:24:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

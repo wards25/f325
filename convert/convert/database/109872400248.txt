@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109872400248
+                                                            Branch - 987 Oroquieta - Quijano(BARRIENTOS COR QUIJANO STS, OROQUIETA CITY, MIS. OCC.)
+                                                            Prepared by - MS.IMELDA CLAVITE-NERI on 07/27/2024
+                                                            Issued by - ________________________________
+                                                                         MS.LIZA RUIZAL-DURAC
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723386    2  Rite'n Lite Lem Lime Dr250mL24 04/16/25 D         20.25    40.50
+                                              SF4         
+ 3723566   14  Musli OatCrnchySbry&Almd375g14 08/19/24 E        160.65  2249.10
+                                              U2300181    
+ 3972988   21  WhiteKing Champorado Mix113g30 08/17/24 E         30.49   640.29
+                                              19141170823C
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 04/19/25 D         20.25    20.25
+                                              SF4         
+ 4510153    2  Rite'n Lite Lych+Rse Dr250mL24 12/10/25 D         22.13    44.26
+                                              SF5         
+ 4510155    4  Rite'n Lite Peach Dr 250mL  24 12/03/24 D         20.25    81.00
+                                              SF5         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,075.40
+                                                       Rundate 07/27/2024  14:21:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709842500155
+                                                            Branch - 984 PAGD PAJARES(PAJARES AVE., PAGADIAN CITY Y)
+                                                            Prepared by - JONNA MAE L. DALENA on 03/26/2025
+                                                            Issued by - ________________________________
+                                                                         MR. REH T. SAGUN
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3980134    1  Master DC A-Pimple 225mL     6          D        101.43   101.43
+                                              .           
+ 3980212    1  Ponds Men A-Sol WFoam 50g    6          D        101.92   101.92
+                                              .           
+ 3980661   35  Lifebuoy Soap T10AntiBac110g96 11/13/24 F         38.17  1335.95
+                                              .           
+ 5800024    2  Ponds Hydrtion JelClnsrA100g24          D        165.62   331.24
+                                              .           
+ 5800318    5  Knorr Crab&Corn Soup 55g    30          D         50.95   254.75
+                                              .           
+ 5800328    3  Ladys C Sandw Sprd 80mL     36          D         31.55    94.65
+                                              .           
+ 6200003    1  Creamsilk Cond Dam Ctrl180mL24          D        128.33   128.33
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,348.27
+                                                       Rundate 03/26/2025  16:54:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130762401086
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 10/03/2024
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723396    4  Entrasol Pltnm Ad PdrChoc200g3 11/14/24 E        352.60  1410.40
+                                              .           
+ 3723586    4  Royal Spag R&T Swt1.6kgSP49 10 10/10/24 E        121.94   487.76
+                                              .           
+ 3780489   13  Fitbar Choc 22g             12 10/16/24 E         27.00   351.00
+                                              .           
+ 3856661    1  Locally Dalandan Jce Dr240mL24 03/05/25 D         22.80    22.80
+                                              .           
+ 4110018   35  Choco Mucho Mlk Choc 30g    10 11/25/24 E          9.30   325.50
+                                              .           
+ 4110019   34  Choco Mucho Wh Choc 30g     10 11/18/24 E          9.30   316.20
+                                              .           
+ 4136006   13  Kopiko Brn Coff 27.5g      240 09/21/24 F          6.80    88.40
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,002.06
+                                                       Rundate 10/04/2024  08:46:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

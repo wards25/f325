@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730612500044
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B . MEDRANO on 02/18/2025
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104105   10  Del M Fit N Rght Sson330mL  24 02/11/25 F         26.93   269.30
+                                              381C        
+ 4103065   23  Del M Tmto Sce OrigStyl 250g48 01/14/25 F         25.72   591.56
+                                              3287TFH09   
+ 4103082   15  Del M Swt Blnd Kchup Pch320g36 11/11/24 F         28.33   424.95
+                                              3315DZB05   
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,285.81
+                                                       Rundate 02/18/2025  10:03:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

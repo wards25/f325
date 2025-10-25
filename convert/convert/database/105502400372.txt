@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105502400372
+                                                            Branch - 550 Virac Centermall( )
+                                                            Prepared by - ELMAR T. BONTO on 11/30/2024
+                                                            Issued by - ________________________________
+                                                                         JOANNE ROSE R. TAPIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282    2  Cupp Keyk Choc Mcha         10 09/20/24 F          6.80    13.60
+                                              .           
+ 3723393    2  Keratin Plus Hr Trtmnt 20g 288          D          6.00    12.00
+                                              .           
+ 3723679    1  Milna Nture Pf CerAMB6mos15g12 09/28/25 D         55.25    55.25
+                                              .           
+ 3723683    1  Fudgee Barr Macapuno 39g    10 12/29/24 D          8.10     8.10
+                                              .           
+ 4110040    2  Frootees Ckie Sbrry 32g     10 09/29/24 F          5.83    11.66
+                                              .           
+ 4136008    1  Kopiko Cappuccino Coff 25g 240 08/16/25 D          7.40     7.40
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          108.01
+                                                       Rundate 12/01/2024  17:56:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

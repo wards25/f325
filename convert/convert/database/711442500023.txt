@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711442500023
+                                                            Branch - 1144 Pasig City Sta. Lucia Ortigas Ave. Extension(Pasig Sta. Lucia Ortigas ave, ext.)
+                                                            Prepared by - JEZZ on 01/18/2025
+                                                            Issued by - ________________________________
+                                                                         Mr. Marvien C. Monteagudo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    1  Magnol Low Fat Mlk 1L       12 01/04/25 E         96.08    96.08
+                                              4009101     
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240          D          7.01     7.01
+                                              1           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              1           
+ 3723685    1  Rebisco Hansel Crackers 32g 10 01/14/25 E          5.97     5.97
+                                              1           
+ 3856663    2  Locally Gybano Jce Dr 240mL 24 01/22/25 E         25.08    50.16
+                                              0819        
+ 3973055    1  Selecta Farm Frsh Mlk 1L    12 01/04/25 E         93.30    93.30
+                                              3108eo      
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240          D          6.80     6.80
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          270.80
+                                                       Rundate 01/18/2025  10:19:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

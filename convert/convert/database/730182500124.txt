@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730182500124
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL A. MARTIN on 04/24/2025
+                                                            Issued by - ________________________________
+                                                                         MA. CLAUDENE S. GOMEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109325    1  Nescafe Clssc Ref 92g       30 10/31/05 D         91.46    91.46
+                                              41000190ja  
+ 1167456    5  Nestle Chuckie Cal-N 1000mL 12 04/30/25 F        102.06   510.30
+                                              41590189yd  
+ 3707335    2  Kitkat Bites 40g            30 03/14/25 F         53.40   106.80
+                                              40749531ma  
+ 4025177  330  Nescafe Original 26g       520 05/31/25 E          7.37  2432.10
+                                              41288985a2  
+ 4066024   52  Kitkat 2F 17gx6 FPck        48 03/23/25 F         89.77  4668.04
+                                              40839531aa  
+ 4530022   64  Nescafe Crmy Lat TwinPck51g200 04/30/25 F         13.32   852.48
+                                              41070597u1e2
+ 4530057    1  Kitkat 2F 17g               48 03/09/25 F         15.36    15.36
+                                              40699531aa  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,676.54
+                                                       Rundate 04/24/2025  13:39:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

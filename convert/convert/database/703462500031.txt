@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703462500031
+                                                            Branch - 346 Manila Tondo Hermosa(346 MANILA TONDO HERMOSA 70031)
+                                                            Prepared by - RIKKA on 01/29/2025
+                                                            Issued by - ________________________________
+                                                                         MR. ROMEO COROCOTO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 02/25/25 E         91.92    91.92
+                                              ..          
+ 3465907   10  Magnol Chzee Sqze Chdr 220g 24 12/29/24 E         70.23   702.30
+                                              ..          
+ 3465908    3  Magnol Chzee Sqze Pmnto 115g24 01/06/25 E         37.88   113.64
+                                              ..          
+ 3465909   15  Magnol Chzee Sqze Pmnto 220g24 12/15/24 E         74.84  1122.60
+                                              ..          
+ 3723388    2  Rite'n Lite Rootbeer Dr250mL24 10/05/25 D         20.25    40.50
+                                              ..          
+ 3723633    4  Selecta Forti MlkStr1Lx2SP10 6 01/11/25 E        155.94   623.76
+                                              ..          
+ 3723648    1  Selecta Dolce LFat Choc 1L  12 12/07/24 E         85.96    85.96
+                                              ..          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,780.68
+                                                       Rundate 01/29/2025  16:09:44
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705422500230
+                                                            Branch - 542 San Jose Cooper(SAN JOSE COOPER OCCIDENTAL MINDORO)
+                                                            Prepared by - MARYGIE M. TAPANG on 06/15/2025
+                                                            Issued by - ________________________________
+                                                                         ARNEL JOSE. RECIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3623283    1  Apple&E 100%Jce ApOrgncs1.42L8 01/29/25 F        323.10   323.10
+                                              402921      
+ 3723685    1  Rebisco Hansel Crackers 32g 10 06/25/25 E          5.97     5.97
+                                              C33B2       
+ 3723711    2  Malkist Crkr Bbq 28gx10     12 06/04/25 F         53.55   107.10
+                                              155OTGR10508
+ 3723713    1  Malkist Crkr Swt Glzd28gx10 12 06/18/25 E         53.55    53.55
+                                              1115TGR21906
+ 3856627    1  Datu Puti Patis 350mL       24 06/29/25 E         23.51    23.51
+                                              24A06T041455
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          513.23
+                                                       Rundate 06/15/2025  15:07:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

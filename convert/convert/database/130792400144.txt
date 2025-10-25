@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130792400144
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 02/27/2024
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3780425    1  Diabetasol Choc 180g         3 02/13/24 F        292.10   292.10
+                                              22S130214   
+ 3780426    5  Diabetasol Cappuccino 180g   3 02/14/24 F        292.10  1460.50
+                                              22S140314   
+ 3856633   10  Mang Tomas Lchon Sce 325g   24 02/17/24 F         33.25   332.50
+                                              23E23M061424
+ 3900003    2  Diabetasol Choc 360g         3 12/15/23 F        609.20  1218.40
+                                              22Q1502DH   
+ 3900004    1  Diabetasol Vnla 360g         3 06/09/24 D        609.20   609.20
+                                              22W0901DH   
+ 4510167    2  Diabetasol Choc 360g+ 3x30g  3 05/06/24 E        609.20  1218.40
+                                              22V0601DH   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,131.10
+                                                       Rundate 02/27/2024  10:27:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

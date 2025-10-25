@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110712400255
+                                                            Branch - 1071 Alfonso Poblacion(CAVITE ALFONSO POB BRANCH )
+                                                            Prepared by - JUVELYN A SUBA on 04/29/2024
+                                                            Issued by - ________________________________
+                                                                         MS. LUDIVINA R. ROMEN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 12/05/24 D         20.25    20.25
+                                              SBT03620914 
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240 11/30/24 D          7.01     7.01
+                                              00347QR     
+ 3972988    1  WhiteKing Champorado Mix113g30 03/09/24 E         30.49    30.49
+                                              19041090323C
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 12/27/24 E          6.83     6.83
+                                              2108TGR08041
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 02/09/25 D         20.25    20.25
+                                              SBT03621833 
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           84.83
+                                                       Rundate 04/29/2024  12:07:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

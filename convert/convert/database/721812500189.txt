@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721812500189
+                                                            Branch - 2181 Davao De Oro Pantukan Poblacion(PANTUKAN DAVAO DE ORO )
+                                                            Prepared by - EDELYN FALE on 08/06/2025
+                                                            Issued by - ________________________________
+                                                                         MS. ANN DELRINA ABAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009333    6  Royal Elbow Macaroni 400g   30 08/03/25 F         60.97   365.82
+                                              25C         
+ 1165711   23  Magnol Chzee Sprd Pln 235g  24 08/06/25 E         79.44  1827.12
+                                              50108TCB32  
+ 3723385    3  Rite'n Lite Lem Dr 250mL    24 07/18/25 F         22.13    66.39
+                                              112022      
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 07/24/25 F         22.13    22.13
+                                              110941      
+ 3723387    2  Rite'n Lite Or Dr 250mL     24 07/27/25 F         22.13    44.26
+                                              110233      
+ 4095042    1  Seoul Wh K SoapDbleWhtng180g12 05/31/25 F        132.00   132.00
+                                              RQ300524    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,457.72
+                                                       Rundate 08/06/2025  12:13:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106462400590
+                                                            Branch - 646 CIAO PUB MKT(Calasiao Public Market Pangasinan)
+                                                            Prepared by - E.PADILLA R. QUINTO M.TORRES on 10/14/2024
+                                                            Issued by - ________________________________
+                                                                         MS. Josie P. Aquino
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 04/15/25 D         20.25    20.25
+                                              sbt         
+ 3723659    3  Kwik Mosquito Killer WB 300mL6 01/30/24 F        134.04   402.12
+                                              01212101    
+ 3723662    2  Kwik Multi Insect Killer300mL6 01/30/24 F        130.24   260.48
+                                              01182103    
+ 3723665    9  Kwik Multi InsctKillerWB300mL6 09/30/24 F        130.24  1172.16
+                                              09212135    
+ 4510066    6  Kwik Multi Insct K WB300mL+Z12 09/30/24 F        116.96   701.76
+                                              09212135    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,556.77
+                                                       Rundate 10/14/2024  16:07:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

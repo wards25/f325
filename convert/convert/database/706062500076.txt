@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706062500076
+                                                            Branch - 606 Batac City Washington(BATAC WASHINGTON )
+                                                            Prepared by - GENEVEVE O. RAMOS on 02/25/2025
+                                                            Issued by - ________________________________
+                                                                         CHERYLL LEI B. CATOR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3695262   21  Magnol Panck+W/Sbrry Syr200g48 02/28/25 E         32.77   688.17
+                                              407031C386  
+ 4095041    6  Seoul Wh K Soap DbleWhtng90g12 03/31/25 E         64.00   384.00
+                                              RQ3M0309    
+ 4095043    7  Seoul Wh K SoapDbleWhtng270g12 03/31/25 E        164.00  1148.00
+                                              RQ3M0310    
+ 4510217    1  Lipton Tea STL Eng BfstBlk25s6 02/16/25 F        198.35   198.35
+                                              17022023N   
+ 4510220    1  Diabetasol Crmy Almnd 180g   3 02/16/25 F        328.00   328.00
+                                              23S1601IU   
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,746.52
+                                                       Rundate 02/25/2025  17:00:12
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

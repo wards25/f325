@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721202500038
+                                                            Branch - 2120 ILO ILO PAVIA AGANAN(HDH MERCHNDSNG BLDG.,ZONE II BRGY AGANAN,PAVIA ILOILO)
+                                                            Prepared by - JOHANN S.  PROVIDO on 03/26/2025
+                                                            Issued by - ________________________________
+                                                                         MARY LUZ C. LORETIZO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530049    5  Nescafe Cappuccino Can 220mL24 03/26/25 E         34.62   173.10
+                                              4085346732  
+ 4530051   17  Nescafe Ice Blk Can 220mL   24 03/27/25 E         34.62   588.54
+                                              4088B46781  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          761.64
+                                                       Rundate 03/26/2025  14:34:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

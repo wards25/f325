@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105192400497
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - MILDRED M. BARTIDO on 10/25/2024
+                                                            Issued by - ________________________________
+                                                                         JAYPEE V. FLORES
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109346    3  Nescafe Clssc Ref 46g       60 11/30/25 D         39.00   117.00
+                                              41520190    
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 D          8.20     8.20
+                                              40458985a   
+ 4025219    6  Nescafe 3n1 Orig TwinPck56g200 02/28/25 D         12.37    74.22
+                                              4038060     
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200 04/30/25 D         12.37    24.74
+                                              41070597    
+ 4530026    6  Nescafe Original SF TPck23g100 04/30/25 D         11.70    70.20
+                                              4119601e1   
+ 4530041   65  Nestle Trix Bfast Cer 20g  120 06/10/25 D         13.64   886.60
+                                              41970631    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,180.96
+                                                       Rundate 10/25/2024  09:08:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

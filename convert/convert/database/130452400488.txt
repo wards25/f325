@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130452400488
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - VENUS O. RUIZ on 07/14/2024
+                                                            Issued by - ________________________________
+                                                                         DINO N. NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538  116  Nestle Coffeemate 5g       960 08/07/24 E          1.89   219.24
+                                              .           
+ 4025056    1  Nescafe Crmy Wh 25.5g      240          D          8.20     8.20
+                                              .           
+ 4025096   11  Milo Activ-Go RTD 110mL     60 08/16/24 E         14.61   160.71
+                                              .           
+ 4025099   15  Nestle KKrunch 35g          72 08/07/24 E         14.48   217.20
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          605.35
+                                                       Rundate 07/14/2024  17:35:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

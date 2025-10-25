@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130792400846
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 11/25/2024
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456   15  Nestle Chuckie Cal-N 1000mL 12 11/30/24 E        102.06  1530.90
+                                              40130189YD  
+ 3748436   60  Nestea Lem ITea 25g        144 11/30/24 E         18.57  1114.20
+                                              SBT33060604F
+ 3748444   20  Nestea Ap ITea 20g         144 01/31/25 D         18.57   371.40
+                                              SBT40030604E
+ 3760007   46  Kitkat Mini 8s 72g          48 11/14/24 F         85.47  3931.62
+                                              33199531YT  
+ 3760009   44  Nido NutriSnaxBnna-Crot110mL60 11/30/24 E         17.76   781.44
+                                              33370189GD  
+ 3760015    4  Bear Br StrlzedRTD200mLx4SP8 8 09/30/24 F         92.52   370.08
+                                              33490189UD  
+ 4025096   31  Milo Activ-Go RTD 110mL     60 11/30/24 E         14.61   452.91
+                                              40190189GE  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        8,552.55
+                                                       Rundate 11/25/2024  17:32:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

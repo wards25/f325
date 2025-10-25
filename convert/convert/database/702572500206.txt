@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702572500206
+                                                            Branch - 257 San Pedro City Nueva(SAN PEDRO NUEVA )
+                                                            Prepared by - GAIL C. PANGAN on 05/27/2025
+                                                            Issued by - ________________________________
+                                                                         MR. BALTAZAR M. AQUINO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009364    1  Ladys C Ham Sprd 220mL      24 06/03/25 E        122.60   122.60
+                                              73869       
+ 3039238    3  Surf Pdr Blsm Frsh 74g     144          D          7.55    22.65
+                                              NL          
+ 3039262    1  Surf Pdr Blsm Frsh 550g     24          D         53.51    53.51
+                                              NL          
+ 3039263    1  Surf Pdr Blsm Frsh 1100g    12          D        109.76   109.76
+                                              NL          
+ 3050012    2  Surf Pdr PrplBlom Fabcon50g288          D          6.13    12.26
+                                              NL          
+ 5800274    2  Eskinol Clssc Clr Wh 225mL  12          D        114.42   228.84
+                                              NL          
+ 6200230    2  Surf FabCond Bl FrshSac40mL360          D          7.30    14.60
+                                              NL          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          564.22
+                                                       Rundate 05/27/2025  11:09:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

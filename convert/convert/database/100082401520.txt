@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100082401520
+                                                            Branch - 8 Manila Paco Paz(MANILA PACO PAZ NO F324)
+                                                            Prepared by - MS. ANN A. ANCHETA on 07/23/2024
+                                                            Issued by - ________________________________
+                                                                         MS. ARLENE A. MANGILA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              X           
+ 4025099    1  Nestle KKrunch 35g          72          D         14.48    14.48
+                                              X           
+ 4025177    4  Nescafe Original 26g       520          D          7.37    29.48
+                                              X           
+ 4530024    2  Nescafe CrmyWh SF TPck22.4g100          D         11.70    23.40
+                                              X           
+ 4530026    2  Nescafe Original SF TPck23g100          D         11.70    23.40
+                                              X           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           92.65
+                                                       Rundate 07/23/2024  16:55:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

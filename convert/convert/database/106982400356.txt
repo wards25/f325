@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106982400356
+                                                            Branch - 698 PANG VILLASIS MCAR HWY(VILLASIS MCARTHUR HIWAY )
+                                                            Prepared by - PAUL JHON ABALOS on 10/07/2024
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787    1  Lipton Tea Yel Label 50     12 01/29/26 D        225.69   225.69
+                                              L4030       
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 11/30/24 E         20.16    20.16
+                                              B6A2A       
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 12/01/24 D         20.25    20.25
+                                              SBT03620310 
+ 3973046    1  Selecta Forti Mlk LFat1Lx2SP 6 10/16/24 E        156.12   156.12
+                                              1P6JB0      
+ 4110018    3  Choco Mucho Mlk Choc 30g    10 10/22/24 E          9.30    27.90
+                                              B2M         
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          450.12
+                                                       Rundate 10/07/2024  15:48:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

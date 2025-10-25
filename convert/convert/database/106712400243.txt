@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106712400243
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE MIRA on 07/16/2024
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025032    1  Nestle Coffeemate 400g      24 06/30/25 D        109.57   109.57
+                                              1441        
+ 4025219  154  Nescafe 3n1 Orig TwinPck56g200 08/31/24 E         11.80  1817.20
+                                              IHGI        
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,926.77
+                                                       Rundate 07/16/2024  16:23:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

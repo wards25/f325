@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100582302865
+                                                            Branch - 58 GREENHILLS - SHOPPESVILLE(58 GREENHILLS SHOPPESVILLE )
+                                                            Prepared by - maricar on 12/29/2023
+                                                            Issued by - ________________________________
+                                                                         Ms. Rhose P. Martin
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3900004    1  Diabetasol Vnla 360g         3 04/27/24 E        609.20   609.20
+                                              .           
+ 4136010   38  Kopiko Blck 3-N-1 Coff 30g 240 12/27/24 D          6.83   259.54
+                                              .           
+ 4136024    1  Kopiko Blanca Coff 30g     240 11/30/24 D          6.80     6.80
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          875.54
+                                                       Rundate 12/29/2023  16:17:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

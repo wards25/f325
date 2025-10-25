@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703172500201
+                                                            Branch - 317 Valenzuela City South Supermarket(MDC SOUTH SMKT VAL CITY .)
+                                                            Prepared by - Tess Sapitan D7 on 07/31/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Carrie Tungol
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 12/25/25 I         20.54    20.54
+                                              A4K         
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 09/21/25 I          6.04     6.04
+                                              C26B1       
+ 4136024    1  Kopiko Blanca Coff 30g     240 08/14/26 D          7.78     7.78
+                                              1430TGR     
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           34.36
+                                                       Rundate 07/31/2025  13:22:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     I-Loose Tablet Items (Factory Defect)

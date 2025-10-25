@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711412500240
+                                                            Branch - 1141 Kalookan City Deparo(1141 KALOOKAN CITY DEPARO )
+                                                            Prepared by - LENA D5 on 06/28/2025
+                                                            Issued by - ________________________________
+                                                                         MR. ARIEL B. NOLASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723400    1  Entrasol Pltnm Ad PdrVnla200g3 08/28/25 D        352.60   352.60
+                                              2322803DJ   
+ 3723621    1  Natrue Almnd Unswtnd Dr 1L   6 12/23/25 D        126.65   126.65
+                                              521321      
+ 3723734    4  Selecta Forti Mlk 1Lx2 SP15 12 07/03/25 F        157.04   628.16
+                                              49D6MBO     
+ 3856631    5  Datu Puti Wh Vin 350mL      24 05/30/25 F         16.39    81.95
+                                              24F04M10211 
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 12/12/25 D         80.88    80.88
+                                              37D8AE0     
+ 4510150    1  Entrasol PltnmAdPdrVnlCan800g3 07/20/25 F       1280.00  1280.00
+                                              23U2002H1U  
+ 4510226    7  Happy Pnut Bbq 100g         24 06/04/25 F         30.81   215.67
+                                              A11B        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,765.91
+                                                       Rundate 06/28/2025  17:25:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705192500042
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - KYLLA CLAIRE P. DE GUZMAN on 01/25/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLE D. VILLAREAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009364   13  Ladys C Ham Sprd 220mL      24 12/30/24 F        122.60  1593.80
+                                              240153      
+ 1009562    3  Ladys C Mynaise 220mL       24 02/19/25 E        112.05   336.15
+                                              241741      
+ 3050025    1  Baby Dove Bb Soap Bar 75g   48          D         49.74    49.74
+                                              001         
+ 3980542    1  Dove Bty Bar Sens 90gx3S10% 16          D        176.94   176.94
+                                              0327        
+ 5800344    4  Creamsilk Cond TKR UCR 150mL24          D        205.75   823.00
+                                              41          
+ 6200006    1  Dove Sh BK Strgt&Slky 170mL 24          D        157.29   157.29
+                                              15112331    
+ 6200085    3  Creamsilk CondHF180mL+Sn50% 12          D        186.30   558.90
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,695.82
+                                                       Rundate 01/25/2025  15:14:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

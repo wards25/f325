@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720282500169
+                                                            Branch - 2028 Cagayan De Oro City Kauswagan( )
+                                                            Prepared by - SHEIRICKA MAE ALOLINO on 06/09/2025
+                                                            Issued by - ________________________________
+                                                                         JULIUS P. RAGAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009518    1  Royal Spaghetti 400g        35          D         58.67    58.67
+                                              N/A         
+ 3413863    4  Nagaraya Crkr Nut Adbo 80g  60          D         20.54    82.16
+                                              N/A         
+ 3413865    1  Nagaraya Crkr Nut Orig 80g  60          D         20.54    20.54
+                                              N/A         
+ 3723343    1  Cal Cheese Chse Wfer 48g    60          D         13.01    13.01
+                                              N/A         
+ 3856636    6  Datu Puti Soy Sce Pet 385mL 24 05/12/25 E         19.95   119.70
+                                              24E17M102200
+ 3856638   11  Datu Puti Wh Vngar Pet 385mL24 04/11/25 F         17.34   190.74
+                                              24D16M090758
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          484.82
+                                                       Rundate 06/09/2025  18:39:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

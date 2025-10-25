@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700122500091
+                                                            Branch - 12 Quezon City Cubao Pinatubo(12 CUBAO PINATUBO )
+                                                            Prepared by - jenalyn on 02/15/2025
+                                                            Issued by - ________________________________
+                                                                         MS CELESTE A. ENRIQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.92     2.92
+                                              nolot       
+ 1167538    3  Nestle Coffeemate 5g       960          D          1.89     5.67
+                                              nolot       
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              nolot       
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         12.37    12.37
+                                              nolot       
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200          D         12.37    24.74
+                                              nolot       
+ 4530024    3  Nescafe CrmyWh SF TPck22.4g100          D         12.27    36.81
+                                              nolot       
+ 4530026    1  Nescafe Original SF TPck23g100          D         12.27    12.27
+                                              nolot       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          102.15
+                                                       Rundate 02/15/2025  11:53:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

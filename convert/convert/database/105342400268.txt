@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105342400268
+                                                            Branch - 534 Camiling Poblacion(QUEZON AVE.CAMILING TARLAC )
+                                                            Prepared by - LOVELY D. VILORIA on 07/11/2024
+                                                            Issued by - ________________________________
+                                                                         WELLA MAE U. EWAYAN
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016287    7  555 Tuna Flakes Afritada155g50 09/01/24 D         26.68   186.76
+                                              af5s        
+ 1016288    5  555 Tuna Flakes VegOil 155g 50 07/14/24 D         29.68   148.40
+                                              CF05        
+ 1016368    2  Century Bangus Fil SP ST184g48 07/02/24 F         71.28   142.56
+                                              GBFH        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          477.72
+                                                       Rundate 07/11/2024  15:14:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102052401113
+                                                            Branch - 205 Gen. Trias Bagumbayan(GEN. TRIAS BAGUMBAYAN CVE )
+                                                            Prepared by - REY ROEL T. RODRIGUEZ on 07/04/2024
+                                                            Issued by - ________________________________
+                                                                         MS. FLORENTINA D. CARANDANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    1  Del M Pine Jce 220mL        24 01/01/26 D         28.00    28.00
+                                              L4017YYJUL93
+ 1103187    1  Del M Spag Sce Swt Style250g24 06/03/25 D         34.54    34.54
+                                              4034INL08   
+ 1103962    1  Del M Fit N RghtBurn4sn330mL24 07/14/24 E         30.80    30.80
+                                              3257YX04    
+ 1165714    2  Magnol Chzee Sprd Pmto 235g 24 07/27/24 E         87.79   175.58
+                                              31230TCB09  
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 12/13/25 D         11.22    11.22
+                                              2216SLG     
+ 3723644    2  Energen Champion Choc TP30g120 01/19/25 D         13.60    27.20
+                                              2200TGR     
+ 3856627    1  Datu Puti Patis 350mL       24 02/19/25 D         23.51    23.51
+                                              23H29T042139
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          330.85
+                                                       Rundate 07/04/2024  13:48:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

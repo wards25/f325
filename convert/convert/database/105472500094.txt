@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105472500094
+                                                            Branch - 547 Gapan City JA Santos Ave.(STO. NI¥O, GAPAN CITY )
+                                                            Prepared by - G.O.SAMIN/K.L.DOMINGUEZ on 03/06/2025
+                                                            Issued by - ________________________________
+                                                                         MELANIE S. FERNANDO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016231    1  Century Flakes Hot&Spicy180g48 03/01/25 F         43.31    43.31
+                                              1           
+ 1016371    1  Century Crnd Tuna 180g      48 10/02/24 F         38.01    38.01
+                                              1           
+ 1210407    3  Argentina Meat Loaf 170g    48 08/15/24 F         22.38    67.14
+                                              1           
+ 1210409    2  Argentina Bf Loaf 170g      48 08/17/24 F         22.86    45.72
+                                              1           
+ 1210411    5  Argentina Bf Loaf 250g      48 07/26/24 F         29.05   145.25
+                                              1           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          339.43
+                                                       Rundate 03/06/2025  16:46:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

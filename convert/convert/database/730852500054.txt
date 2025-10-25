@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730852500054
+                                                            Branch - 3085 Zambales Subic Waltermart(3085 ZAMBALES SUBIC WALTERMART 130852400617)
+                                                            Prepared by - MARIEJO B. MAYO on 03/17/2025
+                                                            Issued by - ________________________________
+                                                                         MARIA RIZA M. ANDRADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO LOGISTICS INC (79445  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 6200257    6  Rexona DeoPdrAloeUA&F80g30% 24 01/31/25 F         61.57   369.42
+                                              24012305    
+ 6200258   11  Rexona DeoPdrPpmntUA&F80g30%24 01/31/25 F         61.57   677.27
+                                              12012304    
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,046.69
+                                                       Rundate 03/17/2025  16:06:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

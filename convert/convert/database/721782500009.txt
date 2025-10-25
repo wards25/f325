@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721782500009
+                                                            Branch - 2178 Negros Oriental Sta. Catalina Poblacion(Pob Santa Catalina Nat'l Highw ay)
+                                                            Prepared by - RAZILL R. SIENES on 01/24/2025
+                                                            Issued by - ________________________________
+                                                                         MS. LURIELLE SHANAN J. BALNEG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304    2  Sunkist Frt Dr Mgo 235mL    24 01/15/25 F         20.05    40.10
+                                              NA          
+ 1165711    6  Magnol Chzee Sprd Pln 235g  24 01/27/25 E         79.44   476.64
+                                              na          
+ 3856633    2  Mang Tomas Lchon Sce 325g   24 02/12/25 E         33.25    66.50
+                                              NA          
+ 3856636    2  Datu Puti Soy Sce Pet 385mL 24 02/14/25 E         19.95    39.90
+                                              NA          
+ 3856639    1  Datu Puti Wh Vngar Pet 1L   12 01/05/25 F         39.19    39.19
+                                              NA          
+ 4136010  192  Kopiko Blck 3-N-1 Coff 30g 240 01/06/25 F          6.80  1305.60
+                                              NA          
+ 4510100   12  Seoul Wh K SoapDbleW120g2+1F12 02/01/25 E        196.00  2352.00
+                                              RQ3L0170    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,319.93
+                                                       Rundate 01/24/2025  10:50:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

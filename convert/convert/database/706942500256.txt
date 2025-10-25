@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706942500256
+                                                            Branch - 694 Agoo Cases Blvd.(SAN NICOLAS NORTE AGOO,L.U. )
+                                                            Prepared by - A.MEDINA/M.MENDOZA on 04/07/2025
+                                                            Issued by - ________________________________
+                                                                         MARILOU P. JACABAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413874    1  Nagaraya SwtMni PretSgrC30g100          D          7.61     7.61
+                                              .           
+ 3465859    5  Magnol Low Fat Mlk 1L       12 05/31/25 E         96.08   480.40
+                                              .           
+ 3551925    2  Suncoast Vit Bst Ap 600mL   24 06/20/25 E         35.70    71.40
+                                              A4          
+ 3723720   23  Suncoast Vit Bst Ice Ap600mL 6 03/21/25 F         35.70   821.10
+                                              T7          
+ 3780422    8  Diabetasol Swtnr 75g         3 05/10/25 E        159.20  1273.60
+                                              23V10J      
+ 3900049    2  Diabetasol Wfer Choco 2s100g 3 05/06/25 E        112.00   224.00
+                                              24P06SIL    
+ 3973059    1  Selecta Adult Activ Vnla 1L 12 04/19/25 E        115.60   115.60
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,993.71
+                                                       Rundate 04/07/2025  13:05:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130552401285
+                                                            Branch - 3055 Ilocos Sur Narvacan Poblacion(Sta Lucia, Narvacan, I.S. )
+                                                            Prepared by - JLPAISTE/ECCABBAT on 09/29/2024
+                                                            Issued by - ________________________________
+                                                                         FRANCISCO S. BALAQUE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    2  Nescafe Clssc Ref 23g       60          D         19.98    39.96
+                                              .           
+ 1167456    2  Nestle Chuckie Cal-N 1000mL 12          D        102.06   204.12
+                                              .           
+ 1167857    8  Nestle All Purpose Crm 250mL24          D         67.29   538.32
+                                              .           
+ 3748444    9  Nestea Ap ITea 20g         144          D         18.57   167.13
+                                              .           
+ 3748503    1  Nestle KKrunch SPck 80g     24          D         47.08    47.08
+                                              .           
+ 3760009    1  Nido NutriSnaxBnna-Crot110mL60          D         17.76    17.76
+                                              .           
+ 4025032    1  Nestle Coffeemate 400g      24          D        109.57   109.57
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,123.94
+                                                       Rundate 09/28/2024  17:00:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

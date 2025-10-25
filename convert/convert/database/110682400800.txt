@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110682400800
+                                                            Branch - 1068 Valenzuela City Marulas McArthur(D9-1068 VAL.CITY MARULAS MCART HUR HWAY)
+                                                            Prepared by - MS.ALMA MONTE DE RAMOS on 07/05/2024
+                                                            Issued by - ________________________________
+                                                                         MS.LEI LUBI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    2  Royal Spaghetti 900g        18 10/14/25 I         97.00   194.00
+                                              25c         
+ 1102996    1  Del M Elbow Macaroni 400g   25 03/24/26 I         69.02    69.02
+                                              4083b13     
+ 3723343    1  Cal Cheese Chse Wfer 48g    60 10/23/24 I         10.64    10.64
+                                              0702sd251003
+ 3723652    1  Ramosco Xmas Gift Pack A                I        548.92   548.92
+                                              no lot      
+ 4103101   16  Del M SpagFilStylPrtyPckSP42 8 10/20/24 E        133.46  2135.36
+                                              3293in      
+ 4136006    1  Kopiko Brn Coff 27.5g      240 02/24/25 I          6.80     6.80
+                                              1723tgr24080
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,964.74
+                                                       Rundate 07/05/2024  17:20:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     I-Loose Tablet Items (Factory Defect)

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702622500006
+                                                            Branch - 262 Manila Sta. Ana Augusto Francisco(Sta Ana Augusto Francisco )
+                                                            Prepared by - Jena de Castro on 01/11/2025
+                                                            Issued by - ________________________________
+                                                                         Lorgelyn Balon
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584    1  Fiesta Fil SpagTpd1.6kgSP30 10          D        109.48   109.48
+                                              xx          
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              xx          
+ 3723644    2  Energen Champion Choc TP30g120          D         14.24    28.48
+                                              xx          
+ 3856640    5  UFC GldnFstaCkingOilSup250mL48          D         39.43   197.15
+                                              xx          
+ 4110024    1  Rebisco Sbrry Sandw 34g     10          D          5.87     5.87
+                                              xx          
+ 4136008    2  Kopiko Cappuccino Coff 25g 240          D          7.40    14.80
+                                              xx          
+ 4510217    4  Lipton Tea STL Eng BfstBlk25s6 05/23/25 E        198.35   793.40
+                                              24052023n   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,160.66
+                                                       Rundate 01/11/2025  18:07:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100702401264
+                                                            Branch - 70 Quezon City Araneta Center Ali Mall(70 MDC-ALIMALL)
+                                                            Prepared by - teresa on 12/13/2024
+                                                            Issued by - ________________________________
+                                                                         MS. ARLENE B. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606298    1  Jimms 7in1 Coffee Mix 21g   12 07/27/26 D         11.05    11.05
+                                              4049        
+ 3615299    1  San Mig Coff 3N1 Orig 20g  240 08/27/26 D          5.76     5.76
+                                              013         
+ 3723539    1  Jimms 3+1 CofeeMixW/Gins20g 12 01/06/26 D          6.04     6.04
+                                              4003        
+ 4110020    1  Rebisco Cr Sandw 34g        10 05/05/25 D          4.91     4.91
+                                              3241        
+ 4110023    1  Rebisco Crackers 35g        10 12/30/25 D          5.87     5.87
+                                              469         
+ 4136022    4  Kopiko L.A. Coffee 25g     240 02/07/26 D          7.40    29.60
+                                              20082       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           63.23
+                                                       Rundate 12/13/2024  13:10:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

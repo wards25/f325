@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120642400074
+                                                            Branch - 2064 ZAMB DS MLV MLOY-ON MABINI(MABINI ST. BRGY,MALOLOY-ON MOL AVE ZDS)
+                                                            Prepared by - Consuelo S. Darunday on 01/19/2024
+                                                            Issued by - ________________________________
+                                                                         Arlyn C. Gatoc
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3623288    1  Suncoast Vit Bst Ice Ap600mL24 07/10/24 D         35.70    35.70
+                                              TI          
+ 4096030    1  Del M Tidbits Pine 115g     48 08/01/24 D         14.70    14.70
+                                              3230HESL    
+ 4103081    1  Del M Tmto Kchup OrigPch320g36 08/14/24 D         28.07    28.07
+                                              NL          
+ 4136006    1  Kopiko Brn Coff 27.5g      240 12/06/24 D          6.76     6.76
+                                              0046TGR     
+ 4510147    1  Entrasol Pltnm AdC600gw/Oats 6 01/24/24 H        906.80   906.80
+                                              NL          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          992.03
+                                                       Rundate 01/19/2024  15:26:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     H-Recalled by Supplier

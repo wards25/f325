@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705552500113
+                                                            Branch - 555 Orani Nat'l Hway(BATAAN ORANI POB )
+                                                            Prepared by - ARLENE L. CARREON on 08/25/2025
+                                                            Issued by - ________________________________
+                                                                         MARLON J. DE VEGA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723317  175  Beng-Beng ChocCrmlWfer26.5g120 07/29/25 F          8.09  1415.75
+                                              -           
+ 3723343   16  Cal Cheese Chse Wfer 48g    60 07/08/25 F         13.01   208.16
+                                              -           
+ 3723681   22  Locally Ripe Mngo JceDr240mL24 08/30/25 F         22.80   501.60
+                                              -           
+ 4136061   19  Kopiko Dble Cups Orig 33g  240 08/29/25 F          9.05   171.95
+                                              -           
+ 4510226    3  Happy Pnut Bbq 100g         24 06/04/25 F         30.81    92.43
+                                              -           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,389.89
+                                                       Rundate 08/25/2025  14:37:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

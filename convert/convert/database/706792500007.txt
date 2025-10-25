@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706792500007
+                                                            Branch - 679 SPBL A BONI(Bonifacio St. San Pablo City, Laguna)
+                                                            Prepared by - Ilma M. Becina on 01/18/2025
+                                                            Issued by - ________________________________
+                                                                         Florante C. Lawigan
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574    2  Kitkat 4F 35g               24          D         28.94    57.88
+                                              X           
+ 3748409    9  Milo w/Actigen-E RTD 180mL  32 01/30/25 E         23.09   207.81
+                                              X           
+ 3748416   21  Bear Br Strlzedw/Gnsg 200mL 32 02/28/25 E         26.42   554.82
+                                              X           
+ 3748417   17  Bear Br Strlzedw/GnkgoB200mL32 01/30/25 E         26.42   449.14
+                                              X           
+ 4025237    6  Nescafe Crmy Wh Twin Pck51g200          D         12.37    74.22
+                                              X           
+ 4530006    1  Kitkat 2F 17g               24          D         14.77    14.77
+                                              X           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,358.64
+                                                       Rundate 01/18/2025  15:10:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

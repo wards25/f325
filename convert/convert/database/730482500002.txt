@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730482500002
+                                                            Branch - 3048 BATANGAS SAN PASCUAL POBLACION( )
+                                                            Prepared by - MICHAEL N. MALIGAYA on 01/20/2025
+                                                            Issued by - ________________________________
+                                                                         REYNALIZA T. BACONG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723286    7  Ding Dong Sup Mxd Nuts 100g 60 11/07/24 F         20.54   143.78
+                                              B7 A1A      
+ 3723564   20  Cal Cheese Chse Wfer 8.5g  400 06/03/25 D          2.54    50.80
+                                              12D1S0030609
+ 3900006    3  Milna Bb Cer Brwn Rice 120g  6 12/12/24 F         61.20   183.60
+                                              23T1201D1U  
+ 3973031    4  Selecta Forti Mlk Strlzed 1L12 12/22/24 F         80.88   323.52
+                                              H5DP1       
+ 4136006    1  Kopiko Brn Coff 27.5g      240 03/16/25 D          6.80     6.80
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          708.50
+                                                       Rundate 01/20/2025  14:59:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

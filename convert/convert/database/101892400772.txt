@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101892400772
+                                                            Branch - 189 Quezon City Metrolane Complex( )
+                                                            Prepared by - LUCI Reyes on 12/13/2024
+                                                            Issued by - ________________________________
+                                                                         MR.VICENTE ENRICO ROMUALDEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615299    2  San Mig Coff 3N1 Orig 20g  240          D          5.76    11.52
+                                              no lot      
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240          D          7.01     7.01
+                                              no lot      
+ 3723705    1  Kopiko Blck 3n1 Coff28g TP 120          D         11.26    11.26
+                                              no lot      
+ 3856633    7  Mang Tomas Lchon Sce 325g   24          D         33.25   232.75
+                                              no lot      
+ 4113042    1  Magnol Chzee Sprd MlkyWh120g24          D         42.49    42.49
+                                              no lot      
+ 4136024    2  Kopiko Blanca Coff 30g     240          D          7.78    15.56
+                                              no lot      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          320.59
+                                                       Rundate 12/14/2024  07:40:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730192500123
+                                                            Branch - 3019 Bayombong LB Perez( )
+                                                            Prepared by - ROSE ANN M. UNTALAN on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         ARNOLD C. RUIZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723722    6  Mega Tuna FlksSpnshStyl 155g10 07/03/25 F         36.90   221.40
+                                              TOSCS2DLG3  
+ 4100005    1  Kettle Korn Sltd Crmel 120g 30 07/26/25 F         42.93    42.93
+                                              M1          
+ 4510109    1  Mega Sard Nat Oil 155g      10 07/19/26 D         22.73    22.73
+                                              ASJ19G2023  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          287.06
+                                                       Rundate 08/13/2025  16:04:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

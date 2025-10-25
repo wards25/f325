@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 112002400184
+                                                            Branch - 1200 Bulacan Waltermart Malolos(BULACAN WALTERMART MALOLOS CI TY MALOLOS BULACAN)
+                                                            Prepared by - MHAYE J. VICTORIA on 02/18/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MYRA F. ESPINOZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723574    1  Naturelab AlcSprPearlMix50mL12 11/02/25 E         44.25    44.25
+                                              110623      
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 04/30/26 D         11.22    11.22
+                                              3010041     
+ 3856633    8  Mang Tomas Lchon Sce 325g   24 03/16/24 E         33.25   266.00
+                                              23f20       
+ 3856660    4  Locally Calamnsi Jce Dr240mL24 02/15/24 E         22.80    91.20
+                                              22k21       
+ 3856661    4  Locally Dalandan Jce Dr240mL24 03/14/24 E         22.80    91.20
+                                              lydln       
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 02/20/24 E         80.88    80.88
+                                              0544m 6     
+ 4103102    7  Del M Pot Crisp BsctSpcy50g 48 02/16/24 E         18.67   130.69
+                                              pddmi       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          715.44
+                                                       Rundate 02/18/2024  12:36:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

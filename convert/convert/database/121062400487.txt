@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121062400487
+                                                            Branch - 2106 ILOILO ESTANCIA POBLACION(E.REYES ST.POB. ZONE 11 ESTANCIA ILOILO)
+                                                            Prepared by - ANGELIE V. SEDERIO on 10/21/2024
+                                                            Issued by - ________________________________
+                                                                         JANICE F. AMIAS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3780421    1  Diabetasol Choc 600g         3 10/31/24 E        883.20   883.20
+                                              2203001CU   
+ 3900003    3  Diabetasol Choc 360g         3 10/31/24 E        609.20  1827.60
+                                              2202601DH   
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,710.80
+                                                       Rundate 10/21/2024  19:34:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

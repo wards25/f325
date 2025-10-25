@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730302500114
+                                                            Branch - 3030 LU NAGLN ORZ(Ortiz,Naguilian, La Union )
+                                                            Prepared by - RENCY A. ESTEBAN on 02/07/2025
+                                                            Issued by - ________________________________
+                                                                         MARLO J. GAONA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 01/24/25 E        106.43   106.43
+                                              *           
+ 3760009   17  Nido NutriSnaxBnna-Crot110mL60 02/28/25 E         17.76   301.92
+                                              *           
+ 3760011   43  Nido NutriSnaxSbry-Crot110mL60 02/28/25 E         17.76   763.68
+                                              *           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,172.03
+                                                       Rundate 02/07/2025  14:32:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

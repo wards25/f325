@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730202500077
+                                                            Branch - 3020 LU SFDO C SKY MALL(SKY MALL NATIONAL HIGHWAY BGRY PAGDARAOAN SAN FERNANDO)
+                                                            Prepared by - MARIBEL C.DOMINGO on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         JENNIFER M. HUFANA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723708    4  Golden Cup Oil Liniment 3mL  6          D         43.00   172.00
+                                              .           
+ 4113080    7  Magnol Star Mgrine 100g    144 03/29/25 E         28.62   200.34
+                                              .           
+ 4113082    6  Magnol Star Mgrine 250g     72 03/09/25 E         64.31   385.86
+                                              .           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          758.20
+                                                       Rundate 02/24/2025  15:43:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

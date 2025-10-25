@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106642400733
+                                                            Branch - 664 Puerto Princesa City Malvar San Juan(STORE NO. 664 MALVAR ST BRGY MANDARAGAT PPCITY)
+                                                            Prepared by - JO A. DOLLETE on 10/14/2024
+                                                            Issued by - ________________________________
+                                                                         EMERSON M. JAVAREZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207787   54  Lipton Tea Yel Label 50     12 08/26/24 F        225.69 12187.26
+                                              1           
+ 3207792    8  Lipton Yel Label Tea 25'    24 09/15/24 F        124.34   994.72
+                                              1           
+ 3723389    2  Energen Mlk&Cer Dr Vnla 40g240          D          7.01    14.02
+                                              1           
+ 4110019    4  Choco Mucho Wh Choc 30g     10 10/27/24 E          9.30    37.20
+                                              A2M         
+ 4110023    1  Rebisco Crackers 35g        10          D          5.87     5.87
+                                              1           
+ 4136006    1  Kopiko Brn Coff 27.5g      240 10/31/25 D          6.80     6.80
+                                              1           
+ 4136061    3  Kopiko Dble Cups Orig 33g  240          D          9.05    27.15
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       13,273.02
+                                                       Rundate 10/14/2024  10:28:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

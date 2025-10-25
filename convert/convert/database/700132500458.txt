@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700132500458
+                                                            Branch - 13 Baclaran Quirino(MDC QUIRINO AVE BAC. PQUE )
+                                                            Prepared by - Joy Ann Salazar on 05/27/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Ronalyn P. Penales
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574    1  Kitkat 4F 35g               24          D         29.27    29.27
+                                              01          
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60          D         30.48    30.48
+                                              01          
+ 4025056    1  Nescafe Crmy Wh 25.5g      240          D          8.20     8.20
+                                              01          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              01          
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100          D         13.21    13.21
+                                              01          
+ 4530026    2  Nescafe Original SF TPck23g100          D         13.21    26.42
+                                              01          
+ 4530041    1  Nestle Trix Bfast Cer 20g  120          D         13.64    13.64
+                                              01          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          134.54
+                                                       Rundate 05/27/2025  15:49:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

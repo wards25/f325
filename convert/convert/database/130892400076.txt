@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130892400076
+                                                            Branch - 3089 Batangas City Waltermart(CALICANTO, BATANGAS CITY )
+                                                            Prepared by - LYKA A. LUZON on 03/23/2024
+                                                            Issued by - ________________________________
+                                                                         MARLON L. NACAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3780427    2  Diabetasol Cappuccino 600g   3 04/29/24 E        883.20  1766.40
+                                              22U2903AU   
+ 3780522    1  Diabetasol Choc 600g PPck    3 02/14/24 F        883.20   883.20
+                                              22S1402IU   
+ 4136050    1  Milna Bb Bsct Bnana 130g     6 03/13/24 F         65.45    65.45
+                                              22W13S      
+ 4136052    4  Milna Bb Bsct Orig 130g      6 03/12/24 F         65.45   261.80
+                                              22W12S      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,976.85
+                                                       Rundate 03/23/2024  12:18:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

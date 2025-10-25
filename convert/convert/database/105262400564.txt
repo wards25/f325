@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105262400564
+                                                            Branch - 526 Legazpi City Rizal(LEGAZPI RIZAL )
+                                                            Prepared by - LOURIN ACU¥A on 10/30/2024
+                                                            Issued by - ________________________________
+                                                                         SALVE MANZANILLO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016245   11  Century Flakes Veg Oil 180g 48 11/10/24 D         42.77   470.47
+                                              0           
+ 1016287    2  555 Tuna Flakes Afritada155g50 08/30/25 D         26.68    53.36
+                                              0           
+ 1016288   39  555 Tuna Flakes VegOil 155g 50 11/11/24 E         29.68  1157.52
+                                              0           
+ 1016352    2  Fresca Tuna Afrtda 175g     48 07/30/26 D         24.48    48.96
+                                              0           
+ 1210406   20  Argentina Meat Loaf 250g    48 09/30/25 D         30.95   619.00
+                                              0           
+ 1210407   12  Argentina Meat Loaf 170g    48 07/26/25 D         22.38   268.56
+                                              0           
+ 3048400    7  555 Sardines TS 155g       100 04/11/26 D         22.80   159.60
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,777.47
+                                                       Rundate 11/05/2024  19:27:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

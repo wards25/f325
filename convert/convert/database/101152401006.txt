@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101152401006
+                                                            Branch - 115 Kalookan City Plaza(KALOOKAN CITY PLAZA D7)
+                                                            Prepared by - DHEN LEGASPI on 08/09/2024
+                                                            Issued by - ________________________________
+                                                                         MR.ERIC EBUEN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 09/20/25 D         11.26    11.26
+                                              0222tgr20030
+ 3856643    3  UFC Sweet Chili Sce 340g    24 07/17/24 F         35.86   107.58
+                                              23121c11932 
+ 4136008    1  Kopiko Cappuccino Coff 25g 240 02/03/25 D          7.40     7.40
+                                              2038tgr03080
+ 4136061    1  Kopiko Dble Cups Orig 33g  240 04/19/25 D          9.05     9.05
+                                              2342tgr19100
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          135.29
+                                                       Rundate 08/09/2024  18:20:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

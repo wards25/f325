@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105132400353
+                                                            Branch - 513 Calauag Poblacion(CALAUAG QUEZON)
+                                                            Prepared by - Florelio M. Briones on 11/02/2024
+                                                            Issued by - ________________________________
+                                                                         Francis Joeriz J. Cagalpin
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723587    7  Fiesta SpagheTpd 3ChseSP18  12 10/18/24 F         68.76   481.32
+                                              0           
+ 4095043   17  Seoul Wh K SoapDbleWhtng270g12 09/01/24 F        164.00  2788.00
+                                              0           
+ 4113094    1  Magnol Real Mayonnaise 220mL24          D         77.65    77.65
+                                              0           
+ 4136037    1  Bubble Man DLiq Kal 880mL   20          D         66.64    66.64
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,413.61
+                                                       Rundate 11/02/2024  14:36:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

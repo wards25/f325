@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706422500082
+                                                            Branch - 642 Iba Magsaysay( )
+                                                            Prepared by - GELEN ANGULO on 03/05/2025
+                                                            Issued by - ________________________________
+                                                                         MARILYN S. GONZALES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304    9  Sunkist Frt Dr Mgo 235mL    24 01/15/25 F         20.05   180.45
+                                              D1V1TO      
+ 3723389   48  Energen Mlk&Cer Dr Vnla 40g240 03/15/25 E          7.01   336.48
+                                              0           
+ 4100002    5  Kettle Korn Cheese 120g     30 03/19/25 E         39.74   198.70
+                                              MLM3        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          715.63
+                                                       Rundate 03/05/2025  15:34:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

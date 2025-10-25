@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111062400580
+                                                            Branch - 1106 STA ROSA WALTERMART BEL AIR(WM BEL-AIR SRO )
+                                                            Prepared by - Reymark M. Pandalag on 09/15/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Rosemarie P. Adao
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850   33  Highland Reg Crnd Bf 150g   48 07/31/26 G         33.30  1098.90
+                                              HLCBR407    
+ 1225221   26  San Marino Crnd Tuna 180g   48 06/28/26 G         43.20  1123.20
+                                              SMCTR336    
+ 1225222    8  San Marino Crnd TunaChli180g48 02/20/26 G         43.20   345.60
+                                              SMCCT326    
+ 4120006   20  Highland Crnd Bf 180g       48 04/02/25 G         57.15  1143.00
+                                              HLCBC406    
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,710.70
+                                                       Rundate 09/15/2024  14:27:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

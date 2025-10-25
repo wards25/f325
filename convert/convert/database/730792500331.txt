@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500331
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY Ilocos sur)
+                                                            Prepared by - Christopher A. Padua on 08/20/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    2  Del M Pine Jce 220mL        24 05/01/27 D         29.40    58.80
+                                              5126YYJVB54 
+ 1103985    1  Del M Pine Jce HeartS 220mL 24 10/01/26 D         31.73    31.73
+                                              L5119YYRJB54
+ 1104077    7  Del M Mr Milk GrApl 80mLx6  16 06/20/25 F         48.11   336.77
+                                              HADM14172050
+ 1104079    3  Del M Mr Milk Plain 80mLx6  16 06/07/25 F         48.11   144.33
+                                              HADMI1415904
+ 1104081    1  Del M Mr Milk Sbrry 80mLx6  16 06/14/25 F         48.11    48.11
+                                              HADMI4166040
+ 4103102   61  Del M Pot Crisp BsctSpcy50g 48 06/06/25 F         19.37  1181.57
+                                              PDDM1415801 
+ 4470009    1  Joy Pop-Up Tis 40           96          D          7.95     7.95
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,809.26
+                                                       Rundate 08/20/2025  17:06:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

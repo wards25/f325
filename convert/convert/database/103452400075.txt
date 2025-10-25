@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103452400075
+                                                            Branch - 345 Quezon City Trinoma Mall Level M1( )
+                                                            Prepared by - luz/mariz on 01/11/2024
+                                                            Issued by - ________________________________
+                                                                         MS.Jannel M. Fegi
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413867   12  Nagaraya Crkr Nut Hot&Sp 80g60          H         18.34   220.08
+                                              1           
+ 3413868   48  Nagaraya Crkr Nut Bbq 160g  48          H         36.85  1768.80
+                                              1           
+ 3413870   48  Nagaraya Crkr Nut Orig 160g 48          H         36.85  1768.80
+                                              1           
+ 3413871   42  Nagaraya Crkr Nut Adbo 160g 48          H         36.85  1547.70
+                                              1           
+ 3413872   31  Nagaraya Crkr Nut Hot&Sp160g48          H         36.85  1142.35
+                                              1           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,447.73
+                                                       Rundate 01/11/2024  14:23:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  H-Recalled by Supplier

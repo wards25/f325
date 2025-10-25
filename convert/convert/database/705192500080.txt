@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705192500080
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - KYLLA CLAIRE P. DE GUZMAN on 02/07/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLE D. VILLAREAL
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304    9  Sunkist Frt Dr Mgo 235mL    24 02/05/25 F         20.05   180.45
+                                              0348        
+ 3780426    5  Diabetasol Cappuccino 180g   3 04/17/25 E        292.10  1460.50
+                                              123646      
+ 4510220    2  Diabetasol Crmy Almnd 180g   3 04/05/25 E        328.00   656.00
+                                              233716      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,296.95
+                                                       Rundate 02/07/2025  16:47:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

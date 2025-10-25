@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704142500079
+                                                            Branch - 414 Mamburao JP Rizal(OCM Mamburao JP Rizal )
+                                                            Prepared by - Romel B. Briones on 04/25/2025
+                                                            Issued by - ________________________________
+                                                                         Shermene S. Jawerga
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1149115    6  WhiteKing HotCake&WafMix400g24 05/08/25 E         53.53   321.18
+                                              x           
+ 3695260    1  Magnol Panck+W/Mple Syr200g 48 02/21/25 F         32.77    32.77
+                                              x           
+ 3695262    1  Magnol Panck+W/Sbrry Syr200g48 02/19/25 F         32.77    32.77
+                                              x           
+ 3695264   15  Magnol Panck&Waffle Mix180g 48 05/17/25 E         25.93   388.95
+                                              x           
+ 3723562   12  Musli OatCrnchyBbry&Rbry375g14 04/08/25 F        160.65  1927.80
+                                              X           
+ 3856633   11  Mang Tomas Lchon Sce 325g   24 04/14/25 F         33.25   365.75
+                                              A120604     
+ 4113096   14  Magnol Sandwich Sprd 80mL   24 04/03/25 F         28.28   395.92
+                                              x           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,465.14
+                                                       Rundate 04/25/2025  08:27:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

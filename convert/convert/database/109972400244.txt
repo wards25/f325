@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109972400244
+                                                            Branch - 997 Surigao City San Nicolas(Surigao City )
+                                                            Prepared by - HAROLD M. POLIGRATES on 03/27/2024
+                                                            Issued by - ________________________________
+                                                                         CELESTE R. LAGURA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723668    5  Solbac Disinf Spr Ctrs&G300g 6 11/30/23 E        199.36   996.80
+                                              02120       
+ 3723669    5  Solbac Disinf Spr FLinen300g 6 11/30/23 E        199.36   996.80
+                                              02320       
+ 3723670    3  Solbac Disinf Spr LavMist300g6          G        199.36   598.08
+                                              91520       
+ 3723671    6  Solbac Surf Disinf Spr 500mL 6 01/30/24 E        250.40  1502.40
+                                              12021       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,094.08
+                                                       Rundate 03/27/2024  13:48:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     G-Deleted

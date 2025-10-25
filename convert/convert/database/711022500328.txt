@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711022500328
+                                                            Branch - 1102 VAL C MALANDAY MCAR HWY(VALENZUELA CITY KM MALANDAY MC ARTHUR HIGHWAY)
+                                                            Prepared by - Rea Batara on 09/25/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Geraldine F. Dalagan
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165715    2  Magnol Chzee Sprd Pmto 480g 12 10/18/25 E        157.96   315.92
+                                              50322       
+ 3615301    1  San Mig Coff 3N1 Barako 20g240          D          7.09     7.09
+                                              +           
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24          D         22.13    22.13
+                                              +           
+ 3723705    2  Kopiko Blck 3n1 Coff26g TP 120          D         12.11    24.22
+                                              +           
+ 4110022    1  Rebisco Hansel MchaSandw 32g10          D          6.04     6.04
+                                              +           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              +           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          383.18
+                                                       Rundate 09/25/2025  11:41:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

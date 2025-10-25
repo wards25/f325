@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701372500354
+                                                            Branch - 137 Quezon City Ortigas Robinsons Galleria(137 ROBINSONS GALLERIA )
+                                                            Prepared by - Cocoy M. Ope¤a on 06/30/2025
+                                                            Issued by - ________________________________
+                                                                         MS. ANDREA I. VILLANUEVA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1008799    6  Best F Mayo Magic 220mL     24          D         51.75   310.50
+                                              +           
+ 1009364    2  Ladys C Ham Sprd 220mL      24 08/27/25 E        122.60   245.20
+                                              +           
+ 1010440    1  Knorr Cr Of Mushrm Soup 62g 60          D         50.95    50.95
+                                              ++          
+ 3050011    4  Surf Bar PrplBlom Fabcon380g36          D         26.95   107.80
+                                              +           
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288          D          6.13     6.13
+                                              +           
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              +           
+ 3870119    1  Dove Sh Crmde IntRepair10mL288          D          5.68     5.68
+                                              +           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          732.92
+                                                       Rundate 06/30/2025  10:43:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

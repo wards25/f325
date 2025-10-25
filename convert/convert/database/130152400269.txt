@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130152400269
+                                                            Branch - 3015 Cabiao JA Santos Ave.(MD 3015 CABIAO JASA )
+                                                            Prepared by - JERICH V. VIESCA on 12/10/2024
+                                                            Issued by - ________________________________
+                                                                         MAYLENE T. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413863   39  Nagaraya Crkr Nut Adbo 80g  60 11/28/24 F         20.54   801.06
+                                              24625       
+ 3413868   11  Nagaraya Crkr Nut Bbq 160g  48 12/29/24 E         41.27   453.97
+                                              24654       
+ 3723398    3  Entrasol Pltnm Ad PdrChoc600g3 01/05/52 E        906.80  2720.40
+                                              3UO505GU    
+ 3723402    3  Entrasol Pltnm Ad PdrVnla600g3 11/12/24 F        906.80  2720.40
+                                              2381204     
+ 3780423    2  Diabetasol Vnla 180g         3 12/18/24 E        292.20   584.40
+                                              23Q1801     
+ 4510226   19  Happy Pnut Bbq 100g         24 12/27/24 E         30.81   585.39
+                                              B2          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,865.62
+                                                       Rundate 12/10/2024  16:58:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

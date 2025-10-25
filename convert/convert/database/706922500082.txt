@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706922500082
+                                                            Branch - 692 MRDQUE BOAC GOV D REYES(MURALLON, BOAC, MARINDUQUE )
+                                                            Prepared by - ANNA ROSE S. MANHIT on 04/29/2025
+                                                            Issued by - ________________________________
+                                                                         MS. SHERMILYN M. HERBOSA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    1  Nescafe Clssc Ref 23g       60 07/31/25 D         23.79    23.79
+                                              40230190DA  
+ 1109574    1  Kitkat 4F 35g               24 11/02/25 D         29.27    29.27
+                                              43079531BA  
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 02/28/26 D          8.20     8.20
+                                              40468985A1  
+ 4025177    9  Nescafe Original 26g       520 10/31/25 D          7.37    66.33
+                                              428663      
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 02/28/26 D         13.32    13.32
+                                              4046059701  
+ 4530026    2  Nescafe Original SF TPck23g100 07/31/25 D         13.21    26.42
+                                              41960601E   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          167.33
+                                                       Rundate 04/29/2025  08:37:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

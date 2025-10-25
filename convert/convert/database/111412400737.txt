@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111412400737
+                                                            Branch - 1141 Kalookan City Deparo(1141 KALOOKAN CITY DEPARO )
+                                                            Prepared by - LENA D7 on 09/21/2024
+                                                            Issued by - ________________________________
+                                                                         MR. ARIEL B. NOLASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723586    1  Royal Spag R&T Swt1.6kgSP49 10 11/03/24 E        121.94   121.94
+                                              43051030723f
+ 3723590    5  Royal Cheesy R&T 1.6kg SP49 10 11/27/24 E        121.94   609.70
+                                              43002270923e
+ 3723625    3  Kopiko Blanca TwnPckCoff58g120 12/18/25 D         11.22    33.66
+                                              18060860    
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 11/16/25 D         11.26    11.26
+                                              16050200    
+ 3723644    1  Energen Champion Choc TP30g120 03/07/25 D         14.24    14.24
+                                              70303001    
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 10/22/24 E          5.87     5.87
+                                              c25a        
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 06/26/25 D         20.25    20.25
+                                              no lot      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          816.92
+                                                       Rundate 09/21/2024  09:59:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

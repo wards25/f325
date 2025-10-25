@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707432500296
+                                                            Branch - 743 ZAM SJO GUSU( SAN JOSE GUSU ZAMBOANGA)
+                                                            Prepared by - RAMIL P. TEJANO on 07/25/2025
+                                                            Issued by - ________________________________
+                                                                         SHANI MARIE A. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    3  Nestle Frsh Mlk 250mL       24 02/12/26 D         36.23   108.69
+                                              2332571303  
+ 1167931   11  Bear Br Strlzed RTD 200mL   32 01/31/26 D         26.42   290.62
+                                              51190189UD  
+ 3748417    2  Bear Br Strlzedw/GnkgoB200mL32 11/26/25 D         26.42    52.84
+                                              50600189KE  
+ 4025097   26  Nestle Chuckie Cal-N 110mL  60 01/13/26 D         13.46   349.96
+                                              50780189GD  
+ 4530000   14  Starbucks Latte DShtEsp220mL24 08/02/25 E         76.00  1064.00
+                                              42169449A3  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,866.11
+                                                       Rundate 07/25/2025  18:23:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

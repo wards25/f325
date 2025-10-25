@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100862401538
+                                                            Branch - 86 Paranaque City Sucat Lopez(MDC SUCAT LOPEZ (#86) )
+                                                            Prepared by - Chloe Kim C. Santos Dist 23 on 12/21/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jena H. Mallari
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025037   68  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20   557.60
+                                              P3          
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200          D         12.37    24.74
+                                              J3          
+ 4025239    2  Nestle CarnationCndnsda388mL48          D         64.49   128.98
+                                              NO LOT      
+ 4530047    4  Nestle KKrunch Ckie14.5gx4 BP6 01/18/25 E         40.91   163.64
+                                              NO LOT      
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          874.96
+                                                       Rundate 12/21/2024  18:10:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

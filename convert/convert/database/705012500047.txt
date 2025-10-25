@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705012500047
+                                                            Branch - 501 Subic Bay Freeport Zone Puregold(SBFZ )
+                                                            Prepared by - LEONARD H. TORRES on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         BARBARA ANN D. MEMPIN
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103041    7  Del M Pine Or Jce 220mL     24 07/01/25 F         28.93   202.51
+                                              SB1YY       
+ 1103169    1  Del M Pine Jce Swtnd 220mL  24 02/01/27 D         28.93    28.93
+                                              SB1YY       
+ 1104117   24  Del M Frty Zing Apl Lyc330mL24 08/14/25 E         22.28   534.72
+                                              SB1C        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          766.16
+                                                       Rundate 08/13/2025  15:48:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109382400697
+                                                            Branch - 938 DGT COLON(COLON ST DUMAGUETE CITY NEGROS ORIENTAL)
+                                                            Prepared by - AGUSTIN D. ABADA on 10/06/2024
+                                                            Issued by - ________________________________
+                                                                         FELMA O. IGNACIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870043    7  Creamsilk Cond S-Strght11mL288          D          5.93    41.51
+                                              NL          
+ 3870382    1  Creamsilk CondLong&Lusc170mL24          D        128.33   128.33
+                                              NL          
+ 6200097    1  Creamsilk TrtCrKRbndStr18mL288          D          5.88     5.88
+                                              NL          
+ 6200099    1  Vitakeratin Brzln Strgt24mL288          D          4.95     4.95
+                                              NL          
+ 6200101    4  Vitakeratin TrtmnDRpair24mL288          D          4.95    19.80
+                                              NL          
+ 6200176    1  Vitakeratin Color Shine24mL288          D          4.95     4.95
+                                              NL          
+ 6200294    1  Creamsilk Cond S-Strght22mL288          D          8.43     8.43
+                                              NL          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          213.85
+                                                       Rundate 10/06/2024  09:35:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

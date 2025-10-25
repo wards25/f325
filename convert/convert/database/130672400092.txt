@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130672400092
+                                                            Branch - 3067 Tarlac Paniqui Waltermart(Estacion, Paniqui, Tarlac )
+                                                            Prepared by - JENNY A. DANGANAN on 03/23/2024
+                                                            Issued by - ________________________________
+                                                                         BRENDA Q. DIAZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723613    1  Barrio F Std Shrmp P Reg250g12 06/14/24 D         89.78    89.78
+                                              2112140123  
+ 3723614    2  Barrio F Std Shrmp P Reg500g 6 07/20/24 D        158.18   316.36
+                                              2210200151  
+ 3723616    2  Barrio F Std Shrmp P SG250g 12 02/16/24 F         98.33   196.66
+                                              2202160003sg
+ 3723617    2  Barrio F Std Shrmp P Swt250g12 07/22/24 D         89.78   179.56
+                                              2201220031  
+ 3723618    2  Barrio F Std Shrmp P Swt500g 6 07/21/24 D        158.18   316.36
+                                              2201210025  
+ 3723620    6  Barrio F Std Shrmp PSpcy500g 6 06/05/24 D        158.18   949.08
+                                              2212050060  
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,047.80
+                                                       Rundate 03/23/2024  08:27:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

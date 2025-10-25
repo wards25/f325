@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710682500102
+                                                            Branch - 1068 Valenzuela City Marulas McArthur(D7-1068 VAL.CITY MARULAS MCART MUR HIGHWAY)
+                                                            Prepared by - Ms.Alma Monte de Ramos on 03/19/2025
+                                                            Issued by - ________________________________
+                                                                         Ms.Leilani Lubi
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723625    3  Kopiko Blanca TwnPckCoff58g120 05/21/28 I         11.48    34.44
+                                              1218slg21110
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 06/03/26 I         11.26    11.26
+                                              2312slg03120
+ 3723671    5  Solbac Surf Disinf Spr 500mL 6 07/31/25 I        250.40  1252.00
+                                              0807182201  
+ 4136024    5  Kopiko Blanca Coff 30g     240 02/16/26 I          7.78    38.90
+                                              0938tgr16080
+ 4510113    1  Mega Sard Spnsh Styl 155g   10 06/25/27 I         29.70    29.70
+                                              asi25f2024  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,366.30
+                                                       Rundate 03/19/2025  18:36:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  I-Loose Tablet Items (Factory Defect)

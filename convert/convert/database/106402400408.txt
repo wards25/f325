@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106402400408
+                                                            Branch - 640 Nabua Hway I(SAN FRANCISCO NABUA CAMARINES SUR)
+                                                            Prepared by - BEVERLY LUCILLE DAZA JACOB on 09/18/2024
+                                                            Issued by - ________________________________
+                                                                         IAN L. ABRAHAM
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221854   36  San Marino Crnd Tuna 85g    48 04/11/27 G         26.33   947.88
+                                              -           
+ 1221857   46  San Marino Blu Mckrl Stk180g48 03/11/27 G         56.25  2587.50
+                                              -           
+ 1225221   39  San Marino Crnd Tuna 180g   48 02/28/27 G         43.20  1684.80
+                                              -           
+ 1225222   43  San Marino Crnd TunaChli180g48 01/26/27 G         43.20  1857.60
+                                              -           
+ 4103102    8  Del M Pot Crisp BsctSpcy50g 48 09/17/24 F         18.67   149.36
+                                              -           
+ 4121005   30  San Marino Crnd TunaChli150g48 04/01/27 G         35.10  1053.00
+                                              -           
+ 4121007   24  San Marino Crnd Tuna 150g   48 03/15/27 G         35.10   842.40
+                                              -           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        9,122.54
+                                                       Rundate 09/18/2024  09:35:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired     G-Deleted

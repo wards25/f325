@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130182400028
+                                                            Branch - 3018 Rizal Aglipay(POB.SUR RIZAL AGLIPAY NUEVA ECIJA)
+                                                            Prepared by - FAY HAEZELL M. ACOSTA on 01/24/2024
+                                                            Issued by - ________________________________
+                                                                         RACHELL  O. LEONARDO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254315   13  UFC Bnana Csup Reg 530g     18 02/12/24 E         40.38   524.94
+                                              23018c1064iu
+ 3780421    5  Diabetasol Choc 600g         3 03/10/24 E        883.20  4416.00
+                                              22t1003gu   
+ 3856631    7  Datu Puti Wh Vin 350mL      24 09/11/23 F         15.44   108.08
+                                              22116m100356
+ 3856633    3  Mang Tomas Lchon Sce 325g   24 02/10/24 E         33.25    99.75
+                                              2e16m0602032
+ 3856643   15  UFC Sweet Chili Sce 340g    24 03/22/24 E         35.86   537.90
+                                              23e27c12259u
+ 3856650   13  Mang Tomas Hot&Spcy 325g    24 01/18/24 F         34.20   444.60
+                                              23d23m061044
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,131.27
+                                                       Rundate 01/24/2024  16:43:15
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

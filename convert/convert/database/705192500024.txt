@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705192500024
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - KYLLA CLAIRE P. DE GUZMAN on 01/16/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLE D. VILLAREAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748444   81  Nestea Ap ITea 20g         144 01/31/25 E         18.57  1504.17
+                                              SBT40030604 
+ 4025177  353  Nescafe Original 26g       520 01/31/25 E          7.37  2601.61
+                                              40218985A1  
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 03/31/25 D         12.37    12.37
+                                              40720597E1M3
+ 4530041    1  Nestle Trix Bfast Cer 20g  120 06/10/25 D         13.64    13.64
+                                              4190631CD2  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,131.79
+                                                       Rundate 01/16/2025  16:54:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 112012401058
+                                                            Branch - 1201 Kalookan City MetroPlaza Mall(QUIRINO HWAY, MALARIA KAL.CITY RETURN SECTION- 1 CARTON)
+                                                            Prepared by - Marielle V. Tabangin on 09/24/2024
+                                                            Issued by - ________________________________
+                                                                         MS. GERALDINE SALUDES
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221857   49  San Marino Blu Mckrl Stk180g48 10/14/26 G         56.25  2756.25
+                                              SMBMSS303   
+ 1225221   30  San Marino Crnd Tuna 180g   48 02/23/26 G         43.20  1296.00
+                                              SMCTR323    
+ 1225222   35  San Marino Crnd TunaChli180g48 06/16/26 G         43.20  1512.00
+                                              SMCCT306    
+ 4120006   22  Highland Crnd Bf 180g       48 06/17/26 G         57.15  1257.30
+                                              HLCBC415    
+ 4121005    3  San Marino Crnd TunaChli150g48 09/11/26 G         35.10   105.30
+                                              SMCCT307    
+ 4121007    2  San Marino Crnd Tuna 150g   48 07/02/26 G         35.10    70.20
+                                              SMCTR331    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,997.05
+                                                       Rundate 09/24/2024  15:33:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

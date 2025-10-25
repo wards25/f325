@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706452500272
+                                                            Branch - 645 San Fernando City La Union Rizal(Rizal Ave. SFCLU )
+                                                            Prepared by - IZA B. MARQUEZ on 07/09/2025
+                                                            Issued by - ________________________________
+                                                                         ELAINE GRACE Q. MADIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    2  Nescafe Clssc 1.9g        1008 05/31/25 F          3.02     6.04
+                                              -           
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12 07/31/25 E        102.06   102.06
+                                              -           
+ 3707335    5  Kitkat Bites 40g            30 06/10/25 F         53.40   267.00
+                                              -           
+ 3748503    4  Nestle KKrunch SPck 80g     24 07/08/25 F         48.18   192.72
+                                              -           
+ 4025096    8  Milo Activ-Go RTD 110mL     60 06/30/25 F         14.61   116.88
+                                              -           
+ 4025099    1  Nestle KKrunch 35g          72 05/16/25 F         16.36    16.36
+                                              -           
+ 4025177   29  Nescafe Original 20g       520 08/31/25 E          7.37   213.73
+                                              -           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          914.79
+                                                       Rundate 07/09/2025  11:55:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730412500164
+                                                            Branch - 3041 Nueva Ecija Cabanatuan City Waltermart( )
+                                                            Prepared by - FERDINAND T. CARLOS on 06/02/2025
+                                                            Issued by - ________________________________
+                                                                         JOCELYN S. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   12  Nestle Frsh Mlk 250mL       24 06/14/25 E         36.23   434.76
+                                              441405      
+ 3707335   18  Kitkat Bites 40g            30 06/10/25 E         53.40   961.20
+                                              4162953     
+ 3748503    1  Nestle KKrunch SPck 80g     24 04/27/25 F         48.18    48.18
+                                              41180631    
+ 4530041   30  Nestle Trix Bfast Cer 20g  120 06/11/25 E         13.64   409.20
+                                              41980631    
+ 4530057    1  Kitkat 2F 17g               48 02/14/25 F         15.36    15.36
+                                              23560       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,868.70
+                                                       Rundate 06/02/2025  14:18:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

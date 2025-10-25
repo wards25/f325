@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711382500168
+                                                            Branch - 1138 MANILA TONDO BALUT(2518 RODRIGUEZ ST. BALUT TONDO )
+                                                            Prepared by - AEGAIL N MALAGUE¥O on 03/14/2025
+                                                            Issued by - ________________________________
+                                                                         MS. LEONILA S. GOMEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 25g        144          D         18.57    18.57
+                                              1           
+ 4530005    1  Nescafe Gold Pouch 170g     15          D        349.56   349.56
+                                              1           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200          D         12.37    12.37
+                                              1           
+ 4530026    1  Nescafe Original SF TPck23g100          D         12.27    12.27
+                                              1           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          392.77
+                                                       Rundate 03/14/2025  14:35:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730762500810
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 10/07/2025
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103950   33  Del M Tmto Paste 150g       48 08/02/25 F         30.57  1008.81
+                                              .           
+ 1103961    2  Del M Fit N RghtBurnApl330mL24 11/17/25 E         31.13    62.26
+                                              .           
+ 1103962    1  Del M Fit N RghtBurn4sn330mL24 11/24/25 E         31.13    31.13
+                                              .           
+ 1104065    1  Del M Pine Jce HeartSTetra1L12 07/31/26 D        107.36   107.36
+                                              .           
+ 1104107    6  Del M Fit N Rght Pine 330mL 24 11/10/25 E         27.54   165.24
+                                              .           
+ 4103081    2  Del M Tmto Kchup OrigPch320g36 07/19/26 D         28.51    57.02
+                                              .           
+ 4470356    2  San Marino Crnd TunaChili150g6 06/21/27 D         33.30    66.60
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,498.42
+                                                       Rundate 10/07/2025  15:46:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

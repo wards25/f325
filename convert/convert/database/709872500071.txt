@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709872500071
+                                                            Branch - 987 Oroquieta - Quijano(BARRIENTOS COR QUIJANO STS, OROQUIETA CITY, MIS. OCC.)
+                                                            Prepared by - DOLLY C. ROMERO on 02/25/2025
+                                                            Issued by - ________________________________
+                                                                         MS.LIZA RUIZAL-DURAC
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960 10/31/25 D          1.89     1.89
+                                              72          
+ 3760007   26  Kitkat Mini 8s 72g          48 03/08/25 E         85.47  2222.22
+                                              40689531    
+ 4025177    3  Nescafe Original 26g       520 07/31/25 D          7.37    22.11
+                                              985         
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 05/31/25 D         12.37    12.37
+                                              Y2          
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 05/31/25 D         12.27    12.27
+                                              B3          
+ 4530026    1  Nescafe Original SF TPck23g100 06/30/25 D         12.27    12.27
+                                              8060        
+ 4530039    1  Milo Bfst Cer Ch&MBalls 20g120 06/05/25 D         13.64    13.64
+                                              41560631    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,296.77
+                                                       Rundate 02/24/2025  17:19:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

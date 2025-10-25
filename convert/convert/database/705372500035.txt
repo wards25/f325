@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705372500035
+                                                            Branch - 537 San Fernando City Pampanga Waltermart Center(PAMPANGA SAN FERNANDO WALTERMA T)
+                                                            Prepared by - PEARL JOY C. MANGUERRA on 02/07/2025
+                                                            Issued by - ________________________________
+                                                                         BONIFACIO P. GALANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360   13  Selecta Moo Choc 245mL      24 02/07/25 F         28.36   368.68
+                                              79449       
+ 1148913    5  Selecta Forti Mlk 245mL     24 02/02/25 F         34.23   171.15
+                                              79449       
+ 1148915   11  Selecta Forti Mlk 1L        12 03/15/25 F         85.46   940.06
+                                              79449       
+ 3723648    5  Selecta Dolce LFat Choc 1L  12 01/07/25 F         85.96   429.80
+                                              79449       
+ 3973030    1  Selecta FortiMlkStrlzed200mL24 01/16/25 F         22.16    22.16
+                                              79449       
+ 4136026    4  Prenagen Lactamom Vnla 400g  6 01/04/25 F        369.75  1479.00
+                                              79449       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,410.85
+                                                       Rundate 02/07/2025  15:32:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

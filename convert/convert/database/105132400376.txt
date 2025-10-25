@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105132400376
+                                                            Branch - 513 Calauag Poblacion(CALAUAG QUEZON)
+                                                            Prepared by - Florelio M. Briones on 11/09/2024
+                                                            Issued by - ________________________________
+                                                                         Francis Joeriz J. Cagalpin
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    4  Nestle KKrunch SPck 80g     24          D         47.08   188.32
+                                              0           
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60          D         25.71    25.71
+                                              0           
+ 4025128    1  Cerelac Nutripuffs B&S 50g  12 11/01/24 F        106.54   106.54
+                                              0           
+ 4025177   10  Nescafe Original 26g       520 11/01/24 F          7.37    73.70
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          394.27
+                                                       Rundate 11/09/2024  17:42:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730462500163
+                                                            Branch - 3046 CAMARINES NORTE DAET VINZONS(DAET, CAMARINES NORTE )
+                                                            Prepared by - MARIA CLARA A. CASTILLO on 06/23/2025
+                                                            Issued by - ________________________________
+                                                                         JACQUELINE A. DASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165711    4  Magnol Chzee Sprd Pln 235g  24 05/24/25 F         79.44   317.76
+                                              4102GTCB20  
+ 1165714    2  Magnol Chzee Sprd Pmto 235g 24 06/11/25 F         83.13   166.26
+                                              41113TCB26  
+ 3695262   32  Magnol Panck+W/Sbrry Syr200g48 07/02/25 E         32.77  1048.64
+                                              411041C667  
+ 4110022    1  Rebisco Hansel MchaSandw 32g10 08/30/25 D          5.87     5.87
+                                              C16B1       
+ 4113093    1  Magnol Real Mayonnaise 80mL 24 12/09/25 D         28.28    28.28
+                                              50212CB262  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,566.81
+                                                       Rundate 06/23/2025  16:33:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

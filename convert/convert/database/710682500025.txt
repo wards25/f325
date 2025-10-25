@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710682500025
+                                                            Branch - 1068 Valenzuela City Marulas McArthur(D7-1068 VAL.CITY MARULAS MCART HUR HIGHWAY)
+                                                            Prepared by - Ms.Alma Monte de Ramos on 01/11/2025
+                                                            Issued by - ________________________________
+                                                                         Ms.Leilani Lubi
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    1  Nestle KKrunch SPck 80g     24 06/03/25 D         47.08    47.08
+                                              1848        
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 I          8.20     8.20
+                                              152         
+ 4025219    4  Nescafe 3n1 Orig TwinPck56g200 07/31/25 I         12.37    49.48
+                                              B2          
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 10/31/25 I         12.37    12.37
+                                              42990537F1 L
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 06/30/25 I         12.27    12.27
+                                              D1          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          129.40
+                                                       Rundate 01/11/2025  18:49:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     I-Loose Tablet Items (Factory Defect)

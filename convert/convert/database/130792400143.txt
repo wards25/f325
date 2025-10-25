@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130792400143
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 02/27/2024
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103591    3  Del M Pine Jce Fiber 220mL  24 03/01/25 D         30.80    92.40
+                                              L31499YYJFL6
+ 1104083    1  Del M Pine JceACE220mLx6SP10 4 02/01/24 F        158.66   158.66
+                                              L3059YY     
+ 1147360   25  Selecta Moo Choc 245mL      24 03/12/24 E         28.36   709.00
+                                              D3RE0       
+ 3623292    1  Musli Oat Bisc Hzlnut 60g   24 08/04/24 D         31.50    31.50
+                                              H2314242    
+ 3623294    1  Pacifica Prune Jce100% 946mL12 03/21/24 E        296.10   296.10
+                                              .           
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240 09/16/24 D          7.01     7.01
+                                              0606TGR16090
+ 3723615   10  Barrio F Std Shrmp P SC250g 12 03/22/24 E         93.20   932.00
+                                              2232200528SC
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,226.67
+                                                       Rundate 02/27/2024  10:27:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

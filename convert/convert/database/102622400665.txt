@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102622400665
+                                                            Branch - 262 Manila Sta. Ana Augusto Francisco(Sta Ana Augusto Francisco )
+                                                            Prepared by - Jena de Castro on 12/07/2024
+                                                            Issued by - ________________________________
+                                                                         Lorgelyn Balon
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              xx          
+ 4025032    1  Nestle Coffeemate 400g      24          D        109.57   109.57
+                                              xx          
+ 4025177    2  Nescafe Original 26g       520          D          7.37    14.74
+                                              xx          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         12.37    12.37
+                                              xx          
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200          D         12.37    24.74
+                                              xx          
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100          D         12.27    12.27
+                                              xx          
+ 4530026    2  Nescafe Original SF TPck23g100          D         12.27    24.54
+                                              xx          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          200.12
+                                                       Rundate 12/07/2024  14:18:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

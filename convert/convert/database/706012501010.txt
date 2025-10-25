@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706012501010
+                                                            Branch - 601 BGU PARTELO(601 BANGUEDPARTELO)
+                                                            Prepared by - N.DASALLA/D. GUMIDAM on 10/03/2025
+                                                            Issued by - ________________________________
+                                                                         BENELYN M. TORRELIZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304    3  Sunkist Frt Dr Mgo 235mL    24          D         20.05    60.15
+                                              xxx         
+ 1148915    5  Selecta Forti Mlk 1L        12          D         85.46   427.30
+                                              xxx         
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12          D         91.92    91.92
+                                              xxx         
+ 3465910   13  Magnol Full Cr Mlk 200mL    36          D         25.56   332.28
+                                              xxx         
+ 3623285    1  Northland CrberyPomegJce1.89L8          D        386.10   386.10
+                                              xxx         
+ 3856640    1  UFC GldnFstaCkingOilSup250mL48          D         38.95    38.95
+                                              xxx         
+ 3973031    2  Selecta Forti Mlk Strlzed 1L12          D         78.95   157.90
+                                              xxx         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,494.60
+                                                       Rundate 10/05/2025  11:24:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

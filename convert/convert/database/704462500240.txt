@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704462500240
+                                                            Branch - 446 ALBY LGP C WASH DR(WASHINGTON DRIVE LEGASPI CITY )
+                                                            Prepared by - EDWIN J.CLETE on 08/07/2025
+                                                            Issued by - ________________________________
+                                                                         ARMIE A. ESPINAS
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016260    1  Century TunaFlk Hot&Spcy155g50          D         34.40    34.40
+                                              0           
+ 1016292    3  555 Tuna Flakes Cldreta 155g50 08/30/25 F         26.68    80.04
+                                              0           
+ 1016358    6  Fresca Tuna Mchdo 175g      48 08/30/25 F         24.48   146.88
+                                              0           
+ 3048400   20  555 Sardines TS 155g       100 08/30/25 E         21.85   437.00
+                                              0           
+ 3048435    1  555 Sardine Frd W/Tau 155g 100          D         30.88    30.88
+                                              0           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          729.20
+                                                       Rundate 08/07/2025  15:22:44
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

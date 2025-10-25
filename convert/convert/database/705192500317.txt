@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705192500317
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - KYLLA CLAIRE P. DE GUZMAN on 06/14/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLE D. VILLAREAL
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016252   33  Century Flakes Afrtda 155g  50 07/11/25 E         31.80  1049.40
+                                              1339B       
+ 1035690   70  Ligo Sard In TS Chili 155g 100 07/15/25 E         23.98  1678.60
+                                              6ANA0728    
+ 1210406    2  Argentina Meat Loaf 250g    48 11/03/24 F         30.95    61.90
+                                              AML13       
+ 1210407    7  Argentina Meat Loaf 170g    48 06/29/25 E         22.38   156.66
+                                              LML41       
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,946.56
+                                                       Rundate 06/14/2025  14:22:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

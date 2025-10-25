@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120672400887
+                                                            Branch - 2067 Davao City Buhangin San Pedro Ext.(SAN PEDRO EXT BUHANGIN NDAVAO CITY)
+                                                            Prepared by - mary paul olga s. siose on 09/25/2024
+                                                            Issued by - ________________________________
+                                                                         SHEILA MAE C. AMIGO
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221854    3  San Marino Crnd Tuna 85g    48 12/29/26 G         26.33    78.99
+                                              SMCTR311    
+ 1225221   28  San Marino Crnd Tuna 180g   48 02/02/27 G         43.20  1209.60
+                                              SMCTR353    
+ 1225222   71  San Marino Crnd TunaChli180g48 12/02/26 G         43.20  3067.20
+                                              SMCCT333    
+ 4120006   25  Highland Crnd Bf 180g       48 11/30/26 G         57.15  1428.75
+                                              HLCBC417    
+ 4121005   45  San Marino Crnd TunaChli150g48 12/05/26 G         35.10  1579.50
+                                              SMCCT382    
+ 4121007    9  San Marino Crnd Tuna 150g   48 10/16/26 G         35.10   315.90
+                                              SMCTR3102   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,679.94
+                                                       Rundate 09/25/2024  15:40:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

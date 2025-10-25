@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102522400218
+                                                            Branch - 252 Antipolo City Sumulong(ANTIPOLO SUMULONG Circumferencial Rd)
+                                                            Prepared by - Cristina B. Sto. Tomas on 02/15/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jeanette L Cruz
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102982    2  Del M Pine Jce 220mL        24          D         28.00    56.00
+                                              -           
+ 1104078    3  Del M Mr Milk Mango 100mLx6 16 02/24/24 E         46.32   138.96
+                                              -           
+ 1104107    3  Del M Fit N Rght Pine 330mL 24          D         26.65    79.95
+                                              -           
+ 3007491    3  St Ives BWsh ExftngAprct473mL4 05/31/24 E        298.20   894.60
+                                              -           
+ 3973031    6  Selecta Forti Mlk Strlzed 1L12 03/01/24 E         80.88   485.28
+                                              -           
+ 4180020   11  Mega Tuna Flks In Oil 155g  50 03/20/24 E         35.10   386.10
+                                              -           
+ 4510113   17  Mega Sard Spnsh Styl 155g   10 03/11/24 E         29.70   504.90
+                                              -           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,545.79
+                                                       Rundate 02/15/2024  13:55:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

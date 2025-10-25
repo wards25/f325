@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101762400841
+                                                            Branch - 176 Quezon City Novaliches Balintawak(DISTRICT 2 NOVA QUIRINO BAL )
+                                                            Prepared by - DAIMIE PUNSALAN on 10/22/2024
+                                                            Issued by - ________________________________
+                                                                         MR.REYNALDO ROLLO JR.
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4110022   21  Rebisco Hansel MchaSandw 32g10          D          5.87   123.27
+                                              .           
+ 4110023   14  Rebisco Crackers 35g        10          D          5.87    82.18
+                                              .           
+ 4110036   13  VitaCubes Frt Jelly Cdy 50g 10          D         18.00   234.00
+                                              .           
+ 4110040    1  Frootees Ckie Sbrry 32g     10          D          5.83     5.83
+                                              .           
+ 4136008    1  Kopiko Cappuccino Coff 25g 240          D          7.40     7.40
+                                              .           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              .           
+ 4180010    1  Mega Sard In TS 425g        24          D         50.63    50.63
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          511.09
+                                                       Rundate 10/22/2024  14:19:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

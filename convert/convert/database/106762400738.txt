@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106762400738
+                                                            Branch - 676 Tarlac City C. Santos(676 TARLAC SANTOS )
+                                                            Prepared by - VHEE JANE C. ARELLANO on 12/13/2024
+                                                            Issued by - ________________________________
+                                                                         DAISY M. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009333    2  Royal Elbow Macaroni 400g   30          D         60.97   121.94
+                                              *           
+ 3723284    1  Fudgee Barr Chocolate       10          D          8.01     8.01
+                                              *           
+ 4110018    5  Choco Mucho Mlk Choc 30g    10 01/16/25 E          9.30    46.50
+                                              a10m        
+ 4110019   37  Choco Mucho Wh Choc 30g     10 01/16/25 E          9.30   344.10
+                                              b2m         
+ 4510217    6  Lipton Tea STL Eng BfstBlk25s6 11/02/24 F        198.35  1190.10
+                                              m           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,710.65
+                                                       Rundate 12/13/2024  09:55:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

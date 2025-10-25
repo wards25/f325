@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120722400462
+                                                            Branch - 2072 ADS S FO NTL HWY(Nat'l. Highway Purok1, Brgy.4, San Francisco Agusan Sur)
+                                                            Prepared by - 4s.Julie Antoniete U. Atwel on 09/15/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jojovima S. Ferrer
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850    7  Highland Reg Crnd Bf 150g   48 01/10/27 G         33.30   233.10
+                                              hlcbr408    
+ 1221854   43  San Marino Crnd Tuna 85g    48 03/18/27 G         26.33  1132.19
+                                              smctr313    
+ 1221856   32  San Marino Crnd TunaChili85g48 02/20/27 G         26.33   842.56
+                                              smcct313    
+ 1225221   39  San Marino Crnd Tuna 180g   48 01/31/24 G         43.20  1684.80
+                                              smctr314    
+ 1225222   22  San Marino Crnd TunaChli180g48 02/23/26 G         43.20   950.40
+                                              smcct317    
+ 4120006   30  Highland Crnd Bf 180g       48 01/13/27 G         57.15  1714.50
+                                              hlcbc406    
+ 4121007   13  San Marino Crnd Tuna 150g   48 03/18/24 G         35.10   456.30
+                                              smctr314    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,013.85
+                                                       Rundate 09/15/2024  15:44:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

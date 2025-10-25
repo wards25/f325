@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712082500073
+                                                            Branch - 1208 Mnla StaCruz Frbs D( )
+                                                            Prepared by - Dally on 04/15/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Rea B. Tugade
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039295    2  Surf FabCond Luxe Perf 25mL360          D          5.19    10.38
+                                              .           
+ 3050036    1  Knorr Hot Meal ArrozCaldo35g48          D         28.30    28.30
+                                              .           
+ 3050066    2  Surf FabCond MintExtrct25mL360          D          5.19    10.38
+                                              .           
+ 3050083    4  Surf FabCond BlsFrshSac69mL120          D         12.10    48.40
+                                              .           
+ 3980694    1  Dove Deo SprUltRepSJsmn135mL12          D        227.70   227.70
+                                              .           
+ 6200230    1  Surf FabCond Bl FrshSac40mL360          D          7.30     7.30
+                                              .           
+ 6200292    1  Creamsilk Cond HFallDef22mL288          D          8.43     8.43
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          340.89
+                                                       Rundate 04/15/2025  14:17:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730582500342
+                                                            Branch - 3058 CAGAYAN ABULUG LIBERTAD(LIBERTAD ABULUG CAG. )
+                                                            Prepared by - JUDIE ANNE R. ABLASA on 10/14/2025
+                                                            Issued by - ________________________________
+                                                                         MS.ARMOHENA P. DASALLA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009333    2  Royal Elbow Macaroni 400g   30 08/28/26 D         60.97   121.94
+                                              0           
+ 3615297  768  Essenso 3n1CoffMicrogrnd25g192 10/12/25 E         17.62 13532.16
+                                              LIP9041551  
+ 3695258   46  Magnol Panck+W/Choc Syr200g 48 08/06/25 E         32.77  1507.42
+                                              412091C772  
+ 3695260   72  Magnol Panck+W/Mple Syr200g 48 11/13/25 E         32.77  2359.44
+                                              503181D138  
+ 3695262   96  Magnol Panck+W/Sbrry Syr200g48 11/24/25 E         32.77  3145.92
+                                              5039291D147 
+ 3695266   24  Magnol Panck&Waffle Mix400g 24 11/23/25 E         51.44  1234.56
+                                              0           
+ 4100005    7  Kettle Korn Sltd Crmel 120g 30 09/11/25 F         42.93   300.51
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       22,201.95
+                                                       Rundate 10/14/2025  09:51:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

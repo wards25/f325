@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104122400709
+                                                            Branch - 412 Naga City Gen. Luna(MERCURY DRUG NAGA GEN LUNA )
+                                                            Prepared by - JEFFREY G. NIEVES on 09/05/2024
+                                                            Issued by - ________________________________
+                                                                         MARGARITA MARIA R. ASUG
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016231    2  Century Flakes Hot&Spicy180g48          D         43.31    86.62
+                                              .           
+ 1016359    3  Century Tuna W/ Cal 155g    50          D         34.40   103.20
+                                              .           
+ 1016360   28  Century Tuna W/Cal 180g     48 11/01/24 E         43.31  1212.68
+                                              .           
+ 1210416    1  Argentina CBeef 260g        48          D         53.81    53.81
+                                              .           
+ 3048433   11  555 Sardine Frd H&Spcy 155g100 08/27/24 F         33.73   371.03
+                                              .           
+ 3793335   13  Argentina CChckn 150g       48 10/19/24 E         32.86   427.18
+                                              .           
+ 3793349    4  555 Tuna Spcy Paksiw 155g   50          D         26.68   106.72
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,361.24
+                                                       Rundate 09/05/2024  10:49:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120562400898
+                                                            Branch - 2056 Bantayan Binaobao(M.L QUEZON ST.BINAOBAO )
+                                                            Prepared by - MR.JUN VIRCHEL L.DELA CRUZ on 11/03/2024
+                                                            Issued by - ________________________________
+                                                                         MS.LIDA D.VILLACARLOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615296    6  San Mig Coff 3n1 Crema 25g 240 03/27/26 D          6.89    41.34
+                                              205         
+ 3723566    9  Musli OatCrnchySbry&Almd375g14 11/11/24 E        160.65  1445.85
+                                              L:2300257   
+ 3723625    2  Kopiko Blanca TwnPckCoff58g120 11/22/25 D         11.48    22.96
+                                              1847TGR22050
+ 3723644    1  Energen Champion Choc TP30g120 05/06/25 D         14.24    14.24
+                                              0156TGR06050
+ 4136010    4  Kopiko Blck 3-N-1 Coff 30g 240 01/12/28 D          6.80    27.20
+                                              1204TGR12079
+ 4136022    4  Kopiko L.A. Coffee 25g     240 10/28/25 D          7.40    29.60
+                                              0519TGR28040
+ 4136024    3  Kopiko Blanca Coff 30g     240 10/24/25 D          7.78    23.34
+                                              0950TGR24040
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,604.53
+                                                       Rundate 11/03/2024  11:51:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

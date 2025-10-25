@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700802500010
+                                                            Branch - 80 Sta. Cruz P. Burgos(STA CRUZ P. BURGOS 80 )
+                                                            Prepared by - DORIE L. RESURRECCION on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MAILEEN E. REYES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465906    1  Magnol Chzee Sqze Chdr 115g 24 01/24/25 E         37.88    37.88
+                                              40628ubj22  
+ 3465907    2  Magnol Chzee Sqze Chdr 220g 24 01/15/25 E         70.23   140.46
+                                              40619uaj02  
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 10/05/25 D         20.25    20.25
+                                              sfs         
+ 3723726   40  Mega Tuna Flks Hot&Spcy 155g10 11/30/26 G         36.90  1476.00
+                                              xk21        
+ 4510217    2  Lipton Tea STL Eng BfstBlk25s6 02/16/25 E        198.35   396.70
+                                              n           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,071.29
+                                                       Rundate 01/13/2025  18:29:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

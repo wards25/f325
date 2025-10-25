@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110722401283
+                                                            Branch - 1072 Meycauayan City EMA Town Center(1072 BUL MEYC EMA T C )
+                                                            Prepared by - CECIL/KENJI/KARLA on 12/17/2024
+                                                            Issued by - ________________________________
+                                                                         MS ANNE CONAHAP
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 5800320    2  Ladys C Chck Sprd 80mL      36 01/08/25 E         34.85    69.70
+                                              240271      
+ 5800328    1  Ladys C Sandw Sprd 80mL     36 02/22/25 D         31.55    31.55
+                                              240932      
+ 6200023    2  Surf Liq Chry Blossm 64mL  288          D          6.42    12.84
+                                              NO LOT      
+ 6200081    1  Creamsilk CondSStr350mL50%2nd6 11/10/26 D        360.54   360.54
+                                              240424      
+ 6200091    1  Surf Pdr Rose Frsh 65g B6G1 40 06/07/24 D         36.75    36.75
+                                              1234        
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          511.38
+                                                       Rundate 12/17/2024  14:41:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

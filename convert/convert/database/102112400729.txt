@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102112400729
+                                                            Branch - 211 Quezon City Novaliches Talipapa( )
+                                                            Prepared by - ROXY CALLAO on 08/20/2024
+                                                            Issued by - ________________________________
+                                                                         MS. CORA BAUTISTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103059    6  Del M Tidbits Pine 432g     24 09/01/24 E         58.10   348.60
+                                              2248YY      
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 12/13/25 D         11.22    11.22
+                                              0002SLG     
+ 3723648    1  Selecta Dolce LFat Choc 1L  12 02/04/25 D         85.96    85.96
+                                              04A6RLO     
+ 4103108    5  Kikkoman Soy Sce Glass 150mL24 02/03/25 G         64.10   320.50
+                                              110         
+ 4113080    1  Magnol Star Mgrine 100g    144 10/07/24 D         28.62    28.62
+                                              31212       
+ 4136024    1  Kopiko Blanca Coff 30g     240 08/28/25 D          7.57     7.57
+                                              1721TGR     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          802.47
+                                                       Rundate 08/20/2024  11:41:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

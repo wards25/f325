@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711542500116
+                                                            Branch - 1154 Valenzuela City Gateway Complex(1154 VAL. CITY GATEWAY COMPLEX GS PASO DE BLAS BGY P)
+                                                            Prepared by - MICHAEL LANOZO on 03/20/2025
+                                                            Issued by - ________________________________
+                                                                         MS.ANNA LIZA M. DEMITION
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138820   10  Purefood Vie Ssge 230g      48 04/06/25 E         51.12   511.20
+                                              2221        
+ 1138931   10  Purefood Star Meat Loaf150g 48 05/15/25 E         18.10   181.00
+                                              0041        
+ 3780423    1  Diabetasol Vnla 180g         3 09/23/26 D        292.20   292.20
+                                              094339      
+ 3856637    1  UFC GldnFstaCkingOilPet485mL24          D         71.73    71.73
+                                              .           
+ 3856660   18  Locally Calamnsi Jce Dr240mL24 04/16/25 E         25.08   451.44
+                                              22551611    
+ 4110036   16  VitaCubes Frt Jelly Cdy 50g 10 03/31/25 E         18.00   288.00
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,795.57
+                                                       Rundate 03/20/2025  16:12:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730092500164
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S.SARGUET on 10/11/2025
+                                                            Issued by - ________________________________
+                                                                         ALDRIN A. BARRUGA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20 12/10/26 D         12.33    12.33
+                                              24          
+ 3723508    3  Oramed 0.1% 60mL            12 09/15/25 E         76.50   229.50
+                                              230401      
+ 3723509    1  Oramed 0.1% 120mL           12 07/22/25 E        127.50   127.50
+                                              p23         
+ 3723705    1  Kopiko Blck 3n1 Coff26g TP 120 11/26/26 D         12.11    12.11
+                                              04          
+ 3856638    9  Datu Puti Wh Vngar Pet 385mL24 10/14/25 E         17.34   156.06
+                                              cbd         
+ 4136061  132  Kopiko Dble Cups Orig 33g  240 11/10/25 E          9.05  1194.60
+                                              528         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,732.10
+                                                       Rundate 10/11/2025  08:44:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

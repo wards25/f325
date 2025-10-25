@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111202400619
+                                                            Branch - 1120 LAS PINAS CITY VILLAR SIPAG(VILLAR SIPAG C5 EXTENSION RD PULANGLUPA UNO LAS PI¥AS)
+                                                            Prepared by - HAZELD25 on 08/29/2024
+                                                            Issued by - ________________________________
+                                                                         MS EMMALYN M.MANABAT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104115   11  Del M Vinamilk Ygrt Sb 110mL48 09/19/24 E         11.07   121.77
+                                              M2110       
+ 1165711    6  Magnol Chzee Sprd Pln 235g  24 09/26/24 E         84.05   504.30
+                                              40229TCB04  
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 11/30/25 D         11.26    11.26
+                                              2257SL      
+ 3723644   15  Energen Champion Choc TP30g120 09/17/24 E         14.24   213.60
+                                              2033TGR17090
+ 3856637    1  UFC GldnFstaCkingOilPet485mL24          D         71.73    71.73
+                                              NO LOT      
+ 3856650    1  Mang Tomas Hot&Spcy 325g    24 02/05/25 D         34.20    34.20
+                                              24E11M061917
+ 4113090    1  Magnol Crmy Chckn Sprd 80mL 24 04/06/25 D         29.68    29.68
+                                              40610CB220  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          986.54
+                                                       Rundate 08/29/2024  15:04:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730832500284
+                                                            Branch - 3083 Nueva Ecija Bongabon Poblacion(Bongabon, N.E )
+                                                            Prepared by - CARISSA JEAN Q. VALEZA on 09/17/2025
+                                                            Issued by - ________________________________
+                                                                         AVENSUS GEORGE A. DE DIOS
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016210   14  Century Chunks Veg Oil 184g 48 06/01/24 F         66.31   928.34
+                                              99          
+ 1210484    1  Argentina Fsta Ssge 175g    48 04/29/24 F         28.10    28.10
+                                              99          
+ 1210486    1  Argentina CBeef Jr 150g     48 09/19/27 D         33.33    33.33
+                                              +9          
+ 3793335   27  Argentina CChckn 150g       48 10/30/25 E         32.86   887.22
+                                              99          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,876.99
+                                                       Rundate 09/17/2025  16:07:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

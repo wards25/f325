@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121632400584
+                                                            Branch - 2163 Capiz Pontevedra Poblacion(Capiz Pontevedra Poblacion Ilawod)
+                                                            Prepared by - Antonette C. Arroyo on 12/11/2024
+                                                            Issued by - ________________________________
+                                                                         Jonas Rheb B. Limosnero
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025056    8  Nescafe Crmy Wh 25.5g      240 09/30/24 E          8.20    65.60
+                                              32478985A117
+ 4025177  194  Nescafe Original 26g       520 01/31/25 E          7.37  1429.78
+                                              40200602M1T1
+ 4530022   52  Nescafe Crmy Lat TwinPck51g200 01/31/25 E         12.37   643.24
+                                              40180597U1F1
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,138.62
+                                                       Rundate 12/11/2024  17:43:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

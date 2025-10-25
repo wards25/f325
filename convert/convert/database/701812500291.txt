@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701812500291
+                                                            Branch - 181 Sta. Rosa City Waltermart(WALTERMART SRO )
+                                                            Prepared by - Ms.Elay Lacsamana on 08/26/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. May M. Cantoria
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465855    6  Magnol Pure Frsh Mlk 1L     12 10/10/25 E         96.08   576.48
+                                              502126201   
+ 3465859    6  Magnol Low Fat Mlk 1L       12 10/14/25 E        100.69   604.14
+                                              50216101    
+ 3465890    6  Magnol Full Crm Mlk 1L      12 09/16/25 E         92.39   554.34
+                                              50119201    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,734.96
+                                                       Rundate 08/26/2025  13:44:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

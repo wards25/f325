@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706792500187
+                                                            Branch - 679 SPBL A BONI(Bonifacio St. San Pablo City, Laguna)
+                                                            Prepared by - Ilma M. Becina on 09/22/2025
+                                                            Issued by - ________________________________
+                                                                         Florante C. Lawigan
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025219    2  Nescafe 3n1 Orig TwinPck40g200          D         13.32    26.64
+                                              x           
+ 4025237    5  Nescafe Crmy Wh Twin Pck40g200          D         13.32    66.60
+                                              x           
+ 4530043   12  Nestle Trix Bfast Cer 160g  18 10/17/25 E        111.82  1341.84
+                                              x           
+ 4530055    3  Bonina Maternal Mlk Vnla350g18 10/30/25 E        303.74   911.22
+                                              x           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,346.30
+                                                       Rundate 09/22/2025  14:17:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

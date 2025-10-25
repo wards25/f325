@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130292400304
+                                                            Branch - 3029 Rosario Public Market(ROSARIO,BATANGAS )
+                                                            Prepared by - LIEZL T. COLOMA on 07/23/2024
+                                                            Issued by - ________________________________
+                                                                         MA. AZENITH C. HUFALAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104061    2  Del M Pine Jce Fiber Tetra1L12 07/24/24 E        104.23   208.46
+                                              L3205YY13   
+ 3551928    4  Suncoast Vit BstSbryKwi600mL24 06/09/24 F         35.70   142.80
+                                              S2 10:6     
+ 3723283   10  Cupp Keyk Choc Topps        10 07/29/24 E          7.74    77.40
+                                              CA417 02    
+ 3723374   23  Ding Dong Snck Mx Chip&C95g 60 06/11/24 F         20.16   463.68
+                                              B7 A78      
+ 3723617    1  Barrio F Std Shrmp P Swt250g12 07/24/24 E         89.78    89.78
+                                              2201240061  
+ 3723633    1  Selecta Forti MlkStr1Lx2SP10 6 08/30/24 E        155.94   155.94
+                                              19:17H6JA0  
+ 4510218    3  Lipton Tea STL Chamo Infsn25s6 08/25/24 E        198.35   595.05
+                                              A           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,733.11
+                                                       Rundate 07/23/2024  14:19:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

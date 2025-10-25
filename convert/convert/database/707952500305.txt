@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707952500305
+                                                            Branch - 795 ZAMB DS ZAMB C S MA(STA. MARIA zAMBOANGA CITY)
+                                                            Prepared by - JENNEVIE B. TORRALBA on 09/14/2025
+                                                            Issued by - ________________________________
+                                                                         MICHELLE K. ENRIQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138501    2  Purefood Star Cbeef 150g    48          D         30.77    61.54
+                                              1           
+ 1165711   16  Magnol Chzee Sprd Pln 235g  24 09/03/25 F         79.44  1271.04
+                                              50205TCB04  
+ 3695262    5  Magnol Panck+W/Sbrry Syr200g48 09/01/25 F         32.77   163.85
+                                              501041C008  
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60          D         20.54    20.54
+                                              1           
+ 3723681   16  Locally Ripe Mngo JceDr240mL24 08/31/25 F         22.80   364.80
+                                              1           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,881.77
+                                                       Rundate 09/14/2025  17:03:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

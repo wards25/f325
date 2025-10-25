@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703712500158
+                                                            Branch - 371 PC LBRTY COMML COMPLX( 117169-117170)
+                                                            Prepared by - PAUL MODANCIA on 05/06/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MAE T.GALVEZ-BALAWANG
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144          D          7.55     7.55
+                                              .           
+ 3039258    1  Breeze Pdr Det Actv Blch630g24          D        105.15   105.15
+                                              .           
+ 3039263    1  Surf Pdr Blsm Frsh 1100g    12          D        109.76   109.76
+                                              .           
+ 3050004    1  Surf Pdr Rose Frsh 57g     288          D          6.13     6.13
+                                              .           
+ 3050031    1  Breeze Pdr DetRseGldPerf64g144          D         12.64    12.64
+                                              .           
+ 6200023    2  Surf Liq Chry Blossm 64mL  288          D          6.42    12.84
+                                              .           
+ 6200024    9  Surf Liq Rose Fresh 64mL   288          D          6.42    57.78
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          311.85
+                                                       Rundate 05/06/2025  14:03:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 709152500007
+                                                            Branch - 915 Davao City San Pedro(San Pedro Street, Mitra Bldg )
+                                                            Prepared by - JC OLMOGUEZ on 01/21/2025
+                                                            Issued by - ________________________________
+                                                                         DIANA JOY E. BADAYON
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 01/31/25 E          8.20     8.20
+                                              40310602WM  
+ 4025052   14  Nestle Coffeemate 150g      60 01/31/25 E         44.78   626.92
+                                              33004331    
+ 4025177   66  Nescafe Original 26g       520 01/30/25 E          7.37   486.42
+                                              43895411C   
+ 4530026    2  Nescafe Original SF TPck23g100 05/30/25 D         12.27    24.54
+                                              4566EE02    
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,146.08
+                                                       Rundate 01/21/2025  04:59:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

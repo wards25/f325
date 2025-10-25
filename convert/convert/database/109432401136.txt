@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109432401136
+                                                            Branch - 943 Tacurong City Ledesma(LEDESMA ST.TACURONG CITY,SULTA N KUDARAT)
+                                                            Prepared by - MAYBELYN C. AZARES on 10/06/2024
+                                                            Issued by - ________________________________
+                                                                         VIVIAN P. ABASOLO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009222    1  Ladys C Bcon Sprd 220mL     24 06/26/24 D        122.60   122.60
+                                              214422      
+ 1009558    4  Ladys C Mynaise 80mL        72 03/24/25 D         32.20   128.80
+                                              114         
+ 1009562    1  Ladys C Mynaise 220mL       24 01/26/25 D        112.05   112.05
+                                              2144113     
+ 1010072    2  Ladys C Sandw Sprd 80mL     72 07/21/25 D         31.55    63.10
+                                              243052      
+ 1010116   10  Ladys C Ham Sprd 80mL       72 03/03/25 D         34.85   348.50
+                                              114         
+ 1010117    6  Ladys C Tuna Sprd 80mL      72 02/20/25 D         34.85   209.10
+                                              1631        
+ 1010200    9  Ladys C Tuna Sprd 220mL     24 10/16/24 E        122.60  1103.40
+                                              1322        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,087.55
+                                                       Rundate 10/06/2024  14:18:29
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

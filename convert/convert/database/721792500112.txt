@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721792500112
+                                                            Branch - 2179 Leyte AlangAlang Poblacion(J&F MALL BLDG,POBLACION, ALANGALANG LEYTE)
+                                                            Prepared by - MS. CONSOLACION A. FABI on 04/09/2025
+                                                            Issued by - ________________________________
+                                                                         MS. RHEA I. QUISIDO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210407    1  Argentina Meat Loaf 170g    48          D         22.38    22.38
+                                              X           
+ 1210416    1  Argentina CBeef 260g        48          D         53.81    53.81
+                                              X           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           76.19
+                                                       Rundate 04/09/2025  13:30:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

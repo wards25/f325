@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705112500053
+                                                            Branch - 511 OR MIN CPN C NEO CPN(NEO CALAPAN MALL )
+                                                            Prepared by - APRILYN C. MALALUAN on 04/08/2025
+                                                            Issued by - ________________________________
+                                                                         ARNEL JOSE N. RECIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456    3  Nestle Chuckie Cal-N 1000mL 12 12/31/24 F        102.06   306.18
+                                              40390189    
+ 3760009    5  Nido NutriSnaxBnna-Crot110mL60 02/28/25 F         17.76    88.80
+                                              40800189    
+ 4530039   67  Milo Bfst Cer Ch&MBalls 20g120 04/13/25 F         13.64   913.88
+                                              41040631    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,308.86
+                                                       Rundate 04/08/2025  14:48:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

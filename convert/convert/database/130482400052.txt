@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130482400052
+                                                            Branch - 3048 BATANGAS SAN PASCUAL POBLACION( )
+                                                            Prepared by - MICHAEL N. MALIGAYA on 02/19/2024
+                                                            Issued by - ________________________________
+                                                                         REYNALIZA T. BACONG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961    1  Del M Fit N RghtBurnApl330mL24 01/22/24 F         30.80    30.80
+                                              3081YX02    
+ 1103963    2  Del M Fit N RghtBurnPne330mL24 02/27/24 E         30.80    61.60
+                                              3178YX01    
+ 3723284   10  Fudgee Barr Choc Blst       10 02/25/24 E          7.65    76.50
+                                              CAS4        
+ 3900003    1  Diabetasol Choc 360g         3 02/17/24 F        609.20   609.20
+                                              22S1701DH   
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          778.10
+                                                       Rundate 02/19/2024  15:46:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

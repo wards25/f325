@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710562500007
+                                                            Branch - 1056 Manila Ermita Roxas Blvd.(MANILA ERMITA ROXAS BLVD. )
+                                                            Prepared by - MANUEL GEORGE C. GAYNILO on 01/04/2025
+                                                            Issued by - ________________________________
+                                                                         MS. ROWENA MALLARI
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039236    2  Surf FabCond Bl FrshSac25mL360          D          5.19    10.38
+                                              .           
+ 3050005    2  Surf Pdr SFrsh 57g         288          D          6.13    12.26
+                                              .           
+ 3870119    1  Dove Sh Crmde IntRepair10mL288          D          5.59     5.59
+                                              .           
+ 5800216    1  Knorr Hot Meal Beef Goto 32g 4 01/08/25 E         16.95    16.95
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           45.18
+                                                       Rundate 01/04/2025  14:11:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

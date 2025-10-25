@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 720222500172
+                                                            Branch - 2022 Linamon Poblacion(LINAMON LANAO DEL NORTE )
+                                                            Prepared by - Jeana L. Solatorio on 07/07/2025
+                                                            Issued by - ________________________________
+                                                                         RUFINO B. BARCENAS JR
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016355    1  Fresca Tuna Flakes Oil 175g 48          D         27.68    27.68
+                                              xxx         
+ 1210404    1  Argentina CBeef 175g        48          D         38.33    38.33
+                                              xxx         
+ 3048425    4  555 Mackerel TS 155g       100          D         27.98   111.92
+                                              xxx         
+ 3793298    3  Angel Condensada 380g       48          D         50.48   151.44
+                                              xxx         
+ 3793299    1  Angel Kremdensada 2n1 410mL 24          D         57.10    57.10
+                                              xxx         
+ 3793347    1  Birch Tree FortiChocoPdr29g160          D          8.17     8.17
+                                              xxx         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          394.64
+                                                       Rundate 07/07/2025  09:01:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

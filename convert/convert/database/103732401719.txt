@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103732401719
+                                                            Branch - 373 Valenzuela City Gen. T. De Leon(VAL CITY GEN. T DE LEON F324   7507)
+                                                            Prepared by - AMOR AMACIO on 12/05/2024
+                                                            Issued by - ________________________________
+                                                                         MR. ALVIN P. PASCO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465865    3  Magnol Choc Mlk Dr 1L       12 12/22/24 E         98.84   296.52
+                                              31228       
+ 3465890    1  Magnol Full Crm Mlk 1L      12 12/17/24 E         91.47    91.47
+                                              40421       
+ 3465907   11  Magnol Chzee Sqze Chdr 220g 24 12/31/24 E         70.23   772.53
+                                              40604uaj07  
+ 3723536   18  UFC Green Peas 400g         24 12/16/24 E         33.96   611.28
+                                              801         
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240 03/18/26 D          6.80     6.80
+                                              221         
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,778.60
+                                                       Rundate 12/05/2024  16:21:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

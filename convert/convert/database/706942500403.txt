@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706942500403
+                                                            Branch - 694 Agoo Cases Blvd.(SAN NICOLAS NORTE AGOO,L.U. )
+                                                            Prepared by - A.MEDINA/M.MENDOZA on 05/26/2025
+                                                            Issued by - ________________________________
+                                                                         MARILOU P. JACABAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467   48  Nestle Frsh Mlk 250mL       24 11/29/25 D         36.23  1739.04
+                                              05          
+ 3748416    2  Bear Br Strlzedw/Gnsg 200mL 32 05/07/25 F         26.42    52.84
+                                              .           
+ 4025007    2  Nescafe Decaf Bl Ref 20g    60 04/30/26 D         30.48    60.96
+                                              .           
+ 4025037    2  Nescafe 3n1 CrmyLatte27.5g 240          D          8.20    16.40
+                                              .           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,882.56
+                                                       Rundate 05/26/2025  17:02:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

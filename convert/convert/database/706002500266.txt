@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706002500266
+                                                            Branch - 600 Balanga City Paterno(BALANGA PATERNO )
+                                                            Prepared by - SHAIRA MAE J. MANUEL on 10/14/2025
+                                                            Issued by - ________________________________
+                                                                         MS.NORENE C AUDITOR
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210404    1  Argentina CBeef 175g        48          D         38.81    38.81
+                                              0           
+ 1210457   22  Argentina Liver Sprd 85g    48 09/24/25 E         22.14   487.08
+                                              0           
+ 3793297    2  Birch Tree FC Mlk Pdr 300g  24          D        134.36   268.72
+                                              0           
+ 3793321    3  Birch Tree FC Milk Pdr 700g 12          D        309.20   927.60
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,722.21
+                                                       Rundate 10/14/2025  13:12:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

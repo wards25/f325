@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706362500133
+                                                            Branch - 636 BLN TDCASTRO(T. de Castro St., Zone 4,Bulan Sorsogon)
+                                                            Prepared by - MARIA PURITA D. HIPOS on 04/24/2025
+                                                            Issued by - ________________________________
+                                                                         MR ALLAN DEO L. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025037  111  Nescafe 3n1 CrmyLatte27.5g 240          D          8.20   910.20
+                                              000         
+ 4025177   39  Nescafe Original 26g       520          D          7.37   287.43
+                                              000         
+ 4025219   44  Nescafe 3n1 Orig TwinPck56g200          D         13.32   586.08
+                                              000         
+ 4025237   34  Nescafe Crmy Wh Twin Pck51g200          D         13.32   452.88
+                                              000         
+ 4530024    2  Nescafe CrmyWh SF TPck22.4g100          D         13.21    26.42
+                                              000         
+ 4530026   10  Nescafe Original SF TPck23g100          D         13.21   132.10
+                                              000         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,395.11
+                                                       Rundate 04/24/2025  11:44:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

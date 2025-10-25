@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711542500132
+                                                            Branch - 1154 Valenzuela City Gateway Complex(1154 VAL. CITY GATEWAY COMPLEX GS PASO DE BLAS BGY P)
+                                                            Prepared by - MICHAEL LANOZO on 03/23/2025
+                                                            Issued by - ________________________________
+                                                                         MS.ANNA LIZA M. DEMITION
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010116    2  Ladys C Ham Sprd 80mL       72 07/07/25 D         34.85    69.70
+                                              1908        
+ 3039238    1  Surf Pdr Blsm Frsh 74g     144          D          7.55     7.55
+                                              .           
+ 3050013    1  Surf FabCond MgicalBlm 25mL360          D          5.19     5.19
+                                              .           
+ 6200024    1  Surf Liq Rose Fresh 64mL   288          D          6.42     6.42
+                                              .           
+ 6200091    1  Surf Pdr Rose Frsh 65g B6G1 40          D         36.75    36.75
+                                              .           
+ 6200097    3  Creamsilk TrtCrKRbndStr18mL288          D          5.88    17.64
+                                              .           
+ 6200292    2  Creamsilk Cond HFallDef22mL288          D          8.43    16.86
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          160.11
+                                                       Rundate 03/23/2025  11:53:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

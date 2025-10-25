@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704012500042
+                                                            Branch - 401 QZN SARIAYA G LUNA(SARIAYA QUEZON )
+                                                            Prepared by - Leah Antonette A. De Castro on 03/19/2025
+                                                            Issued by - ________________________________
+                                                                         Catherine R. Landicho
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016285    7  555 Tuna Flakes Adobo 155g  50 04/02/25 E         27.48   192.36
+                                              CAD5        
+ 1210485   29  Argentina CBeef 100g        48 03/31/25 E         25.24   731.96
+                                              ACBI01      
+ 3048405   39  555 Sardines TS Hot 155g   100 05/05/25 E         23.09   900.51
+                                              1IYL0527    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,824.83
+                                                       Rundate 03/19/2025  14:30:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103102400145
+                                                            Branch - 310 ERD ARC TYTY(Eastroad Arcade Taytay )
+                                                            Prepared by - Joemel Navaro on 02/23/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Eugene L. Guillermo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 03/25/25 D         10.63    10.63
+                                              TGR250904155
+ 3856643    2  UFC Sweet Chili Sce 340g    24 01/19/24 E         35.86    71.72
+                                              25C25C11856 
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           82.35
+                                                       Rundate 02/23/2024  15:50:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130902400225
+                                                            Branch - 3090 Batangas City Grand Terminal(3090 GRAND TERMINAL, TRANSIT POINT BATANGAS CITY)
+                                                            Prepared by - JENNY ANN M. PEREZ on 08/29/2024
+                                                            Issued by - ________________________________
+                                                                         ROY C. HUFALAR
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016359    7  Century Tuna W/ Cal 155g    50 07/08/26 D         34.40   240.80
+                                              TWKCHE      
+ 1210411   21  Argentina Bf Loaf 250g      48 01/31/26 D         29.05   610.05
+                                              AB1         
+ 1210486    2  Argentina CBeef Jr 150g     48 04/18/24 F         33.57    67.14
+                                              HCB119      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          917.99
+                                                       Rundate 08/29/2024  09:59:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

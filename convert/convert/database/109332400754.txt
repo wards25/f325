@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109332400754
+                                                            Branch - 933 Ormoc City Real(REAL ST., ORMOC CITY LEYTE)
+                                                            Prepared by - Charmy P. Perez on 09/30/2024
+                                                            Issued by - ________________________________
+                                                                         GRACIA A. ORONGAN
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221857   34  San Marino Blu Mckrl Stk180g48 12/06/25 G         56.25  1912.50
+                                              SMBMSS301   
+ 1225221   27  San Marino Crnd Tuna 180g   48 10/26/26 G         43.20  1166.40
+                                              SMCTR338    
+ 1225222   29  San Marino Crnd TunaChli180g48 01/31/27 G         43.20  1252.80
+                                              SMCCT305    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,331.70
+                                                       Rundate 09/30/2024  20:36:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

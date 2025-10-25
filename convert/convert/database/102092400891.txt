@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102092400891
+                                                            Branch - 209 Sta. Rosa City Paseo de Sta. Rosa(GF PASEO DE STA ROSA )
+                                                            Prepared by - MS.ROZE URRIZA on 10/17/2024
+                                                            Issued by - ________________________________
+                                                                         MS. JOCELYN DELAS ALAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870033    1  Creamsilk Cond HFallDef11mL288          D          5.93     5.93
+                                              NO LOT NO.  
+ 3870182    1  Creamsilk Cond HFD 11mL11+1 24          D         65.22    65.22
+                                              NO LOT NO.  
+ 5800003    1  Ponds Age Mrcle Ngt Cr 5g    6 12/08/26 D         79.92    79.92
+                                              0S          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          151.07
+                                                       Rundate 10/17/2024  11:51:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120262400218
+                                                            Branch - 2026 Naval Poblacion(P.Inocentes,CorBallesteros St NAVAL,BILIRAN)
+                                                            Prepared by - Jomar T. Campos on 11/04/2024
+                                                            Issued by - ________________________________
+                                                                         Aikee M. Brasile¤o
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025056    1  Nescafe Crmy Wh 25.5g      240 03/31/25 D          8.20     8.20
+                                              40620602M152
+ 4025177    4  Nescafe Original 26g       520 11/30/24 D          7.37    29.48
+                                              33258985A112
+ 4025219    9  Nescafe 3n1 Orig TwinPck56g200 04/30/25 D         12.37   111.33
+                                              41130602R1B3
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          149.01
+                                                       Rundate 11/04/2024  13:41:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

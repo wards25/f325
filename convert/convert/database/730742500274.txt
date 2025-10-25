@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730742500274
+                                                            Branch - 3074 Bataan Pilar Alauli( )
+                                                            Prepared by - ROSA FELISA D. MALINAO on 09/08/2025
+                                                            Issued by - ________________________________
+                                                                         MR. GARRY C. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016305    4  555 Tuna Spcy Cldrta 155g   50 07/30/25 E         26.68   106.72
+                                              0           
+ 1016355   14  Fresca Tuna Flakes Oil 175g 48 09/02/25 E         27.68   387.52
+                                              1832c       
+ 1210407    8  Argentina Meat Loaf 170g    48 08/03/25 E         22.38   179.04
+                                              b           
+ 3793297    1  Birch Tree FC Mlk Pdr 300g  24          D        134.36   134.36
+                                              0           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          807.64
+                                                       Rundate 09/08/2025  15:56:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

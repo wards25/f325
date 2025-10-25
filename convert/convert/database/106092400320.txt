@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106092400320
+                                                            Branch - 609 Candon City Nat'l Hway(CANDON CITY NAT'L HWAY )
+                                                            Prepared by - SHIERA MARIX LIMAYO on 08/13/2024
+                                                            Issued by - ________________________________
+                                                                         REBECCA M. GOROSPE
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148510    1  Blue Bay Tuna Afritada 155g 50 05/02/24 F         28.35    28.35
+                                              AAFD1130B   
+ 3048425    1  555 Mackerel TS 155g       100 05/17/24 F         27.98    27.98
+                                              15CYL0568   
+ 3048435    3  555 Sardine Frd W/Tau 155g 100 06/04/24 F         33.73   101.19
+                                              11DYL0617   
+ 4131012    1  Hope In A Bot PurifdWat500mL24 08/11/24 F         11.27    11.27
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          168.79
+                                                       Rundate 08/13/2024  18:30:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

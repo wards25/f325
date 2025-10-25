@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272400038
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 01/10/2024
+                                                            Issued by - ________________________________
+                                                                         MANUEL P.PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413863   89  Nagaraya Crkr Nut Adbo 80g  60 07/04/24 H         18.34  1632.26
+                                              23B17       
+ 3413865    5  Nagaraya Crkr Nut Orig 80g  60 07/17/24 H         18.34    91.70
+                                              23830E      
+ 3413866   17  Nagaraya Crkr Nut Gar 80g   60 07/16/24 H         18.34   311.78
+                                              23829E      
+ 3413867   38  Nagaraya Crkr Nut Hot&Sp 80g60 10/10/24 H         18.34   696.92
+                                              23852G      
+ 3413868   10  Nagaraya Crkr Nut Bbq 160g  48 07/08/24 H         36.85   368.50
+                                              23821A      
+ 3413872   48  Nagaraya Crkr Nut Hot&Sp160g48 07/19/24 H         36.85  1768.80
+                                              23832A      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,869.96
+                                                       Rundate 01/10/2024  13:13:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  H-Recalled by Supplier

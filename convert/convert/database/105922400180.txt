@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105922400180
+                                                            Branch - 592 CAEDO C BAT(CAEDO COMMERCIAL COMPLEX CALICANTO BATANGAS CITY)
+                                                            Prepared by - MARICHEL A. MENDOZA on 07/02/2024
+                                                            Issued by - ________________________________
+                                                                         JVKAE D. CRUZAT
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4014031   22  Nestle Chuckie Cal-N 180mL  32 07/31/24 E         21.73   478.06
+                                              08          
+ 4025127   15  Cerelac Nutripuffs B&O 50g  12 10/06/24 E        106.54  1598.10
+                                              32499531    
+ 4025128    5  Cerelac Nutripuffs B&S 50g  12 08/31/24 E        106.54   532.70
+                                              32139531    
+ 4025177   25  Nescafe Original 26g       520 01/31/25 D          7.37   184.25
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,793.11
+                                                       Rundate 07/02/2024  11:23:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

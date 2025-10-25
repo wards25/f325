@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130612400424
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B. MEDRANO on 12/11/2024
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103961   13  Del M Fit N RghtBurnApl330mL24 09/17/24 F         31.13   404.69
+                                              125741      
+ 1103963   11  Del M Fit N RghtBurnPne330mL24 07/07/24 F         31.13   342.43
+                                              SR1C        
+ 1104078    4  Del M Mr Milk Mango 80mLx6  16 10/23/24 F         47.22   188.88
+                                              HADMI3296050
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          936.00
+                                                       Rundate 12/11/2024  16:14:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

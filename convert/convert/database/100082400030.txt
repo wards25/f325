@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100082400030
+                                                            Branch - 8 Manila Paco Paz(MDC-PACO PAZ )
+                                                            Prepared by - MS. ANN A. ANCHETA on 01/06/2024
+                                                            Issued by - ________________________________
+                                                                         MS. ARLENE A. MANGILA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102850    1  Del M Fiesta Frt Ctail 432g 24 11/01/23 E         63.00    63.00
+                                              x           
+ 3413865    3  Nagaraya Crkr Nut Orig 80g  60          D         18.34    55.02
+                                              x           
+ 3413867    1  Nagaraya Crkr Nut Hot&Sp 80g60          D         18.34    18.34
+                                              x           
+ 3856629    2  Datu Puti Soy Sce 340mL     24 11/13/23 E         17.10    34.20
+                                              x           
+ 4103059    4  Del M Tmto Sce FilStyl 250g 48 01/25/25 D         22.35    89.40
+                                              x           
+ 4103092   10  Del M Tmto Sce Orig Styl900g12 02/09/24 E         85.82   858.20
+                                              x           
+ 4510218    1  Lipton Tea STL Chamo Infsn25s6          D        198.35   198.35
+                                              x           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,316.51
+                                                       Rundate 01/06/2024  17:08:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

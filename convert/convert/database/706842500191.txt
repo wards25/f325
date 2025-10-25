@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706842500191
+                                                            Branch - 684 WALTERMT GAPAN(WALTERMART GAPAN CITY )
+                                                            Prepared by - CRISMA DC. FIGUEROA on 07/21/2025
+                                                            Issued by - ________________________________
+                                                                         DENNIS M. SARMIENTO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025097    1  Nestle Chuckie Cal-N 110mL  60 05/31/25 F         13.46    13.46
+                                              418664383a  
+ 4530061    1  Nan Al 110 Lacto Free 400g   6 02/28/26 D       1046.73  1046.73
+                                              42400346aa  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,060.19
+                                                       Rundate 07/21/2025  14:45:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

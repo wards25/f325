@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104542400832
+                                                            Branch - 454 Sta. Maria Bypass Rd Waltermart(454BUL SM WALTERMART BP ROAD STA CLARA,STA MARIA BUL)
+                                                            Prepared by - Markimbill Operario on 07/08/2024
+                                                            Issued by - ________________________________
+                                                                         Ethel M. Baniqued
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3972988    1  WhiteKing Champorado Mix113g30 08/24/24 E         30.49    30.49
+                                              19147240823C
+ 4510204    7  Barrio F PBut Crmy&Nutty227g12 08/16/24 E         88.92   622.44
+                                              230817006   
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          652.93
+                                                       Rundate 07/08/2024  11:31:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

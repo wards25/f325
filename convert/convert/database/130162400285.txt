@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130162400285
+                                                            Branch - 3016 Angeles City Sto. Entierro(ANGELES CITY )
+                                                            Prepared by - PRECIOUS M. MENDOZA on 09/22/2024
+                                                            Issued by - ________________________________
+                                                                         LUCITA J. GALANG
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221854    8  San Marino Crnd Tuna 85g    48 08/24/26 G         26.33   210.64
+                                              SMCTR352    
+ 1221856    1  San Marino Crnd TunaChili85g48 09/11/26 G         26.33    26.33
+                                              SMCCT322    
+ 4120006    4  Highland Crnd Bf 180g       48 05/13/25 G         57.15   228.60
+                                              HLCBC402    
+ 4121005   24  San Marino Crnd TunaChli150g48 08/02/26 G         35.10   842.40
+                                              SMCCT315    
+ 4121007   24  San Marino Crnd Tuna 150g   48 09/18/26 G         35.10   842.40
+                                              SMCTR385    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,150.37
+                                                       Rundate 09/22/2024  18:52:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

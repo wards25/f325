@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700622500129
+                                                            Branch - 62 San Pedro - Mabini(San Pedro Mabini )
+                                                            Prepared by - Loriza Lazaro on 04/16/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Maria Elizabeth S. Gana
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050041    2  Breeze Liq DetRseGldPer60g 108          D         12.50    25.00
+                                              3050041     
+ 3870043    1  Creamsilk Cond S-Strght11mL288          D          5.93     5.93
+                                              3870043     
+ 3870227    1  Creamsilk CondTKR UCR 10mL 288          D          6.66     6.66
+                                              3870227     
+ 3980308    1  Rexona Men Stk ICool 40g    12 05/31/26 D        198.16   198.16
+                                              2405241     
+ 6200024    1  Surf Liq Rose Fresh 64mL   288          D          6.42     6.42
+                                              6200024     
+ 6200091    1  Surf Pdr Rose Frsh 65g B6G1 40          D         36.75    36.75
+                                              6200091     
+ 6200095    1  Creamsilk TrtCrKDmgeRep18mL288          D          5.88     5.88
+                                              6200095     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          284.80
+                                                       Rundate 04/16/2025  15:03:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

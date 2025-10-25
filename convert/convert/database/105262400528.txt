@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105262400528
+                                                            Branch - 526 Legazpi City Rizal(LEGAZPI RIZAL y)
+                                                            Prepared by - LOURIN ACU¥A on 10/09/2024
+                                                            Issued by - ________________________________
+                                                                         SALVE MANZANILLO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723592    3  Tiger Balm Red Oint Tin 4g  24          D         23.20    69.60
+                                              0           
+ 3723595    8  Tiger Balm Wh Oint Tin 4g   24          D         23.20   185.60
+                                              0           
+ 3723596    2  Tiger Balm Wh Jar 30g       12 01/30/24 D         92.80   185.60
+                                              0           
+ 3723599    4  Tiger Balm Msqto Rep Ptch10s12          D        167.20   668.80
+                                              0           
+ 3723610    6  Tiger Balm Wh Jar 19g       12          D         72.00   432.00
+                                              0           
+ 3748504    2  Gerber 1st Apple Sce 80g     6 11/14/24 E         75.55   151.10
+                                              0           
+ 3748506    3  Gerber 1st Banana 80g        6 11/15/24 E         75.55   226.65
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,919.35
+                                                       Rundate 10/13/2024  13:48:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

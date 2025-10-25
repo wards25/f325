@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105302400294
+                                                            Branch - 530 Alicia Aquino(ISABELA ALICIA AQUINO MD 530)
+                                                            Prepared by - HAZEL KATHLYN B. MARQUEZ on 11/06/2024
+                                                            Issued by - ________________________________
+                                                                         ARNEL A. DELA CRUZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050029    1  Baby Dove Bb Wash HTT SM200mL6 03/06/26 D        186.25   186.25
+                                              12092       
+ 3870043    3  Creamsilk Cond S-Strght11mL288          D          5.93    17.79
+                                              +           
+ 3870143   10  Sunsilk Sh S&M30%More13mL  288          D          5.59    55.90
+                                              +           
+ 3870297    1  Dove Sh Crmde IntRepair340mL12 01/26/27 D        276.61   276.61
+                                              32          
+ 5800323   29  Ladys C Mynaise 80mL        36 12/04/24 E         32.20   933.80
+                                              240642      
+ 5800326    6  Ladys C RMayo DPck 470mL     6 04/14/25 D        185.40  1112.40
+                                              242522      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,582.75
+                                                       Rundate 11/06/2024  11:10:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

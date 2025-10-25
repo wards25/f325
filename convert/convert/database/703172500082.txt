@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703172500082
+                                                            Branch - 317 Valenzuela City South Supermarket(MDC SOUTH SMKT VAL CITY D7)
+                                                            Prepared by - Tess Sapitan - D7 on 03/18/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Carrie Tungol
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723574    1  Naturelab AlcSprPearlMix50mL12 10/03/26 D         44.25    44.25
+                                              TPHID18     
+ 4110023    1  Rebisco Crackers 35g        10 06/19/25 D          5.87     5.87
+                                              C32A1       
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           50.12
+                                                       Rundate 03/18/2025  15:16:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706962500574
+                                                            Branch - 696 Tarlac City San Roque McArthur Hway( )
+                                                            Prepared by - M.T LUBO/J.A PINEDA on 10/02/2025
+                                                            Issued by - ________________________________
+                                                                         MRS. REGINE V. BAUTISTA
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016253    2  Century Flakes Cldrta Jr155g50 08/26/27 D         31.80    63.60
+                                              0706        
+ 1035680    1  Ligo Sard In TS 155g       100 11/30/26 D         22.82    22.82
+                                              NWB141      
+ 1191019   12  Hunts Pork&Beans Can 175g   48 09/11/25 F         22.38   268.56
+                                              HPB18       
+ 1210486    1  Argentina CBeef Jr 150g     48 09/03/28 D         33.33    33.33
+                                              LCBI32      
+ 3048405   19  555 Sardines TS Hot 155g   100 03/17/26 D         22.14   420.66
+                                              AR0304      
+ 3048420    1  555 Sardines TS W/Chili425g 48 12/19/26 D         58.14    58.14
+                                              MS1213      
+ 3793335    1  Argentina CChckn 150g       48 05/02/27 D         32.86    32.86
+                                              AYR25       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          899.97
+                                                       Rundate 10/02/2025  14:19:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

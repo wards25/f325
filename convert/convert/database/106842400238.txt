@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106842400238
+                                                            Branch - 684 WALTERMT GAPAN(WALTERMART GAPAN CITY )
+                                                            Prepared by - ELLAH JANNINE SAMONTE on 07/01/2024
+                                                            Issued by - ________________________________
+                                                                         MARY ANN P. ERMITA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760009   54  Nido NutriSnaxBnna-Crot110mL60 10/31/24 D         17.76   959.04
+                                              33090189ld  
+ 3760011   53  Nido NutriSnaxSbry-Crot110mL60 10/31/24 D         17.76   941.28
+                                              33090189lf  
+ 4014031    6  Nestle Chuckie Cal-N 180mL  32 09/30/24 D         21.73   130.38
+                                              33180189fd  
+ 4066029    3  Kitkat Chunky Mlk Choc 38g  24 07/19/24 E         40.45   121.35
+                                              32019531c4  
+ 4530006   12  Kitkat 2F 17g               24 05/30/24 F         14.77   177.24
+                                              31519531at  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,329.29
+                                                       Rundate 07/01/2024  14:22:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

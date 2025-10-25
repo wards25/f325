@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707542500272
+                                                            Branch - 754 Dumaguete City Nat'l Hway(COR Nat'l Hwy EJ Blanco Dr DUMAGUETE CITY)
+                                                            Prepared by - MA.JANE SUELTO on 10/07/2025
+                                                            Issued by - ________________________________
+                                                                         ANTHONY BULING
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 03/01/25 D        106.43   106.43
+                                              2332766405  
+ 4025056    2  Nescafe Crmy Wh 20g        240 11/30/25 D          8.20    16.40
+                                              43128985A1  
+ 4025219    2  Nescafe 3n1 Orig TwinPck40g200 06/30/26 D         13.32    26.64
+                                              51700602P1  
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 06/30/26 D         13.32    13.32
+                                              51770602P1  
+ 4530123    1  Milo Choco Malt PdrTwnPk48g256 12/31/25 D         16.63    16.63
+                                              51010601B1  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          179.42
+                                                       Rundate 10/07/2025  15:46:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

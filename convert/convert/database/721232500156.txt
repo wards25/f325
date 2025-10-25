@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721232500156
+                                                            Branch - 2123 STH COTABATO KOR C CAPTL SITE(2123 KOR CAPITOL SITE )
+                                                            Prepared by - REGINE A. VARGAS on 05/31/2025
+                                                            Issued by - ________________________________
+                                                                         MARIBEL B. LAYOG
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008 03/31/26 D          2.92     2.92
+                                              43470602F1  
+ 3748436    1  Nestea Lem ITea 25g        144 02/28/26 D         18.57    18.57
+                                              SBT50400604F
+ 3748503    1  Nestle KKrunch SPck 80g     24 02/03/25 F         48.18    48.18
+                                              503406310D  
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 11/30/25 D         13.32    13.32
+                                              43330602S1E 
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 09/30/25 D         13.21    13.21
+                                              4245601E1   
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           96.20
+                                                       Rundate 05/31/2025  11:40:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730002500134
+                                                            Branch - 3000 Mariveles Poblacion(BATAAN MARIVELES )
+                                                            Prepared by - HACEL A. DUERO on 10/06/2025
+                                                            Issued by - ________________________________
+                                                                         BERLYN A. TINIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    1  Nestle KKrunch SPck 80g     24 08/14/25 F         48.18    48.18
+                                              42270631CD  
+ 3760007   34  Kitkat Mini 8s 72g          48 09/02/25 F         87.18  2964.12
+                                              42469531YT  
+ 4025052    1  Nestle Coffeemate 150g      60 08/31/25 F         44.78    44.78
+                                              4136643832  
+ 4025099   21  Nestle KKrunch 35g          72 11/20/25 D         16.36   343.56
+                                              43250630B1  
+ 4025237   85  Nescafe Crmy Wh Twin Pck40g200 08/31/25 F         13.32  1132.20
+                                              42260597U1F1
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,532.84
+                                                       Rundate 10/06/2025  12:41:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

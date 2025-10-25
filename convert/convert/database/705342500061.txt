@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705342500061
+                                                            Branch - 534 Camiling Poblacion(QUEZON AVE.CAMILING TARLAC )
+                                                            Prepared by - MARES D. VALENZUELA on 02/10/2025
+                                                            Issued by - ________________________________
+                                                                         WELLA MAE U. EWAYAN
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009222    1  Ladys C Bcon Sprd 220mL     24 01/30/25 F        122.60   122.60
+                                              234112      
+ 1010200    4  Ladys C Tuna Sprd 220mL     24 01/30/25 F        122.60   490.40
+                                              240243      
+ 5800326    1  Ladys C RMayo DPck 470mL     6 04/30/25 D        185.40   185.40
+                                              242443      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          798.40
+                                                       Rundate 02/10/2025  17:17:04
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

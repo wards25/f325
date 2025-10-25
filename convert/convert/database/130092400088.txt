@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130092400088
+                                                            Branch - 3009 Santiago City Centro East(Centro East, Santiago City )
+                                                            Prepared by - ANABEL S. SARGUET on 04/09/2024
+                                                            Issued by - ________________________________
+                                                                         FLORENCE A. CUNANAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282   20  Cupp Keyk Choc Mcha         10 04/27/24 E          6.80   136.00
+                                              GVB74       
+ 3723285   25  Fudgee Barr Mlky Crze       10 05/27/24 E          8.10   202.50
+                                              GVA73       
+ 3723539    1  Jimms 3+1 CofeeMixW/Gins20g 12 07/18/25 D          6.04     6.04
+                                              307OL12     
+ 3856660    1  Locally Calamnsi Jce Dr240mL24 12/21/24 D         22.80    22.80
+                                              LYCLMCBD    
+ 3856663   18  Locally Gybano Jce Dr 240mL 24 04/25/24 E         22.80   410.40
+                                              LYGYBCBD    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          777.74
+                                                       Rundate 04/10/2024  10:23:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

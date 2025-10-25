@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702522500015
+                                                            Branch - 252 Antipolo City Sumulong(ANTIPOLO SUMULONG Circumferencial Rd)
+                                                            Prepared by - Ms.Cristina Sto. Tomas on 01/08/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Jeanette L Cruz
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723509    6  Oramed 0.1% 120mL           12 03/11/25 E        127.50   765.00
+                                              -           
+ 3723626    2  Kopiko Brown TwnPckCoff 53g120          D         11.26    22.52
+                                              -           
+ 3723644    2  Energen Champion Choc TP30g120          D         14.24    28.48
+                                              -           
+ 4110022    4  Rebisco Hansel MchaSandw 32g10 01/22/25 E          5.87    23.48
+                                              -           
+ 4510150    2  Entrasol PltnmAdPdrVnlCan800g3          D       1280.00  2560.00
+                                              -           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,399.48
+                                                       Rundate 01/08/2025  14:11:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

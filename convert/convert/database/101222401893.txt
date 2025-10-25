@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101222401893
+                                                            Branch - 122 QZN AV RSVELT( )
+                                                            Prepared by - IRICA LIMSON - D1 on 12/07/2024
+                                                            Issued by - ________________________________
+                                                                         Annabelle L. Fabre
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288          D          6.13     6.13
+                                              69668197    
+ 3050041    1  Breeze Liq DetRseGldPer60g 108          D         12.05    12.05
+                                              0156        
+ 3050083    1  Surf FabCond BlsFrshSac69mL120 05/27/24 D         12.10    12.10
+                                              214         
+ 5800040    3  Baby Dove Bb Wash HTTSM190mL 6 01/23/25 E        176.84   530.52
+                                              22092       
+ 6200089    1  Surf Pdr Chrry Blssm65gB6G1 40          D         36.75    36.75
+                                              62758226    
+ 6200091    1  Surf Pdr Rose Frsh 65g B6G1 40          D         36.75    36.75
+                                              62758230    
+ 6200142    1  Axe Deo BS Ice Chill 135mLx2 6 03/30/27 D        228.05   228.05
+                                              300324      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          862.35
+                                                       Rundate 12/07/2024  12:02:22
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105402400624
+                                                            Branch - 540 Daet Gov. Panotes(GOV. PANOTES AVE. DAET, CAMARINES NORTE)
+                                                            Prepared by - IRENE R. OPERIO on 10/22/2024
+                                                            Issued by - ________________________________
+                                                                         MS. ERCEL P. GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   37  Magnol Daily Quezo 160g     48 11/18/24 E         33.27  1230.99
+                                              -           
+ 3723396    1  Entrasol Pltnm Ad PdrChoc200g3 01/05/25 E        352.60   352.60
+                                              -           
+ 3723398    2  Entrasol Pltnm Ad PdrChoc600g3 02/11/25 E        906.80  1813.60
+                                              -           
+ 4103051    4  Del M Spag Pasta Mrienda175g40 11/07/24 E         29.87   119.48
+                                              -           
+ 4180019    5  Mega Tuna Flks SpnshStyl155g50          D         36.90   184.50
+                                              -           
+ 4180020    4  Mega Tuna Flks In Oil 155g  50          D         36.90   147.60
+                                              -           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,848.77
+                                                       Rundate 10/22/2024  16:15:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

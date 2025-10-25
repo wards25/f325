@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707742500101
+                                                            Branch - 774 Surigao City Rizal(WASHINGTON,S.C. S.D.N.)
+                                                            Prepared by - MOMIEL JAN M. LINCUNA on 04/12/2025
+                                                            Issued by - ________________________________
+                                                                         VENGEL P. MIRAS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010200    1  Ladys C Tuna Sprd 220mL     24 01/07/26 D        122.60   122.60
+                                              250271      
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288          D          6.13     6.13
+                                              X           
+ 3870124   36  Dove Sh Rstre Nrshng Cr10mL288          D          5.15   185.40
+                                              X           
+ 3980785    5  Master FWsh Cool Rush 100g   6 05/30/25 E        158.22   791.10
+                                              FCD300048   
+ 6200254   20  Rexona Men DeoUltraPActvB45mL6 05/30/25 E        187.08  3741.60
+                                              0705232     
+ 6200256   13  Rexona Men DeoUltraPCoolB45mL6 05/30/25 E        187.08  2432.04
+                                              0705238     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,278.87
+                                                       Rundate 04/12/2025  13:45:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

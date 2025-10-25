@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711022500160
+                                                            Branch - 1102 VAL C MALANDAY MCAR HWY(VALENZUELA CITY KM MALANDAY MC mRTHUR HIGHWAY)
+                                                            Prepared by - Rose Denoga on 05/17/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Geraldine F. Dalagan
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165715    1  Magnol Chzee Sprd Pmto 480g 12 06/19/25 E        157.96   157.96
+                                              .           
+ 1992000   16  Barrio F Crispy Joy Orig 62g48          I         14.54   232.64
+                                              .           
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60          I         20.54    20.54
+                                              .           
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240          I          7.01     7.01
+                                              .           
+ 3723570    2  Naturelab AlcSprFrtySlsh50mL12          I         44.25    88.50
+                                              .           
+ 3723572    1  Naturelab AlcSprKoolNGo 50mL12          I         44.25    44.25
+                                              .           
+ 3723574    1  Naturelab AlcSprPearlMix50mL12          I         44.25    44.25
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          595.15
+                                                       Rundate 05/17/2025  17:03:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     I-Loose Tablet Items (Factory Defect)

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711582500019
+                                                            Branch - 1158 Pasay City W Mall Macapagal(UNIT3 GF WMALL MACAPAGAL )
+                                                            Prepared by - Marie Neri on 02/04/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Cheryl Aquino
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048746    1  Suncoast Lgt Wat 650mL      24 11/22/25 D         18.00    18.00
+                                              S3          
+ 3465880    1  Magnol Frsh Mlk 250mL  24      03/01/25 E         33.27    33.27
+                                              4501        
+ 3723646    2  Selecta Dolce LFat Choc245mL24 03/20/25 E         27.14    54.28
+                                              B3DA0       
+ 3856662   21  Locally Tamarind Jce Dr240mL24 03/13/25 E         20.88   438.48
+                                              cbd         
+ 4510151    4  Rite'n Lite Ccmber Dr250mL  24 03/08/25 D         20.25    81.00
+                                              SBT03620023 
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          625.03
+                                                       Rundate 02/04/2025  15:54:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

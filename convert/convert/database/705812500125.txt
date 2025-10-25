@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705812500125
+                                                            Branch - 581 ULTIMRT SPBL(oM. Paulino st., San Pablo Cit Laguna 4000)
+                                                            Prepared by - Roxanne P. Francisco on 06/07/2025
+                                                            Issued by - ________________________________
+                                                                         Maria Arlene D. Manito
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321   22  Nescafe Clssc 1.9g        1008 05/31/25 F          2.92    64.24
+                                              X           
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32 05/31/25 F         23.09    23.09
+                                              X           
+ 3748503   14  Nestle KKrunch SPck 80g     24 06/03/25 F         48.18   674.52
+                                              X           
+ 3760009   26  Nido NutriSnaxBnna-Crot110mL60 05/31/25 F         17.76   461.76
+                                              X           
+ 4025056  225  Nescafe Crmy Wh 25.5g      240 06/30/25 E          8.20  1845.00
+                                              X           
+ 4025099   49  Nestle KKrunch 35g          72 05/17/25 F         16.36   801.64
+                                              X           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 01/31/26 D         13.32    13.32
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,883.57
+                                                       Rundate 06/07/2025  14:57:38
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

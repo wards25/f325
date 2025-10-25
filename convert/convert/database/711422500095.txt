@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711422500095
+                                                            Branch - 1142 CAVITE KAWIT V CENTRAL MALL(1142 CAVITE KAWIT V CENTRAL MA LL)
+                                                            Prepared by - LEN DIAZ on 02/27/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MICHELLE C.SEBASTIAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4100002    5  Kettle Korn Cheese 120g     30 03/12/25 E         39.74   198.70
+                                              nl          
+ 4100005   18  Kettle Korn Sltd Crmel 120g 30 03/19/25 E         39.74   715.32
+                                              nl          
+ 4100010    3  Kettle KornCheese120gx2SP10 16 03/12/25 E         62.43   187.29
+                                              nl          
+ 4100011    3  Kettle Korn Astd 120gx2SP10 16 06/07/25 E         62.43   187.29
+                                              nl          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,288.60
+                                                       Rundate 02/27/2025  10:01:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704202500416
+                                                            Branch - 420 LU S FDO C PUB MK(420 LU.P.MARKET,SFC, LU )
+                                                            Prepared by - GLORY MAY C. PADILLA on 09/25/2025
+                                                            Issued by - ________________________________
+                                                                         ROSELA D. ONATO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 5800228   29  Dove Rad+CreDeoSN+C45mL+SSop 6 09/30/25 E        130.63  3788.27
+                                              .           
+ 5800229    7  Dove Rad+CreDeoSN+V45mLSSop  6 10/31/25 E        130.63   914.41
+                                              .           
+ 5800235    2  Rexona MenRonICool45mL+Soap  6 10/31/25 E        115.79   231.58
+                                              .           
+ 5800236   25  Rexona Men RonLCool45mL+SSop 6 10/31/25 E        120.00  3000.00
+                                              .           
+ 5800240   20  Rexona WmenRonPdrDr45mL+Soap 6 10/31/25 E        117.60  2352.00
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       10,286.26
+                                                       Rundate 09/26/2025  13:33:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707292500511
+                                                            Branch - 729 Iligan City San Miguel(ILIGAN SAN MIGUEL, ILIGAN CITY )
+                                                            Prepared by - MS. JENETH A. LEGASPI on 10/12/2025
+                                                            Issued by - ________________________________
+                                                                         MS. RIGHNELDA A. BADAL
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039297    2  Breeze Liq Det 64g         108          D         12.50    25.00
+                                              0           
+ 3050004    4  Surf Pdr Rose Frsh 57g     288          D          6.13    24.52
+                                              0           
+ 3050031    5  Breeze Pdr DetRseGldPerf64g144          D         12.64    63.20
+                                              0           
+ 3870315    1  Creamsilk Cond TKR UR&S170mL24          D        180.22   180.22
+                                              0           
+ 5800356    1  Tresemme Cond Pro KerSm170mL24          D        192.42   192.42
+                                              0           
+ 6200089    1  Surf Pdr Chrry Blssm65gB6G1 40          D         36.75    36.75
+                                              0           
+ 6200091    2  Surf Pdr Rose Frsh 65g B6G1 40          D         36.75    73.50
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          595.61
+                                                       Rundate 10/12/2025  17:31:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703222500244
+                                                            Branch - 322 Paranaque City Aseana Business Park(alongBradco corMcpgal Blvd )
+                                                            Prepared by - Weng A. Palmero on 06/14/2025
+                                                            Issued by - ________________________________
+                                                                         Mr. Reden F. Fajardo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025007    3  Nescafe Decaf Bl Ref 20g    60          D         30.48    91.44
+                                              no lot      
+ 4025056    2  Nescafe Crmy Wh 25.5g      240 10/31/25 D          8.20    16.40
+                                              no lot      
+ 4025219    3  Nescafe 3n1 Orig TwinPck56g200          D         13.32    39.96
+                                              no lot      
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 02/28/26 D         13.32    13.32
+                                              no lot      
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 10/31/25 D         13.21    13.21
+                                              no lot      
+ 4530026    1  Nescafe Original SF TPck23g100 01/31/26 D         13.21    13.21
+                                              no lot      
+ 4530059    1  Milo Activ-Go PdrZeroSgr26g140 12/31/25 D         14.68    14.68
+                                              no lot      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          202.22
+                                                       Rundate 06/14/2025  16:03:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

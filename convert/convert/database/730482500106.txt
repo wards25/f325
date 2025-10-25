@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730482500106
+                                                            Branch - 3048 BATANGAS SAN PASCUAL POBLACION( )
+                                                            Prepared by - MICHAEL N. MALIGAYA on 07/24/2025
+                                                            Issued by - ________________________________
+                                                                         RONNIE C. BALMES
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025052    1  Nestle Coffeemate 150g      60 02/28/26 D         44.78    44.78
+                                              4324643831  
+ 4025097   27  Nestle Chuckie Cal-N 110mL  60 07/31/25 E         13.46   363.42
+                                              426864383A  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          408.20
+                                                       Rundate 07/24/2025  12:56:46
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

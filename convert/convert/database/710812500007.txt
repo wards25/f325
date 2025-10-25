@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710812500007
+                                                            Branch - 1081 QC VIS AV(MSK BLDG.VISAYAS AVE QC DIST.V )
+                                                            Prepared by - SALLY JANE M. FORMANES DIST V on 01/08/2025
+                                                            Issued by - ________________________________
+                                                                         MR.ANICETO D. PRADES JR
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025037   29  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 E          8.20   237.80
+                                              .           
+ 4025056   17  Nescafe Crmy Wh 25.5g      240 02/28/25 D          8.20   139.40
+                                              .           
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 10/31/25 D         12.37    12.37
+                                              .           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 04/30/25 D         12.37    12.37
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          401.94
+                                                       Rundate 01/08/2025  14:31:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

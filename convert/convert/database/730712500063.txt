@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730712500063
+                                                            Branch - 3071 Pangasinan Binalonan Town Center( )
+                                                            Prepared by - ANA MARIE O. FERNANDEZ on 05/20/2025
+                                                            Issued by - ________________________________
+                                                                         HEIDI MAE C. SOMERA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    7  Magnol Low Fat Mlk 1L       12 03/17/20 F         96.08   672.56
+                                              2540720G101A
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 02/15/25 F         11.26    11.26
+                                              0701SLG     
+ 4136006    2  Kopiko Brn Coff 27.5g      240 05/08/25 F          6.80    13.60
+                                              1322TGR     
+ 4136008   20  Kopiko Cappuccino Coff 25g 240 01/14/25 F          7.40   148.00
+                                              2050TGR     
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          845.42
+                                                       Rundate 05/20/2025  13:30:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

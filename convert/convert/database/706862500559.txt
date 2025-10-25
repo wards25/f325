@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706862500559
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos `)
+                                                            Prepared by - Perfecto Menes on 08/01/2025
+                                                            Issued by - ________________________________
+                                                                         Marjorie A. Biteng
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20          D         12.33    12.33
+                                              .           
+ 3856627   10  Datu Puti Patis 350mL       24 08/14/25 E         23.51   235.10
+                                              .           
+ 3856633   15  Mang Tomas Lchon Sce 325g   24 08/02/25 E         33.25   498.75
+                                              .           
+ 3856650    2  Mang Tomas Hot&Spcy 325g    24 07/27/25 E         34.20    68.40
+                                              .           
+ 4110040   35  Frootees Ckie Sbrry 32g     10 07/06/25 E          6.03   211.05
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,025.63
+                                                       Rundate 08/01/2025  08:37:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

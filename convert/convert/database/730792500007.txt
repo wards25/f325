@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730792500007
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 01/18/2025
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748514   10  Gerber 2nd Mix Veg 125g      6 05/07/26 D         90.67   906.70
+                                              41286376    
+ 3856660    2  Locally Calamnsi Jce Dr240mL24 01/07/25 F         25.08    50.16
+                                              CBD         
+ 3856663    5  Locally Gybano Jce Dr 240mL 24 02/21/25 E         25.08   125.40
+                                              CBD         
+ 3900049    2  Diabetasol Wfer Choco 2s100g 3 05/06/25 D        112.00   224.00
+                                              24P06S36    
+ 3973008    1  Selecta Forti Mlk 1Lx2 SP15  6 02/23/25 E        157.04   157.04
+                                              S83P1       
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 01/11/25 F         80.88    80.88
+                                              J5DP0       
+ 3973055   10  Selecta Farm Frsh Mlk 1L    12 02/17/25 E         93.30   933.00
+                                              V8RE1       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,477.18
+                                                       Rundate 01/19/2025  10:54:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

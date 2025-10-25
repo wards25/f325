@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706732500161
+                                                            Branch - 673 Cabanatuan City H. Concepcion Sr.( )
+                                                            Prepared by - JHOAN GAY B. SANTOS on 05/26/2025
+                                                            Issued by - ________________________________
+                                                                         ROMEO M. HERNANDEZ JR.,
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321   48  Nescafe Clssc 1.9g        1008 05/01/25 G          2.92   140.16
+                                              X           
+ 1167456   12  Nestle Chuckie Cal-N 1000mL 12 05/01/25 F        102.06  1224.72
+                                              X           
+ 1167467    1  Nestle Frsh Mlk 250mL       24 06/01/25 E         36.23    36.23
+                                              X           
+ 1167470    2  Nestle Frsh Mlk 1000mL      12 04/01/25 F        106.43   212.86
+                                              X           
+ 3707335    7  Kitkat Bites 40g            30 05/01/25 F         53.40   373.80
+                                              X           
+ 3760007   14  Kitkat Mini 8s 72g          48 05/01/25 F         87.18  1220.52
+                                              X           
+ 3760009   19  Nido NutriSnaxBnna-Crot110mL60 05/01/25 F         17.76   337.44
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,545.73
+                                                       Rundate 05/26/2025  14:26:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired     G-Deleted

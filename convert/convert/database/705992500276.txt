@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705992500276
+                                                            Branch - 599 Tarlac City Juan Luna(BRGY.STO.CRISTO MC ARTHUR HWAY TARLAC CITY)
+                                                            Prepared by - VERGEL C. SOLIMAN on 09/25/2025
+                                                            Issued by - ________________________________
+                                                                         SARAH C. TARUC
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167857    2  Nestle All Purpose Crm 250mL24 10/31/25 E         67.29   134.58
+                                              4331        
+ 3707335    1  Kitkat Bites 40g            30 09/30/25 E         53.40    53.40
+                                              4251953     
+ 4025177   31  Nescafe Original 20g       520 09/30/25 E          7.37   228.47
+                                              424689      
+ 4066024    3  Kitkat 2F 17gx6 FPck        48 08/23/25 F         89.77   269.31
+                                              42369531    
+ 4530051    6  Nescafe Ice Blk Can 220mL   24 09/27/25 E         34.62   207.72
+                                              42723       
+ 4530053    3  Nescafe Mocha Can 220mL     24 09/11/55 E         34.62   103.86
+                                              4256B       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          997.34
+                                                       Rundate 09/25/2025  16:18:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

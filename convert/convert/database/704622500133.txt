@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704622500133
+                                                            Branch - 462 Paranaque City Sucat Interchange(SUCAT INTERCHANGE )
+                                                            Prepared by - Neneth T. Magdale-District 20 on 04/12/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915    1  Selecta Forti Mlk 1L        12 07/11/25 E         85.46    85.46
+                                              53ARAO      
+ 3254310    1  UFC Bnana Csup Reg 320g     24          D         23.40    23.40
+                                              2UFCR       
+ 3551925    1  Suncoast Vit Bst Ap 600mL   24          D         35.70    35.70
+                                              NO LOT      
+ 3615299    2  San Mig Coff 3N1 Orig 20g  240          D          6.19    12.38
+                                              0           
+ 3723621    1  Natrue Almnd Unswtnd Dr 1L   6 05/24/25 E        126.65   126.65
+                                              000349      
+ 3723623    3  Natrue Oat Dr 1L             6 04/26/25 E        126.65   379.95
+                                              012369      
+ 3723626    2  Kopiko Brown TwnPckCoff 53g120          D         11.26    22.52
+                                              12041389    
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          686.06
+                                                       Rundate 04/12/2025  10:04:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

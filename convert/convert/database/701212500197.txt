@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701212500197
+                                                            Branch - 121 Quezon City Fairview Commonwealth( )
+                                                            Prepared by - KRISHA MAE R. HACHILES on 04/22/2025
+                                                            Issued by - ________________________________
+                                                                         MS. AILEEN U.VELASQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615297   33  Essenso 3n1CoffMicrogrnd25g192 05/16/25 E         17.62   581.46
+                                              -           
+ 3723587    6  Fiesta SpagheTpd 3ChseSP18  12 05/11/25 E         68.76   412.56
+                                              -           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         11.26    11.26
+                                              -           
+ 3723644    1  Energen Champion Choc TP30g120          D         14.24    14.24
+                                              -           
+ 3723648    5  Selecta Dolce LFat Choc 1L  12 05/05/25 E         85.96   429.80
+                                              -           
+ 4110036    7  VitaCubes Frt Jelly Cdy 50g 10 05/31/25 E         18.00   126.00
+                                              -           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,575.32
+                                                       Rundate 04/22/2025  15:56:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

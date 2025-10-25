@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706642500051
+                                                            Branch - 664 Puerto Princesa City Malvar San Juan(STORE NO. 664 MALVAR ST BRGY MANDARAGAT PPCITY)
+                                                            Prepared by - JEVY R. BATOY on 04/29/2025
+                                                            Issued by - ________________________________
+                                                                         EMERSON M. JAVAREZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    3  Selecta Moo Choc 245mL      24 01/09/25 F         28.36    85.08
+                                              J4H10       
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 05/06/26 D         11.48    11.48
+                                              1110051     
+ 3856661   23  Locally Dalandan Jce Dr240mL24 01/08/25 F         25.08   576.84
+                                              2321LYDLN   
+ 3856662   38  Locally Tamarind Jce Dr240mL24 03/13/25 F         20.88   793.44
+                                              1625LYTMD   
+ 3856664   52  Locally Pmlo Jce Dr 240mL   24 03/13/25 F         20.88  1085.76
+                                              23L19550050L
+ 4110022   10  Rebisco Hansel MchaSandw 32g10 07/04/25 D          5.87    58.70
+                                              C22A2       
+ 4510155    2  Rite'n Lite Peach Dr 250mL  24 10/07/25 D         22.13    44.26
+                                              001112102   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,655.56
+                                                       Rundate 04/29/2025  16:27:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

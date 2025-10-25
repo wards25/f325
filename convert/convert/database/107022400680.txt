@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107022400680
+                                                            Branch - 702 CBO ORC(COR.GOV.GUTIRREZ AVE.& SINSUAT y COT. CITY)
+                                                            Prepared by - EMERSON E. ALEJO on 07/14/2024
+                                                            Issued by - ________________________________
+                                                                         SHEILA MARIE  C. UY
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104030    1  Del M Pine-Or Jce Tetra 1L  12          D         87.31    87.31
+                                              -           
+ 1148606    1  Fiesta Spaghetti 400g       24          D         40.65    40.65
+                                              -           
+ 3413864    1  Nagaraya Crkr Nut Bbq 80g   60          D         18.34    18.34
+                                              -           
+ 3413874    1  Nagaraya SwtMni PretSgrC30g100          D          7.04     7.04
+                                              -           
+ 3606230    2  Jimms 5in1 Coffee Mix 21g   12          D         10.63    21.26
+                                              -           
+ 4095043    3  Seoul Wh K SoapDbleWhtng270g12          D        164.00   492.00
+                                              -           
+ 4103051    2  Del M Spag Pasta Mrienda175g40          D         29.40    58.80
+                                              -           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          725.40
+                                                       Rundate 07/14/2024  18:44:43
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710202500036
+                                                            Branch - 1020 Kalookan City Kaybiga Gen. Luis( )
+                                                            Prepared by - Fernando D. Erestain on 02/06/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CATHERINE C. LIGON
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    1  Nescafe Clssc Ref 23g       60          D         19.98    19.98
+                                              .           
+ 1167452    1  Nestle Chuckie Cal-N 250mL  24          D         28.08    28.08
+                                              .           
+ 3760009    2  Nido NutriSnaxBnna-Crot110mL60          D         17.76    35.52
+                                              .           
+ 3760011   35  Nido NutriSnaxSbry-Crot110mL60 02/28/25 E         17.76   621.60
+                                              .           
+ 4025097    1  Nestle Chuckie Cal-N 110mL  60          D         13.46    13.46
+                                              +.          
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              .           
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200          D         12.37    24.74
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          750.75
+                                                       Rundate 02/06/2025  15:48:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

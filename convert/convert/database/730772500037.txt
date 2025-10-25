@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730772500037
+                                                            Branch - 3077 Pampanga Sta. Ana San Joaquin Jasa(MD3077 PAMPANGA STA.ANA SAN JO AQUIN JASA)
+                                                            Prepared by - JOANNE CARLA C. VELASQUEZ on 02/19/2025
+                                                            Issued by - ________________________________
+                                                                         NORMAN A. URBANO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167467    8  Nestle Frsh Mlk 250mL       24 03/16/25 E         36.23   289.84
+                                              A           
+ 4025096   31  Milo Activ-Go RTD 110mL     60 02/28/25 E         14.61   452.91
+                                              A           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          742.75
+                                                       Rundate 02/19/2025  09:46:02
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

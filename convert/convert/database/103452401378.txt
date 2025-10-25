@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103452401378
+                                                            Branch - 345 Quezon City Trinoma Mall Level M1( )
+                                                            Prepared by - mariz/gelo on 08/16/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Jannel M. Fegi
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538    1  Nestle Coffeemate 5g       960          D          1.89     1.89
+                                              .           
+ 3760015    1  Bear Br StrlzedRTD200mLx4SP8 8          D         92.52    92.52
+                                              .           
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200          D         11.80    23.60
+                                              .           
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200          D         11.80    11.80
+                                              .           
+ 4530024    2  Nescafe CrmyWh SF TPck22.4g100          D         11.70    23.40
+                                              .           
+ 4530026    1  Nescafe Original SF TPck23g100          D         11.70    11.70
+                                              +.          
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          164.91
+                                                       Rundate 08/16/2024  18:02:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

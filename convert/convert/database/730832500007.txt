@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730832500007
+                                                            Branch - 3083 Nueva Ecija Bongabon Poblacion(Bongabon, N.E )
+                                                            Prepared by - REYMARK H. GARCIA on 01/16/2025
+                                                            Issued by - ________________________________
+                                                                         AVENSUS GEORGE A. DE DIOS
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104078    1  Del M Mr Milk Mango 80mLx6  16 10/23/24 F         47.22    47.22
+                                              32960501    
+ 1104109    2  Del M Vinamilk IQSmrtCh110mL48 03/01/25 E         12.82    25.64
+                                              M2306       
+ 1104111    3  Del M Vinamilk IQSmrtSb110mL48 01/02/25 E         12.82    38.46
+                                              M2110       
+ 1104113   11  Del M Vinamilk Ygrt MxF110mL48 11/25/24 F         11.07   121.77
+                                              M2210       
+ 1104115    7  Del M Vinamilk Ygrt Sb 110mL48 11/11/24 E         11.07    77.49
+                                              M2209       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          310.58
+                                                       Rundate 01/16/2025  15:12:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

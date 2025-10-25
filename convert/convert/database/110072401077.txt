@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110072401077
+                                                            Branch - 1007 Kalookan City Samson Puregold(KAL PUREGOLD SAMSON DIST V11)
+                                                            Prepared by - LHENG on 08/15/2024
+                                                            Issued by - ________________________________
+                                                                         Arlene S. Terrado
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1102846    3  Del M Fiesta Frt Ctail 3033g 6 08/15/24 E        282.34   847.02
+                                              .           
+ 1104077    1  Del M Mr Milk GrApl 80mLx6  16 08/25/24 E         47.22    47.22
+                                              .           
+ 1165713    2  Magnol Chzee Sprd Pmto 120g 24 08/15/24 D         49.91    99.82
+                                              .           
+ 3465906    3  Magnol Chzee Sqze Chdr 115g 24          D         40.21   120.63
+                                              .           
+ 4113090    2  Magnol Crmy Chckn Sprd 80mL 24          D         29.68    59.36
+                                              .           
+ 4510153    1  Rite'n Lite Lych+Rse Dr250mL24          D         22.13    22.13
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,196.18
+                                                       Rundate 08/15/2024  14:39:11
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

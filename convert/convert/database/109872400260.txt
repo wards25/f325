@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109872400260
+                                                            Branch - 987 Oroquieta - Quijano(BARRIENTOS COR QUIJANO STS, OROQUIETA CITY, MIS. OCC.)
+                                                            Prepared by - MS.IMELDA CLAVITE-NERI on 07/27/2024
+                                                            Issued by - ________________________________
+                                                                         MS.LIZA RUIZAL-DURAC
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 09/30/24 D          8.20     8.20
+                                              63          
+ 4025177  182  Nescafe Original 26g       520 08/31/24 E          7.37  1341.34
+                                              83          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 09/30/24 D         11.80    11.80
+                                              C1          
+ 4025237    1  Nescafe Crmy Wh Twin Pck51g200 09/30/24 D         11.80    11.80
+                                              B1          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,373.14
+                                                       Rundate 07/27/2024  20:02:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

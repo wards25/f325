@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706892500178
+                                                            Branch - 689 Batac City Public Market(ILN Batac Pub Market )
+                                                            Prepared by - MAYNARD C. PAGTAMA on 06/10/2025
+                                                            Issued by - ________________________________
+                                                                         GLORY M. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010722   51  Knorr Sinigang W/Gabi 44g  144 04/14/25 F         27.35  1394.85
+                                              I1          
+ 3039269    1  Surf Pdr Kal 1000g          12          D        102.90   102.90
+                                              X           
+ 3265438    1  Close Up Red Hot 145mL      36          D        120.10   120.10
+                                              X           
+ 3870023    6  Creamsilk Cond Dam Ctrl11mL288          D          5.93    35.58
+                                              X           
+ 3870043    3  Creamsilk Cond S-Strght11mL288          D          5.93    17.79
+                                              X           
+ 3980258    1  Ponds Wh Bty PCond Tner100mL24          D        109.76   109.76
+                                              X           
+ 3980358    2  Ponds Age Mrcle DbleA Ser30mL3 08/11/25 E        653.66  1307.32
+                                              B11         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,088.30
+                                                       Rundate 06/10/2025  18:16:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

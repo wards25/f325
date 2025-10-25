@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092400921
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 08/25/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104078    5  Del M Mr Milk Mango 80mLx6  16 10/26/24 D         47.22   236.10
+                                              HMD1        
+ 3413870    1  Nagaraya Crkr Nut Orig 160g 48 05/03/25 D         41.27    41.27
+                                              24769       
+ 4100010    1  Kettle KornCheese120gx2SP10 16 12/18/24 D         62.43    62.43
+                                              M1          
+ 4100011   16  Kettle Korn Astd 120gx2SP10 16 09/28/24 D         62.43   998.88
+                                              MLM3        
+ 4510195    2  Nachitos TortillaChipBbq410g10 09/17/24 D        108.80   217.60
+                                              A15         
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,556.28
+                                                       Rundate 08/25/2024  19:12:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

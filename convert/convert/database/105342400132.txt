@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105342400132
+                                                            Branch - 534 Camiling Poblacion(QUEZON AVE.CAMILING TARLAC )
+                                                            Prepared by - LOVELY D. VILORIA on 03/21/2024
+                                                            Issued by - ________________________________
+                                                                         WELLA MAE U. EWAYAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104081    4  Del M Mr Milk Sbrry 100mLx6 16 11/17/23 E         46.32   185.28
+                                              F           
+ 3413866   43  Nagaraya Crkr Nut Gar 80g   60 07/16/24 H         18.34   788.62
+                                              G           
+ 3723283    5  Cupp Keyk Choc Topps        10 03/20/24 E          7.74    38.70
+                                              CA45        
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60 09/19/24 D         20.16    20.16
+                                              A8          
+ 4136006   55  Kopiko Brn Coff 27.5g      240 04/21/24 E          6.76   371.80
+                                              1004131     
+ 4136024   89  Kopiko Blanca Coff 30g     240 03/30/02 E          6.80   605.20
+                                              G3009010073 
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,009.76
+                                                       Rundate 03/21/2024  15:50:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     H-Recalled by Supplier

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111312400761
+                                                            Branch - 1131 Bulacan Sta. Maria Caypombo(BR.# & NAME :   1131-BUL.STA. MARIA CAYPOMBO)
+                                                            Prepared by - Millet D. Visperas on 07/06/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Fely B Hermogenes
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 06/22/26 D         11.22    11.22
+                                              2212070066  
+ 4113058    6  Magnol All-Pur Crm Orig110mL36 07/31/24 E         33.01   198.06
+                                              31204g205a  
+ 4113084    1  Magnol All-Pur Flour 200g   48 07/14/24 E         23.70    23.70
+                                              3072016499  
+ 4136006    1  Kopiko Brn Coff 27.5g      240 09/14/24 D          6.80     6.80
+                                              1403040885  
+ 4136061    3  Kopiko Dble Cups Orig 33g  240 07/23/24 E          7.86    23.58
+                                              2301050499  
+ 4510195    1  Nachitos TortillaChipBbq410g10 07/09/24 E        108.80   108.80
+                                              a13         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          372.16
+                                                       Rundate 07/06/2024  18:43:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

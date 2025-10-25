@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700192500388
+                                                            Branch - 19 Manila Blumentritt Avenida(BLUMENTRITT AVENIDA )
+                                                            Prepared by - Erwin Santos on 05/09/2025
+                                                            Issued by - ________________________________
+                                                                         Ms.Sonia A. Alanis
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165682   18  Magnol Daily Quezo 160g     48 05/04/25 E         33.27   598.86
+                                              412058      
+ 1165713   21  Magnol Chzee Sprd Pmto 120g 24 06/20/25 E         48.02  1008.42
+                                              41122       
+ 1165714   42  Magnol Chzee Sprd Pmto 235g 24 06/11/25 E         83.13  3491.46
+                                              41137       
+ 1165715   12  Magnol Chzee Sprd Pmto 480g 12 06/19/25 E        157.96  1895.52
+                                              41121       
+ 4113078   47  Magnol Chzee Block 160g     48 05/25/25 E         41.56  1953.32
+                                              41126       
+ 4510204    2  Barrio F PBut Crmy&Nutty227g12 05/11/25 E         88.92   177.84
+                                              240512004   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        9,125.42
+                                                       Rundate 05/09/2025  11:14:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

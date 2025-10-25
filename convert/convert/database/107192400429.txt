@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107192400429
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C.PARAS on 06/30/2024
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103593    1  Del M Pine Jce Fiber 1.36L  12 06/01/24 F        108.27   108.27
+                                              0           
+ 3723625    3  Kopiko Blanca TwnPckCoff58g120 07/24/25 D         11.22    33.66
+                                              0           
+ 3856638    1  Datu Puti Wh Vngar Pet 385mL24 03/24/24 F         17.34    17.34
+                                              0           
+ 3856643   12  UFC Sweet Chili Sce 340g    24 04/11/24 F         35.86   430.32
+                                              0           
+ 4103102    1  Del M Pot Crisp BsctSpcy50g 48 06/12/24 F         18.67    18.67
+                                              0           
+ 4136010    2  Kopiko Blck 3-N-1 Coff 30g 240 01/05/25 D          6.80    13.60
+                                              0           
+ 4136024    1  Kopiko Blanca Coff 30g     240 02/25/25 D          7.57     7.57
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          629.43
+                                                       Rundate 06/30/2024  10:34:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

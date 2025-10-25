@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730242500378
+                                                            Branch - 3024 Bacnotan McArthur Hway(NISCE BLDG MCARTHUR HIGHWAY NAGSIMBAANAN BACNOTAN LU)
+                                                            Prepared by - AIZA R. MATIENZO on 09/18/2025
+                                                            Issued by - ________________________________
+                                                                         ERIC C. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 25g        144          D         18.57    18.57
+                                              .           
+ 4025239    1  Nestle CarnationCndnsda388mL48 07/17/25 F         64.49    64.49
+                                              .           
+ 4530026    2  Nescafe Original SF TPck23g100          D         13.21    26.42
+                                              .           
+ 4530028    3  Nestle Chuckie STB 110mL 6s 10 09/30/25 E         77.57   232.71
+                                              .           
+ 4530051   11  Nescafe Ice Blk Can 220mL   24 09/27/25 E         34.62   380.82
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          723.01
+                                                       Rundate 09/18/2025  16:12:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

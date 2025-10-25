@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730942500170
+                                                            Branch - 3094 Batangas Padre Garcia Poblacion(PADRE GARCIA, BATANGAS )
+                                                            Prepared by - DANIELA D. CARINGAL on 04/26/2025
+                                                            Issued by - ________________________________
+                                                                         RODELYN R. SILVA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562   18  Ladys C Mynaise 220mL       24 05/20/25 E        112.05  2016.90
+                                              243023      
+ 1010275    2  Ladys C Chck Sprd DPck220mL 24 04/25/25 D         95.30   190.60
+                                              250833      
+ 3050036   20  Knorr Hot Meal ArrozCaldo35g48 05/01/25 E         28.30   566.00
+                                              C3          
+ 5800216    4  Knorr Hot Meal Beef Goto 32g 4 05/29/25 E         16.95    67.80
+                                              2AM3        
+ 5800323   47  Ladys C Mynaise 80mL        36 05/20/25 E         32.20  1513.40
+                                              243031      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,354.70
+                                                       Rundate 04/26/2025  15:39:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

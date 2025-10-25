@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730392500056
+                                                            Branch - 3039 NUEVA ECIJA CABANATUAN CITY ZULUETA(ZULUETA CABANATUAN CITY NUEVA ECIJA 3100 PHILS.)
+                                                            Prepared by - RENZ GERICO M. CABILTES on 02/26/2025
+                                                            Issued by - ________________________________
+                                                                         GILBERT M. BRINIO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016231    1  Century Flakes Hot&Spicy180g48          D         43.31    43.31
+                                              -           
+ 1210406    1  Argentina Meat Loaf 250g    48          D         30.95    30.95
+                                              -           
+ 1210407    1  Argentina Meat Loaf 170g    48 01/13/24 F         22.38    22.38
+                                              -           
+ 3048435   46  555 Sardine Frd W/Tau 155g 100 03/13/25 E         31.83  1464.18
+                                              -           
+ 3793310    4  Vita Coco Coconut Water330mL12 03/02/25 E         36.46   145.84
+                                              -           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,706.66
+                                                       Rundate 02/26/2025  13:15:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

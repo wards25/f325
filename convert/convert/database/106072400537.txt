@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106072400537
+                                                            Branch - 607 TABACO ZIGA(ZIGA AVE, BOCALBOS ST.BASUD TC )
+                                                            Prepared by - SHEIRLINA BOLA¥OS on 11/28/2024
+                                                            Issued by - ________________________________
+                                                                         ROBELY M. AMARANTO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    8  Nescafe Clssc Ref 23g       60 07/30/25 D         19.98   159.84
+                                              1           
+ 4025007    5  Nescafe Decaf Bl Ref 20g    60 03/31/25 D         25.71   128.55
+                                              1           
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 10/31/24 F          8.20     8.20
+                                              1           
+ 4025052    1  Nestle Coffeemate 150g      60 06/30/25 D         44.78    44.78
+                                              1           
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 03/30/25 D         12.37    24.74
+                                              1           
+ 4530032    1  Nan Al 110 Lacto Free 400g   4 11/30/24 E        976.64   976.64
+                                              1           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,342.75
+                                                       Rundate 11/28/2024  14:33:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

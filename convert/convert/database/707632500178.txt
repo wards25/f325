@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707632500178
+                                                            Branch - 763 Cagayan De Oro City Gusa( )
+                                                            Prepared by - joselyn c. mabao on 06/15/2025
+                                                            Issued by - ________________________________
+                                                                         ELEASOL C. PACIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035680    1  Ligo Sard In TS 155g       100 06/24/25 E         23.79    23.79
+                                              NO LOT#     
+ 1035690   45  Ligo Sard In TS Chili 155g 100 07/04/25 E         23.98  1079.10
+                                              NO LOT#     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,102.89
+                                                       Rundate 06/15/2025  21:32:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

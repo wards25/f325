@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106492400477
+                                                            Branch - 649 APR RZL(Aparri rizal )
+                                                            Prepared by - GERALDINE DALUDDUNG on 10/27/2024
+                                                            Issued by - ________________________________
+                                                                         SWIETENIA MAE C. AGNO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723626   10  Kopiko Brown TwnPckCoff 53g120          D         11.26   112.60
+                                              0           
+ 4095052    3  Seoul Wh K Soap Whip 120g   12 11/01/24 E        196.00   588.00
+                                              0           
+ 4110018    1  Choco Mucho Mlk Choc 30g    10          D          9.30     9.30
+                                              0           
+ 4110019   19  Choco Mucho Wh Choc 30g     10 09/09/24 F          9.30   176.70
+                                              0           
+ 4136010   60  Kopiko Blck 3-N-1 Coff 30g 240          D          6.80   408.00
+                                              0           
+ 4136022   81  Kopiko L.A. Coffee 25g     240          D          7.40   599.40
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,894.00
+                                                       Rundate 10/27/2024  16:06:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

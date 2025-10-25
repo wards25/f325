@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101462401574
+                                                            Branch - 146 Manila Gagalangin Juan Luna(2668 JUAN LUNA ST. GAGALANGIN TONDO,MANILA)
+                                                            Prepared by - IRENE V. MERCULIO on 09/21/2024
+                                                            Issued by - ________________________________
+                                                                         MR. RONALD C.GARCIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748409    1  Milo w/Actigen-E RTD 180mL  32 03/31/25 D         23.09    23.09
+                                              02          
+ 4025099    2  Nestle KKrunch 35g          72 05/17/25 D         14.48    28.96
+                                              4138063B1A2 
+ 4025177    3  Nescafe Original 26g       520 05/31/25 D          7.37    22.11
+                                              A133        
+ 4025219    3  Nescafe 3n1 Orig TwinPck56g200 06/30/25 D         12.37    37.11
+                                              E1L12       
+ 4025239   38  Nestle CarnationCndnsda388mL48 09/18/24 E         59.81  2272.78
+                                              326115507A  
+ 4530024    2  Nescafe CrmyWh SF TPck22.4g100 06/30/25 D         11.70    23.40
+                                              E1D2        
+ 4530026    1  Nescafe Original SF TPck23g100 06/30/25 D         11.70    11.70
+                                              E1F1        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,419.15
+                                                       Rundate 09/21/2024  15:38:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

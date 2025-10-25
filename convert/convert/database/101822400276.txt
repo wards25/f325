@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101822400276
+                                                            Branch - 182 Manila Binondo Ongpin(182 Manila Binondo Ongpin 13)
+                                                            Prepared by - Ryan Leonardo on 02/15/2024
+                                                            Issued by - ________________________________
+                                                                         Mr.Ariel C.Angeles
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723374    5  Ding Dong Snck Mx Chip&C95g 60 06/04/24 D         20.16   100.80
+                                              A5B         
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 04/28/25 D         11.22    11.22
+                                              1508SL28    
+ 3723633    1  Selecta Forti MlkStr1Lx2SP10 6 03/22/24 E        155.94   155.94
+                                              J6MP0       
+ 3780421    4  Diabetasol Choc 600g         3 03/15/24 E        883.20  3532.80
+                                              22T1502GU   
+ 3780522    2  Diabetasol Choc 600g PPck    3 03/10/24 E        883.20  1766.40
+                                              22T1003GU   
+ 4136006    1  Kopiko Brn Coff 27.5g      240 09/08/24 D          6.76     6.76
+                                              0103TGR     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,573.92
+                                                       Rundate 02/15/2024  12:33:01
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

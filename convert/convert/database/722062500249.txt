@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 722062500249
+                                                            Branch - 2206 Libungan Poblacion(Cotabato Libungan POBLACION )
+                                                            Prepared by - FE LOBEL N. OLIVEROS on 09/18/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MESHELLE C. GARCENILA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 25g        144 02/28/26 D         18.57    18.57
+                                              NO LOT      
+ 3748444    3  Nestea Ap ITea 20g         144 12/31/25 D         18.57    55.71
+                                              NO LOT      
+ 4530039    7  Milo Bfst Cer Ch&MBalls 20g120 09/13/25 F         13.64    95.48
+                                              NO LOT      
+ 4530061    2  Nan Al 110 Lacto Free 400g   6 11/30/25 E       1046.73  2093.46
+                                              41300346AE  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,263.22
+                                                       Rundate 09/18/2025  16:57:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

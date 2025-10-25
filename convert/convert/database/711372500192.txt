@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711372500192
+                                                            Branch - 1137 MANILA SAMPALOC ESPANA BLVD(2202 ESPANA BLVD MLA )
+                                                            Prepared by - MYLIN P. HINOGUIN on 04/29/2025
+                                                            Issued by - ________________________________
+                                                                         CATHY M. KABILING
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109322    1  Nescafe Clssc Ref 23g       60          D         23.79    23.79
+                                              nolot       
+ 3748436    2  Nestea Lem ITea 25g        144          D         18.57    37.14
+                                              nolot       
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              nolot       
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           68.30
+                                                       Rundate 04/29/2025  13:08:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

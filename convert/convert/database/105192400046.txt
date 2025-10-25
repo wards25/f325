@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105192400046
+                                                            Branch - 519 Zaragoza San Isidro( )
+                                                            Prepared by - MILDRED M BARTIDO on 01/29/2024
+                                                            Issued by - ________________________________
+                                                                         JAYPEE V. FLORES
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3207792    6  Lipton Yel Label Tea 25'    24 12/11/23 F        113.56   681.36
+                                              1839        
+ 3780421    3  Diabetasol Choc 600g         3 12/09/23 F        883.20  2649.60
+                                              210911      
+ 3780427    1  Diabetasol Cappuccino 600g   3 12/12/23 F        883.20   883.20
+                                              22q1201gu   
+ 3780522    1  Diabetasol Choc 600g PPck    3 02/29/24 E        883.20   883.20
+                                              22s3002a2   
+ 3900003    4  Diabetasol Choc 360g         3 12/16/23 F        609.20  2436.80
+                                              22q1601dh   
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,534.16
+                                                       Rundate 01/29/2024  08:44:35
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130892400045
+                                                            Branch - 3089 Batangas City Waltermart(CALICANTO, BATANGAS CITY )
+                                                            Prepared by - ALEX E. MACALALAD on 02/17/2024
+                                                            Issued by - ________________________________
+                                                                         MARLON L. NACAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723283   10  Cupp Keyk Choc Topps        10 02/22/24 E          7.74    77.40
+                                              cb45        
+ 3723285   10  Fudgee Barr Mlky Crze       10 01/05/24 F          7.65    76.50
+                                              va3         
+ 3780421    2  Diabetasol Choc 600g         3 02/20/24 E        883.20  1766.40
+                                              22s         
+ 3780425    1  Diabetasol Choc 180g         3 11/22/23 F        292.10   292.10
+                                              22p22       
+ 3780426    2  Diabetasol Cappuccino 180g   3 02/14/24 F        292.10   584.20
+                                              22s14       
+ 3900004    1  Diabetasol Vnla 360g         3 02/13/24 F        609.20   609.20
+                                              22s13       
+ 3973030    1  Selecta FortiMlkStrlzed245mL24 02/22/24 E         24.88    24.88
+                                              d4hi1       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,430.68
+                                                       Rundate 02/17/2024  14:00:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130102400255
+                                                            Branch - 3010 PANG BYMBNG PUB MK(PUBLIC MARKET BAYAMBANG PANGASINAN)
+                                                            Prepared by - K.ESTEBA/J.ZABALA/M.VALLO on 12/13/2024
+                                                            Issued by - ________________________________
+                                                                         ROSEMARIE D. MACARAEG
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3634276   20  CDO Carne Norte 100g        48 11/17/24 E         18.00   360.00
+                                              cdokn319    
+ 4121005    4  San Marino Crnd TunaChli150g48 11/15/24 D         35.10   140.40
+                                              smcct358    
+ 4470342    8  CDO Karne Norte PStyle 150g  6 11/20/24 E         25.65   205.20
+                                              cdokn354    
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          705.60
+                                                       Rundate 12/13/2024  12:27:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

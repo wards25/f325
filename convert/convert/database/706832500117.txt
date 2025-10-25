@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706832500117
+                                                            Branch - 683 SBLAYN M PAPA(M.PAPA ST. BUENAVISTA SABLAYAN )
+                                                            Prepared by - MS.LERRY MAY F. MARTE on 07/02/2025
+                                                            Issued by - ________________________________
+                                                                         MS.SHERMENE S. JAWERGA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748416   17  Bear Br Strlzedw/Gnsg 200mL 32 12/23/25 D         26.42   449.14
+                                              508701890D  
+ 4025237    1  Nescafe Crmy Wh Twin Pck40g200 12/31/25 D         13.32    13.32
+                                              4350597E1C2 
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 11/30/25 D         13.32    13.32
+                                              43140597191 
+ 4530041    1  Nestle Trix Bfast Cer 20g  120 11/14/25 D         13.64    13.64
+                                              43540631CD  
+ 4530059    1  Milo Activ-Go PdrZeroSgr26g140 10/31/25 D         14.68    14.68
+                                              43440601J1A1
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          504.10
+                                                       Rundate 07/03/2025  11:25:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

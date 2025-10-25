@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707042500333
+                                                            Branch - 704 Panabo City Nat'l Hway(PANABO CITY NATIONAL HIGHWAY )
+                                                            Prepared by - ANALOU T. TEJADA on 08/14/2025
+                                                            Issued by - ________________________________
+                                                                         CLEO B. GODOY,RPh
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009518   15  Royal Spaghetti 400g        35 08/02/25 F         58.67   880.05
+                                              A0823       
+ 1138315   60  Purefood Chnky CBeef 150g   48 08/01/25 F         41.62  2497.20
+                                              30812E6A41  
+ 3413871   12  Nagaraya Crkr Nut Adbo 160g 48 08/13/25 F         41.27   495.24
+                                              24866C      
+ 3465910    5  Magnol Full Cr Mlk 200mL    36 07/24/25 F         25.56   127.80
+                                              41126G102A  
+ 3856631    1  Datu Puti Wh Vin 350mL      24 07/29/25 F         16.39    16.39
+                                              24H03M100140
+ 4136061  144  Kopiko Dble Cups Orig 33g  240 08/12/25 F          9.05  1303.20
+                                              0533TG120202
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,319.88
+                                                       Rundate 08/14/2025  18:38:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

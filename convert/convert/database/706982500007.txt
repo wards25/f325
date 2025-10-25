@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706982500007
+                                                            Branch - 698 PANG VILLASIS MCAR HWY(VILLASIS MCARTHUR HIWAY )
+                                                            Prepared by - PAUL JHON ABALOS on 01/15/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109574    4  Kitkat 4F 35g               24 01/30/25 E         28.94   115.76
+                                              40319531BA  
+ 1167456    4  Nestle Chuckie Cal-N 1000mL 12 12/31/24 F        102.06   408.24
+                                              40390189YD  
+ 1167467    1  Nestle Frsh Mlk 250mL       24 11/10/24 F         36.23    36.23
+                                              2325712305  
+ 3748444   87  Nestea Ap ITea 20g         144 01/31/25 E         18.57  1615.59
+                                              SBT40030604E
+ 4025219    4  Nescafe 3n1 Orig TwinPck56g200 08/31/25 D         12.37    49.48
+                                              42440602S1  
+ 4530002    1  Kitkat Santa 29g            50          D         38.18    38.18
+                                              NA          
+ 4530026    1  Nescafe Original SF TPck23g100 09/30/25 D         12.27    12.27
+                                              42610601I1  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,275.75
+                                                       Rundate 01/15/2025  11:31:34
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

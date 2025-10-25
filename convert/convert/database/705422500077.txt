@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705422500077
+                                                            Branch - 542 San Jose Cooper(SAN JOSE COOPER OCCIDENTAL MINDORO)
+                                                            Prepared by - MARYGIE M. TAPANG on 02/19/2025
+                                                            Issued by - ________________________________
+                                                                         LEAN C. DIMAPILIS
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167538   35  Nestle Coffeemate 5g       960 02/28/25 E          1.89    66.15
+                                              33060604J162
+ 3760011   50  Nido NutriSnaxSbry-Crot110mL60 02/28/25 E         17.76   888.00
+                                              40810189LD  
+ 4025037   70  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 E          8.20   574.00
+                                              40468985A1  
+ 4530022   46  Nescafe Crmy Lat TwinPck51g200 02/28/25 E         12.37   569.02
+                                              40460597T1  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,097.17
+                                                       Rundate 02/19/2025  17:44:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

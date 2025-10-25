@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702352500141
+                                                            Branch - 235 Quezon City Novaliches Sauyo(590 QUIRINO HIWAY SAUYO RD NOVA QC)
+                                                            Prepared by - Me Ann Patawaran on 04/05/2025
+                                                            Issued by - ________________________________
+                                                                         Ms Amie Leah Cruz
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167931    2  Bear Br Strlzed RTD 200mL   32 12/31/25 D         26.42    52.84
+                                              50740189TE  
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 11/30/25 D         13.32    13.32
+                                              43140597TE  
+ 4530024    1  Nescafe CrmyWh SF TPck22.4g100 01/31/26 D         13.21    13.21
+                                              5018060JE1  
+ 4530045    1  Nestle Frsh Mlk 1000mLx2SP15 7 09/17/25 D        197.10   197.10
+                                              2300426     
+ 4530053   32  Nescafe Mocha Can 220mL     24 04/27/25 E         34.62  1107.84
+                                              4119B467B3  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,384.31
+                                                       Rundate 04/05/2025  14:45:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

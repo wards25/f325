@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730102500004
+                                                            Branch - 3010 PANG BYMBNG PUB MK(PUBLIC MARKET BAYAMBANG PANGASINAN)
+                                                            Prepared by - K.ESTEBA/J.ZABALA/M.VALLO on 01/10/2025
+                                                            Issued by - ________________________________
+                                                                         ROSEMARIE D. MACARAEG
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016231    9  Century Flakes Hot&Spicy180g48 12/09/24 E         43.31   389.79
+                                              1325F       
+ 1016260    1  Century TunaFlk Hot&Spcy155g50 02/23/25 D         34.40    34.40
+                                              13162       
+ 1016262    1  Century TunaFlk Veg Oil 155g50 01/28/26 D         34.03    34.03
+                                              HF0C        
+ 1016352    3  Fresca Tuna Afrtda 175g     48 09/19/26 D         24.48    73.44
+                                              420         
+ 3793297    2  Birch Tree FC Mlk Pdr 300g  24 11/30/26 D        134.36   268.72
+                                              4G040D      
+ 3793319    1  Birch Tree Forti Mlk Pdr660g12 04/30/26 D        212.86   212.86
+                                              4Y285N      
+ 3793320    1  Birch Tree Forti Mlk Pdr300g24 12/31/25 D         88.78    88.78
+                                              4Y157D      
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,102.02
+                                                       Rundate 01/10/2025  14:18:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130612400013
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - PATRICIA SHAINNE C. AMUYOT on 01/18/2024
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103041    1  Del M Pine Or Jce 220mL     24 03/01/24 D         28.00    28.00
+                                              L2075SPO83  
+ 1103591    1  Del M Pine Jce Fiber 220mL  24 01/01/24 D         30.80    30.80
+                                              L3144YYJFL62
+ 1103961    9  Del M Fit N RghtBurnApl330mL24 01/22/24 E         30.80   277.20
+                                              045636      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          336.00
+                                                       Rundate 01/19/2024  16:03:53
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

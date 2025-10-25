@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103502400339
+                                                            Branch - 350 Marikina City Shoe Ave.(EMH Bldg Shoe Ave MARIKINA CITY)
+                                                            Prepared by - ED LOZANO JR. BAA on 02/22/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Richard Ballena
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723588    4  Fiesta SpagheTpd Swt SP18   12 03/18/24 E         68.37   273.48
+                                              NA          
+ 3723589    3  Fiesta Spag TpdSwt1.6kgSP20 10 03/18/24 E        117.39   352.17
+                                              NA          
+ 4510195    1  Nachitos TortillaChipBbq410g10          D        108.80   108.80
+                                              NA          
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          734.45
+                                                       Rundate 02/22/2024  14:05:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

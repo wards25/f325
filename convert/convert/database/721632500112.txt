@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721632500112
+                                                            Branch - 2163 Capiz Pontevedra Poblacion(Capiz Pontevedra Poblacion Ilawod)
+                                                            Prepared by - Antonette C. Arroyo on 04/04/2025
+                                                            Issued by - ________________________________
+                                                                         Jonas Rheb B. Limosnero
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025007    1  Nescafe Decaf Bl Ref 20g    60 04/30/25 E         30.48    30.48
+                                              32790190DA  
+ 4025037   74  Nescafe 3n1 CrmyLatte27.5g 240 04/30/25 E          8.20   606.80
+                                              40980602M1  
+ 4025056   34  Nescafe Crmy Wh 25.5g      240 04/30/25 E          8.20   278.80
+                                              41188985A172
+ 4530024   10  Nescafe CrmyWh SF TPck22.4g100 04/30/25 E         13.21   132.10
+                                              41120601E1  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,048.18
+                                                       Rundate 04/04/2025  12:57:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105922400072
+                                                            Branch - 592 CAEDO C BAT(CAEDO COMMERCIAL COMPLEX CALICANTO BATANGAS CITY)
+                                                            Prepared by - MARICHEL A. MENDOZA on 03/30/2024
+                                                            Issued by - ________________________________
+                                                                         JVKAE D. CRUZAT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103591    1  Del M Pine Jce Fiber 220mL  24 04/01/25 D         30.80    30.80
+                                              .           
+ 1103961    2  Del M Fit N RghtBurnApl330mL24 01/22/24 F         30.80    61.60
+                                              .           
+ 1103963    7  Del M Fit N RghtBurnPne330mL24 01/22/24 F         30.80   215.60
+                                              .           
+ 3900003    7  Diabetasol Choc 360g         3 04/25/24 E        609.20  4264.40
+                                              1DH         
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,572.40
+                                                       Rundate 03/30/2024  11:38:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

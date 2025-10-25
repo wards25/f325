@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705212500208
+                                                            Branch - 521 Sto. Tomas Maharlika Hway(STO TOMAS )
+                                                            Prepared by - N. C. CAMITAN/C.D. ABELLERA on 07/27/2025
+                                                            Issued by - ________________________________
+                                                                         MRS.MARIA BUENA M. MARALIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615299    2  San Mig Coff 3N1 Orig 20g  240 04/19/26 D          6.19    12.38
+                                              2           
+ 3723385   13  Rite'n Lite Lem Dr 250mL    24 11/07/25 D         22.13   287.69
+                                              SF5         
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 05/03/25 E         22.13    22.13
+                                              58          
+ 3723387    3  Rite'n Lite Or Dr 250mL     24 09/11/25 D         22.13    66.39
+                                              SF4         
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 12/04/25 D         22.13    22.13
+                                              SFS         
+ 4113094   15  Magnol Real Mayonnaise 220mL24 12/31/25 D         77.65  1164.75
+                                              E           
+ 4510151    4  Rite'n Lite Ccmber Dr250mL  24 11/22/25 D         22.13    88.52
+                                              SFS         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,663.99
+                                                       Rundate 07/27/2025  12:37:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

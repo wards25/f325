@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092401011
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 09/22/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221850   39  Highland Reg Crnd Bf 150g   48 04/10/27 G         33.30  1298.70
+                                              0           
+ 1221857   51  San Marino Blu Mckrl Stk180g48 12/12/25 G         56.25  2868.75
+                                              0           
+ 1225221   63  San Marino Crnd Tuna 180g   48 08/29/26 G         43.20  2721.60
+                                              0           
+ 1225222   22  San Marino Crnd TunaChli180g48 12/01/26 G         43.20   950.40
+                                              0           
+ 4121005   13  San Marino Crnd TunaChli150g48 04/02/27 G         35.10   456.30
+                                              0           
+ 4121007   27  San Marino Crnd Tuna 150g   48 04/10/27 G         35.10   947.70
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        9,243.45
+                                                       Rundate 09/22/2024  11:30:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

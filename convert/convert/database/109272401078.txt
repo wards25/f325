@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109272401078
+                                                            Branch - 927 Gen. Santos City Acharon(GENSAN-ACHARON BOULEVARD GEN. SANTOS CITY)
+                                                            Prepared by - AIAN KRIS D. TOLEDO on 09/19/2024
+                                                            Issued by - ________________________________
+                                                                         MILANIE D. HERRADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    8  Selecta Moo Choc 245mL      24 08/04/24 E         28.36   226.88
+                                              H3MPO       
+ 3623295    5  Musli Oat Bisc BlueBCranB60g24 08/06/24 E         31.50   157.50
+                                              H2314302    
+ 3723385    4  Rite'n Lite Lem Dr 250mL    24 01/09/25 D         20.25    81.00
+                                              SBTG3622155 
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 11/26/24 D         20.25    20.25
+                                              SBT03621455 
+ 3723396    1  Entrasol Pltnm Ad PdrChoc200g3 09/15/24 E        352.60   352.60
+                                              2301501G4   
+ 3780447    4  Fitbar Fruits 22g           12 08/22/24 E         27.00   108.00
+                                              23V22Y      
+ 3856661    1  Locally Dalandan Jce Dr240mL24 08/29/24 E         22.80    22.80
+                                              CBD         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          969.03
+                                                       Rundate 09/19/2024  14:40:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

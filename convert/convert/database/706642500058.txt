@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706642500058
+                                                            Branch - 664 Puerto Princesa City Malvar San Juan(STORE NO. 664 MALVAR ST BRGY MANDARAGAT PPCITY)
+                                                            Prepared by - JEVY BATOY on 05/06/2025
+                                                            Issued by - ________________________________
+                                                                         EMERSON M. JAVAREZ
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3695258   26  Magnol Panck+W/Choc Syr200g 48 03/02/25 F         32.77   852.02
+                                              407051C402  
+ 3695262   30  Magnol Panck+W/Sbrry Syr200g48 02/19/25 F         32.77   983.10
+                                              406241C348  
+ 3723584    2  Fiesta Fil SpagTpd1.6kgSP30 10 02/15/25 F        109.48   218.96
+                                              505A        
+ 3723734    8  Selecta Forti Mlk 1Lx2 SP15 12 03/29/25 F        157.04  1256.32
+                                              16H8AE10    
+ 3723736    4  Selecta Forti Mlk LFat1Lx2SP12 03/22/25 F        156.12   624.48
+                                              17P8JA0     
+ 3973059   23  Selecta Adult Activ Vnla 1L 12 04/19/25 F        115.60  2658.80
+                                              B5DP0       
+ 4113068    2  Magnol All-Pur Crm Orig250mL24 02/05/25 F         60.61   121.22
+                                              40610G203A  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,714.90
+                                                       Rundate 05/07/2025  13:52:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 712112500061
+                                                            Branch - 1211 LAGUNA SAN PEDRO CITY LANGGAM( )
+                                                            Prepared by - DONA N. GARCES on 04/10/2025
+                                                            Issued by - ________________________________
+                                                                         Norman Paolo Bati
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282   10  Cupp Keyk Choc Mcha         10 05/02/25 E          6.80    68.00
+                                              va72        
+ 3723285   11  Fudgee Barr Milk Custard    10 04/25/25 E          8.25    90.75
+                                              bgd116      
+ 3723683   22  Fudgee Barr Macapuno 39g    10 04/25/25 E          8.33   183.26
+                                              cb81gn      
+ 3900049    3  Diabetasol Wfer Choco 2s100g 3 05/06/25 E        112.00   336.00
+                                              24062       
+ 3973059    3  Selecta Adult Activ Vnla 1L 12 04/19/25 E        115.60   346.80
+                                              b5dp0       
+ 4110036    6  VitaCubes Frt Jelly Cdy 50g 10 05/02/25 E         18.00   108.00
+                                              bj1         
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,132.81
+                                                       Rundate 04/11/2025  15:46:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

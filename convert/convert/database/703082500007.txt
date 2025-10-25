@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703082500007
+                                                            Branch - 308 Mandaluyong City St. Francis Square(Bank Dr. cor. Julia Vargas )
+                                                            Prepared by - SHEI on 01/13/2025
+                                                            Issued by - ________________________________
+                                                                         Andy Navarro
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3254310    1  UFC Bnana Csup Reg 320g     24          D         23.40    23.40
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          D         11.48    11.48
+                                              .           
+ 3723626    3  Kopiko Brown TwnPckCoff 53g120          D         11.26    33.78
+                                              .           
+ 3723669    1  Solbac Disinf Spr FLinen300g 6 01/30/25 E        199.36   199.36
+                                              08012222    
+ 3723671    2  Solbac Surf Disinf Spr 500mL 6 01/31/25 E        250.40   500.80
+                                              03012722    
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          768.82
+                                                       Rundate 01/13/2025  09:50:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

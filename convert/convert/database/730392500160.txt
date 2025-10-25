@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730392500160
+                                                            Branch - 3039 NUEVA ECIJA CABANATUAN CITY ZULUETA(ZULUETA CABANATUAN CITY NUEVA ECIJA 3100 PHILS.)
+                                                            Prepared by - RENZ GERICO M. CABILTES on 05/21/2025
+                                                            Issued by - ________________________________
+                                                                         GILBERT M. BRINIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321  127  Nescafe Clssc 1.9g        1008 05/31/25 E          2.92   370.84
+                                              -           
+ 1109574    1  Kitkat 4F 35g               24          D         29.27    29.27
+                                              -           
+ 3748503    1  Nestle KKrunch SPck 80g     24          D         48.18    48.18
+                                              -           
+ 3760007    5  Kitkat Mini 8s 72g          48 03/08/25 F         87.18   435.90
+                                              -           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              -           
+ 4530039   46  Milo Bfst Cer Ch&MBalls 20g120 04/20/25 F         13.64   627.44
+                                              -           
+ 4530041   18  Nestle Trix Bfast Cer 20g  120 05/11/25 F         13.64   245.52
+                                              -           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,770.47
+                                                       Rundate 05/21/2025  19:41:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

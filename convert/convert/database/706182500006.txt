@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706182500006
+                                                            Branch - 618 Subic Nat'l  Hway(Baraca-Camachile Subic Zambales)
+                                                            Prepared by - JOHN MICHAEL SUMANGA on 01/24/2025
+                                                            Issued by - ________________________________
+                                                                         ROGELIO J. SALVADOR JR.
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104028    2  Del M Mango Jce Tetra 1L    12 01/28/25 F         95.41   190.82
+                                              3179T476    
+ 1104030    8  Del M Pine-Or Jce Tetra 1L  12 02/02/25 F         89.04   712.32
+                                              L403314     
+ 1104088    1  Del M Melon Cucumber Jce 1L 12 02/12/25 F         89.04    89.04
+                                              4103YX09    
+ 1104109    6  Del M Vinamilk IQSmrtCh110mL48 01/24/25 F         12.82    76.92
+                                              M2303       
+ 1104111   10  Del M Vinamilk IQSmrtSb110mL48 01/25/25 F         12.82   128.20
+                                              250324      
+ 1104113   25  Del M Vinamilk Ygrt MxF110mL48 01/25/25 F         11.07   276.75
+                                              250124      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,474.05
+                                                       Rundate 01/24/2025  15:51:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

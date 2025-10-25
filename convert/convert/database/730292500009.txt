@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730292500009
+                                                            Branch - 3029 Rosario Public Market(ROSARIO,BATANGAS )
+                                                            Prepared by - LIEZL T. COLOMA on 01/29/2025
+                                                            Issued by - ________________________________
+                                                                         MA. AZENITH C. HUFALAR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    6  Magnol Low Fat Mlk 1L       12 02/01/25 E         96.08   576.48
+                                              40606G101A  
+ 3465908   16  Magnol Chzee Sqze Pmnto 115g24 01/06/25 F         37.88   606.08
+                                              40610UBJ05  
+ 3723646    1  Selecta Dolce LFat Choc245mL24 01/14/25 F         27.14    27.14
+                                              00:59 K3RET 
+ 3723648    5  Selecta Dolce LFat Choc 1L  12 01/27/25 F         85.96   429.80
+                                              09:56FBMI   
+ 4113091    1  Magnol Crmy Chckn Sprd 220mL24 02/28/25 D         87.79    87.79
+                                              40504CB213  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,727.29
+                                                       Rundate 01/29/2025  14:01:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

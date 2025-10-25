@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110092400096
+                                                            Branch - 1009 Navotas City Agora Center(318 NBBS NAVOTAS CITY )
+                                                            Prepared by - KirK Santos on 02/05/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Fely Soriano
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148915    1  Selecta Forti Mlk 1L        12          D         85.46    85.46
+                                              .           
+ 3723389   12  Energen Mlk&Cer Dr Vnla 40g240 01/06/24 F          7.01    84.12
+                                              .           
+ 3723390   67  Energen Mlk&Cer Dr Choc 40g240 02/22/24 E          7.01   469.67
+                                              .           
+ 3856638    6  Datu Puti Wh Vngar Pet 385mL24 03/12/24 D         17.34   104.04
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          743.29
+                                                       Rundate 02/05/2024  11:07:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

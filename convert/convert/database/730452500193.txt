@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730452500193
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - MARK LEDDA on 03/17/2025
+                                                            Issued by - ________________________________
+                                                                         DINO N NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1992000   16  Barrio F Crispy Joy Orig 62g48 04/05/25 E         14.54   232.64
+                                              .           
+ 1992002   18  Barrio F Crispy Joy Spcy 62g48 04/10/25 E         14.54   261.72
+                                              .           
+ 3623291    5  Musli Oat Bisc Choc 60g     24 09/17/25 D         31.50   157.50
+                                              .           
+ 3623295    8  Musli Oat Bisc BlueBCranB60g24 09/17/25 D         31.50   252.00
+                                              .           
+ 4113080   91  Magnol Star Mgrine 100g    144 03/27/25 E         28.62  2604.42
+                                              .           
+ 4113082   51  Magnol Star Mgrine 250g     72 03/27/25 E         64.31  3279.81
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,788.09
+                                                       Rundate 03/17/2025  13:44:31
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

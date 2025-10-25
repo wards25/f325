@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710182500082
+                                                            Branch - 1018 Valenzuela City Malanday One Zentrum Place(1018 )
+                                                            Prepared by - ELOISA B. CALIXTO on 03/17/2025
+                                                            Issued by - ________________________________
+                                                                         MS. EMILINDA DILLENA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465855    3  Magnol Frsh Mlk 1L          12 03/23/25 E         96.08   288.24
+                                              F108        
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 04/27/25 D          7.01     7.01
+                                              20506       
+ 3723623    3  Natrue Oat Dr 1L             6 03/17/25 E        126.65   379.95
+                                              01848       
+ 3723644    2  Energen Champion Choc TP30g120 11/01/25 D         14.24    28.48
+                                              190015      
+ 3723656   12  Hands-On DLiq A-Bac 500mL   12 02/17/25 E         98.00  1176.00
+                                              .           
+ 4136024    2  Kopiko Blanca Coff 30g     240 08/28/25 D          7.78    15.56
+                                              T003        
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,895.24
+                                                       Rundate 03/17/2025  10:36:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

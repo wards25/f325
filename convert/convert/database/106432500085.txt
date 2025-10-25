@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106432500085
+                                                            Branch - 643 Dagupan City Perez Blvd.(PEREZ BLVD, DAGUPAN CITY )
+                                                            Prepared by - J.Pingol/C.R/M.G/A.W.B on 02/19/2025
+                                                            Issued by - ________________________________
+                                                                         RICHARD C. SAMSON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO LOGISTICS INC (79445  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 6200025   40  Dove Deo Ron UltRStgJ40mLx2 12 11/30/24 F        119.12  4764.80
+                                              .           
+ 6200170   12  Dove Deo Ron Orig 40mLx2    12 12/31/24 F        119.12  1429.44
+                                              .           
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,194.24
+                                                       Rundate 02/20/2025  16:32:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

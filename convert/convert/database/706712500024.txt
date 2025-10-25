@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706712500024
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE MIRA on 02/03/2025
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3465859    3  Magnol Low Fat Mlk 1L       12 03/17/25 E         96.08   288.24
+                                              40720G101A  
+ 3465880   17  Magnol Frsh Mlk 250mL  24      03/07/25 E         33.27   565.59
+                                              40710G103A  
+ 3723282    2  Cupp Keyk Choc Mcha         10 03/07/25 E          6.80    13.60
+                                              UB71        
+ 3723386    3  Rite'n Lite Lem Lime Dr250mL24          D         20.25    60.75
+                                              111047      
+ 3723387    2  Rite'n Lite Or Dr 250mL     24 01/02/25 F         20.25    40.50
+                                              SBT03621400 
+ 3723584   10  Fiesta Fil SpagTpd1.6kgSP30 10 02/01/25 F        109.48  1094.80
+                                              56B2        
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10 02/01/25 F        117.39   117.39
+                                              56C2        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,180.87
+                                                       Rundate 02/03/2025  16:29:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

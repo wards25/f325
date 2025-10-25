@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710802500342
+                                                            Branch - 1080 LAG CBY C SALA(BRGY SALA CABUYAO CITY y)
+                                                            Prepared by - ANN JAMAICA DORIA on 09/03/2025
+                                                            Issued by - ________________________________
+                                                                         MS.SHERINA ESTER P. ISULAT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165711    1  Magnol Chzee Sprd Pln 235g  24          D         79.44    79.44
+                                              NO LOT      
+ 3465909    3  Magnol Chzee Sqze Pmnto 220g24 09/30/25 E         74.84   224.52
+                                              50304UAJ22  
+ 3723668    3  Solbac Disinf Spr Ctrs&G300g 6 10/31/25 E        199.36   598.08
+                                              3310012201  
+ 3723722    1  Mega Tuna FlksSpnshStyl 155g10          D         36.90    36.90
+                                              NO LOT      
+ 3856633    6  Mang Tomas Lchon Sce 325g   24 10/05/25 E         33.25   199.50
+                                              6111610     
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,138.44
+                                                       Rundate 09/05/2025  14:31:06
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

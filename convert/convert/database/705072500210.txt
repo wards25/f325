@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705072500210
+                                                            Branch - 507 Urdaneta City McArthur Hway(SAN VICENTE EAST URDANETA PANG )
+                                                            Prepared by - JERRY MAY A. OJERIO on 08/19/2025
+                                                            Issued by - ________________________________
+                                                                         JAYSON G. ARQUERO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016287    1  555 Tuna Flakes Afritada155g50 08/30/27 D         26.68    26.68
+                                              021         
+ 1210406    1  Argentina Meat Loaf 250g    48 05/28/27 D         30.95    30.95
+                                              0448        
+ 3793295   37  Angel Evaporada 410mL       48 09/30/25 E         30.55  1130.35
+                                              716         
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,187.98
+                                                       Rundate 08/19/2025  14:16:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

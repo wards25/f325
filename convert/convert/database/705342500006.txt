@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705342500006
+                                                            Branch - 534 Camiling Poblacion(QUEZON AVE.CAMILING TARLAC )
+                                                            Prepared by - MARES D. VALENZUELA on 01/08/2025
+                                                            Issued by - ________________________________
+                                                                         WELLA MAE U. EWAYAN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1229783    3  Gatorade Wh Lightning 1.5L  12 12/30/24 F         79.05   237.15
+                                              sb1lm8      
+ 3723284    4  Fudgee Barr Chocolate       10 01/30/25 F          8.01    32.04
+                                              BGA10318    
+ 3723285    5  Fudgee Barr Milk Custard    10 01/30/25 F          8.10    40.50
+                                              VA72        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          309.69
+                                                       Rundate 01/09/2025  14:15:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

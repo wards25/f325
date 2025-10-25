@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706462500175
+                                                            Branch - 646 CIAO PUB MKT(Calasiao Public Market Pangasinan)
+                                                            Prepared by - E.PADILLA,R.QUINTO,C.CLAVE on 06/03/2025
+                                                            Issued by - ________________________________
+                                                                         ILENE ANZIEL C. CHUA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748503    1  Nestle KKrunch SPck 80g     24 03/30/25 F         48.18    48.18
+                                              40610631cd  
+ 4530049    3  Nescafe Cappuccino Can 220mL24 05/30/25 F         34.62   103.86
+                                              4149b467b1  
+ 4530053    3  Nescafe Mocha Can 220mL     24 04/30/25 E         34.62   103.86
+                                              411913467b3 
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          255.90
+                                                       Rundate 06/03/2025  10:25:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

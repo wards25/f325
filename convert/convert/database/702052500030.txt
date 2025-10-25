@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702052500030
+                                                            Branch - 205 Gen. Trias Bagumbayan(GEN. TRIAS BAGUMBAYAN CVE )
+                                                            Prepared by - MS.MARICRIS CAMILO on 01/11/2025
+                                                            Issued by - ________________________________
+                                                                         MS.FLORENTINA D. CARANDANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 09/12/25 D         20.25    20.25
+                                              00112120    
+ 3723587    7  Fiesta SpagheTpd 3ChseSP18  12 01/14/25 E         68.76   481.32
+                                              58ET        
+ 3723705    2  Kopiko Blck 3n1 Coff28g TP 120 01/24/25 D         11.26    22.52
+                                              07021443    
+ 4113091    1  Magnol Crmy Chckn Sprd 220mL24          D         87.79    87.79
+                                              NOLOT       
+ 4180022    1  Mega Tuna Flks Hot&Spcy 155g50 11/21/26 D         36.90    36.90
+                                              GSB2709     
+ 4510117    1  Mega Sard In TS Ex Hot 155g 10 07/04/27 D         22.73    22.73
+                                              006993019   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          671.51
+                                                       Rundate 01/11/2025  17:21:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

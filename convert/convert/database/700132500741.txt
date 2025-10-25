@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 700132500741
+                                                            Branch - 13 Baclaran Quirino(MDC QUIRINO AVE BAC. PQUE )
+                                                            Prepared by - Joy Ann Salazar on 10/19/2025
+                                                            Issued by - ________________________________
+                                                                         Mr.Oliver R. Lacerna
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3748436    1  Nestea Lem ITea 19g        144          D         18.57    18.57
+                                              01          
+ 4025037    1  Nescafe 3n1 CrmyLatte20g   240          D          8.20     8.20
+                                              01          
+ 4530043    2  Nestle Trix Bfast Cer 160g  18          D        111.82   223.64
+                                              01          
+ 4530115    1  Milo Choco Malt Pdr 24g    504          D          8.58     8.58
+                                              01          
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          258.99
+                                                       Rundate 10/19/2025  13:14:26
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

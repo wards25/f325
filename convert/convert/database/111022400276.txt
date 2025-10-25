@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111022400276
+                                                            Branch - 1102 VAL C MALANDAY MCAR HWY(VALENZUELA CITY KM MALANDAY MC ARTHUR HIGHWAY)
+                                                            Prepared by - Rose Denoga on 02/08/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Geraldine F. Dalagan
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723385    1  Rite'n Lite Lem Dr 250mL    24          I         20.25    20.25
+                                              .           
+ 3723616    4  Barrio F Std Shrmp P SG250g 12 02/16/24 E         93.20   372.80
+                                              .           
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120          I         11.22    11.22
+                                              .           
+ 3723668    3  Solbac Disinf Spr Ctrs&G300g 6 06/01/24 E        199.36   598.08
+                                              .           
+ 4100005    2  Kettle Korn Sltd Crmel 120g 30          I         36.25    72.50
+                                              .           
+ 4136022    1  Kopiko L.A. Coffee 25g     240          I          6.16     6.16
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,081.01
+                                                       Rundate 02/08/2024  15:43:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     I-Loose Tablet Items (Factory Defect)

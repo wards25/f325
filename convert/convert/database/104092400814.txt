@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092400814
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - A.BOLANTE/D.DASALLA on 08/04/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167456   12  Nestle Chuckie Cal-N 1000mL 12 11/30/24 D        102.06  1224.72
+                                              17          
+ 3760007   21  Kitkat Mini 8s 72g          48 08/12/24 D         77.27  1622.67
+                                              IYT         
+ 3760011    1  Nido NutriSnaxSbry-Crot110mL60 08/24/24 D         17.76    17.76
+                                              10          
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240 04/21/25 D          8.20     8.20
+                                              1           
+ 4025052    4  Nestle Coffeemate 150g      60 05/31/25 D         44.78   179.12
+                                              33          
+ 4025177    2  Nescafe Original 26g       520 03/25/25 D          7.37    14.74
+                                              11          
+ 4530022    1  Nescafe Crmy Lat TwinPck51g200 03/22/25 D         11.80    11.80
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,079.01
+                                                       Rundate 08/04/2024  15:01:16
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

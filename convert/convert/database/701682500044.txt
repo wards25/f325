@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701682500044
+                                                            Branch - 168 San Miguel Poblacion(SAN JOSE SAN MIGUEL BULACAN )
+                                                            Prepared by - CECI/IMEE/MAY on 02/24/2025
+                                                            Issued by - ________________________________
+                                                                         MS. CARLA C. ANGELES
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562    4  Ladys C Mynaise 220mL       24 03/25/25 E        112.05   448.20
+                                              242232      
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288 01/17/27 D          6.13     6.13
+                                              3166        
+ 3870030    4  Creamsilk Cond Dry Res 11mL288          D          5.93    23.72
+                                              x           
+ 3870071    1  Creamsilk Cond TKR UStr10mL288          D          6.66     6.66
+                                              x           
+ 3870200    1  Dove Cond 1Min CrIntRep10mL288          D          6.22     6.22
+                                              x           
+ 6200095    1  Creamsilk TrtCrKDmgeRep18mL288          D          5.88     5.88
+                                              x           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          496.81
+                                                       Rundate 02/24/2025  15:33:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706322500404
+                                                            Branch - 632 Tayug Quezon( )
+                                                            Prepared by - METCH S. JOANINO on 06/21/2025
+                                                            Issued by - ________________________________
+                                                                         LIZA B DOLLENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413865    7  Nagaraya Crkr Nut Orig 80g  60          D         20.54   143.78
+                                              54854       
+ 3413870    1  Nagaraya Crkr Nut Orig 160g 48          D         41.27    41.27
+                                              548         
+ 3413872    1  Nagaraya Crkr Nut Hot&Sp160g48          D         41.27    41.27
+                                              5484        
+ 3723286    7  Ding Dong Sup Mxd Nuts 100g 60          D         20.54   143.78
+                                              65484       
+ 3723683    2  Fudgee Barr Macapuno 39g    10          D          8.33    16.66
+                                              5487        
+ 3856662    1  Locally Tamarind Jce Dr240mL24          D         20.88    20.88
+                                              24584       
+ 3973057    1  Selecta Adult Activ Vnl245mL24          D         34.95    34.95
+                                              57484       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          442.59
+                                                       Rundate 06/21/2025  14:14:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

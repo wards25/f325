@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704312500085
+                                                            Branch - 431 Brooke's Point Public Market(PALAWAN BROOKES POINT )
+                                                            Prepared by - MS.CIONELYN A. RIVERA on 05/19/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MERCE FE A. PEREZ
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035690   78  Ligo Sard In TS Chili 155g 100 05/18/25 F         23.98  1870.44
+                                              0           
+ 1210485    1  Argentina CBeef 100g        48          D         25.24    25.24
+                                              0           
+ 3048400    1  555 Sardines TS 155g       100          D         22.80    22.80
+                                              0           
+ 3048405   42  555 Sardines TS Hot 155g   100 03/01/25 F         23.09   969.78
+                                              0           
+ 3048425    4  555 Mackerel TS 155g       100          D         27.98   111.92
+                                              0           
+ 3048430    1  555 Sardines Oil Spnish155g100          D         31.11    31.11
+                                              0           
+ 3793295    1  Angel Evaporada 410mL       48          D         30.07    30.07
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,061.36
+                                                       Rundate 05/23/2025  09:59:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

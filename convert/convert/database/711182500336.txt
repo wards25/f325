@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711182500336
+                                                            Branch - 1118 BULACAN PLARIDEL TABANG(BULACAN PLARIDEL TABANG DISTRICT V111)
+                                                            Prepared by - beth on 09/20/2025
+                                                            Issued by - ________________________________
+                                                                         MS.MARICEL L.MARQUEZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010117    1  Ladys C Tuna Sprd 80mL      72 09/22/25 E         34.85    34.85
+                                              243712      
+ 3980272    1  Ponds Brght Mrcle DCrDtx12g144 01/22/27 D         24.94    24.94
+                                              4562        
+ 5800175    1  Dove BWsh D-Nrshng 400mL+FSP12 10/04/25 E        180.52   180.52
+                                              4556        
+ 5800286    1  Creamsilk Cond SStr22mL11+1 24 02/28/06 D         92.71    92.71
+                                              1234        
+ 5800328   16  Ladys C Sandw Sprd 80mL     36 09/23/25 E         31.55   504.80
+                                              243753      
+ 6200216    1  Surf Pdr Kal 57g           288 01/20/27 D          6.13     6.13
+                                              456         
+ 6200249    1  Surf Pdr Sun Frsh 65g B6G1  40 01/20/27 D         36.75    36.75
+                                              456         
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          880.70
+                                                       Rundate 09/20/2025  14:20:27
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

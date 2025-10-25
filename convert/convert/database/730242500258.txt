@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730242500258
+                                                            Branch - 3024 Bacnotan McArthur Hway(NISCE BLDG MCARTHUR HIGHWAY NAGSIMBAANAN BACNOTAN LU)
+                                                            Prepared by - AIZA R. MATIENZO on 06/25/2025
+                                                            Issued by - ________________________________
+                                                                         ERIC C. RAMOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 07/22/25 E         91.92    91.92
+                                              .           
+ 3465865    8  Magnol Choc Mlk Dr 1L       12 06/18/25 F         98.84   790.72
+                                              .           
+ 3623296    8  Pfanner Gr Ap Jce 1L         8 06/30/25 E        107.10   856.80
+                                              .           
+ 3723282    3  Cupp Keyk Choc Mcha         10 07/19/25 E          6.80    20.40
+                                              .           
+ 3723374    2  Ding Dong Snck Mx Chip&C95g 60 09/28/25 D         20.54    41.08
+                                              .           
+ 3723683    2  Fudgee Barr Macapuno 39g    10 07/02/25 E          8.33    16.66
+                                              .           
+ 4110018    1  Choco Mucho Mlk Choc 30g    10 07/02/25 E          9.30     9.30
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,826.88
+                                                       Rundate 06/25/2025  14:25:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

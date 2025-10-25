@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704092500449
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - D. DASALLA on 08/22/2025
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165711   12  Magnol Chzee Sprd Pln 235g  24 06/25/25 E         79.44   953.28
+                                              41127tcb07  
+ 3615296   13  San Mig Coff 3n1 Crema 25g 240 01/21/27 D          7.14    92.82
+                                              213         
+ 3615301    1  San Mig Coff 3N1 Barako 20g240          D          7.09     7.09
+                                              .           
+ 3695264   29  Magnol Panck&Waffle Mix180g 48 07/23/25 E         25.93   751.97
+                                              411251d823  
+ 3723389   11  Energen Mlk&Cer Dr Vnla 40g240 03/13/26 D          7.65    84.15
+                                              0655TGR13030
+ 3723390    6  Energen Mlk&Cer Dr Choc 40g240 03/17/26 D          7.65    45.90
+                                              1226TGR17030
+ 3723644    9  Energen Champion Choc TP30g120 12/22/25 D         14.24   128.16
+                                              0649TGR22120
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,063.37
+                                                       Rundate 08/22/2025  08:20:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

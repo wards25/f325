@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109432401279
+                                                            Branch - 943 Tacurong City Ledesma(LEDESMA ST.TACURONG CITY,SULTA N KUDARAT)
+                                                            Prepared by - MARK JAMES INIGO on 11/04/2024
+                                                            Issued by - ________________________________
+                                                                         VIVIAN P. ABASOLO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039296    2  Surf Pdr Chrry Blssm 50g   288          D          6.13    12.26
+                                              36          
+ 3050001    4  Surf Bar ChryBlsm FabCon120g96          D         10.73    42.92
+                                              77          
+ 3050004    2  Surf Pdr Rose Frsh 57g     288          D          6.13    12.26
+                                              14          
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288          D          6.13     6.13
+                                              56          
+ 6200023    1  Surf Liq Chry Blossm 64mL  288          D          6.42     6.42
+                                              56          
+ 6200024    7  Surf Liq Rose Fresh 64mL   288          D          6.42    44.94
+                                              44          
+ 6200231    1  Surf Pdr Tawas 57g         288          D          6.13     6.13
+                                              58          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          131.06
+                                                       Rundate 11/04/2024  18:59:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

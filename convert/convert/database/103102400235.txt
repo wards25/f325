@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103102400235
+                                                            Branch - 310 ERD ARC TYTY(Eastroad Arcade Taytay )
+                                                            Prepared by - James B. Bagabaldo on 03/28/2024
+                                                            Issued by - ________________________________
+                                                                         Mr. Eugene L. Guillermo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 02/18/25 D         10.63    10.63
+                                              0301TGR     
+ 4103101    5  Del M SpagFilStylPrtyPckSP42 8 07/28/25 D        133.46   667.30
+                                              3209Bl1     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          677.93
+                                                       Rundate 03/28/2024  13:22:07
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

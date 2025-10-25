@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 102182400735
+                                                            Branch - 218 Makati City AP Reyes(216Huseng Batute cor.A.P.Reyes 0)
+                                                            Prepared by - DONA GARCES on 09/24/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Irma J. Abadia
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760013    4  Nescafe Clssc Sulit Pck 10g 80          D          9.52    38.08
+                                              NL          
+ 4025037    3  Nescafe 3n1 CrmyLatte27.5g 240          D          8.20    24.60
+                                              NL          
+ 4025052    3  Nestle Coffeemate 150g      60          D         44.78   134.34
+                                              NL          
+ 4025056    1  Nescafe Crmy Wh 25.5g      240          D          8.20     8.20
+                                              NL          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         12.37    12.37
+                                              NL          
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          217.59
+                                                       Rundate 09/25/2024  13:43:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

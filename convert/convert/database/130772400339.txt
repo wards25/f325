@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130772400339
+                                                            Branch - 3077 Pampanga Sta. Ana San Joaquin Jasa(MD3077 PAMPANGA STA.ANA SAN JO AQUIN JASA)
+                                                            Prepared by - JOANNE CARLA VELASQUEZ on 09/18/2024
+                                                            Issued by - ________________________________
+                                                                         NORMAN A. URBANO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1210453    2  Shanghai Chnse LchMeat 375g 24 06/10/24 F         78.10   156.20
+                                              A           
+ 3048400    1  555 Sardines TS 155g       100 05/22/24 F         22.80    22.80
+                                              A           
+ 3048420   44  555 Sardines TS W/Chili425g 48 09/14/24 F         58.14  2558.16
+                                              A           
+ 3793337    1  Argentina CChckn Spcy 150g  48 02/01/24 F         32.86    32.86
+                                              A           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,770.02
+                                                       Rundate 09/18/2024  11:32:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

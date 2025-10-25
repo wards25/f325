@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730612500030
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B . MEDRANO on 02/11/2025
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3780490   15  Fitbar Choc 22gx5           24 02/28/25 E        130.95  1964.25
+                                              24P28Y      
+ 3780491    8  Fitbar Fruits 22gx5         24 11/20/24 F        130.95  1047.60
+                                              23Y201Y     
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,011.85
+                                                       Rundate 02/11/2025  09:24:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

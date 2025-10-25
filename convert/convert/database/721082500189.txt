@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721082500189
+                                                            Branch - 2108 OZAMIS CITY CATADMAN MANABAY(CATADMAN MANABAY, OZAMIZ CITY )
+                                                            Prepared by - BELINDA V. GARLIT on 06/29/2025
+                                                            Issued by - ________________________________
+                                                                         JANICE S. TANO
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010116    1  Ladys C Ham Sprd 80mL       72          D         34.85    34.85
+                                              0           
+ 3039285    1  Domex Clsc Germ Kill 140mL  36          D         27.64    27.64
+                                              0           
+ 3870289    3  Creamsilk Cond Dam Ctrl350mL12 07/01/25 E        240.35   721.05
+                                              1301231     
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          783.54
+                                                       Rundate 06/29/2025  07:39:09
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272401320
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY  D. SANCHEZ on 07/07/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P. PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413874   40  Nagaraya SwtMni PretSgrC30g100 07/17/24 E          7.04   281.60
+                                              X           
+ 3623305    2  Northland Crnbrry Jce 1.89L  8 07/28/24 E        386.10   772.20
+                                              X           
+ 3723621    1  Natrue Almnd Unswtnd Dr 1L   6          D        126.65   126.65
+                                              X           
+ 3723644    1  Energen Champion Choc TP30g120          D         13.60    13.60
+                                              X           
+ 4103065    1  Del M Tmto Sce OrigStyl 250g48          D         25.43    25.43
+                                              X           
+ 4510153    1  Rite'n Lite Lych+Rse Dr250mL24          D         22.13    22.13
+                                              X           
+ 4510155    1  Rite'n Lite Peach Dr 250mL  24          D         20.25    20.25
+                                              X           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,261.86
+                                                       Rundate 07/07/2024  15:23:05
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730852500027
+                                                            Branch - 3085 Zambales Subic Waltermart(3085 ZAMBALES SUBIC WALTERMART 130852400617)
+                                                            Prepared by - MARIEJO B. MAYO on 02/11/2025
+                                                            Issued by - ________________________________
+                                                                         MARIA RIZA M. ANDRADA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3050023    3  Baby Dove Bb Lot 200mL       6 03/01/25 E        274.84   824.52
+                                              003C        
+ 3870313    2  Creamsilk CondS-Strght180mL 24 12/27/24 F        128.33   256.66
+                                              1           
+ 3980542    1  Dove Bty Bar Sens 90gx3S10% 16 01/31/25 F        176.94   176.94
+                                              X           
+ 3980572    1  Dove Bty Bar Sens 90g       48 01/31/25 F         68.60    68.60
+                                              2M21        
+ 3980682    7  Dove Bwsh G-Exfltng 400mL   12 03/02/25 E        215.36  1507.52
+                                              001H        
+ 5800042    3  Baby Dove Bb Wash HTTSM365mL 6 09/26/24 F        293.36   880.08
+                                              003G        
+ 6200011    1  Dove Cond 1Min CrIntRep300mL12 12/07/24 F        276.51   276.51
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,990.83
+                                                       Rundate 02/11/2025  14:47:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

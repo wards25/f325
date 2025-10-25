@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707382500082
+                                                            Branch - 738 Davao City Sasa(AGUSAN ROAD CO. DO¥A PILAR ST SASA DAVAO CITY)
+                                                            Prepared by - emily sarael on 04/02/2025
+                                                            Issued by - ________________________________
+                                                                         LEAH V. COSTAN
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016252    1  Century Flakes Afrtda 155g  50 09/03/27 D         31.80    31.80
+                                              chafcs      
+ 1148510    2  Blue Bay Tuna Afritada 155g 50 01/24/26 D         27.39    54.78
+                                              skjfao      
+ 1210483    1  Argentina Bf Loaf 100g      48 10/06/26 D         16.67    16.67
+                                              abl19       
+ 3048430    1  555 Sardines Oil Spnish155g100 04/23/27 D         31.11    31.11
+                                              5ssbmc20    
+ 3793298   28  Angel Condensada 380g       48 02/28/25 F         50.48  1413.44
+                                              co217a5     
+ 3793349    2  555 Tuna Spcy Paksiw 155g   50 07/05/26 D         26.68    53.36
+                                              stpssh      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,601.16
+                                                       Rundate 04/05/2025  07:39:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706092500017
+                                                            Branch - 609 Candon City Nat'l Hway(CANDON CITY NAT'L HWAY )
+                                                            Prepared by - SHIERA MARIX B. LIMAYO on 03/12/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCO S. BALAQUE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    8  Bear Br Strlzed RTD 1L      12 01/31/25 F         97.19   777.52
+                                              41850189XP  
+ 1167931   28  Bear Br Strlzed RTD 200mL   32 12/31/24 F         26.42   739.76
+                                              4800189UD   
+ 3748417   24  Bear Br Strlzedw/GnkgoB200mL32 02/28/25 F         26.42   634.08
+                                              4030953AA   
+ 4530000   13  Starbucks Latte DShtEsp220mL24 02/28/25 F         76.00   988.00
+                                              40489449AA  
+ 4530065   28  Nestogen LowLactose0-12M400g12 05/30/25 E        397.38 11126.64
+                                              332515801X  
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       14,266.00
+                                                       Rundate 03/13/2025  11:07:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

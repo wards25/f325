@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706952500309
+                                                            Branch - 695 Puerto Princesa City San Pedro(SAN PEDRO PUERTO PRINCESA CITY)
+                                                            Prepared by - SHEENA MARIE D. ESMALIA on 08/26/2025
+                                                            Issued by - ________________________________
+                                                                         ANNE D. PEDROSA
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1010665    1  Knorr Liq Seasoning Chl130mL24 05/24/25 F         59.50    59.50
+                                              ACX         
+ 5800034    1  Lifebuoy Soap T10AntiBac60g144 04/30/27 D         14.55    14.55
+                                              18:51       
+ 5800102    9  Knorr Liq Seasoning Or 250mL24 08/26/25 F         94.30   848.70
+                                              ACY         
+ 5800159   75  Knorr Sngng Smplok Orig 22g144 08/04/25 F         14.10  1057.50
+                                              241963      
+ 5800321   18  Ladys C Chck Sprd 220mL     12 08/17/25 F        122.60  2206.80
+                                              243441      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,187.05
+                                                       Rundate 08/26/2025  14:01:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

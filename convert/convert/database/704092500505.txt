@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704092500505
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - D. DASALLA on 09/02/2025
+                                                            Issued by - ________________________________
+                                                                         SUCHAN CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12 12/14/25 D         97.19    97.19
+                                              51380189YD  
+ 1167456    9  Nestle Chuckie Cal-N 1000mL 12 09/30/25 E        102.06   918.54
+                                              43060189YD  
+ 4530045    1  Nestle Frsh Mlk 1000mLx2SP15 7 12/15/25 D        197.10   197.10
+                                              2331617809  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,212.83
+                                                       Rundate 09/02/2025  18:24:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

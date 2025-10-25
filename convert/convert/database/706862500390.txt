@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706862500390
+                                                            Branch - 686 SFDO LU QZN P BURGOS(686 San Fernando LU QznPBurgos )
+                                                            Prepared by - Perfecto Menes on 04/26/2025
+                                                            Issued by - ________________________________
+                                                                         Analiza L. Caluya
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723508    2  Oramed 0.1% 60mL            12 07/01/25 E         76.50   153.00
+                                              .           
+ 3723587   10  Fiesta SpagheTpd 3ChseSP18  12 05/11/25 E         68.76   687.60
+                                              .           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 07/16/26 E         11.26    11.26
+                                              .           
+ 3723683    5  Fudgee Barr Macapuno 39g    10 05/19/25 E          8.33    41.65
+                                              .           
+ 4113082    8  Magnol Star Mgrine 250g     72 05/12/25 E         69.31   554.48
+                                              .           
+ 4113097    4  Magnol Sandwich Sprd 220mL  24 05/18/25 E         66.40   265.60
+                                              .           
+ 4510217    3  Lipton Tea STL Eng BfstBlk25s6 02/16/25 E        198.35   595.05
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,308.64
+                                                       Rundate 04/28/2025  16:36:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

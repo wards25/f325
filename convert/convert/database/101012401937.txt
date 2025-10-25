@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101012401937
+                                                            Branch - 101 Sta. Maria Poblacion(Poblacion sta maria bulacan )
+                                                            Prepared by - Maris Teodosio on 11/15/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Mila Santiago
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3793318    2  Birch Tree Forti AdltBst33g160 08/31/25 D         11.93    23.86
+                                              4Y057N      
+ 4131015    1  Birch Tree FortiChocPdr290g 24 09/30/25 D         83.95    83.95
+                                              4Y086D      
+ 4131017    2  Choco Hero 200g             48 04/30/25 D         48.60    97.20
+                                              4Y080N      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          205.01
+                                                       Rundate 11/15/2024  12:11:36
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

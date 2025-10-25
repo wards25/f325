@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130792400706
+                                                            Branch - 3079 Ilocos Sur Bantay Poblacion(ZONE 4, BANTAY )
+                                                            Prepared by - Christopher A. Padua on 10/08/2024
+                                                            Issued by - ________________________________
+                                                                         Ryan B. Ponce
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147360    5  Selecta Moo Choc 245mL      24 08/04/24 F         28.36   141.80
+                                              LK4H11      
+ 1165682    3  Magnol Daily Quezo 160g     48 11/19/24 D         33.27    99.81
+                                              40622TAA49  
+ 3413869    3  Nagaraya Crkr Nut Gar 160g  48 04/30/25 D         41.27   123.81
+                                              24768C      
+ 3413871    5  Nagaraya Crkr Nut Adbo 160g 48 04/30/25 D         41.27   206.35
+                                              24743A      
+ 3413872    1  Nagaraya Crkr Nut Hot&Sp160g48 04/30/25 D         41.27    41.27
+                                              24739A      
+ 3465867    1  Magnol Choc Mlk Dr 250mL    24 05/04/25 D         26.77    26.77
+                                              40509G1C4A  
+ 3465890    1  Magnol Full Crm Mlk 1L      12 02/09/25 D         91.47    91.47
+                                              40614G101A  
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          731.28
+                                                       Rundate 10/08/2024  17:11:41
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

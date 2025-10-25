@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104622401395
+                                                            Branch - 462 Paranaque City Sucat Interchange(SUCAT INTERCHANGE )
+                                                            Prepared by - Joeven Parada - District 24 on 11/12/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048746    1  Suncoast Lgt Wat 650mL      24          D         18.00    18.00
+                                              0           
+ 3615296    2  San Mig Coff 3n1 Crema 25g 240          D          6.89    13.78
+                                              0           
+ 3615309    1  San Mig Coff 3n1 SF White9g300          D          7.40     7.40
+                                              0           
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60          D         20.54    20.54
+                                              0           
+ 3723589    1  Fiesta Spag TpdSwt1.6kgSP20 10          D        117.39   117.39
+                                              0           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              0           
+ 4510043    4  Guard Insect Repel Lot 50mL  6          D         84.00   336.00
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          520.89
+                                                       Rundate 11/12/2024  09:22:44
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

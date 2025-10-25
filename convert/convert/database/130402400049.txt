@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130402400049
+                                                            Branch - 3040 Pampanga Mabalacat City Dau( )
+                                                            Prepared by - LOVELY S. ANDRADA on 01/24/2024
+                                                            Issued by - ________________________________
+                                                                         RODANTE D. GALANG
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304    7  Sunkist Frt Dr Mgo 235mL    24 01/23/24 E         20.05   140.35
+                                              C1G27O      
+ 3413872   58  Nagaraya Crkr Nut Hot&Sp160g48 08/03/24 H         36.85  2137.30
+                                              23846A      
+ 3723374   15  Ding Dong Snck Mx Chip&C95g 60 02/04/24 E         20.16   302.40
+                                              B8A3A       
+ 3723389   67  Energen Mlk&Cer Dr Vnla 40g240 12/10/23 F          7.01   469.67
+                                              0752TGR     
+ 3780489    3  Fitbar Choc 22g             12 01/10/24 F         27.00    81.00
+                                              23N10Y3     
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,130.72
+                                                       Rundate 01/24/2024  12:15:44
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired     H-Recalled by Supplier

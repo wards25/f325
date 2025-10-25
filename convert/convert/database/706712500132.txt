@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706712500132
+                                                            Branch - 671 TABUK POB(TABUK POBLACION )
+                                                            Prepared by - GRACE MIRA on 07/06/2025
+                                                            Issued by - ________________________________
+                                                                         CYMBELYNE D. LAGASI
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723683    3  Fudgee Barr Macapuno 39g    10 07/01/25 F          8.33    24.99
+                                              02          
+ 3723713    1  Malkist Crkr Swt Glzd28gx10 12 07/23/25 E         53.55    53.55
+                                              003T6       
+ 3973031    1  Selecta Forti Mlk Strlzed 1L12 07/20/25 E         80.88    80.88
+                                              F6MB0       
+ 4113068    5  Magnol All-Pur Crm Orig250mL24 07/15/25 E         60.61   303.05
+                                              411176203A  
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          462.47
+                                                       Rundate 07/06/2025  16:42:45
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

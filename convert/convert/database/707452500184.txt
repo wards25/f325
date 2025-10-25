@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707452500184
+                                                            Branch - 745 ZAM GUIWAN(MCLL HI-WAY,GUIWAN ZAMBO.CITY )
+                                                            Prepared by - JADE F. MACION on 07/14/2025
+                                                            Issued by - ________________________________
+                                                                         MR.RONDEL S. TAC-AN
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1165709    2  Magnol Chzee Sprd Pln 120g  24 07/18/25 E         45.25    90.50
+                                              4122OTCB47  
+ 1165713    3  Magnol Chzee Sprd Pmto 120g 24 07/19/25 E         48.02   144.06
+                                              41221TCB03  
+ 1165714    1  Magnol Chzee Sprd Pmto 235g 24 07/10/25 F         83.13    83.13
+                                              41212TCB47  
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          317.69
+                                                       Rundate 07/14/2025  18:44:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

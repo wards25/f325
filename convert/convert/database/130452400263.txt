@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130452400263
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - RUDYLYN B. DACANAY on 04/01/2024
+                                                            Issued by - ________________________________
+                                                                         DINO N. NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104045   11  Del M Pine Jce Sbrry Tetra1L12 03/11/24 E         87.31   960.41
+                                              .           
+ 3723286    1  Ding Dong Sup Mxd Nuts 100g 60          D         20.16    20.16
+                                              .           
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24          D         20.25    20.25
+                                              .           
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120          D         10.63    10.63
+                                              .           
+ 3856643    7  UFC Sweet Chili Sce 340g    24 03/22/24 F         35.86   251.02
+                                              .           
+ 3856661    2  Locally Dalandan Jce Dr240mL24 01/21/24 F         22.80    45.60
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,308.07
+                                                       Rundate 04/01/2024  14:56:08
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

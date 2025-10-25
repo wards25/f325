@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 111592401227
+                                                            Branch - 1159 Mandaluyong City High Pointe Medical Hub(MAND. CITY HIGH POINTE MEDICAL HUB)
+                                                            Prepared by - KEN- DIST. 19 on 12/27/2024
+                                                            Issued by - ________________________________
+                                                                         MR. JOSELITO GONDA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3615296    1  San Mig Coff 3n1 Crema 25g 240          D          6.89     6.89
+                                              .           
+ 3615301    1  San Mig Coff 3N1 Barako 20g240          D          6.96     6.96
+                                              .           
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240          D          7.01     7.01
+                                              .           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              .           
+ 4136035    3  Prenagen Mommy Emesis Cho400g6 12/31/24 E        335.75  1007.25
+                                              .           
+ 4510111    2  Mega Sard In TS Chili 155g  10          D         21.83    43.66
+                                              .           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,079.55
+                                                       Rundate 12/27/2024  13:14:48
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

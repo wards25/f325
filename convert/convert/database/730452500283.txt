@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730452500283
+                                                            Branch - 3045 LA UNION BALAOAN POBLACION(La Union Balaoan Poblacion )
+                                                            Prepared by - MARK LEDDA on 05/17/2025
+                                                            Issued by - ________________________________
+                                                                         DINO N NAVALTA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3856661   11  Locally Dalandan Jce Dr240mL24 06/30/02 E         25.08   275.88
+                                              .           
+ 4113084   25  Magnol All-Pur Flour 200g   48 05/05/25 E         23.70   592.50
+                                              .           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          7.78     7.78
+                                              .           
+ 4510153    3  Rite'n Lite Lych+Rse Dr250mL24          D         22.13    66.39
+                                              .           
+ 4510155    3  Rite'n Lite Peach Dr 250mL  24          D         22.13    66.39
+                                              .           
+ 4510201   42  Extra Joss Grape 4g         60 06/30/25 E          6.66   279.72
+                                              .           
+ 4510203   12  Extra Joss Mango 4g         60          G          6.66    79.92
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,368.58
+                                                       Rundate 05/17/2025  17:49:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     G-Deleted

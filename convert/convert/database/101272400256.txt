@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101272400256
+                                                            Branch - 127 Quezon City Novaliches Lagro(DISTRICT 5 )
+                                                            Prepared by - RUBY D. SANCHEZ on 02/14/2024
+                                                            Issued by - ________________________________
+                                                                         MR. MANUEL P.PALADA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104105    3  Del M Fit N Rght Sson330mL  24          D         26.65    79.95
+                                              X           
+ 1104107    4  Del M Fit N Rght Pine 330mL 24          D         26.65   106.60
+                                              X           
+ 3623305    9  Northland Crnbrry Jce 1.89L  8 02/10/24 E        386.10  3474.90
+                                              X           
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,661.45
+                                                       Rundate 02/14/2024  14:07:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

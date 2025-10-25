@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109272401099
+                                                            Branch - 927 Gen. Santos City Acharon(GENSAN-ACHARON BOULEVARD GEN. SANTOS CITY)
+                                                            Prepared by - AIAN KRIS D. TOLEDO on 09/24/2024
+                                                            Issued by - ________________________________
+                                                                         MILANIE D. HERRADA
+                                                                            (Branch Manager)
+
+ Shipped To - BONA FIDE DIST VENTURES, INC. (96005  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1221856   17  San Marino Crnd TunaChili85g48 12/28/26 G         26.33   447.61
+                                              SMCCT329    
+ 1225221   45  San Marino Crnd Tuna 180g   48 02/02/27 G         43.20  1944.00
+                                              SMCTT2305   
+ 1225222   61  San Marino Crnd TunaChli180g48 10/07/26 G         43.20  2635.20
+                                              SMCCT3134   
+ 4120006   37  Highland Crnd Bf 180g       48 03/06/27 G         57.15  2114.55
+                                              HLCBC427    
+ 4121005   71  San Marino Crnd TunaChli150g48 12/27/26 G         35.10  2492.10
+                                              SMCCT326    
+ 4121007   45  San Marino Crnd Tuna 150g   48 01/18/27 G         35.10  1579.50
+                                              SMCTR304    
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>       11,212.96
+                                                       Rundate 09/24/2024  18:57:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  G-Deleted

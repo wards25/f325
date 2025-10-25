@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730942500255
+                                                            Branch - 3094 Batangas Padre Garcia Poblacion(PADRE GARCIA, BATANGAS )
+                                                            Prepared by - DANIELA D. CARINGAL on 06/25/2025
+                                                            Issued by - ________________________________
+                                                                         RODELYN R. SILVA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3382329    4  Novellino Rosso Trad 750mL  12          A        265.00  1060.00
+                                              30783       
+ 3382334    3  Novellino Lusc Pch Wh W750mL12          A        265.00   795.00
+                                              30783       
+ 3382344    3  Novellino Rosso ClscLgt750mL12          A        265.00   795.00
+                                              30783       
+ 3382350    3  Novellino Rosso Vivace 750mL12          A        320.00   960.00
+                                              LBB15509A   
+ 3723286    8  Ding Dong Sup Mxd Nuts 100g 60          I         20.54   164.32
+                                              B10T        
+ 3973057   12  Selecta Adult Activ Vnl245mL24 06/03/25 F         34.95   419.40
+                                              B4MB0       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,193.72
+                                                       Rundate 06/25/2025  11:34:17
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  A-Overstock/Good stock    F-Expired     I-Loose Tablet Items (Factory Defect)

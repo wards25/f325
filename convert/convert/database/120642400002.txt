@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120642400002
+                                                            Branch - 2064 ZAMB DS MLV MLOY-ON MABINI(MABINI ST. BRGY,MALOLOY-ON MOL AVE ZDS)
+                                                            Prepared by - Consuelo S. Darunday on 01/04/2024
+                                                            Issued by - ________________________________
+                                                                         Arlyn C. Gatoc
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104038    2  Del M Or Jce HeartS Tetra1L 12 03/03/24 D         97.82   195.64
+                                              2123T488    
+ 1148915    1  Selecta Forti Mlk 1L        12 05/31/24 D         85.46    85.46
+                                              12C65AO     
+ 3723633    1  Selecta Forti MlkStr1Lx2SP10 6 05/08/24 D        155.94   155.94
+                                              54E6JAO     
+ 3723634    1  Selecta Farm Frsh Mlk1Lx2SP7 6 04/13/24 D        180.14   180.14
+                                              04KDTO      
+ 3723648    5  Selecta Dolce LFat Choc 1L  12 04/10/24 D         85.96   429.80
+                                              C5DPO       
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,046.98
+                                                       Rundate 01/04/2024  19:27:58
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

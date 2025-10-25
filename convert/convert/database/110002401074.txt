@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110002401074
+                                                            Branch - 1000 Quezon City MDC 100(1000-QC MDC 100 )
+                                                            Prepared by - mitch Lapuz on 09/21/2024
+                                                            Issued by - ________________________________
+                                                                         Ms.Jennifer Pio De Roda
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723282    1  Cupp Keyk Choc Mcha         10          D          6.80     6.80
+                                              NA          
+ 3723284    1  Fudgee Barr Choc Blst       10          D          8.01     8.01
+                                              NA          
+ 3723285    1  Fudgee Barr Mlky Crze       10          D          8.10     8.10
+                                              NA          
+ 3723570    1  Naturelab AlcSprFrtySlsh50mL12          D         44.25    44.25
+                                              NA          
+ 3723625    2  Kopiko Blanca TwnPckCoff58g120          D         11.22    22.44
+                                              NA          
+ 4113096    1  Magnol Sandwich Sprd 80mL   24          D         25.66    25.66
+                                              NA          
+ 4136010    1  Kopiko Blck 3-N-1 Coff 30g 240          D          6.80     6.80
+                                              NA          
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          122.06
+                                                       Rundate 09/21/2024  16:42:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

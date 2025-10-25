@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 703222500012
+                                                            Branch - 322 Paranaque City Aseana Business Park(alongBradco corMcpgal Blvd )
+                                                            Prepared by - Weng Palmero on 01/22/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Lolit O. Rodas
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.92     2.92
+                                              no lot      
+ 4025177    5  Nescafe Original 26g       520          D          7.37    36.85
+                                              no lot      
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 10/17/26 D         12.37    24.74
+                                              no lot      
+ 4025237    2  Nescafe Crmy Wh Twin Pck51g200 11/30/25 D         12.37    24.74
+                                              no lot      
+ 4530000    3  Starbucks Latte DShtEsp220mL24 02/15/25 E         76.00   228.00
+                                              no lot      
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          317.25
+                                                       Rundate 01/22/2025  14:24:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

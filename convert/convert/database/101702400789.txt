@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 101702400789
+                                                            Branch - 170 Malolos City McArthur Hway(170 MALOLOS HIGHWAY BRANCH )
+                                                            Prepared by - IRENE C. TOLIBAS on 04/16/2024
+                                                            Issued by - ________________________________
+                                                                         Novie G. Villalon
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20 09/13/25 D         12.33    12.33
+                                              B421M10     
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 09/21/24 D         20.16    20.16
+                                              B6          
+ 3723587    5  Fiesta SpagheTpd 3ChseSP18  12 02/08/24 E         68.76   343.80
+                                              5652        
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 12/20/23 D         11.22    11.22
+                                              2015TGR     
+ 4136022    1  Kopiko L.A. Coffee 25g     240 01/13/25 D          6.16     6.16
+                                              1539TGR     
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          393.67
+                                                       Rundate 04/16/2024  08:37:23
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

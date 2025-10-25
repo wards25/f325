@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707312500031
+                                                            Branch - 731 Liloan Natl Hway(POBLACION LILOAN CEBU )
+                                                            Prepared by - MA.ELLEN B.PALATAN on 02/14/2025
+                                                            Issued by - ________________________________
+                                                                         LENDYL K.CARLOS
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1147304   31  Sunkist Frt Dr Mgo 235mL    24 10/01/25 D         20.05   621.55
+                                              B15         
+ 1147360    7  Selecta Moo Choc 245mL      24 04/01/25 D         28.36   198.52
+                                              3AC         
+ 1148913   12  Selecta Forti Mlk 245mL     24 12/01/25 D         34.23   410.76
+                                              E3DA        
+ 1148915    4  Selecta Forti Mlk 1L        12 07/01/25 D         85.46   341.84
+                                              55A         
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 12/01/25 D         91.92    91.92
+                                              10A         
+ 3973031    6  Selecta Forti Mlk Strlzed 1L12 09/01/25 D         80.88   485.28
+                                              10P         
+ 3973055    3  Selecta Farm Frsh Mlk 1L    12 08/01/25 D         93.30   279.90
+                                              490A        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,429.77
+                                                       Rundate 02/14/2025  20:05:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

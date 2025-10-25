@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702322500382
+                                                            Branch - 232 Binangonan JP Rizal(BIN JP RIZAL )
+                                                            Prepared by - Liezel P. Sinubangan on 06/05/2025
+                                                            Issued by - ________________________________
+                                                                         Mr.John Monroe Hernandez
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008          D          2.92     2.92
+                                              .           
+ 3748436    1  Nestea Lem ITea 25g        144          D         18.57    18.57
+                                              .           
+ 4025037    1  Nescafe 3n1 CrmyLatte27.5g 240          D          8.20     8.20
+                                              .           
+ 4025056   23  Nescafe Crmy Wh 25.5g      240 06/30/25 E          8.20   188.60
+                                              .           
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              .           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          231.61
+                                                       Rundate 06/05/2025  16:52:52
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

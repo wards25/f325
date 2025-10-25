@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107192400206
+                                                            Branch - 719 Consolacion Nat'l Hway( )
+                                                            Prepared by - SHEILA C. PARAS on 03/24/2024
+                                                            Issued by - ________________________________
+                                                                         MIRAFE D. MANZON
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103167    9  Del M Or Jce Swtnd 220mL    24 12/01/23 F         28.00   252.00
+                                              0           
+ 1104028    1  Del M Mango Jce Tetra 1L    12 12/02/23 F         93.54    93.54
+                                              0           
+ 3623297    5  Pfanner Plum/Prune Jce 1L    8 10/16/23 F        125.10   625.50
+                                              0           
+ 3723344   11  Malkist ChocCrkrSandW18gx10 30 01/23/24 F         51.43   565.73
+                                              0           
+ 3723374   12  Ding Dong Snck Mx Chip&C95g 60 01/16/24 F         20.16   241.92
+                                              0           
+ 3723389    1  Energen Mlk&Cer Dr Vnla 40g240 09/22/24 D          7.01     7.01
+                                              0           
+ 3723567    1  Kopiko RTD Lucky Day 180ml  24 06/10/24 D         20.00    20.00
+                                              0           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,805.70
+                                                       Rundate 03/24/2024  13:09:50
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

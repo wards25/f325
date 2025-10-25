@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702602500274
+                                                            Branch - 260 SP SAMPOL(SJDM CITY SAPANG PALAY BULACAN DISTRICT XI)
+                                                            Prepared by - NERI PEREZ on 07/05/2025
+                                                            Issued by - ________________________________
+                                                                         MS. MARICAR Y. ALFEREZ
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4530003    9  Kitkat Santa 29gx3          44 07/31/25 E        122.73  1104.57
+                                              42060316    
+ 4530053    7  Nescafe Mocha Can 220mL     24 07/24/25 E         34.62   242.34
+                                              4207b467b2  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,346.91
+                                                       Rundate 07/05/2025  09:45:10
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring

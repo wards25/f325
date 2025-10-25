@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 121702400574
+                                                            Branch - 2170 Zamboanga Sto. Nino San Jose( )
+                                                            Prepared by - Ana Marie G. Navalta on 08/25/2024
+                                                            Issued by - ________________________________
+                                                                         Ms.Lourdes C. Abelita
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009532    1  Royal Spaghetti 900g        18 10/12/25 D         97.00    97.00
+                                              C1023       
+ 3207787    3  Lipton Tea Yel Label 50     12 08/17/25 D        225.69   677.07
+                                              3230NL462   
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 02/09/25 D         20.25    20.25
+                                              SBT03621009 
+ 3723625    1  Kopiko Blanca TwnPckCoff58g120 11/07/25 D         11.22    11.22
+                                              0048TGR07050
+ 3723626    1  Kopiko Brown TwnPckCoff 53g120 10/02/25 D         11.26    11.26
+                                              1524TGR02024
+ 4510151    1  Rite'n Lite Ccmber Dr250mL  24 04/25/25 D         20.25    20.25
+                                              001110004   
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          837.05
+                                                       Rundate 08/25/2024  14:00:47
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

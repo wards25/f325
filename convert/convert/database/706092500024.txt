@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 706092500024
+                                                            Branch - 609 Candon City Nat'l Hway(CANDON CITY NAT'L HWAY )
+                                                            Prepared by - SHIERA MARIX B. LIMAYO on 03/12/2025
+                                                            Issued by - ________________________________
+                                                                         FRANCISCO S. BALAQUE
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3048433    1  555 Sardine Frd H&Spcy 155g100 12/30/25 F         31.83    31.83
+                                              CFHSAD      
+ 3793335    2  Argentina CChckn 150g       48 02/28/25 F         32.86    65.72
+                                              ASRO7       
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           97.55
+                                                       Rundate 03/13/2025  11:29:14
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

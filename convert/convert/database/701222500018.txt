@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 701222500018
+                                                            Branch - 122 QZN AV RSVELT( )
+                                                            Prepared by - IRICA V. LIMSON - D2 on 02/12/2025
+                                                            Issued by - ________________________________
+                                                                         Mr. Jerry D. Sosa
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109321    1  Nescafe Clssc 1.9g        1008 02/28/26 D          2.92     2.92
+                                              43128985C   
+ 1167452    1  Nestle Chuckie Cal-N 250mL  24 08/31/25 D         28.08    28.08
+                                              427864382A  
+ 3748436    1  Nestea Lem ITea 25g        144 08/31/25 D         18.57    18.57
+                                              SBT42430604 
+ 4025037   37  Nescafe 3n1 CrmyLatte27.5g 240 02/28/25 E          8.20   303.40
+                                              40468985A151
+ 4025099    1  Nestle KKrunch 35g          72 05/17/25 D         16.36    16.36
+                                              41380630BI  
+ 4025219    2  Nescafe 3n1 Orig TwinPck56g200 06/30/25 D         12.37    24.74
+                                              41570602NIC3
+ 4025237    3  Nescafe Crmy Wh Twin Pck51g200 05/31/25 D         12.37    37.11
+                                              41320697UIFI
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          431.18
+                                                       Rundate 02/12/2025  10:10:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

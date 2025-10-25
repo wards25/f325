@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704302500261
+                                                            Branch - 430 Iba Public Market( )
+                                                            Prepared by - MERALUNA M .LOON on 05/26/2025
+                                                            Issued by - ________________________________
+                                                                         VANESSA A. APIGO
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1016287    2  555 Tuna Flakes Afritada155g50          D         26.68    53.36
+                                              .           
+ 1016298    1  555 Tuna Flakes Mchado 155g 50          D         26.68    26.68
+                                              .           
+ 1210417    6  555 Carne Norte 150g        48          D         27.62   165.72
+                                              .           
+ 1210486    9  Argentina CBeef Jr 150g     48          D         32.38   291.42
+                                              .           
+ 1210487   10  Argentina Meat Loaf 100g    48          D         16.43   164.30
+                                              .           
+ 3048415    1  555 Sardines TS 425g        48          D         57.10    57.10
+                                              .           
+ 3048420    2  555 Sardines TS W/Chili425g 48          D         58.14   116.28
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          874.86
+                                                       Rundate 05/26/2025  15:06:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

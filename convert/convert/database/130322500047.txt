@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130322500047
+                                                            Branch - 3032 ISAB RXS XTRO MALL(RIZAL,ROXAS,ISABELA )
+                                                            Prepared by - MARY ANN P HERMOSA on 02/06/2025
+                                                            Issued by - ________________________________
+                                                                         JEANIFER B.SUMAIT
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413866   47  Nagaraya Crkr Nut Gar 80g   60 12/24/24 F         20.54   965.38
+                                              24650       
+ 3551927    2  Suncoast Vit Bst Or 600mL   24 12/05/24 D         35.70    71.40
+                                              031047      
+ 3723532    8  UFC Mushroom Pcs & Stems400g24 01/26/25 F         48.93   391.44
+                                              3502        
+ 3723550    1  Mighty Mom DLiqLem500mLB1T1 12 08/06/26 D         92.65    92.65
+                                              MFG08       
+ 3723635   10  King Tut Cap 500mg 2s       10 05/25/25 E        160.00  1600.00
+                                              23KT0502    
+ 3780422    7  Diabetasol Swtnr 75g         3 10/02/24 F        159.20  1114.40
+                                              02G2        
+ 3780427    4  Diabetasol Cappuccino 600g   3 10/30/24 F        883.20  3532.80
+                                              23N2901GU   
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        7,768.07
+                                                       Rundate 02/06/2025  16:13:18
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

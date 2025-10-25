@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 104092400129
+                                                            Branch - 409 ABRA BGN TF(TAFT ST. ZONE 5 BANGUED ABRA )
+                                                            Prepared by - RVBARBADILLO/JOELTAMAYO on 01/29/2024
+                                                            Issued by - ________________________________
+                                                                         SUCHAN. CADIENTE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723584    2  Fiesta Fil SpagTpd1.6kgSP30 10 07/16/24 D        109.48   218.96
+                                              58C1        
+ 3723590    3  Royal Cheesy R&T 1.6kg SP49 10 05/25/24 D        121.94   365.82
+                                              56B2        
+ 4100002    1  Kettle Korn Cheese 120g     30 06/11/24 D         36.25    36.25
+                                              MLM3        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          621.03
+                                                       Rundate 01/29/2024  18:10:56
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

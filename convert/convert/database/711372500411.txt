@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 711372500411
+                                                            Branch - 1137 MANILA SAMPALOC ESPANA BLVD(2202 ESPANA BLVD MLA )
+                                                            Prepared by - MYLIN P HINOGUIN on 09/11/2025
+                                                            Issued by - ________________________________
+                                                                         CATHY M. KABILING
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870033    1  Creamsilk Cond HFallDef11mL288          D          5.93     5.93
+                                              nolot       
+ 3870066    1  Creamsilk Cond TKR UR&S10mL288          D          6.66     6.66
+                                              nolot       
+ 3870071   34  Creamsilk Cond TKR UStr10mL288          D          6.66   226.44
+                                              nolot3      
+ 3870115    2  Dove Sh Biotin HFall 10mL  288          D          5.15    10.30
+                                              nolot       
+ 3870124    3  Dove Sh Rstre Nrshng Cr10mL288          D          5.15    15.45
+                                              nolot       
+ 3870131    2  Dove Sh BK Strgt&Slky 10mL 288          D          5.68    11.36
+                                              nolot       
+ 3980133    4  Master DC A-Pimple 135mL     6          D         83.84   335.36
+                                              nolot       
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          611.50
+                                                       Rundate 09/11/2025  15:07:33
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

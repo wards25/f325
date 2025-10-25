@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 710702500093
+                                                            Branch - 1070 Binangonan EM Complex(BIN.EM COMPLEXPANTOK )
+                                                            Prepared by - JESUSA S. BAGABALDO on 02/08/2025
+                                                            Issued by - ________________________________
+                                                                         MR. ERNIE DS. TUNQUE
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1009562    4  Ladys C Mynaise 220mL       24 03/25/25 E        112.05   448.20
+                                              0           
+ 3039296    1  Surf Pdr Chrry Blssm 50g   288          D          6.13     6.13
+                                              0           
+ 3050005    1  Surf Pdr SFrsh 57g         288          D          6.13     6.13
+                                              0           
+ 3265459    1  Close Up MnthFr175gx2 80%2nd36          D        138.96   138.96
+                                              0           
+ 3870359    3  Dove Sh Crmde InR170mL50%2nd12 03/23/25 E        235.94   707.82
+                                              0           
+ 6200290    1  Surf FabCond LuxePer25mL6+1 50          D         31.16    31.16
+                                              0           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,338.40
+                                                       Rundate 02/08/2025  18:02:51
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

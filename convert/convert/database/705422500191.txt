@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705422500191
+                                                            Branch - 542 San Jose Cooper(SAN JOSE COOPER OCCIDENTAL MINDORO)
+                                                            Prepared by - MARYGIE M. TAPANG on 05/02/2025
+                                                            Issued by - ________________________________
+                                                                         ARNEL JOSE. RECIO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3723388    1  Rite'n Lite Rootbeer Dr250mL24 04/18/25 F         22.13    22.13
+                                              SF4         
+ 3856633   16  Mang Tomas Lchon Sce 325g   24 05/11/25 E         33.25   532.00
+                                              24H14M060942
+ 3856650   23  Mang Tomas Hot&Spcy 325g    24 05/17/25 E         34.20   786.60
+                                              24H20M060450
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,340.73
+                                                       Rundate 05/02/2025  10:55:32
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

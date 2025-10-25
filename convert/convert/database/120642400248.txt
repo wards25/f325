@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 120642400248
+                                                            Branch - 2064 ZAMB DS MLV MLOY-ON MABINI(MABINI ST. BRGY,MALOLOY-ON MOL AVE ZDS)
+                                                            Prepared by - Consuelo S. Darunday on 03/24/2024
+                                                            Issued by - ________________________________
+                                                                         Arlyn C. Gatoc
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104027    1  Del M Four Sson Jce Tetra 1L12 01/26/25 D         87.31    87.31
+                                              SBIC        
+ 1104030    3  Del M Pine-Or Jce Tetra 1L  12 11/09/24 D         87.31   261.93
+                                              SBIYY       
+ 1104038    3  Del M Or Jce HeartS Tetra1L 12 08/24/24 D         97.82   293.46
+                                              SBCIC       
+ 1104061    1  Del M Pine Jce Fiber Tetra1L12 10/04/24 D        104.23   104.23
+                                              JF          
+ 1104065    1  Del M Pine Jce HeartSTetra1L12 11/14/24 D        104.23   104.23
+                                              L3318YY12   
+ 3723621    6  Natrue Almnd Unswtnd Dr 1L   6 08/15/24 D        126.65   759.90
+                                              L3323       
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,611.06
+                                                       Rundate 03/24/2024  15:11:24
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

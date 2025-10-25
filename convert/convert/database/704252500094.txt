@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704252500094
+                                                            Branch - 425 Masbate City Zurbito(MERCURY DRUG MASBATE ZURBITO )
+                                                            Prepared by - ROMMEL L. SOCITO on 03/12/2025
+                                                            Issued by - ________________________________
+                                                                         RUDY M. CARDENAS
+                                                                            (Branch Manager)
+
+ Shipped To - CARBON DIST COMPANY INC. (22821  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1035690   10  Ligo Sard In TS Chili 155g 100          D         23.98   239.80
+                                              N           
+ 1210416    5  Argentina CBeef 260g        48          D         53.81   269.05
+                                              N           
+ 3793319    6  Birch Tree Forti Mlk Pdr660g12          D        194.80  1168.80
+                                              N           
+ 3793320   26  Birch Tree Forti Mlk Pdr300g24          D         88.32  2296.32
+                                              N           
+ 4131044    3  Angel Evaporada 410mLx3 SP8 16 03/11/25 E         76.62   229.86
+                                              N           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        4,203.83
+                                                       Rundate 03/12/2025  14:31:49
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110142400993
+                                                            Branch - 1014 San Jose Del Monte City Starmall(Bulacan SJDM Strmall )
+                                                            Prepared by - DES P. PALILEO on 12/28/2024
+                                                            Issued by - ________________________________
+                                                                         MR. FREDIRIC D. DE JOSE
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3606232    1  Jimms 5in1 Coffee Mix SF 21g20 06/18/26 D         12.33    12.33
+                                              B257M79     
+ 3723594    1  Tiger Balm Red Jar 30g      12 05/31/28 D         92.80    92.80
+                                              M240549     
+ 4510201   12  Extra Joss Grape 4g         60 01/31/25 E          6.66    79.92
+                                              FA252D      
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          185.05
+                                                       Rundate 12/28/2024  14:27:55
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

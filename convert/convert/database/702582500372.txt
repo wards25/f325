@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 702582500372
+                                                            Branch - 258 Sta. Cruz P. Guevarra( )
+                                                            Prepared by - RACHEL R. TALABIS on 06/01/2025
+                                                            Issued by - ________________________________
+                                                                         MR. OLIVER C. ALUB
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1138398    1  Purefood Chnse LchMeat 350g 24 11/12/26 D         77.81    77.81
+                                              PCL         
+ 1165682    1  Magnol Daily Quezo 160g     48 06/01/25 E         33.27    33.27
+                                              50102TBA58  
+ 3723648    7  Selecta Dolce LFat Choc 1L  12 06/16/25 E         85.96   601.72
+                                              41B5RA0     
+ 4113078    1  Magnol Chzee Block 160g     48          D         41.56    41.56
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          754.36
+                                                       Rundate 06/01/2025  14:20:54
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

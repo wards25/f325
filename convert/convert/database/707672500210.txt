@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 707672500210
+                                                            Branch - 767 Balasan Del Rosario(BALASAN DEL ROSARIO )
+                                                            Prepared by - GLORIFE F. FAGTANAN on 08/13/2025
+                                                            Issued by - ________________________________
+                                                                         MS.LEIZL JOY C. PANES
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1108636    1  Bear Br Strlzed RTD 1L      12 12/30/25 D         97.19    97.19
+                                              51540189YD  
+ 3748503    5  Nestle KKrunch SPck 80g     24 02/22/26 D         48.18   240.90
+                                              50530631CD2 
+ 3760011    6  Nido NutriSnaxSbry-Crot110mL60 12/31/25 D         17.76   106.56
+                                              50120189LD  
+ 4025052   18  Nestle Coffeemate 150g      60 08/31/25 E         44.78   806.04
+                                              4138643831  
+ 4025099    1  Nestle KKrunch 35g          72 03/24/26 D         16.36    16.36
+                                              50830630B1C3
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,267.05
+                                                       Rundate 08/13/2025  14:46:30
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

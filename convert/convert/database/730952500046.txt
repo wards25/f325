@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730952500046
+                                                            Branch - 3095 Quezon Candelaria Waltermart( )
+                                                            Prepared by - Ranjil M. Almario on 05/08/2025
+                                                            Issued by - ________________________________
+                                                                         Mr.Ryan H.Verain
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3413868    1  Nagaraya Crkr Nut Bbq 160g  48 04/14/25 F         41.27    41.27
+                                              24752       
+ 3413869    1  Nagaraya Crkr Nut Gar 160g  48 04/04/25 F         41.27    41.27
+                                              24742       
+ 3413870    3  Nagaraya Crkr Nut Orig 160g 48 04/15/25 F         41.27   123.81
+                                              24753       
+ 3723732    6  Selecta Farm Frsh Mk1Lx2SP7 12 04/10/25 F        180.14  1080.84
+                                              57h8mb0     
+ 3973057   15  Selecta Adult Activ Vnl245mL24 04/19/25 F         34.95   524.25
+                                              A3RE0       
+ 3973059    5  Selecta Adult Activ Vnla 1L 12 04/19/25 F        115.60   578.00
+                                              59H5BM0     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,389.44
+                                                       Rundate 05/08/2025  08:34:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  F-Expired

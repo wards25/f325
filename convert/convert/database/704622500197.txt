@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 704622500197
+                                                            Branch - 462 Paranaque City Sucat Interchange(SUCAT INTERCHANGE )
+                                                            Prepared by - Neneth T. Magdale-District20 on 05/29/2025
+                                                            Issued by - ________________________________
+                                                                         Ms. Lea O. De Ocampo
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1109325    1  Nescafe Clssc Ref 92g       30          D         91.46    91.46
+                                              50150190JA  
+ 1167456    1  Nestle Chuckie Cal-N 1000mL 12          D        102.06   102.06
+                                              NO LOT      
+ 1167857   90  Nestle All Purpose Crm 250mL24 06/30/25 E         67.29  6056.10
+                                              418664382A  
+ 3748436    1  Nestea Lem ITea 25g        144          D         18.57    18.57
+                                              E141        
+ 4025177    1  Nescafe Original 26g       520          D          7.37     7.37
+                                              NO LOT      
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200          D         13.32    13.32
+                                              NO LOT      
+ 4530022    2  Nescafe Crmy Lat TwinPck51g200          D         13.32    26.64
+                                              F1E2        
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        6,315.52
+                                                       Rundate 05/29/2025  09:10:28
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

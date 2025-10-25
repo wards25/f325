@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 103452400221
+                                                            Branch - 345 Quezon City Trinoma Mall Level M1( )
+                                                            Prepared by - luz/mariz on 02/04/2024
+                                                            Issued by - ________________________________
+                                                                         MS.Jannel M. Fegi
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103985    1  Del M Pine Jce HeartS 220mL 24          D         30.80    30.80
+                                              1           
+ 3723286    2  Ding Dong Sup Mxd Nuts 100g 60          D         20.16    40.32
+                                              1           
+ 3723390    1  Energen Mlk&Cer Dr Choc 40g240          D          7.01     7.01
+                                              1           
+ 3723625    3  Kopiko Blanca TwnPckCoff58g120          D         11.22    33.66
+                                              1           
+ 3856650    3  Mang Tomas Hot&Spcy 325g    24          D         34.20   102.60
+                                              1           
+ 4136022    1  Kopiko L.A. Coffee 25g     240          D          6.16     6.16
+                                              1           
+ 4136024    1  Kopiko Blanca Coff 30g     240          D          6.80     6.80
+                                              1           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          227.35
+                                                       Rundate 02/04/2024  15:33:25
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

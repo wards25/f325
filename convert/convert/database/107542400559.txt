@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 107542400559
+                                                            Branch - 754 Dumaguete City Nat'l Hway(COR Nat'l Hwy EJ Blanco Dr DUMAGUETE CITY)
+                                                            Prepared by - WENN M. DURAN on 08/25/2024
+                                                            Issued by - ________________________________
+                                                                         ANTHONY T BULING
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 01/09/25 D         91.92    91.92
+                                              29B5DAO     
+ 3413868    1  Nagaraya Crkr Nut Bbq 160g  48 03/06/25 D         41.27    41.27
+                                              24713A      
+ 3413869    1  Nagaraya Crkr Nut Gar 160g  48 05/02/25 D         41.27    41.27
+                                              24768C      
+ 3413870    1  Nagaraya Crkr Nut Orig 160g 48 02/11/25 D         41.27    41.27
+                                              241690C     
+ 3623279    3  Apple&E 100%Jce ApNoSgar1.89L8 08/26/24 E        305.10   915.30
+                                              NJCTRV      
+ 3623284    6  Northland Bluebrry Jce 1.89L 8 08/17/24 F        386.10  2316.60
+                                              CTRV        
+ 3856633    1  Mang Tomas Lchon Sce 325g   24 08/14/24 F         33.25    33.25
+                                              A125747     
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,480.88
+                                                       Rundate 08/25/2024  16:14:59
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring     F-Expired

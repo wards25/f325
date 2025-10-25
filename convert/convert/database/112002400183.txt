@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 112002400183
+                                                            Branch - 1200 Bulacan Waltermart Malolos(BULACAN WALTERMART MALOLOS CI TY MALOLOS BULACAN)
+                                                            Prepared by - MHAYE J. VICTORIA on 02/18/2024
+                                                            Issued by - ________________________________
+                                                                         MS. MYRA F. ESPINOZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103167   16  Del M Or Jce Swtnd 220mL    24 03/01/24 E         28.00   448.00
+                                              2342        
+ 1103961    4  Del M Fit N RghtBurnApl330mL24 02/22/24 E         30.80   123.20
+                                              002544      
+ 1103962    1  Del M Fit N RghtBurn4sn330mL24 02/21/24 E         30.80    30.80
+                                              nl          
+ 1104038    2  Del M Or Jce HeartS Tetra1L 12 01/20/24 E         97.82   195.64
+                                              041900016   
+ 1335417   11  Myseptic Mybacin Lzw/ZLem10g40 02/01/24 E         36.75   404.25
+                                              120210354   
+ 3723344   30  Malkist ChocCrkrSandW18gx10 30 02/21/24 E         48.15  1444.50
+                                              101a8       
+ 3723386    1  Rite'n Lite Lem Lime Dr250mL24 10/20/24 D         20.25    20.25
+                                              sbt03620551 
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,666.64
+                                                       Rundate 02/18/2024  12:36:19
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 721842500115
+                                                            Branch - 2184 Negros Oriental Bacong Poblacion(NEGROS ORIENTAL BACONG POBLACI ON)
+                                                            Prepared by - AJ M. LARA on 05/12/2025
+                                                            Issued by - ________________________________
+                                                                         JANE FESA R. CERDANIA
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1167470    1  Nestle Frsh Mlk 1000mL      12 10/28/25 D        106.43   106.43
+                                              2330781408  
+ 4025099    1  Nestle KKrunch 35g          72 08/18/25 D         16.36    16.36
+                                              42310630B1B2
+ 4530001    3  Starbucks Mocha DshtEsp220mL24 04/24/25 E         76.00   228.00
+                                              2017        
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          350.79
+                                                       Rundate 05/12/2025  10:35:21
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

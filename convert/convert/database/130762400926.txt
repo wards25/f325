@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 130762400926
+                                                            Branch - 3076 La Union Rosario Poblacion East(POB.EAST ROSARIO LU )
+                                                            Prepared by - KRISTEL ANN M. RINGOR on 08/13/2024
+                                                            Issued by - ________________________________
+                                                                         ROMILA W. BOADO
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1104028    8  Del M Mango Jce Tetra 1L    12 09/13/24 E         95.41   763.28
+                                              .           
+ 1104029    3  Del M Pine Jce Swtnd Tetra1L12 09/22/24 E         89.04   267.12
+                                              .           
+ 1104045    7  Del M Pine Jce Sbrry Tetra1L12 09/11/24 E         89.04   623.28
+                                              .           
+ 3723374   41  Ding Dong Snck Mx Chip&C95g 60 09/16/24 E         20.16   826.56
+                                              .           
+ 3723539   24  Jimms 3+1 CofeeMixW/Gins20g 12 08/10/24 F          6.04   144.96
+                                              .           
+ 3723589    4  Fiesta Spag TpdSwt1.6kgSP20 10 09/08/24 E        117.39   469.56
+                                              .           
+ 3856646    5  UFC GldnFstaCkingOilSup500mL24 09/18/24 E         68.16   340.80
+                                              .           
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        3,435.56
+                                                       Rundate 08/13/2024  14:31:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

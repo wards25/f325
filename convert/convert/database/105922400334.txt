@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105922400334
+                                                            Branch - 592 CAEDO C BAT(CAEDO COMMERCIAL COMPLEX CALICANTO BATANGAS CITY)
+                                                            Prepared by - MARICHEL A. MENDOZA on 10/08/2024
+                                                            Issued by - ________________________________
+                                                                         JVKAE D. CRUZAT
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3760009   26  Nido NutriSnaxBnna-Crot110mL60 10/31/24 E         17.76   461.76
+                                              33090189    
+ 3760011   17  Nido NutriSnaxSbry-Crot110mL60 10/31/24 E         17.76   301.92
+                                              33090       
+ 4025177    2  Nescafe Original 26g       520 01/31/25 D          7.37    14.74
+                                              40268       
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 03/31/25 D         12.37    12.37
+                                              4061050     
+ 4025237   62  Nescafe Crmy Wh Twin Pck51g200 10/31/24 E         12.37   766.94
+                                              3294        
+ 4530022    3  Nescafe Crmy Lat TwinPck51g200 05/31/25 D         12.37    37.11
+                                              412905      
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,594.84
+                                                       Rundate 10/08/2024  08:52:40
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100012401701
+                                                            Branch - 1 Manila Sta. Cruz Bambang(Sta. Cruz Bambang )
+                                                            Prepared by - TERE on 07/22/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Aurora Liwanag
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103030    1  Del M Pine Jce W/VitACE1.36L12          D         98.00    98.00
+                                              1           
+ 1103936    2  Del M Todays Mix Frt 3033g   6          D        244.53   489.06
+                                              2           
+ 4103059    2  Del M Tmto Sce FilStyl 250g 48          D         22.35    44.70
+                                              2           
+ 4103090    4  Del M Spag Sce Swt Style900g12          D         91.93   367.72
+                                              4           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          999.48
+                                                       Rundate 07/22/2024  15:11:42
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

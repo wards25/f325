@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705112500138
+                                                            Branch - 511 OR MIN CPN C NEO CPN(NEO CALAPAN MALL )
+                                                            Prepared by - APRILYN C. MALALUAN on 05/28/2025
+                                                            Issued by - ________________________________
+                                                                         JOEL P. ALMINANZA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    1  Selecta Forti Mlk LowFat 1L 12 03/10/25 F         91.92    91.92
+                                              X           
+ 3723508    3  Oramed 0.1% 60mL            12 12/06/24 F         76.50   229.50
+                                              221201      
+ 3723509    5  Oramed 0.1% 120mL           12 02/03/25 F        127.50   637.50
+                                              230202      
+ 3856627   20  Datu Puti Patis 350mL       24 04/28/25 F         23.51   470.20
+                                              X           
+ 4136024    3  Kopiko Blanca Coff 30g     240 02/16/26 D          7.78    23.34
+                                              X           
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,452.46
+                                                       Rundate 05/28/2025  14:35:00
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

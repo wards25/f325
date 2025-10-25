@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 730612500136
+                                                            Branch - 3061 Zambales Iba Palanginan(PAL., IBA ZAMBALES )
+                                                            Prepared by - JEFF ROLAND B. MEDRANO on 07/18/2025
+                                                            Issued by - ________________________________
+                                                                         MAE F. CALICA
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1148939    2  Selecta Forti Mlk LowFat 1L 12 08/06/25 F         91.92   183.84
+                                              784A7       
+ 3723625    9  Kopiko Blanca TwnPckCoff52g120 10/25/25 D         12.11   108.99
+                                              .           
+ 4100005   15  Kettle Korn Sltd Crmel 120g 30 01/30/25 F         39.74   596.10
+                                              M3          
+ 4136010   65  Kopiko Blck 3-N-1 Coff 30g 240 02/14/25 F          7.23   469.95
+                                              .           
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        1,358.88
+                                                       Rundate 07/18/2025  12:24:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     F-Expired

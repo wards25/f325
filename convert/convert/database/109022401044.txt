@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 109022401044
+                                                            Branch - 902 Tagoloan Poblacion(POB TAGOLOAN, MIS OR )
+                                                            Prepared by - CHARRIE JOY C. LABIANO on 12/05/2024
+                                                            Issued by - ________________________________
+                                                                         MS. FEDORA ABALDE
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 05/31/25 D         12.37    12.37
+                                              41310602R1 D
+ 4025237    3  Nescafe Crmy Wh Twin Pck51g200 05/31/25 D         12.37    37.11
+                                              41270597F1 C
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>           49.48
+                                                       Rundate 12/06/2024  17:44:37
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

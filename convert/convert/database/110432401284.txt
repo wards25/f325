@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 110432401284
+                                                            Branch - 1043 Gen. Trias Poblacion(General Trias Poblacion Y)
+                                                            Prepared by - Rina Escarilla on 12/05/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Concepcion S. Baculod
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025177  109  Nescafe Original 26g       520 01/31/25 E          7.37   803.33
+                                              43          
+ 4025219    1  Nescafe 3n1 Orig TwinPck56g200 05/31/25 D         12.37    12.37
+                                              d2          
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          815.70
+                                                       Rundate 12/05/2024  15:17:03
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

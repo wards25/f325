@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 105942400416
+                                                            Branch - 594 APL MCAR HWY(594 )
+                                                            Prepared by - CARLO G. OCAMPO on 12/03/2024
+                                                            Issued by - ________________________________
+                                                                         JERRY C. SANTOS
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3870043    1  Creamsilk Cond S-Strght11mL288          D          5.93     5.93
+                                              N/A         
+ 3870297    2  Dove Sh Crmde IntRepair340mL12 11/05/24 E        276.61   553.22
+                                              2005221     
+ 3870309   13  Creamsilk Cond TKR UCR 300mL12 11/02/24 E        354.37  4606.81
+                                              N/A         
+ 3870315    1  Creamsilk Cond TKR UR&S170mL24 02/03/24 E        180.22   180.22
+                                              N/A         
+ 3980256    1  Ponds Wh Bty PCond Tner 60mL36 09/25/24 E         70.56    70.56
+                                              N/A         
+ 6200020    3  Tresemme Sh Keratin Sm 170mL24 11/24/24 E        157.73   473.19
+                                              0806221     
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        5,889.93
+                                                       Rundate 12/03/2024  18:10:13
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing     E-Expiring

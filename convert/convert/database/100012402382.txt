@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 100012402382
+                                                            Branch - 1 Manila Sta. Cruz Bambang(Sta. Cruz Bambang )
+                                                            Prepared by - tere on 10/07/2024
+                                                            Issued by - ________________________________
+                                                                         Ms. Aurora Liwanag
+                                                                            (Branch Manager)
+
+ Shipped To - CLOCKWORK DISTRIBUTION INC. (85001  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 3039132    1  Surf Bar SunFrsh 380g       36          D         26.95    26.95
+                                              1           
+ 3039295    2  Surf FabCond Luxe Perf 25mL360          D          5.19    10.38
+                                              2           
+ 3050002    3  Surf Bar ChryBlsm FabCon380g36          D         26.95    80.85
+                                              3           
+ 3050012    1  Surf Pdr PrplBlom Fabcon50g288          D          6.13     6.13
+                                              1           
+ 3050074    1  Surf Pdr Antibac ActvCln60g288          D          6.13     6.13
+                                              1           
+ 3980566    2  Dove Cr Bar Pk Mstrzng 90g  48          D         53.21   106.42
+                                              2           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          236.86
+                                                       Rundate 10/07/2024  12:36:39
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  D-Damaged / Redressing

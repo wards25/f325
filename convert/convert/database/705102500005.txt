@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 705102500005
+                                                            Branch - 510 Baliuag Poblacion(POBLACION BALIUAG BULACAN )
+                                                            Prepared by - KYLE PHILLIP CRUZ on 01/28/2025
+                                                            Issued by - ________________________________
+                                                                         ZOE ORDONIO
+                                                                            (Branch Manager)
+
+ Shipped To - CLUTCH MOVES DIST INC (24134  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 4025128    8  Cerelac Nutripuffs B&S 50g  12 01/15/25 F        106.54   852.32
+                                              33509531YB  
+ 4530034    4  Nestogen LowLactose 1-3Y 400g4 05/31/25 E        373.83  1495.32
+                                              332615801X  
+
+
+
+
+
+
+
+
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>        2,347.64
+                                                       Rundate 01/28/2025  15:37:20
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring     F-Expired

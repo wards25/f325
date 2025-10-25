@@ -1,0 +1,34 @@
+@M
+                                                            Doc.#  - 106002400152
+                                                            Branch - 600 Balanga City Paterno(BALANGA PATERNO )
+                                                            Prepared by - SHAIRA MAE S. JAVIER on 04/17/2024
+                                                            Issued by - ________________________________
+                                                                         MS.NOREEN AUDITOR
+                                                                            (Branch Manager)
+
+ Shipped To - RAMOSCO SALES & DIST INC (79449  )
+ Shipped Via Forwarder (Name and Waybill No.) - _________________________________    Date - _________________
+
+  ITEM                                                          COST    COST     
+  CODE    QNTY   DESCRIPTION                  EXP-DATE Reason   EACH  EXTENDED    
+  ----    ----   -----------                  --Lot #- -----    ----  --------     
+
+ 1103963   12  Del M Fit N RghtBurnPne330mL24 03/20/02 E         30.80   369.60
+                                              E           
+ 3723374    1  Ding Dong Snck Mx Chip&C95g 60 05/07/24 E         20.16    20.16
+                                              e           
+ 3856627    3  Datu Puti Patis 350mL       24 04/15/24 E         23.04    69.12
+                                              e           
+ 3856629    8  Datu Puti Soy Sce 340mL     24 05/15/24 E         17.10   136.80
+                                              e           
+ 3856635    3  Datu Puti Patis Pet 350mL   24 04/19/24 E         23.04    69.12
+                                              e           
+ 4103102    7  Del M Pot Crisp BsctSpcy50g 48 03/27/24 E         18.67   130.69
+                                              e           
+
+
+ NO. OF CARTONS OF THIS F-325                         TOTAL==>          795.49
+                                                       Rundate 04/17/2024  18:53:57
+
+ Reasons for returning the item/s to Central Warehouse c/o Returns Section or to Supplier
+  E-Expiring
