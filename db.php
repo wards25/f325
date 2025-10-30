@@ -1,4 +1,9 @@
 <?php
+// $host = 'localhost';
+// $dbuser = 'apps';
+// $dbpass = 'ramosco@123456789';
+// $database = 'dbf325';
+
 $host = 'localhost';
 $dbuser = 'root';
 $dbpass = '';
