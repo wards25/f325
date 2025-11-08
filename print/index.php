@@ -1,247 +1,380 @@
 <?php
 session_start();
-require_once('require/returnlogin.php');
+require_once('require/nocache.php');
 include('db.php');
-require_once('require/sessiondestroy.php');
-require_once('require/access.php');
-?>
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="expires" content="Sun, 01 Jan 2014 00:00:00 GMT"/>
-	<meta http-equiv="pragma" content="no-cache" />
-	<title>Print</title>
-	<link rel="icon" type="img/png" href="icon/rsdi.png">
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<!-- <script type="text/javascript" src="js/index.js"></script> -->
-	<script type="text/javascript" src="js/index_new.js"></script>
-</head>
-<body>
-	<table class="tbl-border">
+
+$username = $_SESSION['user'];
+$usertype = $_SESSION['usertype'];
+$size = $_SESSION['storesize'];
+$code = $_POST['code'];
+$brcode = $_SESSION['code'];
+
+if ($_SESSION['company'] == 'unilever') {
+	$vendor = $_POST['vendor'];
+	$prd_query = mysqli_query($conn, "SELECT * FROM custom WHERE company='$vendor' GROUP BY tagging ORDER BY tagging ASC ");
+} else if ($_SESSION['company'] == 'clutch') {
+	$vendor = $_POST['vendor'];
+	$prd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE company='$vendor' AND osaorder>='1' GROUP BY bu ORDER BY bu ASC ");
+} else if ($_SESSION['company'] == 'carbon') {
+	if ($usertype == 'bmssw') {
+		$vendor = 'CARBON';
+		$prd_query = mysqli_query($conn, "SELECT * FROM custom WHERE company='$vendor' AND osa>='1' ORDER BY header ASC ");
+	} else {
+		$vendor = 'GASCON';
+		$prd_query = mysqli_query($conn, "SELECT * FROM custom WHERE company='$vendor' AND osa>='1' ORDER BY header ASC ");
+	}
+} else {
+	$vendor = $_POST['vendor'];
+	$prd_query = mysqli_query($conn, "SELECT * FROM custom WHERE company='$vendor' AND osa>='1' ORDER BY header ASC ");
+}
+
+$row = mysqli_num_rows($prd_query);
+
+if ($row >= 1) {
+	while ($fetch_prd = mysqli_fetch_array($prd_query)) {
+
+		?>
 		<tr>
-			<td class="tbl-border-td1 tbl-border-menu">
-				<button type="button" class="button-style button-menu"></button>
-				<span class="span-text-menu">Menu</span>
-				<div class="div-menu-list">
-					<button type="button" class="button-style-menu-list" onclick="window.location.href='/dashboard'">DASHBOARD</button>
-					<button type="button" class="button-style-menu-list" onclick="window.location.href='logout.php'">LOGOUT</button>
-				</div>
-			</td>
-			<td class="tbl-border-td1"></td>
-		</tr>
-		<tr>
-			<td class="tbl-border-td2" colspan="2">
-				<select class="select-withNoBorder select-search">
-					<option value="f325number" placeholder="F325 Number...">F325 Number:</option>
-					<option value="brcode" placeholder="Branch Code...">Branch Code:</option>
-				</select>
-				<input type="text" class="input-withBorder input-search" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" onkeyup="LoadList();" placeholder="F325 Number..." value="">
-				<label class="lbl-style">Status:</label>
-				<select class="select-withBorder select-status" onchange="LoadList();">
-					<option value="OPEN">Open</option>
-					<option value="PRINTED">Print</option>
-				</select>
-				<label class="lbl-style">Company:</label>
-				<select class="select-withBorder select-company" onchange="LoadList();">
-					<option value="">All</option>
+			<td colspan="2">
+				<table class="tbl-custom">
 					<?php
-					$company_query = "SELECT * FROM dbcompany WHERE active='1' ";
+					$header = isset($fetch_prd['header']) ? $fetch_prd['header'] : null;
+					$bu = isset($fetch_prd['bu']) ? $fetch_prd['bu'] : null;
+					$tagging = isset($fetch_prd['tagging']) ? $fetch_prd['tagging'] : null;
 
-					// company
-					$company = "vendorcode='' ";
+					// census detail
+					$census_query = mysqli_query($conn, "SELECT region FROM census WHERE code='$code' ");
+					$fetch_census = mysqli_fetch_array($census_query);
 
-					for ($i = 1; $i <= 10; $i++)
-					{
-						//get vendor code of company
-						$vendorcode_query = mysqli_query($conn,"SELECT * FROM dbcompany WHERE id='$i' ");
-						$fetch_vendorcode = mysqli_fetch_array($vendorcode_query);
+					if (is_array($fetch_census)) {
+						$region = $fetch_census['region'];
+						// GMA AND EXPANDED GMA
+						if (($region == 'GMA' || $region == 'EXPANDED GMA') && ($header == 'SNAIL WHITE' || $header == 'OXECURE' || $header == 'SPARKLE' || $header == 'TRIZIE' || $header == 'SOLA' || $header == 'VITANATURE' || $header == 'TROPICANA') && $usertype == 'bmssw') {
+							$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE tagging='$tagging' AND category='$header' AND company='$vendor' AND mcl='1' AND storesize LIKE '%$size%' ORDER BY osaorder ASC ");
 
-						if ($_SESSION['comp'.$fetch_vendorcode['id']]){$company .= "OR vendorcode='".$fetch_vendorcode['vendorcode']."'";} 
-					}
+							$count = mysqli_num_rows($getprd_query);
 
-					$company_query .= "AND (".$company.") ";
-
-					$vendor_query = mysqli_query($conn,$company_query);
-					while ($fetch_vendor = mysqli_fetch_array($vendor_query))
-					{
+							if ($count >= 1) {
+								?>
+								<tr>
+									<th class="th-custom" colspan="5"><?php echo $fetch_prd['header']; ?></th>
+								</tr>
+								<tr>
+									<th class="th-custom1 tbl-th-design" rowspan="2">Description</th>
+									<th class="th-custom2 tbl-th-design" rowspan="2">AVAIL</th>
+									<th class="th-custom3 tbl-th-design" rowspan="2">OOS</th>
+									<th class="th-custom3 tbl-th-design" colspan="4"><i>(IF OOS)</i></th>
+								<tr>
+									<th class="th-custom3 tbl-th-design">NO STOCKS DC</th>
+									<th class="th-custom3 tbl-th-design">NO STOCK TRANSFER FROM DC TO STORE</th>
+									<th class="th-custom3 tbl-th-design">LOW PROMO OFF TAKE</th>
+								</tr>
+					</tr>
+					<?php
+					$avail = 1;
+					$oos = 0;
+					$option1 = 'A';
+					$option2 = 'B';
+					$option3 = 'C';
+					while ($fetch_getprd = mysqli_fetch_array($getprd_query)) {
 						?>
-						<option value="<?php echo $fetch_vendor['vendorcode']; ?>"><?php echo $fetch_vendor['name']; ?></option>
+						<tr class="tr-prd-list">
+							<td class="td-description"><?php echo $fetch_getprd['mdccode'] . ' - ' . $fetch_getprd['description']; ?></td>
+							<input type="hidden" name="mdccode[<?php echo $fetch_getprd['id']; ?>]"
+								value="<?php echo $fetch_getprd['mdccode']; ?>">
+							<td class="td-custom">
+								<input type="radio" class="avail" name="choice[<?php echo $fetch_getprd['id']; ?>]"
+									value="<?php echo $avail; ?>" required>
+							</td>
+							<td class="td-custom">
+								<input type="radio" class="oos" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $oos; ?>"
+									required>
+							</td>
+							<!-- options if OOS -->
+							<td class="td-custom">
+								<input type="radio" class="option1" name="option[<?php echo $fetch_getprd['id']; ?>]"
+									value="<?php echo $option1; ?>" disabled>
+							</td>
+							<td class="td-custom">
+								<input type="radio" class="option2" name="option[<?php echo $fetch_getprd['id']; ?>]"
+									value="<?php echo $option2; ?>" disabled>
+							</td>
+							<td class="td-custom">
+								<input type="radio" class="option3" name="option[<?php echo $fetch_getprd['id']; ?>]"
+									value="<?php echo $option3; ?>" disabled>
+							</td>
+						</tr>
 						<?php
 					}
-					?>
-				</select>
-				<form class="form-export" method="POST" action="exportsummary.php" target="_blank">
-					<label class="lbl-style">Date Export:</label>
-					<input type="date" class="input-withBorder input-date-export" name="name-export" value="<?php echo date("Y-m-d"); ?>">
-					<button class="button-withBorder button-export-printed">Export Printed Summary</button>
-				</form>
-			</td>
-		</tr>
-		<tr>
-			<td class="tbl-border-td3" colspan="2">
-				<div class="div-list-scroll">
-					<table class="tbl-list-order">
-						<tr>
-							<th class="tbl-list-order-th1">F325 #</th>
-							<th class="tbl-list-order-th2">Branch Name</th>
-							<th class="tbl-list-order-th3">Email Date</th>
-							<th class="tbl-list-order-th4">F325 Date</th>
-							<th class="tbl-list-order-th5">Vendor</th>
-							<th class="tbl-list-order-th6">Status</th>
-						</tr>
-						<tbody class="tbody-list-order"></tbody>
-				</table>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td class="tbl-border-td4" colspan="2">
-				<span class="span-username">
-					Connected remotely to <b style="color: #ed9121;font-style: italic;">Ramosco_Server </b>as: <b>
+							}
+						} elseif ($region == 'NORTH LUZON' || $region == 'SOUTH LUZON' || $region == 'VISAYAS' || $region == 'MINDANAO') {
+							if ($_SESSION['company'] == 'unilever') {
+								// $cluster_query = mysqli_query($conn,"SELECT * FROM census WHERE $usertype = '$username'"); #original code 05/06/2024
+								$cluster_query = mysqli_query($conn, "SELECT * FROM census WHERE code = '$brcode'");
+								$fetch_cluster = mysqli_fetch_array($cluster_query);
+
+								$cluster = $fetch_cluster['cluster'];
+								if ($cluster == 'o') {
+									$cluster = 'c';
+								} else {
+									$cluster = $fetch_cluster['cluster'];
+								}
+
+								$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE tagging='$tagging' AND company='$vendor' AND mcl='1' AND $size LIKE '%$cluster%' ORDER BY description ASC ");
+							} else if ($_SESSION['company'] == 'clutch') {
+								$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE bu='$bu' AND company='$vendor' AND mcl='1' AND storesize LIKE '%$size%' ORDER BY osaorder ASC ");
+							} else {
+								// $cluster_query = mysqli_query($conn,"SELECT * FROM census WHERE code = '$brcode'");
+								$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE tagging='$tagging' AND category='$header' AND company='$vendor' AND mcl='1' AND storesize LIKE '%$size%' ORDER BY osaorder ASC ");
+							}
+
+							$count = mysqli_num_rows($getprd_query);
+
+							if ($count >= 1) {
+								?>
+					<tr>
+						<?php
+						if ($_SESSION['company'] == 'unilever') {
+							echo '<th class="th-custom" colspan="4">' . $fetch_prd['tagging'] . '</th>';
+						} else if ($_SESSION['company'] == 'clutch') {
+							echo '<th class="th-custom" colspan="4">' . $fetch_prd['bu'] . '</th>';
+						} else {
+							echo '<th class="th-custom" colspan="4">' . $fetch_prd['header'] . '</th>';
+						}
+						?>
+					</tr>
+
 					<?php
-					if (isset($_SESSION['fname']))
-					{
-						echo $_SESSION['fname'];
+					if ($_SESSION['company'] == 'clutch') {
+						$lastencode_query = mysqli_query($conn, "SELECT * FROM dbosa WHERE code = '$code' ORDER BY dateprocessed DESC");
+						$last_maxcap_data = [];
+
+						while ($row_encode = mysqli_fetch_array($lastencode_query)) {
+							$last_maxcap_data[$row_encode['mdccode']] = $row_encode['maxcap'];
+						}
+						?>
+						<tr>
+							<th class="th-custom1 tbl-th-design">Description</th>
+							<th class="th-custom2 tbl-th-design">AVAIL</th>
+							<th class="th-custom3 tbl-th-design">OOS</th>
+							<th class="th-custom3 tbl-th-design">MAXCAP</th>
+							<!-- <th class="th-custom3 tbl-th-design">BU</th> -->
+						</tr>
+						<?php
+						$avail = 1;
+						$oos = 0;
+						while ($fetch_getprd = mysqli_fetch_array($getprd_query)) {
+							$mdc = $fetch_getprd['mdccode'];
+							$maxcap_value = isset($last_maxcap_data[$mdc]) ? $last_maxcap_data[$mdc] : 0;
+							?>
+							<tr class="tr-prd-list">
+								<td class="td-description"><?php echo $fetch_getprd['mdccode'] . ' - ' . $fetch_getprd['description']; ?></td>
+								<input type="hidden" name="mdccode[<?php echo $fetch_getprd['id']; ?>]"
+									value="<?php echo $fetch_getprd['mdccode']; ?>">
+								<td class="td-custom">
+									<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $avail; ?>" required>
+								</td>
+								<td class="td-custom">
+									<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $oos; ?>" required>
+								</td>
+								<td class="td-custom" style="width: 35px; height: 30px; max-width: 35px; overflow: hidden;">
+									<input type="number" name="maxcap[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $maxcap_value; ?>"
+										required>
+								</td>
+								<!-- <td class="td-description"><center><?php echo $fetch_getprd['bu']; ?></center></td> -->
+							</tr>
+							<?php
+						}
+					} else {
+						?>
+						<tr>
+							<th class="th-custom1 tbl-th-design">Description</th>
+							<th class="th-custom2 tbl-th-design">AVAILABLE</th>
+							<th class="th-custom3 tbl-th-design">OOS</th>
+						</tr>
+						<?php
+						$avail = 1;
+						$oos = 0;
+						while ($fetch_getprd = mysqli_fetch_array($getprd_query)) {
+							?>
+							<tr class="tr-prd-list">
+								<td class="td-description"><?php echo $fetch_getprd['mdccode'] . ' - ' . $fetch_getprd['description']; ?></td>
+								<input type="hidden" name="mdccode[<?php echo $fetch_getprd['id']; ?>]"
+									value="<?php echo $fetch_getprd['mdccode']; ?>">
+								<td class="td-custom">
+									<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $avail; ?>" required>
+								</td>
+								<td class="td-custom">
+									<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $oos; ?>" required>
+								</td>
+							</tr>
+							<?php
+						}
 					}
-					else
-					{
-						echo "Please Login.";
+							}
+						} elseif (($region == 'GMA' || $region == 'EXPANDED GMA') && ($usertype == 'bms' || $usertype == 'coor' || $usertype == 'rsm' || $usertype == 'reliever')) {
+
+							if (($header == 'SNAIL WHITE' || $header == 'OXECURE' || $header == 'SPARKLE' || $header == 'TRIZIE' || $header == 'SOLA' || $header == 'VITANATURE' || $header == 'TROPICANA' || $header == 'PROMO PACK')) {
+								// code...
+							} else {
+								if ($_SESSION['company'] == 'unilever') {
+									// $cluster_query = mysqli_query($conn,"SELECT * FROM census WHERE $usertype = '$username'"); #original code 05/06/2024
+									$cluster_query = mysqli_query($conn, "SELECT * FROM census WHERE code = '$brcode'");
+									$fetch_cluster = mysqli_fetch_array($cluster_query);
+
+									$cluster = $fetch_cluster['cluster'];
+									if ($cluster == 'o') {
+										$cluster = 'c';
+									} else {
+										$cluster = $fetch_cluster['cluster'];
+									}
+
+									$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE tagging='$tagging' AND company='$vendor' AND mcl='1' AND $size LIKE '%$cluster%' ORDER BY description ASC ");
+								} else if ($_SESSION['company'] == 'clutch') {
+									$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE bu='$bu' AND company='$vendor' AND mcl='1' AND storesize LIKE '%$size%' ORDER BY osaorder ASC ");
+								} else {
+									// $cluster_query = mysqli_query($conn,"SELECT * FROM census WHERE code = '$brcode'");
+									$getprd_query = mysqli_query($conn, "SELECT * FROM productlist WHERE tagging='$tagging' AND category='$header' AND company='$vendor' AND mcl='1' AND storesize LIKE '%$size%' ORDER BY osaorder ASC ");
+								}
+
+								$count = mysqli_num_rows($getprd_query);
+
+								if ($count >= 1)
+								// if ($count > 0)
+								{
+									?>
+						<tr>
+							<?php
+							if ($_SESSION['company'] == 'unilever') {
+								echo '<th class="th-custom" colspan="4">' . $fetch_prd['tagging'] . '</th>';
+							} else if ($_SESSION['company'] == 'clutch') {
+								echo '<th class="th-custom" colspan="4">' . $fetch_prd['bu'] . '</th>';
+							} else {
+								echo '<th class="th-custom" colspan="4">' . $fetch_prd['header'] . '</th>';
+							}
+							?>
+						</tr>
+
+						<?php
+						if ($_SESSION['company'] == 'clutch') {
+							$lastencode_query = mysqli_query($conn, "SELECT * FROM dbosa WHERE code = '$code' ORDER BY dateprocessed DESC");
+							$last_maxcap_data = [];
+
+							while ($row_encode = mysqli_fetch_array($lastencode_query)) {
+								$last_maxcap_data[$row_encode['mdccode']] = $row_encode['maxcap'];
+							}
+							?>
+							<tr>
+								<th class="th-custom1 tbl-th-design">Description</th>
+								<th class="th-custom2 tbl-th-design">AVAIL</th>
+								<th class="th-custom3 tbl-th-design">OOS</th>
+								<th class="th-custom3 tbl-th-design">MAXCAP</th>
+								<!-- <th class="th-custom3 tbl-th-design">BU</th> -->
+							</tr>
+							<?php
+							$avail = 1;
+							$oos = 0;
+							while ($fetch_getprd = mysqli_fetch_array($getprd_query)) {
+								$mdc = $fetch_getprd['mdccode'];
+								$maxcap_value = isset($last_maxcap_data[$mdc]) ? $last_maxcap_data[$mdc] : 0;
+								?>
+								<tr class="tr-prd-list">
+									<td class="td-description"><?php echo $fetch_getprd['mdccode'] . ' - ' . $fetch_getprd['description']; ?></td>
+									<input type="hidden" name="mdccode[<?php echo $fetch_getprd['id']; ?>]"
+										value="<?php echo $fetch_getprd['mdccode']; ?>">
+									<td class="td-custom">
+										<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $avail; ?>" required>
+									</td>
+									<td class="td-custom">
+										<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $oos; ?>" required>
+									</td>
+									<td class="td-custom" style="width: 35px; height: 30px; max-width: 35px; overflow: hidden;">
+										<input type="number" name="maxcap[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $maxcap_value; ?>"
+											required>
+									</td>
+									<!-- <td class="td-description"><center><?php echo $fetch_getprd['bu']; ?></center></td> -->
+								</tr>
+								<?php
+							}
+						} else {
+							?>
+							<tr>
+								<th class="th-custom1 tbl-th-design">Description</th>
+								<th class="th-custom2 tbl-th-design">AVAILABLE</th>
+								<th class="th-custom3 tbl-th-design">OOS</th>
+							</tr>
+							<?php
+							$avail = 1;
+							$oos = 0;
+							while ($fetch_getprd = mysqli_fetch_array($getprd_query)) {
+								?>
+								<tr class="tr-prd-list">
+									<td class="td-description"><?php echo $fetch_getprd['mdccode'] . ' - ' . $fetch_getprd['description']; ?></td>
+									<input type="hidden" name="mdccode[<?php echo $fetch_getprd['id']; ?>]"
+										value="<?php echo $fetch_getprd['mdccode']; ?>">
+									<td class="td-custom">
+										<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $avail; ?>" required>
+									</td>
+									<td class="td-custom">
+										<input type="radio" name="choice[<?php echo $fetch_getprd['id']; ?>]" value="<?php echo $oos; ?>" required>
+									</td>
+								</tr>
+								<?php
+							}
+						}
+								}
+							}
+						}
 					}
-					?></b>
-				</span>
-			</td>
+					?>
+		</table>
+		</td>
 		</tr>
-	</table>
+		<?php
+	}
+} else {
+	?>
+	<tr>
+		<td colspan="3" style="text-align: center;font-size: 5vw;color: #5a5a5a;">Please contact your administrator.</td>
+	</tr>
+	<tr>
+		<td class="tbl-form-td2" colspan="3"></td>
+	</tr>
+	<?php
+}
 
-	<!-- View Order Detail -->
-	<div class="div-bg">
-		<div class="div-form">
-			<form class="form-order-detail">
-				<table class="tbl-form-detail">
-					<tr>
-						<td class="tbl-form-detail-td1" colspan="4">
-							<button type="button" class="button-withBorder button-form-menu button-reopen" onclick="ReOpen();">Re-Open</button>
-							<button type="button" class="button-withBorder button-form-menu button-print" onclick="PrintFile();">Printed</button>
-							<button type="button" class="button-withBorder button-form-menu button-history">History</button>
-							<div class="div-history">
-								<div class="div-history-scroll">
-									<table class="tbl-history">
-										<tr>
-											<th class="tbl-history-th1">Name</th>
-											<th class="tbl-history-th2">Processed</th>
-											<th class="tbl-history-th3">Date and Time</th>
-										</tr>
-										<tbody class="tbody-history-list"></tbody>
-									</table>
-								</div>
-							</div>
-							<button type="button" class="button-withBorder button-style-form" onclick="CloseForm();">X Close</button>
-						</td>
-					</tr>
-					<tr>
-						<td class="tbl-form-detail-td2" colspan="4">
-							<table class="tbl-vendor-detail">
-								<tr>
-									<th class="tbl-vendor-detail-th1">Branch:</th>
-									<td class="tbl-vendor-detail-td1">
-										<input type="text" class="input-withBorder input-customer" disabled="disabled">
-									</td>
-									<th class="tbl-vendor-detail-th1">Company:</th>
-									<td class="tbl-vendor-detail-td1">
-										<input type="text" class="input-withBorder input-company" vcode="" disabled="disabled">
-									</td>
-								</tr>
-								<tr>
-									<th class="tbl-vendor-detail-th1">Email Date:</th>
-									<td class="tbl-vendor-detail-td1">
-										<input type="date" class="input-withBorder input-emaildate" disabled="disabled">
-									</td>
-									<th class="tbl-vendor-detail-th1">Issued By:</th>
-									<td class="tbl-vendor-detail-td1">
-										<input type="text" class="input-withBorder input-issued" disabled="disabled">
-									</td>
-								</tr>
-								<tr>
-									<th class="tbl-vendor-detail-th1">Prepared By:</th>
-									<td class="tbl-vendor-detail-td1">
-										<input type="text" class="input-withBorder input-prepared" disabled="disabled">
-									</td>
-								</tr>
-							</table>
-							<table class="tbl-reference">
-								<tr>
-									<th class="tbl-reference-th1">F325 #</th>
-									<td class="tbl-reference-td1">
-										<input type="text" class="input-withBorder input-ordernumber" disabled="disabled">
-									</td>
-								</tr>
-								<tr>
-									<th class="tbl-reference-th1">F325 Date</th>
-									<td class="tbl-reference-td1">
-										<input type="date" class="input-withBorder input-orderdate" value="" disabled="disabled">
-									</td>
-								</tr>
-								<tr>
-									<th class=" tbl-reference-th1">Status</th>
-									<td class="tbl-reference-td1">
-										<input type="text" class="input-withBorder input-status" value="" disabled="disabled">
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-					<tr>
-						<td class="tbl-form-detail-td3" colspan="4">
-							<div class="div-scroll">
-								<table class="tbl-order-detail">
-									<tr>
-										<th class="tbl-order-detail-th1">MDC Code</th>
-										<th class="tbl-order-detail-th2">Item Code</th>
-										<th class="tbl-order-detail-th3">Description</th>
-										<th class="tbl-order-detail-th9">BBD</th>
-										<th class="tbl-order-detail-th4">Reason Code</th>
-										<th class="tbl-order-detail-th5">Quantity</th>
-										<th class="tbl-order-detail-th6">UoM</th>
-										<th class="tbl-order-detail-th7">Unit Price</th>
-										<th class="tbl-order-detail-th8">Sub-Total</th>
-									</tr>
-									<tbody class="tbl-order-list"></tbody>
-								</table>
-							</div>
-						</td>
-					</tr>
-					<tr>
-						<td class="tbl-vendor-detail-td4"></td>
-						<td class="tbl-vendor-detail-td4"></td>
-						<td class="tbl-vendor-detail-td4 tbl-vendor-detail-remarks">
-							<table class="tbl-remarks">
-								<tr>
-									<th class="tbl-remarks-th1">Remarks :</th>
-									<td>
-										<textarea class="textarea-withBorder input-remarks"></textarea>
-									</td>
-								</tr>
-							</table>
-						</td>
-						<td class="tbl-vendor-detail-td4 tbl-vendor-detail-subtotal">
-							<table class="tbl-subtotal">
-								<tr>
-									<th class="tbl-subtotal-th1">Subtotal :</th>
-									<td class="tbl-subtotal-td1">
-										<input type="text" class="input-withBorder input-subtotal" disabled="disabled">
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-				</table>
-			</form>
-		</div>
-	</div>
+$conn->close();
+?>
+<script>
+	$(document).ready(function () {
+		$('input[name^="choice"]').change(function () {
+			var id = $(this).attr('name').match(/\d+/)[0];
+			if ($(this).val() == <?php echo $oos; ?>) {
+				$('input[name="option[' + id + ']"]').removeAttr('disabled');
+				$('input[name="option[' + id + ']"]').attr('required', 'required');
+			} else {
+				$('input[name="option[' + id + ']"]').attr('disabled', true).prop('checked', false);
+			}
+		});
 
-	<!-- notify alert -->
-	<span class="span-notify-alert"></span>
-</body>
-</html>
-<?php $conn->close(); ?>
+	});
+</script>
+
+<!-- <script>
+$(document).ready(function(){
+	// Disable all maxcap inputs by default
+	$('input[name^="maxcap"]').attr('disabled', true).removeAttr('required');
+
+	$('input[name^="choice"]').change(function() {
+		var id = $(this).attr('name').match(/\d+/)[0];
+		
+		if ($(this).val() == <?php echo $avail; ?>) {
+			// If available selected, enable and require maxcap input
+			$('input[name="maxcap[' + id + ']"]').removeAttr('disabled').attr('required', 'required');
+		} else {
+			// If oos selected, disable maxcap input and remove required
+			$('input[name="maxcap[' + id + ']"]').attr('disabled', true).removeAttr('required').val('');
+		}
+	});
+});
+</script> -->

@@ -139,7 +139,7 @@ function UpdateCompany() {
 
 function CheckAdmin() {
   $.ajax({
-    url: "users/checkadmin.php",
+    url: "user/checkadmin.php",
     success: function (response) {
       if (response == "admin") {
         $(".input-form-field").prop("disabled", false);
@@ -304,7 +304,7 @@ function NewUser() {
       }, 2000);
     },
     error: function () {
-      alert("Error: Failed to update user.");
+      alert("Error: Failed to add user.");
     },
   });
   return false;
@@ -426,17 +426,6 @@ function UpdateUser() {
   return false;
 }
 
-function _0x157f(_0x1eb003, _0x1e84c6) {
-  var _0x3b6337 = _0x3b63();
-  return (
-    (_0x157f = function (_0x157f04, _0x580e42) {
-      _0x157f04 = _0x157f04 - 0x109;
-      var _0x1cf8a2 = _0x3b6337[_0x157f04];
-      return _0x1cf8a2;
-    }),
-    _0x157f(_0x1eb003, _0x1e84c6)
-  );
-}
 function LoadLocation() {
   $.ajax({
     url: "location/listlocation.php",
@@ -449,359 +438,193 @@ function LoadLocation() {
 function UnloadLocation() {
   $(".div-load-data").html("");
   $(".tbl-button-menu-td").css("background-Color", "");
-  $(".some-element").hide();
+  $(".div-system-bg").hide();
 }
 
 function UpdateLocation() {
-  var _0x26b278 = _0x143b0a;
-  return (
-    $(_0x26b278(0x1bb))[_0x26b278(0x134)](function () {
-      var _0x30b4fa = _0x26b278,
-        _0x3cb0f9 = $(this)[_0x30b4fa(0x1b9)](_0x30b4fa(0x162)),
-        _0x4ba5b7 = $(this)[_0x30b4fa(0x141)](),
-        _0x3be2be = $(this)
-          [_0x30b4fa(0x19e)]("tr")
-          ["find"](_0x30b4fa(0x115))
-          [_0x30b4fa(0x141)]();
-      $[_0x30b4fa(0x168)]({
-        type: _0x30b4fa(0x114),
-        url: _0x30b4fa(0x1a5),
-        data: { id: _0x3cb0f9, value: _0x4ba5b7, active: _0x3be2be },
-        success: function () {},
-      });
-    }),
-    $(_0x26b278(0x1b0))[_0x26b278(0x149)](""),
-    $(_0x26b278(0x1b2))[_0x26b278(0x1b7)](_0x26b278(0x166), ""),
-    ![]
-  );
+  $(".input-location").each(function () {
+    var id = $(this).attr("locid");
+    var value = $(this).val();
+    var active = $(this)
+      .closest("tr")
+      .find(".input-checkbox-active")
+      .is(":checked")
+      ? 1
+      : 0;
+
+    $.ajax({
+      type: "POST",
+      url: "location/updatelocation.php",
+      data: {
+        id: id,
+        value: value,
+        active: active,
+      },
+      success: function () {
+        $(".span-notify-alert").html("Location updated successfully.").show();
+        $(".div-load-data").html("");
+        $(".span-notify-alert").css("background-color", "");
+        setTimeout(function () {
+          $(".span-notify-alert").fadeOut();
+        }, 2000);
+      },
+      error: function () {
+        alert("Error: Failed to update user.");
+      },
+    });
+  });
+
+  return false;
 }
+
 function ShowImport() {
   $(".div-import-bg").show();
   $(".div-import").show();
 }
 
 function CloseImport() {
-  var _0x23c130 = _0x143b0a;
-  $(_0x23c130(0x137))[_0x23c130(0x126)]();
+  $(".div-import-bg").hide();
 }
+
 function SelectFile() {
-  var _0xa72d23 = _0x143b0a;
-  $(".UploadCsvFile")[_0xa72d23(0x158)]();
+  $(".UploadCsvFile").click();
 }
+
 function FileLocation() {
-  var _0x1e0e58 = _0x143b0a,
-    _0x136e32 = $(".UploadCsvFile")["val"]();
-  $(_0x1e0e58(0x184))[_0x1e0e58(0x141)](_0x136e32);
+  var filePath = $(".UploadCsvFile").val();
+  $(".input-path").val(filePath);
 }
-var clear_timer;
+
+var clear_timer = 0;
+
 function UploadCSV() {
-  var _0x4d086e = _0x143b0a,
-    _0x593b29 = new FormData(),
-    _0x59405b = $(".UploadCsvFile")[0x0][_0x4d086e(0x182)][0x0];
-  return (
-    _0x593b29[_0x4d086e(0x176)](_0x4d086e(0x1bd), _0x59405b),
-    $[_0x4d086e(0x168)]({
-      type: _0x4d086e(0x114),
-      beforeSend: function () {
-        var _0x784e24 = _0x4d086e;
-        $(".select-datatype")[_0x784e24(0x193)](_0x784e24(0x139), !![]),
-          $(_0x784e24(0x122))[_0x784e24(0x193)](_0x784e24(0x139), !![]),
-          $(_0x784e24(0x184))[_0x784e24(0x193)](_0x784e24(0x139), !![]),
-          $(_0x784e24(0x13c))["prop"](_0x784e24(0x139), !![]),
-          $(_0x784e24(0x13e))[_0x784e24(0x193)](_0x784e24(0x139), !![]);
-        var _0x36854c = $(_0x784e24(0x122))[_0x784e24(0x141)]();
-        if (_0x36854c == "1") {
-          var _0x4af1b4 = $(_0x784e24(0x1c1))["val"]();
-          $[_0x784e24(0x168)]({
-            type: _0x784e24(0x114),
-            url: _0x784e24(0x1c3),
-            data: { dataType: _0x4af1b4 },
-            success: function () {},
+  var postData = new FormData();
+  var file = $(".UploadCsvFile")[0].files[0];
+  postData.append("file", file);
+
+  $.ajax({
+    type: "POST",
+    url: "upload/csvfile.php",
+    data: postData,
+    dataType: "json",
+    contentType: false,
+    cache: false,
+    processData: false,
+
+    beforeSend: function () {
+      $(".select-datatype").prop("disabled", true);
+      $(".select-process").prop("disabled", true);
+      $(".UploadCsvFile").prop("disabled", true);
+      $(".input-browse").prop("disabled", true);
+
+      var selectedValue = $(".select-process").val();
+      if (selectedValue === "1") {
+        var type = $(".select-datatype").val();
+        $.ajax({
+          type: "POST",
+          url: "upload/csvfile.php",
+          data: { dataType: type },
+          success: function () {
+            console.log("Data type saved successfully.");
+          },
+        });
+      }
+    },
+
+    success: function (status) {
+      setTimeout(function () {
+        if (status.success) {
+          $(".input-path").attr("value", status.filename);
+          window.totalLine = status.total_line;
+          Start_Import();
+          $(".div-loading-bar").show();
+          clear_timer = setInterval(count_import_data, 1000);
+        }
+
+        if (status.error) {
+          $(".error-message").text(status.error).show();
+          setTimeout(function () {
+            $(".error-message").hide();
+          }, 2000);
+
+          // Reset UI
+          $(".input-path").val("");
+          $(".UploadCsvFile").val("");
+          $(".select-datatype").prop("disabled", false);
+          $(".select-process").prop("disabled", false);
+          $(".input-browse").prop("disabled", false);
+
+          // Delete uploaded file if error occurred
+          $.ajax({
+            url: "upload/filedelete.php",
+            success: function () {
+              console.log("Temporary file deleted.");
+            },
           });
         }
-      },
-      url: _0x4d086e(0x1ac),
-      data: _0x593b29,
-      dataType: _0x4d086e(0x10f),
-      contentType: ![],
-      cache: ![],
-      processData: ![],
-      success: function (_0x2b293b) {
-        setTimeout(function () {
-          var _0x33b8c6 = _0x157f;
-          _0x2b293b["success"] &&
-            ($(_0x33b8c6(0x184))[_0x33b8c6(0x1b9)](
-              _0x33b8c6(0x18a),
-              _0x2b293b[_0x33b8c6(0x1b3)]
-            ),
-            Start_Import(),
-            $(_0x33b8c6(0x10e))["show"](),
-            (clear_timer = setInterval(count_import_data, 0x3e8))),
-            _0x2b293b[_0x33b8c6(0x16f)] &&
-              ($(_0x33b8c6(0x179))[_0x33b8c6(0x149)](
-                _0x2b293b[_0x33b8c6(0x16f)]
-              ),
-              $(_0x33b8c6(0x179))[_0x33b8c6(0x156)](),
-              setTimeout(function () {
-                var _0x3a4f5c = _0x33b8c6;
-                $(_0x3a4f5c(0x179))[_0x3a4f5c(0x126)]();
-              }, 0x7d0),
-              $(_0x33b8c6(0x184))[_0x33b8c6(0x141)](""),
-              $(_0x33b8c6(0x1be))["val"](""),
-              $(_0x33b8c6(0x1c1))["prop"](_0x33b8c6(0x139), ![]),
-              $(_0x33b8c6(0x122))[_0x33b8c6(0x193)](_0x33b8c6(0x139), ![]),
-              $(".input-path")[_0x33b8c6(0x193)](_0x33b8c6(0x139), ![]),
-              $(".input-browse")["prop"](_0x33b8c6(0x139), ![]),
-              $(_0x33b8c6(0x13e))[_0x33b8c6(0x193)](_0x33b8c6(0x139), ![]),
-              $[_0x33b8c6(0x168)]({
-                url: "upload/filedelete.php",
-                success: function () {},
-              }));
-        }, 0x7d0);
-      },
-    }),
-    ![]
-  );
-}
-function Start_Import() {
-  var _0x5a1a9b = _0x143b0a,
-    _0x325ec9 = $(_0x5a1a9b(0x1c1))["val"]();
-  $["ajax"]({
-    url: _0x5a1a9b(0x145) + _0x325ec9 + ".php",
-    success: function () {},
+      }, 2000);
+    },
+
+    error: function (xhr, status, err) {
+      console.error("UploadCSV AJAX error:", status, err);
+    },
   });
+
+  return false;
 }
-function _0x3b63() {
-  var _0x4367cd = [
-    ".input-maintenance-session",
-    "attr",
-    ".input-deduction:checked",
-    ".input-location",
-    ".input-admin:checked",
-    "file",
-    ".UploadCsvFile",
-    ".button-menu,.span-text-menu",
-    "user/index.php",
-    ".select-datatype",
-    ".input-borfapps:checked",
-    "upload/resetdb.php",
-    "maintenance/index.php",
-    "ready",
-    ".textarea-address",
-    "addnew",
-    ".input-loc8:checked",
-    ".tbl-import-form-td4",
-    "json",
-    ".input-comp4:checked",
-    "Change\x20successfully!",
-    "href",
-    ".input-username",
-    "POST",
-    ".input-checkbox-active:checked",
-    "bypass",
-    ".input-loc7:checked",
-    "width",
-    ".input-fname",
-    ".input-comp1:checked",
-    "user/updateuser.php",
-    ".input-payment:checked",
-    ".input-companyname",
-    ".div-menu-list",
-    ".img-icon",
-    "password",
-    "7PBHmWE",
-    ".select-process",
-    "344XAuTAv",
-    "Imported\x20successfully!",
-    "return\x20NewUser();",
-    "hide",
-    ".tbl-button-menu-td",
-    "nickname",
-    ".input-active:checked",
-    "2355150EHHzXW",
-    "company/loaddetail.php",
-    "location",
-    ".div-notify-bg",
-    "1976VfAjUk",
-    "session",
-    "parse",
-    ".input-loc1:checked",
-    "length",
-    ".input-",
-    "each",
-    ".input-loc9:checked",
-    ".input-comp7:checked",
-    ".div-import-bg",
-    ".input-referencecode",
-    "disabled",
-    ".input-report:checked",
-    ".textarea-msg",
-    ".input-browse",
-    ".select-company",
-    ".button-tableBottom-Style",
-    ".input-comp9:checked",
-    "upload/filedelete.php",
-    "val",
-    "Added\x20successfully!",
-    ".div-bg-change-password",
-    ".input-comp5:checked",
-    "upload/",
-    ".input-loc2:checked",
-    ".input-rts:checked",
-    "Update\x20successfully!",
-    "html",
-    ".input-maintenance-announcement",
-    "12148981VVCBgv",
-    ".input-comp10:checked",
-    ".input-import:checked",
-    "5jBIBSa",
-    ".input-password",
-    ".input-checkbox",
-    "maintenance/loadsetting.php",
-    "1242zPBYTv",
-    ".input-active",
-    "user",
-    ".input-form-field",
-    "show",
-    ".input-clearing:checked",
-    "click",
-    "3452hNFakF",
-    ".input-newpassword",
-    ".input-loc10:checked",
-    "mouseleave",
-    ".input-maintenance-session:checked",
-    "8478173phDSNC",
-    ".input-store:checked",
-    "370oPqlEP",
-    ".input-comp8:checked",
-    "locid",
-    "true",
-    ":checked",
-    "category",
-    "background-Color",
-    "company",
-    "ajax",
-    "lightgray",
-    "refcode",
-    ".input-loc4:checked",
-    ".input-semiadmin:checked",
-    "2817tfTBvO",
-    ".button-user-save",
-    "error",
-    "user/newuser.php",
-    ".input-deductdoc:checked",
-    ".input-print:checked",
-    "round",
-    "#5a5a5a",
-    "12gAjmdm",
-    "append",
-    ".input-comp2:checked",
-    "announcement",
-    ".span-notify-alert",
-    "toggle",
-    ".input-comp6:checked",
-    ".input-loc5:checked",
-    "upload/count.php",
-    ".select-list-company",
-    "user/changepassword.php",
-    ".input-paiddeduction:checked",
-    "fname",
-    "files",
-    "user/loaddetail.php",
-    ".input-path",
-    "checked",
-    ".input-loc3:checked",
-    ".tbody-list-location",
-    ".select-user",
-    "maintenance",
-    "totalline",
-    "user/checkadmin.php",
-    ".input-maintenance-id",
-    "mouseover",
-    ".input-maintenance-announcement:checked",
-    ".input-loc6:checked",
-    ".button-menu",
-    ".input-syssetting:checked",
-    "location/listlocation.php",
-    "prop",
-    ".form-user",
-    ".input-nickname",
-    "11068344YqDdEI",
-    "Update",
-    ".input-admin",
-    "maintenance/maintenanceupdate.php",
-    ".input-fordeduct:checked",
-    ".input-manual:checked",
-    "reload",
-    ".input-importdop:checked",
-    "closest",
-    "active",
-    ".input-schedule:checked",
-    ".span-text-menu",
-    ".input-vendorcode",
-    ".input-dmpiraw:checked",
-    "load",
-    "location/updatelocation.php",
-    ".input-pulloutdoc:checked",
-    "company/companylist.php",
-    "location/index.php",
-    "0.5",
-    ".div-loading-bar",
-    "target",
-    "upload/csvfile.php",
-    "onsubmit",
-    ".input-inventory:checked",
-    "formsetting",
-    ".div-load-data",
-    ".div-system-bg",
-    ".tbl-setting-td",
-    "total_line",
-    "vendorcode",
-    "mouseup",
-    ".input-bypass",
-    "css",
-  ];
-  _0x3b63 = function () {
-    return _0x4367cd;
-  };
-  return _0x3b63();
-}
-function count_import_data() {
-  var _0x16ad5e = _0x143b0a,
-    _0x1975da = $(".select-datatype")["val"]();
-  $[_0x16ad5e(0x168)]({
-    type: "POST",
-    url: _0x16ad5e(0x17d),
-    data: { dataType: _0x1975da },
-    success: function (_0x379e3f) {
-      var _0x62196e = _0x16ad5e,
-        _0x3a8d0f = $(_0x62196e(0x184))[_0x62196e(0x1b9)](_0x62196e(0x18a)),
-        _0x352cf3 = Math[_0x62196e(0x173)]((_0x379e3f / _0x3a8d0f) * 0x64);
-      $(_0x62196e(0x1aa))[_0x62196e(0x1b7)](_0x62196e(0x118), _0x352cf3 + "%"),
-        $(_0x62196e(0x1aa))[_0x62196e(0x149)](_0x352cf3 + "%"),
-        _0x352cf3 >= 0x64 &&
-          ($[_0x62196e(0x168)]({
-            url: _0x62196e(0x140),
-            success: function () {},
-          }),
-          clearInterval(clear_timer),
-          $(_0x62196e(0x179))[_0x62196e(0x149)](_0x62196e(0x124)),
-          $(_0x62196e(0x179))[_0x62196e(0x156)](),
-          setTimeout(function () {
-            var _0x7f6678 = _0x62196e;
-            $(".span-notify-alert")[_0x7f6678(0x126)]();
-          }, 0x7d0),
-          $(_0x62196e(0x184))["val"](""),
-          $(_0x62196e(0x1be))[_0x62196e(0x141)](""),
-          $(_0x62196e(0x1c1))[_0x62196e(0x193)]("disabled", ![]),
-          $(_0x62196e(0x122))[_0x62196e(0x193)]("disabled", ![]),
-          $(".input-path")[_0x62196e(0x193)]("disabled", ![]),
-          $(".input-browse")[_0x62196e(0x193)]("disabled", ![]),
-          $(_0x62196e(0x13e))[_0x62196e(0x193)](_0x62196e(0x139), ![]),
-          $(_0x62196e(0x10e))[_0x62196e(0x126)]());
+
+function Start_Import() {
+  var selectedType = $(".select-datatype").val();
+
+  $.ajax({
+    url: "upload/" + selectedType + ".php",
+    success: function () {
+      console.log("Import started for:", selectedType);
     },
   });
 }
+
+function count_import_data() {
+  var type = $(".select-datatype").val();
+
+  $.ajax({
+    type: "POST",
+    url: "upload/count.php",
+    data: { dataType: type },
+    success: function (totalrow) {
+      var totalLines = $("#total_line").val();
+      var progress = Math.round((totalrow / totalLines) * 100);
+      $(".div-loading-bar").css("width", progress + "%");
+      $(".div-loading-bar").text(progress + "%");
+      if (progress >= 100) {
+        $.ajax({
+          url: "upload/filedelete.php",
+          success: function () {
+            console.log("Temporary file deleted.");
+          },
+        });
+        clearInterval(clear_timer);
+        $(".span-notify-alert").text("Import Completed!").show();
+        setTimeout(function () {
+          $(".span-notify-alert").hide();
+        }, 2000);
+
+        // Reset input fields and buttons
+        $("#total_line").val("");
+        $(".select-datatype").val("");
+        $(".select-datatype").prop("disabled", false);
+        $(".input-browse").prop("disabled", false);
+        $(".button-importdata").prop("disabled", false);
+        $(".div-loading-bar").hide();
+      }
+    },
+    error: function (xhr, status, error) {
+      console.error("count_import_data AJAX error:", status, error);
+      console.log(xhr.responseText);
+    },
+  });
+}
+
 function ShowPassword() {
   var _0x5307ca = _0x143b0a;
   $(_0x5307ca(0x11e))["hide"](),
